@@ -337,7 +337,7 @@ table.tb th{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:v
     </div>
     <div class="pay"><span>Stripe</span><span>VISA</span><span>Mastercard</span><span>AMEX</span><span>PayPal</span><span>Apple Pay</span><span>Google Pay</span></div>
     <div class="legal">
-      © <span id="year"></span> DAZ Premium Fit® — <span data-i18n="tm">Marca registrada en EE. UU.</span> · Community16 LLC · 500 4th St NW, Suite 102 #1327, Albuquerque, NM 87102, USA
+      © <span id="year"></span> DAZ PREMIUM FIT® — <span data-i18n="tm">Marca registrada en la Oficina de Patentes y Marcas de EE. UU. (USPTO), Reg. Nº 8.056.872</span> · Community16 LLC · 500 4th St NW, Suite 102 #1327, Albuquerque, NM 87102, USA
     </div>
   </div>
 </footer>
@@ -351,7 +351,7 @@ table.tb th{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:v
 
 // ---------- TEXTOS EN LOS DOS IDIOMAS ----------
 const T = {
- es:{cart:'Carrito',shop:'Tienda',help:'Ayuda',legalT:'Legal',shipping:'Envíos',returns:'Devoluciones',sizeGuide:'Guía de tallas',contact:'Contacto',privacy:'Política de privacidad',terms:'Términos y condiciones',cookies:'Cookies',notice:'Aviso legal',tm:'Marca registrada en EE. UU.',
+ es:{cart:'Carrito',shop:'Tienda',help:'Ayuda',legalT:'Legal',shipping:'Envíos',returns:'Devoluciones',sizeGuide:'Guía de tallas',contact:'Contacto',privacy:'Política de privacidad',terms:'Términos y condiciones',cookies:'Cookies',notice:'Aviso legal',tm:'Marca registrada en la Oficina de Patentes y Marcas de EE. UU. (USPTO), Reg. Nº 8.056.872',
   footAbout:'Marca americana de rendimiento: ropa técnica, calzado, nutrición y asesoría privada.',
   heroK:'Nueva temporada', heroT:'Rendimiento<br>sin concesiones', heroP:'Ropa técnica, calzado de alto rendimiento, nutrición deportiva y asesoría privada. Diseñado para quienes entrenan en serio.',
   shopMen:'Comprar Hombre', shopWomen:'Comprar Mujer',
@@ -372,7 +372,7 @@ const T = {
   searchPh:'Buscar productos…', noLink:'Pago aún no activado para este producto.', demo:'Producto de ejemplo',
   journalT:'DAZ Journal', journalP:'Entrenamiento, hipertrofia y nutrición deportiva.', read:'Leer', soon:'Página en preparación.',
   serving:'Por ración', per100:'Por 100 g', sizeNote:'Tabla orientativa. Si estás entre dos tallas, elige la mayor.', chooseOpt:'Elige una opción'},
- en:{cart:'Bag',shop:'Shop',help:'Help',legalT:'Legal',shipping:'Shipping',returns:'Returns',sizeGuide:'Size guide',contact:'Contact',privacy:'Privacy policy',terms:'Terms & conditions',cookies:'Cookies',notice:'Legal notice',tm:'U.S. registered trademark.',
+ en:{cart:'Bag',shop:'Shop',help:'Help',legalT:'Legal',shipping:'Shipping',returns:'Returns',sizeGuide:'Size guide',contact:'Contact',privacy:'Privacy policy',terms:'Terms & conditions',cookies:'Cookies',notice:'Legal notice',tm:'Registered with the U.S. Patent and Trademark Office (USPTO), Reg. No. 8,056,872',
   footAbout:'American performance brand: technical apparel, footwear, nutrition and private coaching.',
   heroK:'New season', heroT:'Performance<br>without compromise', heroP:'Technical apparel, high-performance footwear, sports nutrition and private coaching. Built for people who train seriously.',
   shopMen:'Shop Men', shopWomen:'Shop Women',
@@ -651,8 +651,8 @@ function viewJournal(slug){
 
 // ---------- LA MARCA ----------
 function viewBrand(){
-  const es = ['DAZ Premium Fit es una marca registrada en Estados Unidos que une rendimiento deportivo y acabado de lujo.','Diseñamos ropa técnica, calzado, nutrición y programas de asesoría para atletas que exigen lo máximo a su cuerpo y a su equipación.','Nuestra filosofía es simple: la excelencia no es un momento, es un estilo de vida.'];
-  const en = ['DAZ Premium Fit is a U.S. registered trademark that unites athletic performance and a luxury finish.','We design technical apparel, footwear, nutrition and coaching programs for athletes who demand the most from their body and their gear.','Our philosophy is simple: excellence is not a moment, it is a lifestyle.'];
+  const es = ['DAZ Premium Fit es una marca registrada en Estados Unidos que une rendimiento deportivo y acabado de lujo.','Diseñamos ropa técnica, calzado, nutrición y programas de asesoría para atletas que exigen lo máximo a su cuerpo y a su equipación.','Nuestra filosofía es simple: la excelencia no es un momento, es un estilo de vida.','DAZ PREMIUM FIT® es una marca registrada en la Oficina de Patentes y Marcas de Estados Unidos (USPTO), registro Nº 8.056.872, propiedad de Community16 LLC (Nuevo México, EE. UU.).'];
+  const en = ['DAZ Premium Fit is a U.S. registered trademark that unites athletic performance and a luxury finish.','We design technical apparel, footwear, nutrition and coaching programs for athletes who demand the most from their body and their gear.','Our philosophy is simple: excellence is not a moment, it is a lifestyle.','DAZ PREMIUM FIT® is registered with the United States Patent and Trademark Office (USPTO), Reg. No. 8,056,872, owned by Community16 LLC (New Mexico, USA).'];
   return `<section class="blk-dark sec"><div class="wrap" style="text-align:center"><svg viewBox="0 0 100 112" width="90" height="100" style="margin:0 auto 14px"><use href="#hex"/></svg>
     <h1 class="h-serif" style="font-size:clamp(38px,7vw,76px)">${S.lang==='es'?'La Marca Americana':'The American Brand'}</h1></div></section>
     <div class="article">${(S.lang==='es'?es:en).map(p=>`<p>${p}</p>`).join('')}</div>${subsBox()}`;
