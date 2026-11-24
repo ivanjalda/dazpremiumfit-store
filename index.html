@@ -371,7 +371,7 @@ const T = {
   favs:'Favoritos', favEmpty:'Aún no tienes favoritos.', account:'Mi Cuenta', accountTxt:'Muy pronto podrás iniciar sesión para guardar tus Favoritos, tu historial de tallas y suplementos y el seguimiento de tus pedidos. Mientras tanto puedes comprar como invitado.',
   searchPh:'Buscar productos…', noLink:'Pago aún no activado para este producto.', demo:'Producto de ejemplo',
   journalT:'DAZ Journal', journalP:'Entrenamiento, hipertrofia y nutrición deportiva.', read:'Leer', soon:'Página en preparación.',
-  serving:'Por ración', per100:'Por 100 g', sizeNote:'Tabla orientativa. Si estás entre dos tallas, elige la mayor.'},
+  serving:'Por ración', per100:'Por 100 g', sizeNote:'Tabla orientativa. Si estás entre dos tallas, elige la mayor.', chooseOpt:'Elige una opción'},
  en:{cart:'Bag',shop:'Shop',help:'Help',legalT:'Legal',shipping:'Shipping',returns:'Returns',sizeGuide:'Size guide',contact:'Contact',privacy:'Privacy policy',terms:'Terms & conditions',cookies:'Cookies',notice:'Legal notice',tm:'U.S. registered trademark.',
   footAbout:'American performance brand: technical apparel, footwear, nutrition and private coaching.',
   heroK:'New season', heroT:'Performance<br>without compromise', heroP:'Technical apparel, high-performance footwear, sports nutrition and private coaching. Built for people who train seriously.',
@@ -392,7 +392,7 @@ const T = {
   favs:'Favorites', favEmpty:'No favorites yet.', account:'My Account', accountTxt:'Soon you’ll be able to sign in to save your Favorites, your size and supplement history and track your orders. Meanwhile you can check out as a guest.',
   searchPh:'Search products…', noLink:'Payment not yet active for this product.', demo:'Sample product',
   journalT:'DAZ Journal', journalP:'Training, hypertrophy and sports nutrition.', read:'Read', soon:'Page coming soon.',
-  serving:'Per serving', per100:'Per 100 g', sizeNote:'Approximate chart. If you are between sizes, choose the larger one.'}
+  serving:'Per serving', per100:'Per 100 g', sizeNote:'Approximate chart. If you are between sizes, choose the larger one.', chooseOpt:'Choose an option'}
 };
 
 // ---------- MENÚ Y SUBCATEGORÍAS ----------
@@ -421,6 +421,10 @@ const CATS = [
   ['proteinas-derivados','Proteínas & Derivados','Protein'],
   ['creatina-aminoacidos','Creatina & Aminoácidos','Creatine & Amino Acids'],
   ['suplementos-especificos','Suplementos Específicos','Specialty Supplements']]},
+ {id:'bienestar', es:'Bienestar & Cuidado', en:'Wellness & Care', subs:[
+  ['cuidado-personal','Cuidado Facial & Corporal','Skin & Body Care'],
+  ['cafe-bebidas','Café & Bebidas Funcionales','Coffee & Functional Drinks'],
+  ['mascotas','Cuidado de Mascotas','Pet Care']]},
  {id:'asesoria', es:'Asesoría VIP', en:'VIP Coaching', subs:[
   ['nutricion-entrenamiento-personal','Nutrición y Entrenamiento Personal','Personal Nutrition & Training']]},
  {id:'coleccion', es:'Colección & Estilo', en:'Collection & Style', subs:[
@@ -555,7 +559,7 @@ function viewCat(cid,sid,extra){
         <option value="rel" ${sort==='rel'?'selected':''}>${t('sRel')}</option>
         <option value="low" ${sort==='low'?'selected':''}>${t('sLow')}</option>
         <option value="high" ${sort==='high'?'selected':''}>${t('sHigh')}</option></select></div>
-    ${list.length?`<div class="grid">${list.map(card).join('')}</div>`:`<div class="empty">${t('empty')}</div>`}
+    ${list.length?`<div class="grid">${list.slice(0,60*(window.__pg||1)).map(card).join('')}</div>${list.length>60*(window.__pg||1)?`<div style="text-align:center;margin-top:24px"><button class="btn btn-black" onclick="window.__pg=(window.__pg||1)+1;route.keep=true;route()">${S.lang==='es'?'Ver más':'Load more'}</button></div>`:''}`:`<div class="empty">${t('empty')}</div>`}
     <div style="height:50px"></div></div>`;
 }
 
@@ -563,7 +567,7 @@ function viewCat(cid,sid,extra){
 let selSize = null;
 function viewProduct(id){
   const p = S.data.products.find(x=>x.id===id); if(!p) return viewHome();
-  selSize = null;
+  selSize = null; selOpts = (p.options||[]).map(o=>o.values.length===1?o.values[0]:null);
   const ph = photos(p); const n = Math.max(ph.length,1);
   const gal = Array.from({length:Math.min(n,5)},(_,i)=>`<div>${imgHTML(p,i)}</div>`).join('');
   const fav = S.favs.includes(p.id);
@@ -588,15 +592,15 @@ function viewProduct(id){
       <div class="buy">
         ${b}${p.demo?`<span class="kicker" style="color:var(--grey)">${t('demo')}</span>`:''}
         <h1>${esc(L(p,'name'))}</h1>
-        <div class="price">${money(p.price_usd)}${p.compare_at_usd?` <s style="color:var(--grey);font-weight:500;font-size:16px">${money(p.compare_at_usd)}</s>`:''}</div>
-        ${sizeBlock}
+        <div class="price" id="pdpPrice">${money(p.price_usd)}${p.compare_at_usd?` <s style="color:var(--grey);font-weight:500;font-size:16px">${money(p.compare_at_usd)}</s>`:''}</div>
+        ${sizeBlock}${optsHTML(p)}
         <div class="acts">
           <button class="btn btn-black btn-full" data-buy="${esc(p.id)}">${t('buyNow')}</button>
           <div class="row"><button class="btn btn-line btn-full" data-add="${esc(p.id)}">${t('addCart')}</button>
           <button class="fav-big ${fav?'on':''}" data-fav="${esc(p.id)}" aria-label="${t('favs')}"><svg viewBox="0 0 24 24"><path d="M12 21s-8-5-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 6-8 11-8 11z"/></svg></button></div>
         </div>
         <div class="acc" style="margin-top:26px">
-          <details open><summary>${t('desc')}</summary><div class="in">${esc(L(p,'desc'))}</div></details>
+          <details open><summary>${t('desc')}</summary><div class="in">${descHTML(p)}</div></details>
           ${specs.length?`<details><summary>${t('specs')}</summary><div class="in"><ul>${specs.map(s=>`<li>${esc(s)}</li>`).join('')}</ul></div></details>`:''}
           ${nutHTML}
           <details><summary>${t('ship')}</summary><div class="in">${t('shipTxt')}</div></details>
@@ -606,6 +610,31 @@ function viewProduct(id){
     ${related.length?`<section class="stack"><div class="wrap"><h2 class="h-serif">${isSupp?t('stackT'):t('kitT')}</h2><div class="rail">${related.map(card).join('')}</div></div></section>`:''}`;
 }
 
+function descHTML(p){
+  const d = p['desc_'+S.lang] || p.desc_es || '';
+  const arr = Array.isArray(d) ? d : [d];
+  return arr.map(x=>x.startsWith('• ')?`<div style="padding-left:12px">${esc(x)}</div>`:`<p style="margin:0 0 10px">${esc(x)}</p>`).join('');
+}
+// variante elegida según las opciones marcadas
+let selOpts = [];
+function curVariant(p){
+  const vs = p.variants||[];
+  if(!vs.length) return null;
+  if(!(p.options||[]).length) return vs[0];
+  return vs.find(v=>v.o.every((val,i)=>selOpts[i]===val)) || null;
+}
+function optsHTML(p){
+  const isShoe = p.category==='calzado';
+  return (p.options||[]).map((o,i)=>`<div class="lbl"><span>${esc(o['name_'+S.lang]||o.name_es)}</span>${isShoe&&i===0?`<button data-sizeconv>${t('sizeConv')}</button>`:''}</div>
+    <div class="sizes">${o.values.map(v=>`<button data-opt="${i}" data-val="${esc(v)}" class="${selOpts[i]===v?'on':''}">${esc(v)}</button>`).join('')}</div>`).join('');
+}
+function refreshBuy(p){
+  const v = curVariant(p);
+  const pr = v ? v.price_usd : p.price_usd, cmp = v ? v.compare_at_usd : p.compare_at_usd;
+  const el = document.getElementById('pdpPrice');
+  if(el) el.innerHTML = money(pr)+(cmp&&cmp>pr?` <s style="color:var(--grey);font-weight:500;font-size:16px">${money(cmp)}</s>`:'');
+  if(v && v.image){ const g=document.querySelector('.gal>div:first-child'); if(g) g.innerHTML=`<img src="${esc(v.image)}" alt="">`; }
+}
 // ---------- DAZ JOURNAL ----------
 function viewJournal(slug){
   if(slug){
@@ -638,10 +667,15 @@ function route(){
   else if(h[0]==='p') html = viewProduct(h[1]);
   else if(h[0]==='journal') html = viewJournal(h[1]);
   else if(h[0]==='legal') html = viewLegal(h[1]);
+  else if(h[0]==='gracias'){ S.cart=[]; store.set('cart',S.cart); counts();
+    html = `<section class="blk-dark sec"><div class="wrap" style="text-align:center"><svg viewBox="0 0 100 112" width="80" height="90" style="margin:0 auto 16px"><use href="#hex"/></svg>
+      <h1 class="h-serif" style="font-size:clamp(36px,6vw,64px)">${S.lang==='es'?'¡Gracias por tu compra!':'Thank you for your order!'}</h1>
+      <p style="color:#bbb;margin:14px auto 26px;max-width:520px">${S.lang==='es'?'Hemos recibido tu pedido. Te llegará un correo de confirmación con todos los detalles.':'We have received your order. You will get a confirmation email with all the details.'}</p>
+      <a class="btn btn-gold" href="#/">${S.lang==='es'?'Seguir comprando':'Keep shopping'}</a></div></section>`; }
   else html = viewHome();
   $('#app').innerHTML = html;
   $$('#topNav a').forEach(a=>a.classList.toggle('on', h[0]==='c' && a.dataset.c===h[1] || h[0]==='journal'&&a.dataset.c==='journal'));
-  closeAll(); window.scrollTo(0,0);
+  closeAll(); if(!route.keep) window.scrollTo(0,0); route.keep=false;
 }
 function buildMenus(){
   $('#topNav').innerHTML = CATS.map(c=>`<a data-c="${c.id}" href="${c.id==='journal'?'#/journal':'#/c/'+c.id}">${esc(c[S.lang])}</a>`).join('');
@@ -684,25 +718,32 @@ function toggleFav(id){
   store.set('favs',S.favs); counts();
   $$(`[data-fav="${CSS.escape(id)}"]`).forEach(b=>b.classList.toggle('on',S.favs.includes(id)));
 }
-function needSize(p){ if((p.sizes||[]).length && !selSize){toast(t('chooseSize'));return true} return false }
+function needSize(p){
+  if((p.sizes||[]).length && !selSize){toast(t('chooseSize'));return true}
+  if((p.options||[]).length && !curVariant(p)){toast(t('chooseOpt'));return true}
+  return false }
+function varLabel(p,vi){ const v=(p.variants||[])[vi]; return v&&v.o&&v.o.length?v.o.filter(Boolean).join(' / '):'' }
 function addCart(id){
   const p=S.data.products.find(x=>x.id===id); if(!p||needSize(p)) return;
-  const key=id+'|'+(selSize||''); const ex=S.cart.find(x=>x.k===key);
-  if(ex) ex.q++; else S.cart.push({k:key,id,size:selSize,q:1});
+  const v=curVariant(p); const vi=v?p.variants.indexOf(v):-1;
+  const key=id+'|'+(selSize||'')+'|'+vi; const ex=S.cart.find(x=>x.k===key);
+  if(ex) ex.q++; else S.cart.push({k:key,id,size:selSize,vi,q:1});
   store.set('cart',S.cart); counts(); renderCart(); toast(t('added'));
 }
-function payLink(p,size){
-  if(!p.stripe_link) return null;
-  // Stripe Payment Link: se envía la talla como referencia para preparar el pedido
-  const u = new URL(p.stripe_link);
+function payLink(p,size,vi){
+  const v=(p.variants||[])[vi];
+  const link=(v&&v.stripe_link)||p.stripe_link;
+  if(!link) return null;
+  // Enlace de pago de Stripe: se envía la talla como referencia para preparar el pedido
+  const u = new URL(link);
   if(size) u.searchParams.set('client_reference_id', (p.id+'_'+size).replace(/[^\w-]/g,'_'));
   u.searchParams.set('locale', S.lang);
   return u.toString();
 }
-function buyNow(id,size){
+function buyNow(id,size,vi){
   const p=S.data.products.find(x=>x.id===id); if(!p) return;
-  if(size===undefined){ if(needSize(p)) return; size=selSize }
-  const link=payLink(p,size);
+  if(size===undefined){ if(needSize(p)) return; size=selSize; const v=curVariant(p); vi=v?p.variants.indexOf(v):-1 }
+  const link=payLink(p,size,vi);
   if(!link){toast(t('noLink'));return}
   location.href=link;
 }
@@ -711,12 +752,12 @@ function renderCart(){
   let tot=0;
   const lines=S.cart.map((it,i)=>{
     const p=S.data.products.find(x=>x.id===it.id); if(!p) return '';
-    tot+=p.price_usd*it.q;
+    const vv=(p.variants||[])[it.vi]; const pr=vv?vv.price_usd:p.price_usd; tot+=pr*it.q;
     return `<div class="cart-line"><div class="th">${imgHTML(p)}</div><div>
-      <b>${esc(L(p,'name'))}</b><small>${it.size?t('size')+': '+esc(it.size)+' · ':''}${money(p.price_usd)}</small>
+      <b>${esc(L(p,'name'))}</b><small>${it.size?t('size')+': '+esc(it.size)+' · ':''}${varLabel(p,it.vi)?esc(varLabel(p,it.vi))+' · ':''}${money(pr)}</small>
       <div class="qty"><button data-q="${i}" data-d="-1">−</button>${it.q}<button data-q="${i}" data-d="1">+</button>
       <button class="mini" data-rm="${i}">${t('remove')}</button></div>
-      <button class="btn btn-black" style="height:38px;margin-top:10px;font-size:11px" data-paycart="${i}">${t('pay')} ${money(p.price_usd)}</button></div></div>`;
+      <button class="btn btn-black" style="height:38px;margin-top:10px;font-size:11px" data-paycart="${i}">${t('pay')} ${money(pr*it.q)}</button></div></div>`;
   }).join('');
   $('#cartBody').innerHTML = lines+`<div class="total"><span>${t('total')}</span><span>${money(tot)}</span></div><p class="note">${t('checkoutNote')}</p>`;
 }
@@ -739,7 +780,7 @@ function closeAll(){$$('.drawer').forEach(d=>d.classList.remove('open'));$('#mod
 // ---------- BUSCADOR ----------
 function doSearch(q){
   q=q.trim().toLowerCase();
-  const res = q.length<2?[]:live().filter(p=>[p.name_es,p.name_en,subName(p.category,p.subcategory),catName(p.category)].join(' ').toLowerCase().includes(q));
+  const res = q.length<2?[]:live().filter(p=>[p.name_es,p.name_en,subName(p.category,p.subcategory),catName(p.category),(p.tags||[]).join(' ')].join(' ').toLowerCase().includes(q));
   $('#searchRes').innerHTML = res.map(card).join('');
 }
 
@@ -753,7 +794,8 @@ document.addEventListener('click',e=>{
   if(d.size!==undefined){selSize=d.size;$$('[data-size]').forEach(b=>b.classList.toggle('on',b.dataset.size===selSize));return}
   if(d.add){addCart(d.add);return}
   if(d.buy){buyNow(d.buy);return}
-  if(d.paycart!==undefined){const it=S.cart[+d.paycart];buyNow(it.id,it.size);return}
+  if(d.paycart!==undefined){const it=S.cart[+d.paycart];buyNow(it.id,it.size,it.vi);return}
+  if(d.opt!==undefined){selOpts[+d.opt]=d.val;$$(`[data-opt="${d.opt}"]`).forEach(b=>b.classList.toggle('on',b.dataset.val===d.val));const p=S.data.products.find(x=>location.hash.endsWith('/'+x.id));if(p)refreshBuy(p);return}
   if(d.q!==undefined){const it=S.cart[+d.q];it.q=Math.max(1,it.q+ +d.d);store.set('cart',S.cart);renderCart();counts();return}
   if(d.rm!==undefined){S.cart.splice(+d.rm,1);store.set('cart',S.cart);renderCart();counts();return}
   if(d.sizeconv!==undefined){openModal(sizeConvHTML());return}
@@ -776,7 +818,7 @@ document.addEventListener('submit',e=>{
     $('#subOk').textContent=t('subOk'); e.target.reset();}
 });
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeAll()});
-window.addEventListener('hashchange',route);
+window.addEventListener('hashchange',()=>{window.__pg=1;route()});
 $('#year').textContent=new Date().getFullYear();
 
 // ---------- CARGA DE DATOS ----------
