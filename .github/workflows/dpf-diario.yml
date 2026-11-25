@@ -1,37 +1,8 @@
-name: DPF motor diario
-
+name: (antiguo) DPF diario — sustituido por "Tienda cada hora"
 on:
-  schedule:
-    - cron: "41 5 * * *"   # todos los días a las 06:41 en España (invierno)
-  workflow_dispatch:       # botón "Run workflow" para lanzarlo a mano
-
-permissions:
-  contents: write
-
-concurrency:
-  group: dpf-tienda
-  cancel-in-progress: false
-
+  workflow_dispatch:
 jobs:
-  motor:
+  nada:
     runs-on: ubuntu-latest
-    env:
-      STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
     steps:
-      - uses: actions/checkout@v5
-      - uses: actions/setup-python@v6
-        with:
-          python-version: "3.12"
-
-      - name: 1. Botones de pago de Stripe
-        run: python scripts/dpf_stripe_links.py
-
-      - name: 2. Guardar cambios
-        run: |
-          git config user.name "dpf-bot"
-          git config user.email "dpf-bot@users.noreply.github.com"
-          git add -A data
-          git diff --cached --quiet && exit 0
-          git commit -m "Motor diario DPF: catálogo y pagos actualizados"
-          git pull --rebase -q || true
-          git push
+      - run: echo "Este proceso antiguo está apagado. Ahora lo hace todo 'Tienda cada hora'."
