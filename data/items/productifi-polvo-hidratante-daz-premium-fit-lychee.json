@@ -1,0 +1,53 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-polvo-hidratante-daz-premium-fit-lychee",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/3626e1076831dc2ef3f5.jpg",
+  "assets/products/shop/fe699bea6a91447f6b86.jpg",
+  "assets/products/shop/5ee0c566e48213c1639a.jpg",
+  "assets/products/shop/85b864d8af93ff8ba059.jpg",
+  "assets/products/shop/5f439cb49fb80099be1f.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095432-lactose-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095715-hormone-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100059-antibiotic-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100829-no-fillers-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124358-vegan.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20240131131838-alcohol-free.png"
+ ],
+ "draft": false,
+ "fam": "polvo-hidratante-premium",
+ "hidden": false,
+ "id": "productifi-polvo-hidratante-daz-premium-fit-lychee",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Polvo Hidratante Daz Supplement",
+ "name_es": "Suplemento Polvo Hidratante Daz",
+ "needs_review": false,
+ "price_usd": 33.99,
+ "rank": 51,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Casa y jardín > Jardín > Jardinería > Hidropónicos > Nutrientes y suplementos > Suplementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Polvo hidratante DAZ Premium Fit (Lychee)",
+ "supplier": "Productifi",
+ "supplier_id": "polvo-hidratante-daz-premium-fit-lychee",
+ "visual_verified": true
+}

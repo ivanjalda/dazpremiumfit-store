@@ -1,0 +1,50 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-energy-powder-daz-premium-fit-yuzu-flavor",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "assets/products/shop/a345b1d15e7ffc8e4fd2.jpg",
+  "assets/products/shop/918aeec75163a41d5aab.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095432-lactose-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095715-hormone-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100059-antibiotic-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100829-no-fillers-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124358-vegan.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20240131131838-alcohol-free.png"
+ ],
+ "draft": false,
+ "fam": "energy-powder-premium",
+ "hidden": false,
+ "id": "productifi-energy-powder-daz-premium-fit-yuzu-flavor",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Energy Powder Daz Supplement",
+ "name_es": "Suplemento Energy Powder Daz",
+ "needs_review": false,
+ "price_usd": 30.99,
+ "rank": 66,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Alimentación, bebida y tabaco > Bebidas > Bebidas isotónicas y energéticas > Bebidas energéticas",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Energy Powder DAZ Premium Fit (Yuzu Flavor)",
+ "supplier": "Productifi",
+ "supplier_id": "energy-powder-daz-premium-fit-yuzu-flavor",
+ "visual_verified": true
+}

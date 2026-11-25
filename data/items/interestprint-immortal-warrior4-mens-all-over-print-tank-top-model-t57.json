@@ -1,0 +1,51 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta"
+ ],
+ "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/a27a7ad2113e90e83b04.jpg",
+  "assets/products/shop/0df1429111b68e2c48df.jpg",
+  "assets/products/shop/30354f65073d4d50ff60.jpg",
+  "assets/products/shop/68bd990dcb74ba30af6a.jpg",
+  "assets/products/shop/d4f126f0edd125ae4d3e.jpg"
+ ],
+ "draft": false,
+ "fam": "premium-fit-immortal",
+ "hidden": false,
+ "id": "interestprint-immortal-warrior4-mens-all-over-print-tank-top-model-t57",
+ "look": [
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
+  "printful-pantalon-de-chandal-unisex",
+  "productifi-cafe-mezcla-brasilena-16oz"
+ ],
+ "material": "",
+ "name_en": "Daz Immortal Warrior Tee",
+ "name_es": "Camiseta Daz Immortal Warrior",
+ "needs_review": false,
+ "price_usd": 22.99,
+ "rank": 14,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Camisetas sin mangas",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "XXL"
+ ],
+ "source_title": "DAZ Premium Fit Immortal Warrior 144 Blanca | Camiseta de tirantes de hombre",
+ "supplier": "InterestPrint",
+ "supplier_id": "immortal-warrior4-mens-all-over-print-tank-top-model-t57",
+ "visual_verified": true
+}

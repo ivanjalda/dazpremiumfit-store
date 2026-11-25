@@ -1,0 +1,53 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/falda"
+ ],
+ "cg": "t-daz-premium-fit-plume-falda-deportiva-de-cintura-alta",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "assets/products/shop/b7e1df5a3e4d81675d76.jpg",
+  "assets/products/shop/1e0cdd9ab53befaeb57c.jpg",
+  "assets/products/shop/8fe57244288cefb5d29c.jpg",
+  "https://ipimg.interestprint.com/data/product/5385/info/image/20260320/EA71AD88BBC22488B2E34DD606709520.png"
+ ],
+ "draft": false,
+ "fam": "premium-fit-plume",
+ "hidden": false,
+ "id": "interestprint-design-womens-high-waist-layered-sport-skirt",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Daz Plume Deportiva Skirt",
+ "name_es": "Falda Daz Plume Deportiva",
+ "needs_review": false,
+ "price_usd": 22.99,
+ "rank": 7,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Faldas pantalón",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL"
+ ],
+ "source_title": "DAZ Premium Fit Plume | Falda deportiva de cintura alta",
+ "supplier": "InterestPrint",
+ "supplier_id": "design-womens-high-waist-layered-sport-skirt",
+ "visual_verified": true
+}

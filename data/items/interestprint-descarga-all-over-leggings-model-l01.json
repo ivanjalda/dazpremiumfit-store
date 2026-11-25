@@ -1,0 +1,53 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/leggings"
+ ],
+ "cg": "t-dpf-smoke-leggings-estampados",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/022411077f16167d2ae7.jpg",
+  "assets/products/shop/4171d6d7e71278f5570d.jpg",
+  "assets/products/shop/5c467f79e6945bdf29c9.jpg",
+  "assets/products/shop/d55a7855a30ba08556b6.jpg"
+ ],
+ "draft": false,
+ "fam": "smoke-leggings-estampados",
+ "hidden": false,
+ "id": "interestprint-descarga-all-over-leggings-model-l01",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Smoke Estampados Leggings",
+ "name_es": "Leggings Smoke Estampados",
+ "needs_review": false,
+ "price_usd": 37.99,
+ "rank": 61,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "XXL",
+  "XXXL"
+ ],
+ "source_title": "DPF Smoke | Leggings estampados",
+ "supplier": "InterestPrint",
+ "supplier_id": "descarga-all-over-leggings-model-l01",
+ "visual_verified": true
+}

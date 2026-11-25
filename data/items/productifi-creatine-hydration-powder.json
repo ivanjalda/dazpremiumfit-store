@@ -1,0 +1,48 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-creatine-hydration-powder-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "assets/products/shop/8781a2d359c409cae09c.jpg",
+  "assets/products/shop/7b17c9c08386cc34fbfb.jpg",
+  "https://cdn.sanity.io/images/g0smbdlu/production/4c36cdfa54b26cb4291c359dc2cd7910d868f8ae-125x181.png",
+  "https://cdn.sanity.io/images/g0smbdlu/production/cc4066d915d42e195ee9cf5bbce01a99f006af1e-126x181.png",
+  "https://cdn.sanity.io/images/g0smbdlu/production/f7e562d6bb212503da89f944a0d799171e6d48fe-125x181.png",
+  "https://cdn.sanity.io/images/g0smbdlu/production/f99540cc3d3f192a68004f4518d57b0cd7c27aa7-125x181.png",
+  "https://cdn.sanity.io/images/g0smbdlu/production/e2132e2f64f15727e375c7aa509fedd7bdcf1ae8-126x182.png",
+  "https://cdn.sanity.io/images/g0smbdlu/production/cdfc952372e17b0816769aa917a3edb008f07af3-126x182.png",
+  "https://cdn.sanity.io/images/g0smbdlu/production/f93763bb9461b74b7de33e8e8dcb0a1a2a352b2d-124x180.png"
+ ],
+ "draft": false,
+ "fam": "creatine-hydration-powder",
+ "hidden": false,
+ "id": "productifi-creatine-hydration-powder",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Creatine Hydration Powder Creatine",
+ "name_es": "Creatina Creatine Hydration Powder",
+ "needs_review": false,
+ "price_usd": 27.99,
+ "rank": 47,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Creatina",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Creatine Hydration Powder DAZ Premium Fit",
+ "supplier": "Productifi",
+ "supplier_id": "creatine-hydration-powder",
+ "visual_verified": true
+}

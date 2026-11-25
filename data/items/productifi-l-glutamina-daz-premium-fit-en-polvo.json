@@ -1,0 +1,45 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-l-glutamina-daz-premium-fit-en-polvo",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/fe37b9d16bd7d81a8cc4.jpg",
+  "assets/products/shop/1607329556bac6ec1fef.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100829-no-fillers-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124358-vegan.png"
+ ],
+ "draft": false,
+ "fam": "l-glutamina-premium",
+ "hidden": false,
+ "id": "productifi-l-glutamina-daz-premium-fit-en-polvo",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Glutamina Daz Polvo Amino Acids",
+ "name_es": "Aminoácidos Glutamina Daz Polvo",
+ "needs_review": false,
+ "price_usd": 29.99,
+ "rank": 70,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "L-Glutamina DAZ Premium Fit en Polvo",
+ "supplier": "Productifi",
+ "supplier_id": "l-glutamina-daz-premium-fit-en-polvo",
+ "visual_verified": true
+}

@@ -1,0 +1,56 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/leggings"
+ ],
+ "cg": "t-dpf-rebel-hearts-leggings-con-bolsillos",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/2cb3242f66ac1e8833ee.jpg",
+  "assets/products/shop/a32854ed32dc3ce1e90e.jpg",
+  "assets/products/shop/ebaf2d0c1335ea68c9ea.jpg",
+  "assets/products/shop/285a635164227a569791.jpg",
+  "assets/products/shop/6a77c7b16d39509f66ce.jpg"
+ ],
+ "draft": false,
+ "fam": "rebel-hearts-leggings",
+ "hidden": false,
+ "id": "interestprint-descarga-55-womens-high-waist-pockets-yoga-leggings",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Rebel Hearts Bolsillos Leggings",
+ "name_es": "Leggings Rebel Hearts Bolsillos",
+ "needs_review": false,
+ "price_usd": 26.99,
+ "rank": 24,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "DPF Rebel Hearts | Leggings con bolsillos",
+ "supplier": "InterestPrint",
+ "supplier_id": "descarga-55-womens-high-waist-pockets-yoga-leggings",
+ "visual_verified": true
+}

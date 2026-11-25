@@ -1,0 +1,51 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/leggings"
+ ],
+ "cg": "t-dpf-citron-leggings-de-cintura-alta",
+ "color": "Verde",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "assets/products/shop/5412e77dd6bbb0074eb3.jpg",
+  "assets/products/shop/48a565bccba864387933.jpg",
+  "assets/products/shop/f525d3d5d37ff7a75626.jpg",
+  "assets/products/shop/f9639fe1893a6fd21a51.jpg"
+ ],
+ "draft": false,
+ "fam": "citron-leggings-cintura",
+ "hidden": false,
+ "id": "interestprint-design-custom-womens-high-waist-legging-1",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Citron Cintura Alta Leggings",
+ "name_es": "Leggings Citron Cintura Alta",
+ "needs_review": false,
+ "price_usd": 21.99,
+ "rank": 3,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "source_title": "DPF Citron | Leggings de cintura alta",
+ "supplier": "InterestPrint",
+ "supplier_id": "design-custom-womens-high-waist-legging-1",
+ "visual_verified": true
+}

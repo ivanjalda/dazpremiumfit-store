@@ -1,0 +1,55 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/ropa-interior"
+ ],
+ "cg": "t-dpf-amethyste-top-deportivo-de-espalda-cruzada",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/950259c02138d3e5d32e.jpg",
+  "assets/products/shop/f41b876c2d553753c374.jpg",
+  "assets/products/shop/a0479fdf02239375cbf4.jpg",
+  "http://ipimg.interestprint.com/data/product/5212/info/image/20260126/D692082BF2B0D0EFE207F9979EFB7289.png"
+ ],
+ "draft": false,
+ "fam": "amethyste-top-deportivo",
+ "hidden": false,
+ "id": "interestprint-derfrfjj-cross-back-sports-bra",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Améthyste Deportivo Espalda Underwear",
+ "name_es": "Ropa Interior Améthyste Deportivo Espalda",
+ "needs_review": false,
+ "price_usd": 26.99,
+ "rank": 34,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Tops cortos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "DPF Améthyste | Top deportivo de espalda cruzada",
+ "supplier": "InterestPrint",
+ "supplier_id": "derfrfjj-cross-back-sports-bra",
+ "visual_verified": true
+}

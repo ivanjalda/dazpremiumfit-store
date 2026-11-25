@@ -1,0 +1,43 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/d91ed872bc0e371daa61.jpg",
+  "assets/products/shop/9d83eac30f46dd1efc65.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png"
+ ],
+ "draft": false,
+ "fam": "polvo-peptidos-colageno",
+ "hidden": false,
+ "id": "productifi-polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Polvo Péptidos Colágeno Collagen",
+ "name_es": "Colágeno Polvo Péptidos Colágeno",
+ "needs_review": false,
+ "price_usd": 34.99,
+ "rank": 113,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Polvo de péptidos de colágeno DAZ Premium Fit alimentados con pasto (chocolate)",
+ "supplier": "Productifi",
+ "supplier_id": "polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
+ "visual_verified": true
+}

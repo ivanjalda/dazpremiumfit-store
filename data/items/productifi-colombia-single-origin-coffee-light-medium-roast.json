@@ -1,0 +1,58 @@
+{
+ "ai_color": "Marrón",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Café de origen único",
+ "ai_type": "Café",
+ "ai_ver": 2,
+ "art_note": "Clean studio renders of packaging, adequate product representation but standard mockup appearance.",
+ "art_score": 6,
+ "audited": "2026-11-25",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta"
+ ],
+ "cg": "t-cafe-daz-colombia-de-origen-unico-tostado-ligero-medio",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Discover the quintessence of single-origin Colombian coffee. This light to medium roast delivers a smooth yet complex experience, defined by a crisp acidity and subtle sweetness. Tasting notes evoke nuances of cooked molasses, cocoa, citrus, and melon. Crafted to elevate your morning ritual, each batch is roasted in the USA to ensure exceptional freshness in every cup. Available in whole bean or ground.",
+ "desc_es": "Descubra la quintaesencia del origen único de Colombia. Este tueste ligero a medio revela una experiencia suave pero compleja, caracterizada por una acidez crujiente y un sutil dulzor. Sus notas de cata evocan matices de melaza cocida, cacao, cítricos y melón. Diseñado para elevar su ritual matutino, cada paquete es tostado en los Estados Unidos para garantizar una frescura excepcional en cada taza. Disponible en grano entero o molido.",
+ "details_en": "· Size: 12oz (340g)\n· Light-medium roast\n· Growing region: South America\n· Roasted in USA\n· Made to order and available with worldwide shipping",
+ "details_es": "· Tamaño: 12oz (340g)\n· Tostado medio-ligero\n· Región en crecimiento: América del Sur\n· Tostado en EE. UU.\n· Hecho a pedido y disponible con envío mundial",
+ "display_images": [
+  "assets/products/shop/13382b822f9214c50338.jpg",
+  "assets/products/shop/da9c94ba0c16a2ec6d3c.jpg",
+  "assets/products/shop/27318ba1d84afaa7480a.jpg"
+ ],
+ "draft": true,
+ "fam": "cafe-colombia-origen",
+ "hidden": false,
+ "id": "productifi-colombia-single-origin-coffee-light-medium-roast",
+ "look": [
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
+  "printful-pantalon-de-chandal-unisex",
+  "productifi-cafe-mezcla-brasilena-16oz"
+ ],
+ "material": "",
+ "name_en": "Colombia Single Origin Coffee",
+ "name_es": "Café Origen Único Colombia",
+ "needs_review": true,
+ "needs_studio": true,
+ "price_usd": 34.99,
+ "rank": 285,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Alimentación, bebida y tabaco > Bebidas > Café",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "12oz"
+ ],
+ "source_title": "Café DAZ Colombia de Origen Único (Tostado Ligero-Medio)",
+ "supplier": "Productifi",
+ "supplier_id": "colombia-single-origin-coffee-light-medium-roast",
+ "visual_verified": true
+}

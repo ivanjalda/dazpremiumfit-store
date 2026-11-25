@@ -1,0 +1,44 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-peptidos-de-colageno-hidrolizados-daz-premium-fit-alimentados-con-pasto",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/73748f33b646caa9c5f7.jpg",
+  "assets/products/shop/77b71384b4772218a8d6.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095432-lactose-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206101002-corn-free-2x.png"
+ ],
+ "draft": false,
+ "fam": "peptidos-colageno-hidrolizados",
+ "hidden": false,
+ "id": "productifi-peptidos-de-colageno-hidrolizados-daz-premium-fit-alimentados-con-pasto",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Péptidos Colágeno Collagen",
+ "name_es": "Colágeno Péptidos Colágeno",
+ "needs_review": false,
+ "price_usd": 35.99,
+ "rank": 58,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Sin categoría",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Péptidos de colágeno hidrolizados DAZ Premium Fit alimentados con pasto",
+ "supplier": "Productifi",
+ "supplier_id": "peptidos-de-colageno-hidrolizados-daz-premium-fit-alimentados-con-pasto",
+ "visual_verified": true
+}

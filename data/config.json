@@ -15,8 +15,8 @@
   },
   "fx": {
     "base": "USD",
-    "EUR": 0.92,
-    "updated": "2026-11-19"
+    "EUR": 0.9145,
+    "updated": "2026-11-25"
   },
   "pricing": {
     "default_markup": 2.6,
@@ -247,8 +247,9 @@
   "pages_url": "https://ivanjalda.github.io/dazpremiumfit-store",
   "ai": {
     "model": "gemini-2.5-flash-lite",
-    "enrich_per_run": 60,
-    "pause_seconds": 5
+    "enrich_per_run": 150,
+    "pause_seconds": 5,
+    "minutes_per_run": 20
   },
   "shopify_import": {
     "currency": "USD",
@@ -264,7 +265,7 @@
   },
   "guard": {
     "image_checks_per_run": 60,
-    "ai_audit_per_run": 10
+    "ai_audit_per_run": 20
   },
   "design_studio": {
     "designs_per_day": 0
@@ -272,5 +273,14 @@
   "meta_publisher": {
     "enabled": false
   },
-  "_nota": "Cuando dazpremiumfit.com deje Shopify y apunte aquí, poner domain = dazpremiumfit.com"
+  "_nota": "Cuando dazpremiumfit.com deje Shopify y apunte aquí, poner domain = dazpremiumfit.com",
+  "migr_cls3": true,
+  "migr_cls2": true,
+  "studio": {
+    "enabled": true,
+    "per_run": 12,
+    "model": "gemini-2.5-flash-image",
+    "blocked_on": "2026-11-25",
+    "blocked_reason": "bloqueado: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://a"
+  }
 }

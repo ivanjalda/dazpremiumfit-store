@@ -1,0 +1,46 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-suplemento-de-electrolitos-ion-select-daz-premium-fit-g-oz",
+ "color": "Black jar + lid",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/022e12837e3ae2cd4047.jpg",
+  "assets/products/shop/8e7a26a8280bb7911123.jpg",
+  "assets/products/shop/b53d526260b9b32dfa4d.jpg",
+  "assets/products/shop/15e8cd24ac9b03ea98e2.jpg",
+  "assets/products/shop/1bb59acffe525dfe1f71.jpg",
+  "assets/products/shop/b1da4bc3fe65f547eb24.jpg"
+ ],
+ "draft": false,
+ "fam": "suplemento-electrolitos-ion",
+ "hidden": false,
+ "id": "productifi-suplemento-de-electrolitos-ion-select-daz-premium-fit-225-g-7-9-oz",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Suplemento Electrolitos Ion Electrolytes · Black",
+ "name_es": "Electrolitos Suplemento Electrolitos Ion · Negro",
+ "needs_review": false,
+ "price_usd": 34.99,
+ "rank": 96,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "NET WT 7.94 OZ (225g)"
+ ],
+ "source_title": "Suplemento de electrolitos ION+ Select DAZ Premium Fit (225 g, 7,9 oz)",
+ "supplier": "Productifi",
+ "supplier_id": "suplemento-de-electrolitos-ion-select-daz-premium-fit-225-g-7-9-oz",
+ "visual_verified": true
+}

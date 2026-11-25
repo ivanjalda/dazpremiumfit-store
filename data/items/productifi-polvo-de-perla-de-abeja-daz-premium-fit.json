@@ -1,0 +1,55 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "supplement",
+ "ai_ver": 2,
+ "art_note": "Standard product packaging shot with clean lighting, lacks high-end lifestyle context.",
+ "art_score": 5,
+ "audited": "2026-11-25",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-polvo-de-perla-de-abeja-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Bee Pearl Powder is a smoothie additive composed of concentrated bee bread, propolis, and royal jelly. Each box contains 30 easy-to-use sachets designed to complement your daily routine. Bee bread offers a blend of pollen, nectar, and enzymes. Royal jelly contains vitamins and minerals, including unique glycoproteins. Add the powder to yogurt, smoothies, or cereals. One sachet daily provides vitamins, microelements, unsaturated fatty acids, polyphenols, and antioxidants. Available for worldwide shipping with made-to-order pieces.",
+ "desc_es": "Bee Pearl Powder es un aditivo para batidos compuesto por pan de abeja concentrado, propóleo y jalea real. Cada caja contiene 30 sobres fáciles de usar diseñados para complementar su rutina diaria. El pan de abeja ofrece una mezcla de polen, néctar y enzimas. La jalea real contiene vitaminas y minerales, incluyendo glicoproteínas únicas. Agregue el polvo al yogur, batidos o cereales. Un sobre al día proporciona vitaminas, microelementos, ácidos grasos insaturados, polifenoles y antioxidantes. Disponible para envío a todo el mundo con pedidos hechos a medida.",
+ "details_en": "· Freeze-dried bee bread extract, lyophilized royal jelly, propolis extract powder, vitamin C\n· 30 sachets per box\n· Gross weight 0.3 lb (136 g)\n· Store in a cool, dry place\n· Made to order with worldwide shipping",
+ "details_es": "· Extracto liofilizado de pan de abeja, jalea real liofilizada, extracto de propóleo en polvo, vitamina C\n· 30 sobres por caja\n· Peso bruto de 0,3 lb (136 g)\n· Guardar en un lugar fresco y seco\n· Hecho a medida y con envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/6d77d12b98da0c2e73a6.jpg",
+  "assets/products/shop/cbf4b09a7a96263ebe2e.jpg"
+ ],
+ "draft": true,
+ "fam": "polvo-perla-abeja",
+ "hidden": false,
+ "id": "productifi-polvo-de-perla-de-abeja-daz-premium-fit",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Bee Pearl Powder",
+ "name_es": "Polvo de Perla de Abeja",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 34.99,
+ "rank": 297,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Sin categoría",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Polvo de perla de abeja DAZ Premium Fit",
+ "supplier": "Productifi",
+ "supplier_id": "polvo-de-perla-de-abeja-daz-premium-fit",
+ "visual_verified": true
+}

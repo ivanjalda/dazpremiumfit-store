@@ -1,0 +1,52 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/leggings"
+ ],
+ "cg": "t-dpf-wire-leggings-de-cintura-alta",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/00580f69581729d91c2b.jpg",
+  "assets/products/shop/fb81b926e81d1518b2ea.jpg",
+  "assets/products/shop/b6ccc326d7b153458b84.jpg",
+  "assets/products/shop/9ce35d5fe7a2ca1a5e13.jpg",
+  "assets/products/shop/055138194d79fea5bd93.jpg"
+ ],
+ "draft": false,
+ "fam": "wire-leggings-cintura",
+ "hidden": false,
+ "id": "interestprint-descarga-63-womens-high-waisted-leggings-model-l36",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Wire Cintura Alta Leggings · Red",
+ "name_es": "Leggings Wire Cintura Alta · Rojo",
+ "needs_review": false,
+ "price_usd": 40.99,
+ "rank": 55,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "source_title": "DPF Red Wire | Leggings de cintura alta",
+ "supplier": "InterestPrint",
+ "supplier_id": "descarga-63-womens-high-waisted-leggings-model-l36",
+ "visual_verified": true
+}

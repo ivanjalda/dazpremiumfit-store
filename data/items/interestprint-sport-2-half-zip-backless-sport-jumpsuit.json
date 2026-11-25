@@ -1,0 +1,55 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "cg": "t-mono-corto-deportivo-dpf-no-permission-con-espalda-abierta",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/825ae39be232d79dd8ec.jpg",
+  "assets/products/shop/bff1ecb57a7a24d232aa.jpg",
+  "assets/products/shop/0ede66e4931c23c1eaa3.jpg",
+  "assets/products/shop/57e737e48094ddaf6074.jpg",
+  "assets/products/shop/e0c26105955c5327b56a.jpg"
+ ],
+ "draft": false,
+ "fam": "mono-corto-deportivo",
+ "hidden": false,
+ "id": "interestprint-sport-2-half-zip-backless-sport-jumpsuit",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Mono Corto Deportivo Jumpsuit",
+ "name_es": "Mono Mono Corto Deportivo",
+ "needs_review": false,
+ "price_usd": 36.99,
+ "rank": 84,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Leotardos y unitardos > Unitardos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "Mono corto deportivo DPF No Permission Rojo con espalda abierta",
+ "supplier": "InterestPrint",
+ "supplier_id": "sport-2-half-zip-backless-sport-jumpsuit",
+ "visual_verified": true
+}

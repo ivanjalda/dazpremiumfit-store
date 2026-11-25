@@ -1,0 +1,52 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/pantalones-cortos"
+ ],
+ "cg": "t-daz-premium-fit-immortal-warrior-pantalon-corto-de-hombre",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/717a4e6959a6ecee9cc5.jpg",
+  "assets/products/shop/bd3a1e6d31a9846e3f6e.jpg",
+  "assets/products/shop/1098586f08602bcf3589.jpg",
+  "assets/products/shop/78258e1afcb09938dc73.jpg",
+  "http://ipimg.interestprint.com/data/product/958/info/image/20190327/48786BF59B33CDDBD12EDA62D74BE601.jpg"
+ ],
+ "draft": false,
+ "fam": "premium-fit-immortal",
+ "hidden": false,
+ "id": "interestprint-immortal-warrior-short-2-mens-all-over-print-baggy-shorts-model-l37",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-washed-drop-shoulder-t-shirt",
+  "printful-pantalon-de-chandal-unisex",
+  "productifi-cafe-mezcla-brasilena-16oz"
+ ],
+ "material": "",
+ "name_en": "Daz Immortal Warrior Shorts",
+ "name_es": "Bermuda Daz Immortal Warrior",
+ "needs_review": false,
+ "price_usd": 28.99,
+ "rank": 49,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Pantalones cortos > Pantalones cortos para correr",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "source_title": "DAZ Premium Fit Immortal Warrior Blanco | Pantalón corto de hombre",
+ "supplier": "InterestPrint",
+ "supplier_id": "immortal-warrior-short-2-mens-all-over-print-baggy-shorts-model-l37",
+ "visual_verified": true
+}

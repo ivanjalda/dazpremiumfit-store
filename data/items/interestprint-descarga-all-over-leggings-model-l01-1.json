@@ -1,0 +1,53 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/leggings"
+ ],
+ "cg": "t-dpf-essential-leggings-negros",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/b2ffa8f7ab587cf7328a.jpg",
+  "assets/products/shop/265d1a765e1b0ebfc8cb.jpg",
+  "assets/products/shop/66c741ae133c76600162.jpg",
+  "assets/products/shop/13f6667a9febf0f48236.jpg"
+ ],
+ "draft": false,
+ "fam": "essential-leggings-negros",
+ "hidden": false,
+ "id": "interestprint-descarga-all-over-leggings-model-l01-1",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Negros Leggings · Black",
+ "name_es": "Leggings Negros · Negro",
+ "needs_review": false,
+ "price_usd": 37.99,
+ "rank": 62,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "XXL",
+  "XXXL"
+ ],
+ "source_title": "DPF Essential Black | Leggings negros",
+ "supplier": "InterestPrint",
+ "supplier_id": "descarga-all-over-leggings-model-l01-1",
+ "visual_verified": true
+}

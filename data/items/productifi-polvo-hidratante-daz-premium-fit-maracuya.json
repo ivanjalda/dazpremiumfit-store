@@ -1,0 +1,50 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-polvo-hidratante-daz-premium-fit-maracuya",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/a4a24215b6426916b584.jpg",
+  "assets/products/shop/721d777dce133a3cab26.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095432-lactose-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095715-hormone-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100059-antibiotic-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100829-no-fillers-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124358-vegan.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20240131131838-alcohol-free.png"
+ ],
+ "draft": false,
+ "fam": "polvo-hidratante-premium",
+ "hidden": false,
+ "id": "productifi-polvo-hidratante-daz-premium-fit-maracuya",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Polvo Hidratante Daz Vitamins",
+ "name_es": "Vitaminas Polvo Hidratante Daz",
+ "needs_review": false,
+ "price_usd": 33.99,
+ "rank": 52,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Polvo hidratante DAZ Premium Fit (Maracuyá)",
+ "supplier": "Productifi",
+ "supplier_id": "polvo-hidratante-daz-premium-fit-maracuya",
+ "visual_verified": true
+}

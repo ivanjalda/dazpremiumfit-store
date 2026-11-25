@@ -1,0 +1,52 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta"
+ ],
+ "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
+ "color": "Blanco",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/43a7a72d13ff5bc6aa00.jpg",
+  "assets/products/shop/98841af8d1a03a1bf1df.jpg",
+  "assets/products/shop/4a89af5146cdc7b604be.jpg",
+  "assets/products/shop/3fe9759604f3de9ecd26.jpg"
+ ],
+ "draft": false,
+ "fam": "premium-fit-immortal",
+ "hidden": false,
+ "id": "interestprint-design-mens-tank-tops-1",
+ "look": [
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
+  "printful-pantalon-de-chandal-unisex",
+  "productifi-cafe-mezcla-brasilena-16oz"
+ ],
+ "material": "",
+ "name_en": "Daz Immortal Warrior Tee · Blanco",
+ "name_es": "Camiseta Daz Immortal Warrior · Blanco",
+ "needs_review": false,
+ "price_usd": 21.99,
+ "rank": 9,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Camisetas sin mangas",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL"
+ ],
+ "source_title": "DAZ Premium Fit Immortal Warrior | Camiseta de tirantes blanca de hombre",
+ "supplier": "InterestPrint",
+ "supplier_id": "design-mens-tank-tops-1",
+ "visual_verified": true
+}

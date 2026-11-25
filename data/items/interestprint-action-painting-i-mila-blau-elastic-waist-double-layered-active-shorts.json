@@ -1,0 +1,55 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "t-shorts-deportivos-de-mujer-dpf-tough-bitch-de-doble-capa",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "assets/products/shop/6871ff7c4f4de4b8e6d1.jpg",
+  "assets/products/shop/5d309d1d7bf160b5116e.jpg",
+  "assets/products/shop/8acc08fafb6d88c471d9.jpg",
+  "assets/products/shop/9de668c31b1bc67aeb51.jpg",
+  "assets/products/shop/511bd05629049dd558c0.jpg"
+ ],
+ "draft": false,
+ "fam": "shorts-deportivos-mujer",
+ "hidden": false,
+ "id": "interestprint-action-painting-i-mila-blau-elastic-waist-double-layered-active-shorts",
+ "look": [
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Deportivos Tough Bitch Vest",
+ "name_es": "Chaleco Deportivos Tough Bitch",
+ "needs_review": false,
+ "price_usd": 29.99,
+ "rank": 59,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Pantalones cortos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "Shorts deportivos de mujer DPF Tough Bitch de doble capa",
+ "supplier": "InterestPrint",
+ "supplier_id": "action-painting-i-mila-blau-elastic-waist-double-layered-active-shorts",
+ "visual_verified": true
+}

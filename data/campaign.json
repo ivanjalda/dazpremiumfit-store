@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "updated": "2026-11-25",
+  "id": "black-week",
+  "ends": "2026-11-30",
+  "discount_pct": 25,
+  "es": {
+    "eyebrow": "Black Week",
+    "title": "Black Week en la Maison",
+    "text": "Una semana, piezas seleccionadas con condiciones excepcionales. Solo en piezas elegidas y hasta agotar existencias.",
+    "cta": "Ver la selección"
+  },
+  "en": {
+    "eyebrow": "Black Week",
+    "title": "Black Week at the Maison",
+    "text": "One week only: selected pieces on exceptional terms. Selected pieces only, while availability lasts.",
+    "cta": "View the selection"
+  },
+  "offers": [],
+  "gifts": [],
+  "selection": [
+    "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+    "interestprint-design-custom-womens-high-waist-legging",
+    "interestprint-design-custom-womens-high-waist-legging-1",
+    "interestprint-design-washed-drop-shoulder-t-shirt",
+    "interestprint-descarga-1-mens-all-over-print-tank-top-model-t46",
+    "interestprint-descarga-135-mens-all-over-print-tank-top-model-t46",
+    "interestprint-design-womens-high-waist-layered-sport-skirt",
+    "interestprint-design-mens-tank-tops"
+  ]
+}

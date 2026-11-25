@@ -1,0 +1,57 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/ropa-interior"
+ ],
+ "cg": "t-dpf-astrale-top-deportivo-de-estrellas-y-espalda-anudada",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "assets/products/shop/c2bfa6aa71ba4d0b61c5.jpg",
+  "assets/products/shop/0a95a73035ca75fc9399.jpg",
+  "assets/products/shop/29bc5308f4f18cc0dcbf.jpg",
+  "assets/products/shop/120cff3d8e3435fac450.jpg",
+  "assets/products/shop/074fa002120ea9046a60.jpg",
+  "http://ipimg.interestprint.com/data/product/5215/info/image/20260126/918C94DA0E1A9D0DD4A96311CB9C1E51.png"
+ ],
+ "draft": false,
+ "fam": "astrale-top-deportivo",
+ "hidden": false,
+ "id": "interestprint-aesthetic-icon-knotted-back-cutout-sports-bra",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Astrale Deportivo Estrellas Underwear",
+ "name_es": "Ropa Interior Astrale Deportivo Estrellas",
+ "needs_review": false,
+ "price_usd": 26.99,
+ "rank": 36,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Tops cortos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "DPF Astrale | Top deportivo de estrellas y espalda anudada",
+ "supplier": "InterestPrint",
+ "supplier_id": "aesthetic-icon-knotted-back-cutout-sports-bra",
+ "visual_verified": true
+}

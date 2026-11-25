@@ -1,0 +1,45 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "assets/products/shop/2a494be740efed8f4ac0.jpg",
+  "assets/products/shop/ec19983f1f0cccd84c92.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095601-allergen-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100059-antibiotic-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png"
+ ],
+ "draft": false,
+ "fam": "gomitas-oso-multivitaminicas",
+ "hidden": false,
+ "id": "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-combinacion-de-l-citrulina-y-l-arginina-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Gomitas Oso Multivitamínicas Vitamins",
+ "name_es": "Vitaminas Gomitas Oso Multivitamínicas",
+ "needs_review": false,
+ "price_usd": 24.99,
+ "rank": 15,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Gomitas de oso Multivitamínicas DAZ Premium Fit (adultos)",
+ "supplier": "Productifi",
+ "supplier_id": "gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos",
+ "visual_verified": true
+}

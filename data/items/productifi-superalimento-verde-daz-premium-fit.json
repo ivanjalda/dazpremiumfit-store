@@ -1,0 +1,46 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-superalimento-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/785062e7109c83b75a72.jpg",
+  "assets/products/shop/59157885d9372052e41c.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100008-100--natural-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124358-vegan.png"
+ ],
+ "draft": false,
+ "fam": "superalimento-verde-premium",
+ "hidden": false,
+ "id": "productifi-superalimento-verde-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Superalimento Daz Vitamins",
+ "name_es": "Vitaminas Superalimento Daz",
+ "needs_review": false,
+ "price_usd": 28.99,
+ "rank": 46,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Superalimento verde DAZ Premium Fit",
+ "supplier": "Productifi",
+ "supplier_id": "superalimento-verde-daz-premium-fit",
+ "visual_verified": true
+}

@@ -1,0 +1,55 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/ropa-interior"
+ ],
+ "cg": "t-dpf-sel-ne-top-deportivo-de-espalda-cruzada",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/b701af24eed80bd398e6.jpg",
+  "assets/products/shop/274dad24ef182a551589.jpg",
+  "assets/products/shop/22a84813d7ef429a1403.jpg",
+  "http://ipimg.interestprint.com/data/product/5212/info/image/20260126/D692082BF2B0D0EFE207F9979EFB7289.png"
+ ],
+ "draft": false,
+ "fam": "sel-ne-top",
+ "hidden": false,
+ "id": "interestprint-derfrf-cross-back-sports-bra-2",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Sél Deportivo Espalda Underwear",
+ "name_es": "Ropa Interior Sél Deportivo Espalda",
+ "needs_review": false,
+ "price_usd": 26.99,
+ "rank": 33,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Tops cortos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "DPF Sélène | Top deportivo de espalda cruzada",
+ "supplier": "InterestPrint",
+ "supplier_id": "derfrf-cross-back-sports-bra-2",
+ "visual_verified": true
+}

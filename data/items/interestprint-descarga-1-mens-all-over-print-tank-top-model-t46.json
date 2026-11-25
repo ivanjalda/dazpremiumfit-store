@@ -1,0 +1,49 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta"
+ ],
+ "cg": "t-daz-premium-fit-immortal-mindset-abstract",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/05fa86368714e5dc9c7d.jpg",
+  "assets/products/shop/880e98fd5ac2e99f625e.jpg",
+  "assets/products/shop/236e267dcc2f0a7a36bd.jpg"
+ ],
+ "draft": false,
+ "fam": "premium-fit-immortal",
+ "hidden": false,
+ "id": "interestprint-descarga-1-mens-all-over-print-tank-top-model-t46",
+ "look": [
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
+  "printful-pantalon-de-chandal-unisex",
+  "productifi-cafe-mezcla-brasilena-16oz"
+ ],
+ "material": "",
+ "name_en": "Daz Immortal Mindset Tee",
+ "name_es": "Camiseta Daz Immortal Mindset",
+ "needs_review": false,
+ "price_usd": 22.99,
+ "rank": 5,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Camisetas sin mangas",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "XXL"
+ ],
+ "source_title": "DAZ Premium Fit Immortal Mindset Abstract",
+ "supplier": "InterestPrint",
+ "supplier_id": "descarga-1-mens-all-over-print-tank-top-model-t46",
+ "visual_verified": true
+}

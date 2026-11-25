@@ -1,0 +1,44 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-esenciales-daz-premium-fit-para-cabello-piel-y-unas",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/e84266ddbcd0b80cada6.jpg",
+  "assets/products/shop/18ec3b65bd4ee03b118c.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095432-lactose-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095715-hormone-free-2x.png"
+ ],
+ "draft": false,
+ "fam": "esenciales-premium-fit",
+ "hidden": false,
+ "id": "productifi-esenciales-para-cabello-piel-y-unas",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Esenciales Daz Cabello Vitamins",
+ "name_es": "Vitaminas Esenciales Daz Cabello",
+ "needs_review": false,
+ "price_usd": 26.99,
+ "rank": 39,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Esenciales DAZ Premium Fit para cabello, piel y uñas",
+ "supplier": "Productifi",
+ "supplier_id": "esenciales-para-cabello-piel-y-unas",
+ "visual_verified": true
+}

@@ -1,0 +1,54 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta"
+ ],
+ "cg": "t-daz-premium-fit-immortal-warrior-classic-camiseta-sin-mangas-de-hombre",
+ "color": "Negro",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/d35e3667683afe7405a7.jpg",
+  "assets/products/shop/03eeefb78d671084f675.jpg",
+  "assets/products/shop/39a48831420f8e29feaf.jpg",
+  "assets/products/shop/f8ac207f821620aab2f1.jpg",
+  "assets/products/shop/a205960f688425c88582.jpg"
+ ],
+ "draft": false,
+ "fam": "premium-fit-immortal",
+ "hidden": false,
+ "id": "interestprint-design-all-over-print-tank-top-bkrev1",
+ "look": [
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
+  "printful-pantalon-de-chandal-unisex",
+  "productifi-cafe-mezcla-brasilena-16oz"
+ ],
+ "material": "",
+ "name_en": "Daz Immortal Warrior Tee",
+ "name_es": "Camiseta Daz Immortal Warrior",
+ "needs_review": false,
+ "price_usd": 21.99,
+ "rank": 10,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Camisetas sin mangas",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "DAZ Premium Fit Immortal Warrior Classic | Camiseta sin mangas de hombre",
+ "supplier": "InterestPrint",
+ "supplier_id": "design-all-over-print-tank-top-bkrev1",
+ "visual_verified": true
+}

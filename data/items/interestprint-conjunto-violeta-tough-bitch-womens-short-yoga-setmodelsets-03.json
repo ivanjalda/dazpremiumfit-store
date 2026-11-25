@@ -1,0 +1,53 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/conjuntos"
+ ],
+ "cg": "t-conjunto-violeta-de-camiseta-y-shorts-dpf-tough-bitch",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/008fe7dca0fd7b05e2e4.jpg",
+  "assets/products/shop/830c8a65e84a53903d50.jpg",
+  "assets/products/shop/e5ab6a02ac7613212b3c.jpg",
+  "assets/products/shop/9ad73ce63dfac4190b59.jpg",
+  "assets/products/shop/2d21b8f7e72e7b12a3b5.jpg"
+ ],
+ "draft": false,
+ "fam": "conjunto-violeta-camiseta",
+ "hidden": false,
+ "id": "interestprint-conjunto-violeta-tough-bitch-womens-short-yoga-setmodelsets-03",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Conjunto Violeta Tough Set",
+ "name_es": "Conjunto Conjunto Violeta Tough",
+ "needs_review": false,
+ "price_usd": 25.99,
+ "rank": 19,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Conjuntos de ropa",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "source_title": "Conjunto violeta de camiseta y shorts DPF Tough Bitch",
+ "supplier": "InterestPrint",
+ "supplier_id": "conjunto-violeta-tough-bitch-womens-short-yoga-setmodelsets-03",
+ "visual_verified": true
+}

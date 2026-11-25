@@ -1,0 +1,43 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/f62cd2c61ecf32950687.jpg",
+  "assets/products/shop/d1de5f57ca5eaedfd83e.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png"
+ ],
+ "draft": false,
+ "fam": "crema-colageno-premium",
+ "hidden": false,
+ "id": "productifi-crema-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Colágeno Daz Vacas Collagen",
+ "name_es": "Colágeno Colágeno Daz Vacas",
+ "needs_review": false,
+ "price_usd": 36.99,
+ "rank": 92,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Crema de colágeno DAZ Premium Fit de vacas alimentadas con pasto (vainilla)",
+ "supplier": "Productifi",
+ "supplier_id": "crema-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
+ "visual_verified": true
+}

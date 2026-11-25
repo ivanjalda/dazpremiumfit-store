@@ -1,0 +1,53 @@
+{
+ "ai_priority": true,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "t-daz-premium-fit-immortal-mindset-camiseta-de-algodon-efecto-lavado",
+ "color": "Negro",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/79a3e63c28411cd33d82.jpg",
+  "assets/products/shop/102933d4ff2d25d7191d.jpg",
+  "assets/products/shop/343e0e34815496da823f.jpg",
+  "assets/products/shop/950a78a83cbadc872bad.jpg",
+  "assets/products/shop/5b3866ff8e9c59fb798d.jpg"
+ ],
+ "draft": false,
+ "fam": "premium-fit-immortal",
+ "hidden": false,
+ "id": "interestprint-design-washed-drop-shoulder-t-shirt",
+ "look": [
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
+  "printful-pantalon-de-chandal-unisex",
+  "productifi-cafe-mezcla-brasilena-16oz"
+ ],
+ "material": "",
+ "name_en": "Daz Immortal Mindset Tee",
+ "name_es": "Camiseta Daz Immortal Mindset",
+ "needs_review": false,
+ "price_usd": 22.99,
+ "rank": 4,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "source_title": "DAZ Premium Fit Immortal Mindset | Camiseta de algodón efecto lavado",
+ "supplier": "InterestPrint",
+ "supplier_id": "design-washed-drop-shoulder-t-shirt",
+ "visual_verified": true
+}

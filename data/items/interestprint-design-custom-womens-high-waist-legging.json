@@ -1,0 +1,52 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/leggings"
+ ],
+ "cg": "t-leggings-de-cintura-alta-de-mujer-dpf-tough-bitch",
+ "color": "Negro",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "assets/products/shop/8e16df30b189ea913be8.jpg",
+  "assets/products/shop/b7c72553686d0b436bc0.jpg",
+  "assets/products/shop/1c07b2487d1d65d3707a.jpg",
+  "assets/products/shop/ad5062a628d8875eba40.jpg",
+  "assets/products/shop/82f32b599a33bdd59d4c.jpg"
+ ],
+ "draft": false,
+ "fam": "leggings-cintura-alta",
+ "hidden": false,
+ "id": "interestprint-design-custom-womens-high-waist-legging",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Cintura Alta Tough Leggings",
+ "name_es": "Leggings Cintura Alta Tough",
+ "needs_review": false,
+ "price_usd": 21.99,
+ "rank": 2,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "source_title": "Leggings de cintura alta de mujer DPF Tough Bitch",
+ "supplier": "InterestPrint",
+ "supplier_id": "design-custom-womens-high-waist-legging",
+ "visual_verified": true
+}

@@ -1,0 +1,43 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-bcaa-en-polvo-para-despues-del-entrenamiento-melaza-sandia",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "assets/products/shop/337ba269745ec5705c9c.jpg",
+  "assets/products/shop/9aea237eb2b595fc5974.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095715-hormone-free-2x.png"
+ ],
+ "draft": false,
+ "fam": "bcaa-en-polvo",
+ "hidden": false,
+ "id": "productifi-bcaa-post-workout-powder-honeydew-watermelon",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Bcaa Polvo Después Amino Acids",
+ "name_es": "Aminoácidos Bcaa Polvo Después",
+ "needs_review": false,
+ "price_usd": 34.99,
+ "rank": 112,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "BCAA en polvo para después del entrenamiento (melaza/sandía)",
+ "supplier": "Productifi",
+ "supplier_id": "bcaa-post-workout-powder-honeydew-watermelon",
+ "visual_verified": true
+}

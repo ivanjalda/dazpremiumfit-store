@@ -1,0 +1,51 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-tiras-energeticas-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/2d78f669e39ead22f603.jpg",
+  "assets/products/shop/14dcf0aa23b61f9f692d.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095432-lactose-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095601-allergen-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095715-hormone-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100829-no-fillers-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206101002-corn-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124358-vegan.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20230713155659-halal-certified-v2.png"
+ ],
+ "draft": false,
+ "fam": "tiras-energeticas-premium",
+ "hidden": false,
+ "id": "productifi-tiras-energeticas-daz-premium-fit-1",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Tiras Energéticas Daz Vitamins",
+ "name_es": "Vitaminas Tiras Energéticas Daz",
+ "needs_review": false,
+ "price_usd": 27.99,
+ "rank": 29,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Tiras energéticas DAZ Premium Fit",
+ "supplier": "Productifi",
+ "supplier_id": "tiras-energeticas-daz-premium-fit-1",
+ "visual_verified": true
+}

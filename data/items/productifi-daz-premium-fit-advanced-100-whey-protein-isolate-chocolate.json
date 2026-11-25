@@ -1,0 +1,43 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-daz-premium-fit-advanced-whey-protein-isolate-chocolate",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "assets/products/shop/9187aceccd3c07cbf88a.jpg",
+  "assets/products/shop/cc862a576633de0a0d2c.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png"
+ ],
+ "draft": false,
+ "fam": "premium-fit-advanced",
+ "hidden": false,
+ "id": "productifi-daz-premium-fit-advanced-100-whey-protein-isolate-chocolate",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Daz Advanced Whey Protein",
+ "name_es": "Proteína Daz Advanced Whey",
+ "needs_review": false,
+ "price_usd": 50.99,
+ "rank": 93,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "DAZ Premium Fit Advanced 100% Whey Protein Isolate (Chocolate)",
+ "supplier": "Productifi",
+ "supplier_id": "daz-premium-fit-advanced-100-whey-protein-isolate-chocolate",
+ "visual_verified": true
+}

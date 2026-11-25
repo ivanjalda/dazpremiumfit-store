@@ -1,0 +1,50 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-energy-powder-daz-premium-fit-tarta-de-fresas",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/edc266fdbabd026410f1.jpg",
+  "assets/products/shop/06d0aa3be22ae4aba9b2.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095432-lactose-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095715-hormone-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100059-antibiotic-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100829-no-fillers-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124358-vegan.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20240131131838-alcohol-free.png"
+ ],
+ "draft": false,
+ "fam": "energy-powder-premium",
+ "hidden": false,
+ "id": "productifi-energy-powder-daz-premium-fit-tarta-de-fresas",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Energy Powder Daz Vitamins",
+ "name_es": "Vitaminas Energy Powder Daz",
+ "needs_review": false,
+ "price_usd": 30.99,
+ "rank": 65,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Energy Powder DAZ Premium Fit (Tarta de fresas)",
+ "supplier": "Productifi",
+ "supplier_id": "energy-powder-daz-premium-fit-tarta-de-fresas",
+ "visual_verified": true
+}

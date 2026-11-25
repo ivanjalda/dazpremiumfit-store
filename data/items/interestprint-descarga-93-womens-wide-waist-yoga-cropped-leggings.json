@@ -1,0 +1,58 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/leggings"
+ ],
+ "cg": "t-dpf-kaleido-leggings-de-yoga-de-cintura-alta",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/f73a710e98daccdbf2bf.jpg",
+  "assets/products/shop/df0115aaeeca756e3226.jpg",
+  "assets/products/shop/b1a104266b19150ccc04.jpg",
+  "assets/products/shop/d9afa4e8f38a36906688.jpg",
+  "assets/products/shop/bc3903922f461569061e.jpg",
+  "assets/products/shop/99c0115c0253cdcdcb7f.jpg",
+  "assets/products/shop/adbc99e37afe92a7689c.jpg"
+ ],
+ "draft": false,
+ "fam": "kaleido-leggings-yoga",
+ "hidden": false,
+ "id": "interestprint-descarga-93-womens-wide-waist-yoga-cropped-leggings",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Kaleido Yoga Cintura Leggings",
+ "name_es": "Leggings Kaleido Yoga Cintura",
+ "needs_review": false,
+ "price_usd": 26.99,
+ "rank": 22,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "DPF Kaleido | Leggings de yoga de cintura alta",
+ "supplier": "InterestPrint",
+ "supplier_id": "descarga-93-womens-wide-waist-yoga-cropped-leggings",
+ "visual_verified": true
+}

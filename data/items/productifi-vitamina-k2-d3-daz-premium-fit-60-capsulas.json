@@ -1,0 +1,45 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-vitamina-k2-d3-daz-premium-fit-capsulas",
+ "color": "White bottle + cap",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/fb0a1e09f0e6d8dcc285.jpg",
+  "assets/products/shop/b5b1ca223e52b356ba1b.jpg",
+  "assets/products/shop/66f95c85c83a4e3d8e3c.jpg",
+  "assets/products/shop/f5b18f37257fe0f22bbb.jpg",
+  "assets/products/shop/d41a17b34d0c257d1ef2.jpg"
+ ],
+ "draft": false,
+ "fam": "vitamina-k2-d3",
+ "hidden": false,
+ "id": "productifi-vitamina-k2-d3-daz-premium-fit-60-capsulas",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Vitamina Daz Cápsulas Vitamins · White",
+ "name_es": "Vitaminas Vitamina Daz Cápsulas · Blanco",
+ "needs_review": false,
+ "price_usd": 26.99,
+ "rank": 40,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 Vegetable capsules"
+ ],
+ "source_title": "Vitamina K2 + D3 DAZ Premium Fit (60 cápsulas)",
+ "supplier": "Productifi",
+ "supplier_id": "vitamina-k2-d3-daz-premium-fit-60-capsulas",
+ "visual_verified": true
+}

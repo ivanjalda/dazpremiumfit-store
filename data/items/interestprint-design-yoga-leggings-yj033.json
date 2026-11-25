@@ -1,0 +1,51 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/leggings"
+ ],
+ "cg": "t-dpf-ink-leggings-de-yoga",
+ "color": "Negro",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "assets/products/shop/3b2daff2e846cf2d7ce8.jpg",
+  "assets/products/shop/ccd3186f923a51e45b4d.jpg",
+  "assets/products/shop/9693f9dbad3f71ab5d23.jpg",
+  "assets/products/shop/bcc49221eccc52b3aa66.jpg"
+ ],
+ "draft": false,
+ "fam": "ink-leggings-yoga",
+ "hidden": false,
+ "id": "interestprint-design-yoga-leggings-yj033",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Ink Yoga Leggings",
+ "name_es": "Leggings Ink Yoga",
+ "needs_review": false,
+ "price_usd": 24.99,
+ "rank": 12,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "source_title": "DPF Ink | Leggings de yoga",
+ "supplier": "InterestPrint",
+ "supplier_id": "design-yoga-leggings-yj033",
+ "visual_verified": true
+}

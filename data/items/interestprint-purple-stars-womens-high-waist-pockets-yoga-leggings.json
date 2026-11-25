@@ -1,0 +1,56 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/leggings"
+ ],
+ "cg": "t-dpf-star-pocket-leggings-con-bolsillos",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/5fbc4a2cf4bca0137c53.jpg",
+  "assets/products/shop/f9c15e46e7753f03657c.jpg",
+  "assets/products/shop/e91cee4f8a79c0a3af22.jpg",
+  "assets/products/shop/aba6b0a28696401baa7d.jpg",
+  "assets/products/shop/0f3620ea3e220477c3b3.jpg"
+ ],
+ "draft": false,
+ "fam": "star-pocket-leggings",
+ "hidden": false,
+ "id": "interestprint-purple-stars-womens-high-waist-pockets-yoga-leggings",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Star Pocket Bolsillos Leggings · Purple",
+ "name_es": "Leggings Star Pocket Bolsillos · Púrpura",
+ "needs_review": false,
+ "price_usd": 26.99,
+ "rank": 25,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "DPF Purple Star Pocket | Leggings con bolsillos",
+ "supplier": "InterestPrint",
+ "supplier_id": "purple-stars-womens-high-waist-pockets-yoga-leggings",
+ "visual_verified": true
+}

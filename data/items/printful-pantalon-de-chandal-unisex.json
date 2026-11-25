@@ -1,0 +1,55 @@
+{
+ "ai_priority": true,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "t-pantalon-de-chandal-dpf-elan",
+ "color": "Blanco",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "assets/products/shop/a7b903556dd8d0d6ef8a.jpg",
+  "assets/products/shop/d1cdb80a66effb699572.jpg",
+  "assets/products/shop/1ae8e9f1312584cc17a6.jpg",
+  "assets/products/shop/6fbbb215270ece78a4b7.jpg",
+  "assets/products/shop/820f36a1508419b0c314.jpg"
+ ],
+ "draft": false,
+ "fam": "pantalon-chandal-elan",
+ "hidden": false,
+ "id": "printful-pantalon-de-chandal-unisex",
+ "look": [
+  "interestprint-design-washed-drop-shoulder-t-shirt",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
+  "productifi-cafe-mezcla-brasilena-16oz"
+ ],
+ "material": "",
+ "name_en": "Pantalón Chándal Élan Sweatshirt",
+ "name_es": "Sudadera Pantalón Chándal Élan",
+ "needs_review": false,
+ "price_usd": 51.99,
+ "rank": 85,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Pantalones para correr",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL"
+ ],
+ "source_title": "Pantalón de chándal DPF Élan",
+ "supplier": "Printful",
+ "supplier_id": "pantalon-de-chandal-unisex",
+ "visual_verified": true
+}

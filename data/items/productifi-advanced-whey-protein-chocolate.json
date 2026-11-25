@@ -1,0 +1,41 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-advanced-whey-protein-chocolate",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/9f0aaffd25ee9e0b68a7.jpg",
+  "assets/products/shop/25b5eada2f609222b2c4.jpg",
+  "assets/products/shop/a9e0cef8f147c84a4b01.jpg",
+  "assets/products/shop/c06a5366c6e434c4a600.jpg"
+ ],
+ "draft": false,
+ "fam": "advanced-whey-protein",
+ "fixed_price": true,
+ "hidden": false,
+ "id": "productifi-advanced-whey-protein-chocolate",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Advanced Whey Protein Protein",
+ "name_es": "Proteína Advanced Whey Protein",
+ "needs_review": false,
+ "price_usd": 22.9,
+ "rank": 126,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "ADVANCED WHEY PROTEIN CHOCOLATE",
+ "supplier": "Productifi",
+ "supplier_id": "advanced-whey-protein-chocolate",
+ "visual_verified": true
+}

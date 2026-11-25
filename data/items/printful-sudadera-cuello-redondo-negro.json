@@ -1,0 +1,59 @@
+{
+ "ai_priority": true,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "t-sudadera-de-cuello-redondo-dpf-immortal-warrior",
+ "color": "Negro",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "assets/products/shop/047d2c9f6921a556ce88.jpg",
+  "assets/products/shop/047d2c9f6921a556ce88.jpg",
+  "assets/products/shop/047d2c9f6921a556ce88.jpg",
+  "assets/products/shop/047d2c9f6921a556ce88.jpg",
+  "assets/products/shop/047d2c9f6921a556ce88.jpg",
+  "assets/products/shop/b7c8dff3872e4c7c893f.jpg",
+  "assets/products/shop/5b56fae72728dcf7b7a2.jpg",
+  "assets/products/shop/56e1c916e27182b8d7a1.jpg",
+  "assets/products/shop/1758572d3f568c0917c4.jpg",
+  "assets/products/shop/769a5dabb946b2901b1e.jpg",
+  "assets/products/shop/6d92dd6b715799c56466.jpg"
+ ],
+ "draft": false,
+ "fam": "sudadera-cuello-redondo",
+ "hidden": false,
+ "id": "printful-sudadera-cuello-redondo-negro",
+ "look": [
+  "interestprint-design-washed-drop-shoulder-t-shirt",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
+  "productifi-cafe-mezcla-brasilena-16oz"
+ ],
+ "material": "",
+ "name_en": "Cuello Redondo Immortal Sweatshirt · Negro",
+ "name_es": "Sudadera Cuello Redondo Immortal · Negro",
+ "needs_review": false,
+ "price_usd": 43.99,
+ "rank": 88,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "source_title": "Sudadera de cuello redondo DPF Immortal Warrior",
+ "supplier": "Printful",
+ "supplier_id": "sudadera-cuello-redondo-negro",
+ "visual_verified": true
+}

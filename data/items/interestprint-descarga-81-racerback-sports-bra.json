@@ -1,0 +1,58 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/ropa-interior"
+ ],
+ "cg": "t-daz-premium-fit-volt-top-deportivo-de-espalda-cruzada",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "assets/products/shop/a6911365640529b67b05.jpg",
+  "assets/products/shop/61549a6d5227f7a7a9d9.jpg",
+  "assets/products/shop/2b1aec21c05cf8cc2744.jpg",
+  "assets/products/shop/cfdf1ed5c4bec4ce364d.jpg",
+  "assets/products/shop/1f4291f2b129563925dd.jpg",
+  "http://ipimg.interestprint.com/data/product/4424/info/image/20250618/428AF4592A5DCFF6D375465EB3E3816A.png"
+ ],
+ "draft": false,
+ "fam": "premium-fit-volt",
+ "hidden": false,
+ "id": "interestprint-descarga-81-racerback-sports-bra",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Daz Volt Deportivo Underwear",
+ "name_es": "Ropa Interior Daz Volt Deportivo",
+ "needs_review": false,
+ "price_usd": 22.99,
+ "rank": 16,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sujetadores deportivos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "DAZ Premium Fit Volt | Top deportivo de espalda cruzada",
+ "supplier": "InterestPrint",
+ "supplier_id": "descarga-81-racerback-sports-bra",
+ "visual_verified": true
+}
