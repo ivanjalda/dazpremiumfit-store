@@ -1,0 +1,15 @@
+{
+  "nota": "Cada diseño que subas a la carpeta disenos/ (o mandes al bot) se convierte en estos productos de Printify. Puedes quitar o añadir líneas. 'buscar' es parte del nombre del producto en el catálogo de Printify; 'color' es el color de la prenda.",
+  "por_defecto": ["camiseta", "sudadera-capucha", "sudadera", "cojin", "taza"],
+  "plantillas": {
+    "camiseta":          {"buscar": "Unisex Heavy Cotton Tee",            "color": "Black", "tipo": "t-shirt",    "para": "unisex", "nombre_en": "Tee"},
+    "camiseta-premium":  {"buscar": "Unisex Jersey Short Sleeve Tee",     "color": "Black", "tipo": "t-shirt",    "para": "unisex", "nombre_en": "Jersey Tee"},
+    "sudadera-capucha":  {"buscar": "Unisex Heavy Blend™ Hooded Sweatshirt", "color": "Black", "tipo": "hoodie", "para": "unisex", "nombre_en": "Hoodie"},
+    "sudadera":          {"buscar": "Unisex Heavy Blend™ Crewneck Sweatshirt", "color": "Black", "tipo": "sweatshirt", "para": "unisex", "nombre_en": "Crewneck"},
+    "polo":              {"buscar": "Polo",                               "color": "Black", "tipo": "polo",       "para": "men",    "nombre_en": "Polo"},
+    "cojin":             {"buscar": "Spun Polyester Square Pillow",       "color": "",      "tipo": "pillow",     "para": "unisex", "nombre_en": "Cushion"},
+    "taza":              {"buscar": "Ceramic Mug",                        "color": "",      "tipo": "mug",        "para": "unisex", "nombre_en": "Mug"},
+    "lamina":            {"buscar": "Matte Vertical Posters",             "color": "",      "tipo": "poster",     "para": "unisex", "nombre_en": "Art Print"},
+    "bolso":             {"buscar": "Tote Bag",                           "color": "",      "tipo": "tote bag",   "para": "women",  "nombre_en": "Tote"}
+  }
+}

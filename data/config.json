@@ -1,0 +1,276 @@
+{
+  "store_name": "DAZ Premium Fit",
+  "domain": "ivanjalda.github.io/dazpremiumfit-store",
+  "site_url": "https://ivanjalda.github.io/dazpremiumfit-store",
+  "company": "Community16 LLC",
+  "company_address": "500 4th St NW, Suite 102 #1327, Albuquerque, NM 87102, USA",
+  "contact_email": "info@dazpremiumfit.com",
+  "default_lang": "es",
+  "default_currency": "USD",
+  "hero_image": "",
+  "social": {
+    "instagram": "",
+    "tiktok": "",
+    "threads": ""
+  },
+  "fx": {
+    "base": "USD",
+    "EUR": 0.92,
+    "updated": "2026-11-19"
+  },
+  "pricing": {
+    "default_markup": 2.6,
+    "min_profit_usd": 18,
+    "round_to": 5,
+    "auto_price_adjust": false,
+    "markup_by_menu": {
+      "hombre": 2.6,
+      "mujer": 2.6,
+      "calzado-mujer": 2.2,
+      "calzado-hombre": 2.2,
+      "decor": 2.4
+    },
+    "mode": "lowest",
+    "target_margin_pct": 20,
+    "min_margin_pct": 15,
+    "stripe_fee_pct": 4.5,
+    "stripe_fee_fixed": 0.3,
+    "ending_99": true,
+    "worst_shipping_factor": 1.6,
+    "default_shipping_usd": {
+      "POPCUSTOMS": 10,
+      "Inkpod": 8,
+      "InterestPrint": 8,
+      "Shopify": 8,
+      "otros": 8
+    }
+  },
+  "offers": {
+    "min_margin_after_discount_pct": 15,
+    "min_profit_after_discount_usd": 4,
+    "gift_max_price_usd": 150,
+    "min_days_listed": 14
+  },
+  "campaigns": [
+    {
+      "id": "black-week",
+      "rule": "black_week",
+      "priority": 1,
+      "discount_pct": 25,
+      "es": {
+        "eyebrow": "Black Week",
+        "title": "Black Week en la Maison",
+        "text": "Una semana, piezas seleccionadas con condiciones excepcionales. Solo en piezas elegidas y hasta agotar existencias.",
+        "cta": "Ver la selección"
+      },
+      "en": {
+        "eyebrow": "Black Week",
+        "title": "Black Week at the Maison",
+        "text": "One week only: selected pieces on exceptional terms. Selected pieces only, while availability lasts.",
+        "cta": "View the selection"
+      }
+    },
+    {
+      "id": "gala-invierno",
+      "start": "11-01",
+      "end": "12-31",
+      "priority": 2,
+      "discount_pct": 15,
+      "gifts": true,
+      "es": {
+        "eyebrow": "Campaña Navideña",
+        "title": "Gala de Invierno",
+        "text": "Regalos de alta costura para quien lo merece todo. Ediciones de invierno confeccionadas para ti.",
+        "cta": "Descubrir los regalos"
+      },
+      "en": {
+        "eyebrow": "Holiday Campaign",
+        "title": "The Winter Gala",
+        "text": "Couture gifts for those who deserve everything. Winter editions made for you.",
+        "cta": "Discover the gifts"
+      }
+    },
+    {
+      "id": "rebajas-invierno",
+      "start": "01-07",
+      "end": "02-28",
+      "priority": 3,
+      "discount_pct": 20,
+      "es": {
+        "eyebrow": "Temporada",
+        "title": "Las Rebajas de la Maison",
+        "text": "Piezas de temporada con condiciones especiales durante tiempo limitado.",
+        "cta": "Ver piezas"
+      },
+      "en": {
+        "eyebrow": "Season",
+        "title": "The Maison Sale",
+        "text": "Seasonal pieces on special terms for a limited time.",
+        "cta": "View pieces"
+      }
+    },
+    {
+      "id": "primavera",
+      "start": "03-01",
+      "end": "05-31",
+      "priority": 4,
+      "discount_pct": 0,
+      "es": {
+        "eyebrow": "Nueva Temporada",
+        "title": "Primavera · Verano",
+        "text": "Siluetas ligeras y tejidos nobles para la nueva estación.",
+        "cta": "Descubrir"
+      },
+      "en": {
+        "eyebrow": "New Season",
+        "title": "Spring · Summer",
+        "text": "Light silhouettes and noble fabrics for the new season.",
+        "cta": "Discover"
+      }
+    },
+    {
+      "id": "verano",
+      "start": "06-01",
+      "end": "08-31",
+      "priority": 4,
+      "discount_pct": 15,
+      "es": {
+        "eyebrow": "Temporada",
+        "title": "Riviera de Verano",
+        "text": "Baño, lino y sandalias para el verano más elegante.",
+        "cta": "Ver la colección"
+      },
+      "en": {
+        "eyebrow": "Season",
+        "title": "Summer Riviera",
+        "text": "Swimwear, linen and sandals for the most elegant summer.",
+        "cta": "View the collection"
+      }
+    },
+    {
+      "id": "otono",
+      "start": "09-01",
+      "end": "10-31",
+      "priority": 4,
+      "discount_pct": 0,
+      "es": {
+        "eyebrow": "Nueva Temporada",
+        "title": "Otoño · Invierno",
+        "text": "Abrigos, punto y botas: la nueva colección de la casa.",
+        "cta": "Descubrir"
+      },
+      "en": {
+        "eyebrow": "New Season",
+        "title": "Fall · Winter",
+        "text": "Coats, knitwear and boots: the house's new collection.",
+        "cta": "Discover"
+      }
+    }
+  ],
+  "badges": {
+    "top_seller_rank": 3,
+    "low_stock_threshold": 5,
+    "high_demand_views_today": 40
+  },
+  "firebase": {
+    "apiKey": "",
+    "authDomain": "",
+    "projectId": "",
+    "appId": ""
+  },
+  "newsletter": {
+    "brevo_form_url_es": "",
+    "brevo_form_url_en": "",
+    "brevo_list_id_es": 7,
+    "brevo_list_id_en": 8,
+    "sender_name": "DAZ Premium Fit",
+    "sender_email": "info@dazpremiumfit.com",
+    "products_per_email": 6
+  },
+  "social_factory": {
+    "products_per_day": 4,
+    "seconds_per_product": 4
+  },
+  "lookbook": [
+    {
+      "title_es": "Campaña Otoño · Nueva York",
+      "title_en": "Fall Campaign · New York",
+      "image": ""
+    },
+    {
+      "title_es": "Ediciones Irrepetibles",
+      "title_en": "One-of-a-Kind Editions",
+      "image": ""
+    },
+    {
+      "title_es": "Noir & Or",
+      "title_en": "Noir & Or",
+      "image": ""
+    },
+    {
+      "title_es": "El Arte del Calzado",
+      "title_en": "The Art of Footwear",
+      "image": ""
+    },
+    {
+      "title_es": "Maison Lifestyle",
+      "title_en": "Maison Lifestyle",
+      "image": ""
+    },
+    {
+      "title_es": "Colección Privada",
+      "title_en": "Private Collection",
+      "image": ""
+    }
+  ],
+  "coupons": [
+    {
+      "code": "CIRCULO10",
+      "name": "Club DPF 10%",
+      "percent_off": 10,
+      "first_order_only": true,
+      "for": "subscribers"
+    }
+  ],
+  "analytics": {
+    "cloudflare_token": "",
+    "ga4_id": ""
+  },
+  "orders": {
+    "auto_send_to_production": true,
+    "check_every_hours": 1
+  },
+  "design_factory": {
+    "enabled": true,
+    "max_new_products_per_run": 12
+  },
+  "pages_url": "https://ivanjalda.github.io/dazpremiumfit-store",
+  "ai": {
+    "model": "gemini-2.5-flash-lite",
+    "enrich_per_run": 60,
+    "pause_seconds": 5
+  },
+  "shopify_import": {
+    "currency": "USD",
+    "per_run": 5000,
+    "only_published": false
+  },
+  "stripe": {
+    "links_per_run": 250
+  },
+  "cleanup": {
+    "archive_after_days": 3,
+    "archive_no_sales_days": 90
+  },
+  "guard": {
+    "image_checks_per_run": 60,
+    "ai_audit_per_run": 10
+  },
+  "design_studio": {
+    "designs_per_day": 0
+  },
+  "meta_publisher": {
+    "enabled": false
+  },
+  "_nota": "Cuando dazpremiumfit.com deje Shopify y apunte aquí, poner domain = dazpremiumfit.com"
+}
