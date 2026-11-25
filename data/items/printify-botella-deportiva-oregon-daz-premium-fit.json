@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Aluminio",
+ "ai_type": "Botella deportiva",
+ "ai_ver": 2,
+ "art_note": "Clean product shots combined with refined lifestyle and detail photography capture the essence of performance gear.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-botella-deportiva-oregon-daz-premium-fit",
  "color": "White",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Stay hydrated during your adventures, at the gym, at work, or wherever the day takes you. The Oregon sports bottle is an essential companion for your daily routine featuring a lightweight and compact design. This product is made especially for you as soon as you place an order. Making products on demand ensures brand exclusivity with our community. Limited units. Available with worldwide shipping.",
+ "desc_es": "Mantente hidratado mientras estás de aventuras, en el gimnasio, en el trabajo o donde sea que te lleve el día. La botella deportiva Oregon es una pieza esencial para acompañar tu rutina diaria con diseño compacto y ligero. Cada pieza está hecha especialmente para usted tan pronto como realiza un pedido. Fabricar productos bajo demanda garantiza la exclusividad de nuestra marca con nuestra comunidad. Unidades limitadas. Disponible con envío a todo el mundo.",
+ "details_en": "· One size: 13.5 oz (400 ml)\n· Width: 2.56 in\n· Height: 6.89 in\n· Material: aluminum\n· Screw cap with included carabiner\n· Made especially for you on demand",
+ "details_es": "· Talla única: 13,5 oz (400 ml)\n· Ancho: 2,56 pulgadas\n· Altura: 6,89 pulgadas\n· Material: aluminio\n· Tapa a rosca con mosquetón incluido\n· Hecho especialmente para usted bajo demanda",
  "display_images": [
   "assets/products/shop/031507e4d1ca50da4c2a.jpg",
   "assets/products/shop/4863e81c19944e06ad53.jpg",
@@ -28,12 +42,13 @@
  "material": "",
  "missing_days": 1,
  "missing_last": "2026-11-25",
- "name_en": "Botella Deportiva Oregon Bottle · White",
- "name_es": "Termo Botella Deportiva Oregon · Blanco",
+ "name_en": "Oregon Sports Bottle",
+ "name_es": "Botella Deportiva Oregon",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 30.99,
- "rank": 53,
+ "rank": 102,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Cocina y comedor > Objetos para llevar comida y bebida > Botellas de agua",
@@ -44,7 +59,7 @@
   "13.5oz"
  ],
  "source_title": "Botella deportiva Oregon DAZ Premium Fit",
- "stripe_payment_link": "https://buy.stripe.com/fZudRa5Z212c2QeeOW1gV2m",
+ "stripe_payment_link": "https://buy.stripe.com/28E5kE0EIcKU62qdKS1gW34",
  "supplier": "Printify",
  "supplier_id": "botella-deportiva-oregon-daz-premium-fit",
  "visual_verified": true

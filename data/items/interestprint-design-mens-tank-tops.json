@@ -32,22 +32,23 @@
  ],
  "draft": false,
  "fam": "premium-fit-immortal",
+ "gender": "men",
  "hidden": false,
  "id": "interestprint-design-mens-tank-tops",
  "look": [
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
- "material": "",
+ "material": "100% polyester",
  "name_en": "Immortal Warrior Tank Top · Negro",
  "name_es": "Camiseta de Tirantes Immortal Warrior · Negro",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 21.99,
- "rank": 8,
+ "rank": 11,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Camisetas sin mangas",
@@ -117,7 +118,7 @@
   "4XL"
  ],
  "source_title": "DAZ Premium Fit Immortal Warrior | Camiseta de tirantes negra de hombre",
- "stripe_payment_link": "https://buy.stripe.com/cNi9AU0EI12c4YmdKS1gV1D",
+ "stripe_payment_link": "https://buy.stripe.com/7sY3cwcnq12cgH4gX41gW1B",
  "supplier": "InterestPrint",
  "supplier_id": "design-mens-tank-tops",
  "visual_verified": true

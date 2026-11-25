@@ -32,10 +32,10 @@
  "hidden": false,
  "id": "productifi-colombia-single-origin-coffee-light-medium-roast",
  "look": [
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "Café de origen único",
  "name_en": "Colombia Single Origin Coffee",
@@ -44,7 +44,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 34.99,
- "rank": 108,
+ "rank": 165,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Alimentación, bebida y tabaco > Bebidas > Café",
@@ -55,7 +55,7 @@
   "12oz"
  ],
  "source_title": "Café DAZ Colombia de Origen Único (Tostado Ligero-Medio)",
- "stripe_payment_link": "https://buy.stripe.com/fZufZigDGh1aeyWfT01gV3f",
+ "stripe_payment_link": "https://buy.stripe.com/bJe4gA5Z226g2Qe5em1gW45",
  "supplier": "Productifi",
  "supplier_id": "colombia-single-origin-coffee-light-medium-roast",
  "visual_verified": true

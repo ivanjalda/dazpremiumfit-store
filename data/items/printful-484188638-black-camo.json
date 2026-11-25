@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black Camo",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "8.5oz Midweight",
  "ai_priority": true,
+ "ai_type": "Hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio product shot with professional lighting and precise garment presentation.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-484188638",
  "color": "Black Camo",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "Commanding presence. The Immortal Warrior silhouette redefines technical comfort with a refined tactical aesthetic. Engineered for uncompromising performance and understated presence in any environment. Each piece is made to order. Worldwide shipping available.",
+ "desc_es": "Presencia imponente. La silueta Immortal Warrior redefine el confort técnico con una estética depurada y táctica. Diseñada para un rendimiento sin concesiones y una presencia sobria en cualquier entorno. Cada pieza se confecciona bajo demanda. Disponible envío a todo el mundo.",
+ "details_en": "· 8.5oz Midweight\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 8.5oz Midweight\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/0fa/0fa1b5b4835bc40ec9f0fb44e10755e5_preview.png"
  ],
@@ -20,17 +35,19 @@
  "id": "printful-484188638-black-camo",
  "img_checked": "2026-11-25",
  "look": [
-  "interestprint-design-washed-drop-shoulder-t-shirt",
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "printful-359535579",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "",
- "name_en": "Capucha Immortal Warrior Sweatshirt · Black Camo",
- "name_es": "Sudadera Capucha Immortal Warrior · Black Camo",
+ "name_en": "Immortal Warrior Hoodie · Black Camo",
+ "name_es": "Sudadera con Capucha Immortal Warrior · Black Camo",
  "needs_review": false,
+ "needs_studio": false,
+ "page": true,
  "price_usd": 54.99,
- "rank": 139,
+ "rank": 199,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",
@@ -52,7 +69,7 @@
   "8446291_53796"
  ],
  "source_title": "Sudadera con capucha DPF Immortal Warrior de camuflaje",
- "stripe_payment_link": "https://buy.stripe.com/5kQ28s1IMfX63Ui9uC1gV3K",
+ "stripe_payment_link": "https://buy.stripe.com/5kQ14o5Z2bGQ0I64ai1gX0v",
  "supplier": "Printful",
  "supplier_id": "484188638-black-camo",
  "visual_verified": true

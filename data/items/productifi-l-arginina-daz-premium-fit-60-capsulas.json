@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "capsule",
+ "ai_type": "supplement",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio product shot of the supplement bottle on a neutral background.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-l-arginina-daz-premium-fit-capsulas",
  "color": "Black bottle + cap",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Elevate your daily performance with our L-arginine formula. Designed to enhance your endurance and support muscular function during every training session. Crafted with precision to accompany your demanding physical routine. Carefully selected ingredients for optimal performance. Made to order exclusively for our community. Shipping available.",
+ "desc_es": "Eleve su rendimiento diario con nuestra fórmula de L-arginina. Diseñada para potenciar su resistencia y apoyar la función muscular en cada sesión de entrenamiento. Elaborada con precisión para acompañar su exigente rutina física. Ingredientes seleccionados cuidadosamente para un rendimiento óptimo. Hecho a pedido exclusivamente para nuestra comunidad. Envíos disponibles.",
+ "details_en": "· 60 vegetable capsules\n· Ingredients: niacin, calcium, L-arginine, L-arginine AKG 2:1 extract, L-citrulline, L-citrulline malate extract, beta-alanine\n· Inactive ingredients: cellulose (vegetable capsule), magnesium stearate (vegetable), silicon dioxide\n· Non-GMO, corn-free and lactose-free\n· Encapsulated in the USA from globally sourced ingredients\n· FDA registered and GMP certified facility\n· Third-party tested\n· This product ships only to the United States and its territories\n· Made specially for you on demand",
+ "details_es": "· 60 cápsulas vegetales\n· Ingredientes: niacina, calcio, L-arginina, extracto de L-arginina AKG 2:1, L-citrulina, extracto de L-citrulina malato, beta-alanina\n· Ingredientes inactivos: celulosa (cápsula vegetal), estearato de magnesio (vegetal), dióxido de silicio\n· Sin OGM, sin maíz y sin lactosa\n· Encapsulado en EE. UU. a partir de ingredientes de origen mundial\n· Instalaciones registradas por la FDA y certificadas por GMP\n· Probado por terceros\n· Este producto se envía únicamente a los Estados Unidos y sus territorios\n· Hecho especialmente para usted bajo demanda",
  "display_images": [
   "assets/products/shop/43f3d079a1d9e2bf1e55.jpg"
  ],
@@ -20,12 +34,13 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "name_en": "Arginina Daz Cápsulas Supplement · Black",
- "name_es": "Suplemento Arginina Daz Cápsulas · Negro",
+ "name_en": "DAZ Premium Fit L-Arginine",
+ "name_es": "L-Arginina DAZ Premium Fit",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 27.99,
- "rank": 50,
+ "rank": 98,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -36,7 +51,7 @@
   "60 Vegetable capsules"
  ],
  "source_title": "L-Arginina DAZ Premium Fit (60 Cápsulas)",
- "stripe_payment_link": "https://buy.stripe.com/fZu9AU0EI8uEgH4eOW1gV2j",
+ "stripe_payment_link": "https://buy.stripe.com/4gM28s4UY6mwfD0cGO1gW30",
  "supplier": "Productifi",
  "supplier_id": "l-arginina-daz-premium-fit-60-capsulas",
  "visual_verified": true

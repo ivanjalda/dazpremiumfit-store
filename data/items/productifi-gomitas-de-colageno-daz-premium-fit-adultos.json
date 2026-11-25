@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Orange",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Collagen Peptide",
+ "ai_type": "Gummies",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio product shot of the supplement bottle with professional lighting.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,13 @@
  "cg": "t-gomitas-de-colageno-daz-premium-fit-adultos",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Elevate your daily wellness routine with refined nutritional support. These gummies combine vital collagen with vitamin C to optimize your overall well-being. Designed as a sophisticated alternative to conventional supplements, they deliver a unique sensory experience with a subtle orange profile. Manufactured in the United States under rigorous quality standards. Available with worldwide shipping and made to order to ensure absolute freshness.",
+ "desc_es": "Incorpore un soporte nutricional refinado a su rutina diaria. Estas gomitas combinan colágeno vital con vitamina C para optimizar su bienestar integral. Diseñadas como una alternativa sofisticada a los suplementos convencionales, ofrecen una experiencia sensorial única con un sutil perfil de naranja. Fabricadas en los Estados Unidos bajo rigurosos estándares de calidad. Disponibles con envio a todo el mundo y elaboradas bajo pedido para garantizar frescura absoluta.",
+ "details_en": "· 60 gummies per container\n· Orange flavor\n· Made in USA\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 60 gomitas por envase\n· Sabor naranja\n· Fabricado en EE. UU.\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/fa1ac6e23c63e81fb685.jpg",
-  "assets/products/shop/ecbf9466b0acadcd9e7a.jpg",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206100059-antibiotic-free-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png"
+  "assets/products/shop/ecbf9466b0acadcd9e7a.jpg"
  ],
  "draft": false,
  "fam": "gomitas-colageno-premium",
@@ -25,12 +36,13 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "name_en": "Gomitas Colágeno Daz Collagen",
- "name_es": "Colágeno Gomitas Colágeno Daz",
+ "name_en": "Collagen Gummies",
+ "name_es": "Gomitas de Colágeno",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 25.99,
- "rank": 25,
+ "rank": 47,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -39,7 +51,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Gomitas de Colágeno DAZ Premium Fit (adultos)",
- "stripe_payment_link": "https://buy.stripe.com/6oUdRagDG9yI8aygX41gV1U",
+ "stripe_payment_link": "https://buy.stripe.com/5kQ28s0EI7qA2QefT01gW2b",
  "supplier": "Productifi",
  "supplier_id": "gomitas-de-colageno-daz-premium-fit-adultos",
  "visual_verified": true

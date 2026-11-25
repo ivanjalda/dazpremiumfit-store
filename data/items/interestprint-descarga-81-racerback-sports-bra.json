@@ -18,7 +18,7 @@
   "mujer/ropa-interior"
  ],
  "cg": "t-daz-premium-fit-volt-top-deportivo-de-espalda-cruzada",
- "color": "",
+ "color": "Yellow and Black",
  "created": "2026-11-25",
  "desc_en": "Energy in every movement. This sports bra combines a lime yellow and black wave print with a racerback silhouette. A statement piece designed to accompany your yoga sessions, fitness routines, and medium-impact activities. Its stretchy fabric adapts to movement and helps wick away moisture. The wire-free design and soft seamless finish reduce friction. Made to order with worldwide shipping.",
  "desc_es": "Energía en cada movimiento. Este sujetador deportivo combina un estampado de ondas en amarillo lima y negro con una silueta de espalda cruzada. Una pieza con personalidad para acompañar tus sesiones de yoga, fitness y actividades de impacto medio. Su tejido elástico se adapta al movimiento y ayuda a evacuar la humedad. El diseño sin aros y el acabado suave sin costuras reducen el roce. Hecho a pedido con envíos a todo el mundo.",
@@ -30,23 +30,24 @@
  ],
  "draft": false,
  "fam": "premium-fit-volt",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-descarga-81-racerback-sports-bra",
  "img_checked": "2026-11-25",
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
   "interestprint-design-custom-womens-high-waist-legging",
-  "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-design-yoga-top-a6k",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
  ],
- "material": "",
+ "material": "Polyester",
  "name_en": "Volt Lime and Black Sports Bra",
  "name_es": "Sujetador Deportivo Volt Lima y Negro",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 22.99,
- "rank": 16,
+ "rank": 23,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sujetadores deportivos",
@@ -128,7 +129,7 @@
   "5XL"
  ],
  "source_title": "DAZ Premium Fit Volt | Top deportivo de espalda cruzada",
- "stripe_payment_link": "https://buy.stripe.com/bJe8wQ4UY12c9eC8qy1gV1L",
+ "stripe_payment_link": "https://buy.stripe.com/00w9AUdru8uE62q36e1gW1N",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-81-racerback-sports-bra",
  "visual_verified": true

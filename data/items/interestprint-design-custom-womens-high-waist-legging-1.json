@@ -32,22 +32,23 @@
  ],
  "draft": false,
  "fam": "citron-leggings-cintura",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-design-custom-womens-high-waist-legging-1",
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-descarga-81-racerback-sports-bra"
  ],
- "material": "",
+ "material": "95% poliéster y 5% elastano",
  "name_en": "DPF Citron High-Waist Leggings",
  "name_es": "Leggings de cintura alta DPF Citron",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 21.99,
- "rank": 3,
+ "rank": 4,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
@@ -110,7 +111,7 @@
   "2XL"
  ],
  "source_title": "DPF Citron | Leggings de cintura alta",
- "stripe_payment_link": "https://buy.stripe.com/fZueVegDG6mw62qbCK1gV1y",
+ "stripe_payment_link": "https://buy.stripe.com/9B6fZi5Z23ak2QedKS1gW1u",
  "supplier": "InterestPrint",
  "supplier_id": "design-custom-womens-high-waist-legging-1",
  "visual_verified": true

@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot against a neutral background, showing garment construction clearly.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-484192500",
  "color": "Black",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "An essential silhouette engineered for daily performance. This garment combines a refined design with an commanding presence. The structured cut offers freedom of movement without compromising the line. Subtle graphic details define a modern and functional aesthetic. Made to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una silueta esencial diseñada para el rendimiento diario. Esta prenda combina un diseño depurado con una presencia imponente. El corte estructurado ofrece libertad de movimiento sin comprometer la línea. Detalles gráficos sobrios definen una estética moderna y funcional. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Available with worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Disponible con envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/868/8685a77884f4f5813b4defe8c9652453_preview.png"
  ],
@@ -20,17 +34,19 @@
  "id": "printful-484192500",
  "img_checked": "2026-11-25",
  "look": [
-  "interestprint-design-washed-drop-shoulder-t-shirt",
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "printful-359535579",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "",
- "name_en": "Capucha Under Armour Sweatshirt · Black",
- "name_es": "Sudadera Capucha Under Armour · Negro",
+ "name_en": "Immortal Warrior Hooded Sweatshirt",
+ "name_es": "Sudadera con Capucha Immortal Warrior",
  "needs_review": false,
+ "needs_studio": true,
+ "page": true,
  "price_usd": 88.99,
- "rank": 105,
+ "rank": 162,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",
@@ -46,7 +62,7 @@
   "8258205_19726"
  ],
  "source_title": "Sudadera con capucha DPF & Under Armour Immortal Warrior 144",
- "stripe_payment_link": "https://buy.stripe.com/4gMdRa4UY9yI0I60Y61gV3c",
+ "stripe_payment_link": "https://buy.stripe.com/3cI9AUdruh1a2QefT01gW42",
  "supplier": "Printful",
  "supplier_id": "484192500",
  "visual_verified": true

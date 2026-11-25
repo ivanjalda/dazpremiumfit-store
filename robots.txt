@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /scripts/
 Disallow: /data/suppliers/
-Sitemap: https://ivanjalda.github.io/dazpremiumfit-store/sitemap.xml
+Sitemap: https://dazpremiumfit.com/sitemap.xml

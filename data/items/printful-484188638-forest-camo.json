@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Forest Camo",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "8.5oz Midweight",
  "ai_priority": true,
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style lacking a real studio depth or campaign feel.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printful-484188638",
  "color": "Forest Camo",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "Commanding presence in every movement. Clean silhouette engineered for absolute control. Refined aesthetics defining the standard of modern performance. Each piece is crafted to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Presencia imponente en cada movimiento. Silueta limpia diseñada para un control absoluto. Estética depurada que define el estándar del rendimiento moderno. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· 8.5oz midweight pullover hoodie\n· Made-to-order piece\n· Worldwide shipping",
+ "details_es": "· Sudadera con capucha de gramaje medio de 8.5oz\n· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/8a0/8a0b1f8e69df7dbd2bcc44992545f66e_preview.png"
  ],
@@ -20,17 +35,19 @@
  "id": "printful-484188638-forest-camo",
  "img_checked": "2026-11-25",
  "look": [
-  "interestprint-design-washed-drop-shoulder-t-shirt",
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "printful-359535579",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "",
- "name_en": "Capucha Immortal Warrior Sweatshirt · Forest Camo",
- "name_es": "Sudadera Capucha Immortal Warrior · Forest Camo",
+ "name_en": "Immortal Warrior Hoodie · Forest Camo",
+ "name_es": "Sudadera con Capucha Immortal Warrior · Forest Camo",
  "needs_review": false,
+ "needs_studio": true,
+ "page": true,
  "price_usd": 54.99,
- "rank": 140,
+ "rank": 200,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",
@@ -52,7 +69,7 @@
   "8446291_53799"
  ],
  "source_title": "Sudadera con capucha DPF Immortal Warrior de camuflaje",
- "stripe_payment_link": "https://buy.stripe.com/5kQ28sevy26gaiGbCK1gV3L",
+ "stripe_payment_link": "https://buy.stripe.com/3cI8wQ1IMbGQduS8qy1gX0w",
  "supplier": "Printful",
  "supplier_id": "484188638-forest-camo",
  "visual_verified": true

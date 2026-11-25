@@ -16,7 +16,7 @@
   "hombre/camiseta"
  ],
  "cg": "t-limpiador-facial-de-carbon-daz-premium-fit",
- "color": "",
+ "color": "Black",
  "created": "2026-11-25",
  "desc_en": "This charcoal facial cleanser is designed to provide a fresh and clean feeling on the skin. Its formula removes accumulated daily dirt and makeup. It contains natural ingredients for daily care. It helps keep skin soft and non-dry after every wash. It serves as an excellent companion for the post-workout routine, effectively removing sweat. Each piece is made to order with worldwide shipping available.",
  "desc_es": "Este limpiador facial de carbón está diseñado para brindar una sensación de frescura y limpieza en la piel. Su fórmula elimina la suciedad y el maquillaje acumulados durante el día. Contiene ingredientes naturales para el cuidado diario. Ayuda a mantener la piel suave y sin sensación de sequedad tras cada lavado. Es un excelente complemento para la rutina posterior al entrenamiento, eliminando el sudor eficazmente. Cada pieza se elabora bajo pedido y cuenta con envío a todo el mundo.",
@@ -27,22 +27,23 @@
  ],
  "draft": true,
  "fam": "limpiador-facial-carbon",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-limpiador-facial-de-carbon-daz-premium-fit",
  "look": [
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
- "material": "",
+ "material": "Organic Aloe Vera Juice, Vegetable Glycerin, Coconut Oil Ethers, Cocamidopropyl Betaine, Kosher Vegetable Glycerin, Guar Gum, Activated Charcoal, Ethylhexylglycerin, Phenoxyethanol, Organic Tea Tree Essential Oil, Vitamin E",
  "name_en": "Activated Charcoal Facial Cleanser",
  "name_es": "Limpiador Facial de Carbón Activo",
  "needs_review": true,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 24.99,
- "rank": 161,
+ "rank": 22,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado personal > Cosméticos > Cuidado de la piel",
@@ -53,7 +54,7 @@
   "2 oz"
  ],
  "source_title": "Limpiador Facial de Carbón DAZ Premium Fit",
- "stripe_payment_link": "https://buy.stripe.com/28EfZi87adOYaiG7mu1gV46",
+ "stripe_payment_link": "https://buy.stripe.com/28E14ogDG5isduS6iq1gW1M",
  "supplier": "Productifi",
  "supplier_id": "limpiador-facial-de-carbon-daz-premium-fit",
  "visual_verified": true

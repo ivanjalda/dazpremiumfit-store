@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "Black and White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "90% poliéster, 10% elastano",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "High-end campaign imagery with professional lighting and realistic gym context.",
+ "art_score": 9,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "t-dpf-ink-leggings-de-yoga",
  "color": "Negro",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "A bold expression of movement and strength. These leggings feature a high-contrast black and white print, enhanced by subtle graphic details. The high-waisted design and elastic fabric accompany every movement with precision. Ideal for daily training or an impeccable urban ensemble.",
+ "desc_es": "Una expresión audaz de movimiento y fuerza. Estos leggings presentan un estampado de alto contraste en blanco y negro, realzado por detalles gráficos discretos. Su diseño de cintura alta y tejido elástico acompaña cada movimiento con precisión. Ideales para el entrenamiento diario o para un conjunto urbano impecable.",
+ "details_en": "· Composition: 90% polyester and 10% elastane.\n· Snug and elastic fit.\n· High-waisted and ankle-length cut.\n· Soft and breathable fabric.\n· Black and white brushstroke design with DPF graphic details.\n· Made-to-order pieces with worldwide shipping.",
+ "details_es": "· Composición: 90 % poliéster y 10 % elastano.\n· Ajuste ceñido y elástico.\n· Corte de cintura alta y largo hasta el tobillo.\n· Tejido suave y transpirable.\n· Diseño de pinceladas en blanco y negro con detalles gráficos DPF.\n· Piezas elaboradas bajo demanda con envíos a todo el mundo.",
  "display_images": [
   "assets/products/shop/3b2daff2e846cf2d7ce8.jpg",
   "assets/products/shop/ccd3186f923a51e45b4d.jpg",
@@ -21,22 +36,71 @@
  "id": "interestprint-design-yoga-leggings-yj033",
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Ink Yoga Leggings",
- "name_es": "Leggings Ink Yoga",
+ "name_en": "Strength Brushstrokes Leggings",
+ "name_es": "Leggings Pinceladas de Fuerza",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 24.99,
- "rank": 12,
+ "rank": 16,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (cm)",
+   "Waist Width (cm)",
+   "Hip Width (cm)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (cm)",
+   "Ancho de cintura (cm)",
+   "Ancho de cadera (cm)"
+  ],
+  "notes_en": "Garment measurements laid flat. Waist and hip width correspond to half the circumference.",
+  "notes_es": "Medidas de la prenda en plano. El ancho de cintura y cadera corresponden a la mitad del contorno.",
+  "rows": [
+   [
+    "S",
+    "92",
+    "31,5",
+    "42"
+   ],
+   [
+    "M",
+    "95",
+    "34",
+    "44,5"
+   ],
+   [
+    "L",
+    "98",
+    "36,5",
+    "47"
+   ],
+   [
+    "XL",
+    "101",
+    "39",
+    "49,5"
+   ],
+   [
+    "2XL",
+    "104",
+    "41,5",
+    "52"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "S",
@@ -46,7 +110,7 @@
   "2XL"
  ],
  "source_title": "DPF Ink | Leggings de yoga",
- "stripe_payment_link": "https://buy.stripe.com/fZu9AU4UYcKUbmK9uC1gV1H",
+ "stripe_payment_link": "https://buy.stripe.com/14A5kE87a3ak76ugX41gW1G",
  "supplier": "InterestPrint",
  "supplier_id": "design-yoga-leggings-yj033",
  "visual_verified": true

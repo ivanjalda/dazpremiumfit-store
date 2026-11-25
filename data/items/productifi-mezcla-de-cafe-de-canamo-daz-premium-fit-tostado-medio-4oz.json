@@ -15,7 +15,7 @@
   "hombre/camiseta"
  ],
  "cg": "t-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-4oz",
- "color": "",
+ "color": "Marrón",
  "created": "2026-11-25",
  "desc_en": "A medium roast coffee blend combined with organic hemp protein powder. Sourced through fair trade from Central and South America. Smooth and nutty profile with a slightly earthy finish. Rich in protein and essential fatty acids. Manufactured in the USA. Available with worldwide shipping.",
  "desc_es": "Una mezcla de café de tostado medio combinada con proteína de cáñamo orgánica. Obtenido mediante comercio justo de América Central y del Sur. Perfil suave y a nuez con un toque terroso. Rico en proteínas y ácidos grasos esenciales. Fabricado en los Estados Unidos. Disponible con envío a todo el mundo.",
@@ -27,22 +27,23 @@
  ],
  "draft": true,
  "fam": "mezcla-cafe-canamo",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-4oz",
  "look": [
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
- "material": "",
+ "material": "90% USDA Organic Arabica Coffee + 10% USDA Organic Hemp Protein Powder",
  "name_en": "Hemp Coffee Blend",
  "name_es": "Mezcla de Café de Cáñamo",
  "needs_review": true,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 26.99,
- "rank": 182,
+ "rank": 42,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Alimentación, bebida y tabaco > Bebidas > Café",
@@ -53,7 +54,7 @@
   "4 oz"
  ],
  "source_title": "Mezcla de Café de Cáñamo DAZ Premium Fit - Tostado medio 4oz",
- "stripe_payment_link": "https://buy.stripe.com/bJe5kE5Z2cKU8aybCK1gW0j",
+ "stripe_payment_link": "https://buy.stripe.com/6oU6oIbjmdOY62q7mu1gW26",
  "supplier": "Productifi",
  "supplier_id": "mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-4oz",
  "visual_verified": true

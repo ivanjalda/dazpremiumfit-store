@@ -1,16 +1,30 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% cotton",
  "ai_priority": true,
+ "ai_type": "T-shirt",
+ "ai_ver": 2,
+ "art_note": "High-end gym campaign photography with professional lighting and strong masculine aesthetic.",
+ "art_score": 9,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta",
-  "mujer/camisetas-blusas-tops"
+  "hombre/camiseta"
  ],
  "cg": "t-daz-premium-fit-immortal-mindset-camiseta-de-algodon-efecto-lavado",
  "color": "Negro",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "The Immortal Mindset T-shirt defines an imposing presence through its dark wash and structured silhouette. Crafted from lightweight cotton, it offers an impeccable drape that moves naturally with the body. The graphic contrast on the chest adds character while the clean back preserves the sobriety of the design. An essential piece for a seamless transition between training and urban style.",
+ "desc_es": "La camiseta Immortal Mindset define una presencia imponente a través de su lavado oscuro y su silueta estructurada. Confeccionada en algodón ligero, ofrece una caída impecable que acompaña el movimiento con naturalidad. El contraste gráfico en el pecho aporta carácter mientras la espalda limpia preserva la sobriedad del diseño. Una prenda esencial para transición fluida entre el entrenamiento y el estilo urbano.",
+ "details_en": "· Composition: 100% cotton.\n· Feel: soft and lightweight fabric.\n· Fit: relaxed, with dropped shoulders and short sleeves.\n· Neckline: crew neck.\n· Design: black washed effect with white print exclusively on the front and plain back.\n· Care: hand wash or machine wash at a maximum temperature of 45 °C. Do not soak for prolonged periods or use bleach.\n· Made-to-order piece with worldwide shipping.",
+ "details_es": "· Composición: 100 % algodón.\n· Tacto: tejido suave y ligero.\n· Corte: amplio, con hombros caídos y manga corta.\n· Cuello: redondo.\n· Diseño: negro efecto lavado con estampado blanco únicamente en el frontal y espalda lisa.\n· Cuidados: lavar a mano o a máquina con agua a una temperatura máxima de 45 °C. No dejar en remojo durante periodos prolongados ni usar blanqueador.\n· Pieza bajo demanda con envíos a todo el mundo.",
  "display_images": [
   "assets/products/shop/79a3e63c28411cd33d82.jpg",
   "assets/products/shop/102933d4ff2d25d7191d.jpg",
@@ -23,23 +37,79 @@
  "hidden": false,
  "id": "interestprint-design-washed-drop-shoulder-t-shirt",
  "look": [
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "",
- "name_en": "Daz Immortal Mindset Tee",
- "name_es": "Camiseta Daz Immortal Mindset",
+ "name_en": "Immortal Mindset T-Shirt",
+ "name_es": "Camiseta Immortal Mindset",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 22.99,
- "rank": 4,
+ "rank": 5,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Camisetas de manga corta",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (cm)",
+   "Chest Width Flat (cm)",
+   "Length (inches)",
+   "Chest Width Flat (inches)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (cm)",
+   "Ancho de pecho en plano (cm)",
+   "Largo (pulgadas)",
+   "Ancho de pecho en plano (pulgadas)"
+  ],
+  "notes_en": "Chest width is measured flat from side to side, not full circumference. Allow 1-2 cm variance for manual measurement.",
+  "notes_es": "El ancho de pecho se mide de lado a lado con la camiseta en plano, no es el contorno completo. Puede haber diferencias de 1 a 2 cm por medición manual.",
+  "rows": [
+   [
+    "S",
+    "70",
+    "56",
+    "27.6",
+    "22"
+   ],
+   [
+    "M",
+    "72",
+    "58",
+    "28.3",
+    "22.8"
+   ],
+   [
+    "L",
+    "74",
+    "60",
+    "29.1",
+    "23.6"
+   ],
+   [
+    "XL",
+    "76",
+    "62",
+    "29.9",
+    "24.4"
+   ],
+   [
+    "2XL",
+    "78",
+    "64",
+    "30.7",
+    "25.2"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
  "size_guide": [],
  "sizes": [
   "S",
@@ -49,7 +119,7 @@
   "2XL"
  ],
  "source_title": "DAZ Premium Fit Immortal Mindset | Camiseta de algodón efecto lavado",
- "stripe_payment_link": "https://buy.stripe.com/fZu8wQaficKUgH40Y61gV1z",
+ "stripe_payment_link": "https://buy.stripe.com/00weVegDG7qAfD0eOW1gW1v",
  "supplier": "InterestPrint",
  "supplier_id": "design-washed-drop-shoulder-t-shirt",
  "visual_verified": true

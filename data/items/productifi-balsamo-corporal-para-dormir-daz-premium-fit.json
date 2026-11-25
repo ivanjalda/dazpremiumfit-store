@@ -18,7 +18,7 @@
   "mujer/bodies"
  ],
  "cg": "t-balsamo-corporal-para-dormir-daz-premium-fit",
- "color": "",
+ "color": "Natural",
  "created": "2026-11-25",
  "desc_en": "Indulge in a deep hydration treatment designed to restore dry skin. The advanced formula immediately replenishes moisture while natural extracts soothe the skin. Lightweight and fast absorbing, it melts in without leaving greasy residue. Enhanced with essential oils for an exceptional nocturnal sensory experience. Made to order. Available with worldwide shipping.",
  "desc_es": "Disfrute de un tratamiento de hidratación profunda diseñado para restaurar la piel seca. Su fórmula avanzada repone la humedad de manera inmediata mientras los extractos naturales calman la piel. De textura ligera y rápida absorción, se funde sin dejar residuos grasos. Enriquecido con aceites esenciales para una experiencia sensorial nocturna excepcional. Hecho a pedido. Disponible con envío a todo el mundo.",
@@ -29,22 +29,23 @@
  ],
  "draft": true,
  "fam": "balsamo-corporal-dormir",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-balsamo-corporal-para-dormir-daz-premium-fit",
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
   "interestprint-design-custom-womens-high-waist-legging",
-  "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra"
+  "interestprint-design-yoga-top-a6k",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
  ],
- "material": "",
+ "material": "Butyrospermum Parkii (Shea) Butter, Caprylic/capric triglyceride, Emulsifying Wax, Euphorbia cerifera (Candelilla) Wax, Theobroma Cacao (Cocoa) Butter, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Tapioca starch, Lavandula Angustifolia (Lavender) Oil, Cananga Odorata (Ylang Ylang) Flower Oil, Helianthus annuus (Sunflower) Seed Oil, Calendula Officinalis Flower Extract, Helianthus Annuus (Sunflower) Flower Extract, Aloe Barbadensis Leaf Extract, Chondrus Crispus Extract, Althaea Officinalis Root Extract, d-alpha-tocopherol, Anthemis Nobilis (Chamomile) Flower Oil, Phenoxyethanol, Caprylyl Glycol",
  "name_en": "Night Body Balm",
  "name_es": "Bálsamo Corporal de Noche",
  "needs_review": false,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 27.99,
- "rank": 219,
+ "rank": 73,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Servicios > Servicios personales > Belleza y cuidado personal",
@@ -55,7 +56,7 @@
   "2.5 oz"
  ],
  "source_title": "Bálsamo corporal para dormir DAZ Premium Fit",
- "stripe_payment_link": "https://buy.stripe.com/cNi28sfzCh1aeyWbCK1gW0U",
+ "stripe_payment_link": "https://buy.stripe.com/6oUcN69beeT2duS7mu1gW2B",
  "supplier": "Productifi",
  "supplier_id": "balsamo-corporal-para-dormir-daz-premium-fit",
  "visual_verified": true

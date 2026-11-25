@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "Red and Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "94% polyester, 6% elastane",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "Professional gym studio campaign imagery showcasing fit and details clearly.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dpf-wire-leggings-de-cintura-alta",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Striking design combining a deep black base with a red barbed wire print. High-waisted silhouette featuring a wide waistband and a full-length fitted cut. Detailed with graphic branding at the front and back. A versatile piece crafted for the transition between training and daily routines. Made to order with worldwide shipping.",
+ "desc_es": "Diseño con carácter que combina un fondo negro intenso con un estampado rojo de alambre de espino. Silueta de talle alto con cinturilla ancha y corte ceñido de largo completo. Incorpora logotipo gráfico en la parte delantera y trasera. Pieza versátil diseñada para la transición entre el entrenamiento y la actividad diaria. Disponible bajo demanda con envío a todo el mundo.",
+ "details_en": "· Composition: 94% polyester and 6% elastane.\n· Cut: high waist, wide waistband, and full length.\n· Fit: fitted and stretchy.\n· Design: red on black print and DPF graphic details.\n· Care: machine wash cold at max 40 °C, do not bleach, iron with a protective cloth, do not tumble dry, avoid direct sunlight when drying.\n· Made to order and worldwide shipping.",
+ "details_es": "· Composición: 94 % poliéster y 6 % elastano.\n· Corte: cintura alta, cinturilla ancha y largo completo.\n· Ajuste: ceñido y elástico.\n· Diseño: estampado rojo sobre negro y detalles gráficos DPF.\n· Cuidados: lavar a máquina con agua fría a un máximo de 40 °C, no usar blanqueador con cloro, planchar con paño protector, no utilizar secadora y evitar el sol directo durante el secado.\n· Fabricación bajo demanda y envío mundial.",
  "display_images": [
   "assets/products/shop/00580f69581729d91c2b.jpg",
   "assets/products/shop/fb81b926e81d1518b2ea.jpg",
@@ -22,22 +36,71 @@
  "id": "interestprint-descarga-63-womens-high-waisted-leggings-model-l36",
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Wire Cintura Alta Leggings · Red",
- "name_es": "Leggings Wire Cintura Alta · Rojo",
+ "name_en": "Red Wire Leggings",
+ "name_es": "Leggings Red Wire",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 40.99,
- "rank": 67,
+ "rank": 122,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist",
+   "Hip"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura",
+   "Cadera"
+  ],
+  "notes_en": "Garment measurements in centimeters. Length is measured from waist to hem. Variations of 2-3 cm may occur due to manual measurement and manufacturing.",
+  "notes_es": "Medidas de referencia de la prenda en centímetros. El largo se mide desde la cintura hasta el bajo. Puede haber variaciones de 2-3 cm por la medición manual y el proceso de confección.",
+  "rows": [
+   [
+    "S",
+    "95.0",
+    "63.0",
+    "78.0"
+   ],
+   [
+    "M",
+    "99.0",
+    "66.0",
+    "82.0"
+   ],
+   [
+    "L",
+    "102.5",
+    "69.0",
+    "86.0"
+   ],
+   [
+    "XL",
+    "104.3",
+    "73.0",
+    "90.0"
+   ],
+   [
+    "2XL",
+    "104.3",
+    "78.0",
+    "96.0"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "S",
@@ -47,7 +110,7 @@
   "2XL"
  ],
  "source_title": "DPF Red Wire | Leggings de cintura alta",
- "stripe_payment_link": "https://buy.stripe.com/28E28scnqdOYeyW9uC1gV2A",
+ "stripe_payment_link": "https://buy.stripe.com/cNi5kE9beeT2cqOeOW1gW3o",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-63-womens-high-waisted-leggings-model-l36",
  "visual_verified": true

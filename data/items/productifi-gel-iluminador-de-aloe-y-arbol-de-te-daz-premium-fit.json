@@ -15,7 +15,7 @@
   "hombre/camiseta"
  ],
  "cg": "t-gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit",
- "color": "",
+ "color": "Clear",
  "created": "2026-11-25",
  "desc_en": "Designed to balance and refresh the skin, this radiance gel helps reduce visible signs and the appearance of redness and blemishes. Its advanced formula combines aloe vera gel, black willow bark oil, cucumber extract, sweet almond oil, and tea tree oil. Each component works in harmony to maintain deep hydration and promote a visibly renewed complexion. Enjoy soft, nourished, and purified skin every day. Made-to-order pieces. Worldwide shipping available.",
  "desc_es": "Diseñado para equilibrar y refrescar la piel, este gel iluminador ayuda a reducir los signos visibles y la apariencia de enrojecimiento e imperfecciones. Su fórmula avanzada combina gel de aloe vera, aceite de corteza de sauce negro, extracto de pepino, aceite de almendras dulces y aceite de árbol de té. Cada componente trabaja en sintonía para mantener la hidratación profunda y promover una tez visiblemente renovada. Disfrute de una piel suave, nutrida y purificada todos los días. Made-to-order pieces. Worldwide shipping available.",
@@ -26,22 +26,23 @@
  ],
  "draft": true,
  "fam": "gel-iluminador-aloe",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit",
  "look": [
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
- "material": "",
+ "material": "Aloe Vera Gel",
  "name_en": "Aloe and Tea Tree Radiance Gel",
  "name_es": "Gel Iluminador Aloe y Árbol de Té",
  "needs_review": true,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 23.99,
- "rank": 192,
+ "rank": 52,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Servicios > Servicios personales > Belleza y cuidado personal",
@@ -52,7 +53,7 @@
   "2.2 fl oz"
  ],
  "source_title": "Gel iluminador de aloe y árbol de té DAZ Premium Fit",
- "stripe_payment_link": "https://buy.stripe.com/6oU9AU5Z2aCM0I636e1gW0t",
+ "stripe_payment_link": "https://buy.stripe.com/28EaEY87aeT262qeOW1gW2g",
  "supplier": "Productifi",
  "supplier_id": "gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit",
  "visual_verified": true

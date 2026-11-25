@@ -1,49 +1,50 @@
 {
   "key": "",
   "owner": "",
-  "updated": "2026-11-25 19:20 UTC",
+  "updated": "2026-11-25 23:30 UTC",
   "totals": {
     "catalogo": 299,
-    "a_la_vista": 203,
-    "disenos_a_la_vista": 178,
-    "ocultos": 96,
-    "ia_revisados": 91,
-    "ia_pendientes": 208,
-    "con_boton_de_pago": 185,
-    "sin_boton_de_pago": 18,
-    "seccion_dudosa": 56,
+    "a_la_vista": 207,
+    "disenos_a_la_vista": 182,
+    "ocultos": 92,
+    "ia_revisados": 142,
+    "ia_pendientes": 157,
+    "con_boton_de_pago": 206,
+    "sin_boton_de_pago": 1,
+    "seccion_dudosa": 59,
     "ventas_30_dias": 0,
     "visitas_30_dias": 0,
     "fotos_de_campana": 0
   },
   "reasons": {
-    "Oculto": 1,
-    "Borrador": 95
+    "Borrador": 91,
+    "Oculto": 1
   },
   "suppliers": {
+    "Printful": {
+      "visibles": 18,
+      "ocultos": 0
+    },
     "InterestPrint": {
       "visibles": 44,
       "ocultos": 19
     },
     "Productifi": {
-      "visibles": 117,
-      "ocultos": 76
+      "visibles": 120,
+      "ocultos": 73
     },
     "Printify": {
       "visibles": 25,
       "ocultos": 0
-    },
-    "Printful": {
-      "visibles": 17,
-      "ocultos": 1
     }
   },
   "guard": [
     {
       "date": "2026-11-25",
-      "n": 1,
+      "n": 2,
       "fixes": [
-        "Café Mezcla Brasileña: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras"
+        "Café Mezcla Brasileña: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
+        "Café Fruity Bloom Tueste Ligero: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras"
       ]
     }
   ],
@@ -51,100 +52,12 @@
   "top_views": [],
   "review": [
     {
-      "id": "productifi-champu-sin-agua-para-perros-daz-premium-fit",
-      "n": "Champú Sin Agua para Perros",
-      "s": "Productifi",
-      "img": "assets/products/shop/8e0145282279f29d3708.jpg",
+      "id": "printful-359535579",
+      "n": "Esterilla de Yoga White",
+      "s": "Printful",
+      "img": "https://files.cdn.printful.com/files/8ce/8ced79023d30496c30e2e80d171ba19b_preview.png",
       "c": "hombre/camiseta",
-      "pr": 25.99
-    },
-    {
-      "id": "productifi-jabon-de-sueno-daz-premium-fit",
-      "n": "Jabón Corporal Slumber",
-      "s": "Productifi",
-      "img": "assets/products/shop/736b51b424f5aa70eaab.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99
-    },
-    {
-      "id": "productifi-aceite-facial-nutritivo-de-jojoba-daz-premium-fit",
-      "n": "Aceite Facial Nutritivo de Jojoba",
-      "s": "Productifi",
-      "img": "assets/products/shop/30165f73103b0c129085.jpg",
-      "c": "hombre/camiseta",
-      "pr": 27.99
-    },
-    {
-      "id": "productifi-toallitas-dentales-para-perros-daz-premium-fit",
-      "n": "Toallitas Dentales para Perros",
-      "s": "Productifi",
-      "img": "assets/products/shop/76c43b5bd359f96f92c2.jpg",
-      "c": "hombre/camiseta",
-      "pr": 25.99
-    },
-    {
-      "id": "productifi-toallitas-para-ojos-de-perro-daz-premium-fit",
-      "n": "Toallitas para Ojos DAZ",
-      "s": "Productifi",
-      "img": "assets/products/shop/40489fe2871f8117f10a.jpg",
-      "c": "hombre/camiseta",
-      "pr": 25.99
-    },
-    {
-      "id": "productifi-suero-iluminador-pdrn-daz-premium-fit",
-      "n": "Suero Iluminador PDRN DAZ",
-      "s": "Productifi",
-      "img": "assets/products/shop/261a2520e5bcecee41ad.jpg",
-      "c": "hombre/camiseta",
-      "pr": 28.99
-    },
-    {
-      "id": "productifi-suero-antioxidante-de-te-verde-daz-premium-fit",
-      "n": "Suero Antioxidante de Té Verde",
-      "s": "Productifi",
-      "img": "assets/products/shop/67d752a7663f84da5f1e.jpg",
-      "c": "hombre/camiseta",
-      "pr": 27.99
-    },
-    {
-      "id": "productifi-suero-daz-premium-fit-de-niacinamida-al-10",
-      "n": "Suero Facial de Niacinamida",
-      "s": "Productifi",
-      "img": "assets/products/shop/17d2052a477898a77739.jpg",
-      "c": "hombre/camiseta",
-      "pr": 27.99
-    },
-    {
-      "id": "productifi-tonico-perfeccionador-de-poros-con-hamamelis-daz-premium-fit",
-      "n": "Tónico Perfeccionador de Poros",
-      "s": "Productifi",
-      "img": "assets/products/shop/8a7846d04bd6560fcbae.jpg",
-      "c": "hombre/camiseta",
-      "pr": 29.99
-    },
-    {
-      "id": "productifi-barro-del-mar-muerto-daz-premium-fit",
-      "n": "Barro del Mar Muerto DAZ",
-      "s": "Productifi",
-      "img": "assets/products/shop/12dc9073aa23ea5335d9.jpg",
-      "c": "hombre/camiseta",
-      "pr": 29.99
-    },
-    {
-      "id": "productifi-colombia-single-origin-coffee-light-medium-roast",
-      "n": "Café Origen Único Colombia",
-      "s": "Productifi",
-      "img": "assets/products/shop/13382b822f9214c50338.jpg",
-      "c": "hombre/camiseta",
-      "pr": 34.99
-    },
-    {
-      "id": "productifi-crema-recuperadora-daz-premium-fit",
-      "n": "Crema de Recuperación Esencial",
-      "s": "Productifi",
-      "img": "assets/products/shop/bd093da871a3d62b258b.jpg",
-      "c": "hombre/camiseta",
-      "pr": 34.99
+      "pr": 84.99
     },
     {
       "id": "productifi-hyaluronic-acid-serum",
@@ -169,6 +82,14 @@
       "img": "assets/products/shop/99d2b894b474dcb57d5c.jpg",
       "c": "hombre/camiseta",
       "pr": 24.99
+    },
+    {
+      "id": "productifi-champu-sin-agua-para-perros-daz-premium-fit",
+      "n": "Champú Sin Agua para Perros",
+      "s": "Productifi",
+      "img": "assets/products/shop/8e0145282279f29d3708.jpg",
+      "c": "hombre/camiseta",
+      "pr": 25.99
     },
     {
       "id": "productifi-aceite-facial-gua-sha-daz-premium-fit",
@@ -227,11 +148,19 @@
       "pr": 23.99
     },
     {
+      "id": "productifi-jabon-de-sueno-daz-premium-fit",
+      "n": "Jabón Corporal Slumber",
+      "s": "Productifi",
+      "img": "assets/products/shop/736b51b424f5aa70eaab.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
+    },
+    {
       "id": "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
       "n": "Café Fruity Bloom Tueste Ligero",
       "s": "Productifi",
       "img": "assets/products/shop/1da030026ae006d05e53.jpg",
-      "c": "hombre/camiseta",
+      "c": "hombre/bolsos-carteras",
       "pr": 26.99
     },
     {
@@ -308,17 +237,41 @@
     },
     {
       "id": "productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-4oz",
-      "n": "Café con Hongos Melena y Chaga",
+      "n": "Café con Hongos Melena y Chaga · Marrón",
       "s": "Productifi",
       "img": "assets/products/shop/0dc582d2cac28e85991c.jpg",
       "c": "hombre/camiseta",
       "pr": 26.99
     },
     {
+      "id": "productifi-aceite-facial-nutritivo-de-jojoba-daz-premium-fit",
+      "n": "Aceite Facial Nutritivo de Jojoba",
+      "s": "Productifi",
+      "img": "assets/products/shop/30165f73103b0c129085.jpg",
+      "c": "hombre/camiseta",
+      "pr": 27.99
+    },
+    {
+      "id": "productifi-toallitas-dentales-para-perros-daz-premium-fit",
+      "n": "Toallitas Dentales para Perros",
+      "s": "Productifi",
+      "img": "assets/products/shop/76c43b5bd359f96f92c2.jpg",
+      "c": "hombre/camiseta",
+      "pr": 25.99
+    },
+    {
       "id": "productifi-toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
       "n": "Toallitas Limpiadoras de Oídos",
       "s": "Productifi",
       "img": "assets/products/shop/a282e7b22473826c652b.jpg",
+      "c": "hombre/camiseta",
+      "pr": 25.99
+    },
+    {
+      "id": "productifi-toallitas-para-ojos-de-perro-daz-premium-fit",
+      "n": "Toallitas para Ojos DAZ",
+      "s": "Productifi",
+      "img": "assets/products/shop/40489fe2871f8117f10a.jpg",
       "c": "hombre/camiseta",
       "pr": 25.99
     },
@@ -379,6 +332,14 @@
       "pr": 30.99
     },
     {
+      "id": "productifi-suero-iluminador-pdrn-daz-premium-fit",
+      "n": "Suero Iluminador PDRN DAZ",
+      "s": "Productifi",
+      "img": "assets/products/shop/261a2520e5bcecee41ad.jpg",
+      "c": "hombre/camiseta",
+      "pr": 28.99
+    },
+    {
       "id": "productifi-crema-de-sebo-limoncillo-y-lavanda-daz-premium-fit",
       "n": "Crema de Sebo Limoncillo y Lavanda",
       "s": "Productifi",
@@ -403,6 +364,22 @@
       "pr": 28.99
     },
     {
+      "id": "productifi-suero-antioxidante-de-te-verde-daz-premium-fit",
+      "n": "Suero Antioxidante de Té Verde",
+      "s": "Productifi",
+      "img": "assets/products/shop/67d752a7663f84da5f1e.jpg",
+      "c": "hombre/camiseta",
+      "pr": 27.99
+    },
+    {
+      "id": "productifi-suero-daz-premium-fit-de-niacinamida-al-10",
+      "n": "Suero Facial de Niacinamida",
+      "s": "Productifi",
+      "img": "assets/products/shop/17d2052a477898a77739.jpg",
+      "c": "hombre/camiseta",
+      "pr": 27.99
+    },
+    {
       "id": "productifi-suero-de-niacinamida-al-10-daz-premium-fit",
       "n": "Suero Niacinamida Diez Por Ciento",
       "s": "Productifi",
@@ -415,6 +392,14 @@
       "n": "Tónico equilibrante suave",
       "s": "Productifi",
       "img": "assets/products/shop/467f2424ff0b7e7f0f3d.jpg",
+      "c": "hombre/camiseta",
+      "pr": 29.99
+    },
+    {
+      "id": "productifi-tonico-perfeccionador-de-poros-con-hamamelis-daz-premium-fit",
+      "n": "Tónico Perfeccionador de Poros",
+      "s": "Productifi",
+      "img": "assets/products/shop/8a7846d04bd6560fcbae.jpg",
       "c": "hombre/camiseta",
       "pr": 29.99
     },
@@ -459,8 +444,16 @@
       "pr": 36.99
     },
     {
+      "id": "productifi-barro-del-mar-muerto-daz-premium-fit",
+      "n": "Barro del Mar Muerto DAZ",
+      "s": "Productifi",
+      "img": "assets/products/shop/12dc9073aa23ea5335d9.jpg",
+      "c": "hombre/camiseta",
+      "pr": 29.99
+    },
+    {
       "id": "productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-16oz",
-      "n": "Café con Hongos Melena y Chaga",
+      "n": "Café con Hongos Melena y Chaga · Marrón",
       "s": "Productifi",
       "img": "assets/products/shop/1505cde8869d992b1a5b.jpg",
       "c": "hombre/camiseta",
@@ -473,6 +466,22 @@
       "img": "assets/products/shop/f5e17f2f7eabf3ad31b6.jpg",
       "c": "hombre/camiseta",
       "pr": 30.99
+    },
+    {
+      "id": "productifi-colombia-single-origin-coffee-light-medium-roast",
+      "n": "Café Origen Único Colombia",
+      "s": "Productifi",
+      "img": "assets/products/shop/13382b822f9214c50338.jpg",
+      "c": "hombre/camiseta",
+      "pr": 34.99
+    },
+    {
+      "id": "productifi-crema-recuperadora-daz-premium-fit",
+      "n": "Crema de Recuperación Esencial",
+      "s": "Productifi",
+      "img": "assets/products/shop/bd093da871a3d62b258b.jpg",
+      "c": "hombre/camiseta",
+      "pr": 34.99
     },
     {
       "id": "productifi-cafe-con-miel-de-manuka-daz-premium-fit-16oz",
@@ -497,18 +506,25 @@
       "img": "assets/products/shop/5261ee6f01aa707b7440.jpg",
       "c": "hombre/camiseta",
       "pr": 245.0
+    },
+    {
+      "id": "productifi-jabon-breathe-clear-daz-premium-fit",
+      "n": "Jabón Breathe Clear",
+      "s": "Productifi",
+      "img": "assets/products/shop/a4f22a2077c471ff6452.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
+    },
+    {
+      "id": "productifi-jabon-rico-en-sandalo-daz-premium-fit",
+      "n": "Jabón de Sándalo Premium",
+      "s": "Productifi",
+      "img": "assets/products/shop/c8a063a079780bdbda66.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
     }
   ],
   "hidden": [
-    {
-      "id": "printful-359535579",
-      "n": "Esterilla de Yoga White",
-      "s": "Printful",
-      "img": "https://files.cdn.printful.com/files/8ce/8ced79023d30496c30e2e80d171ba19b_preview.png",
-      "c": "hombre/camiseta",
-      "pr": 84.99,
-      "why": "Oculto"
-    },
     {
       "id": "interestprint-design-womens-crop-rugby-jersey",
       "n": "Camiseta Crop Rugby · Blanco",
@@ -642,24 +658,6 @@
       "img": "assets/products/shop/449f1bc80a8933775098.jpg",
       "c": "decor",
       "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-jabon-breathe-clear-daz-premium-fit",
-      "n": "Pieza Jabón Breathe Clear",
-      "s": "Productifi",
-      "img": "assets/products/shop/a4f22a2077c471ff6452.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-jabon-rico-en-sandalo-daz-premium-fit",
-      "n": "Pieza Jabón Rico Sándalo",
-      "s": "Productifi",
-      "img": "assets/products/shop/c8a063a079780bdbda66.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -813,7 +811,7 @@
       "img": "assets/products/shop/92027388ee772b806a83.jpg",
       "c": "hombre/camiseta",
       "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
+      "why": "Oculto"
     },
     {
       "id": "productifi-ashwagandha-plus-daz-premium-fit",
@@ -1293,15 +1291,6 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-batido-de-verduras-ultra-limpio",
-      "n": "Pieza Batido Verduras Ultra",
-      "s": "Productifi",
-      "img": "assets/products/shop/716d06d1bb2a78d52046.jpg",
-      "c": "hombre/camiseta",
-      "pr": 47.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-mezcla-de-champinones-fermentados-daz-premium-fit",
       "n": "Vitaminas Mezcla Champiñones",
       "s": "Productifi",
@@ -1366,13 +1355,48 @@
     }
   ],
   "log": [
+    "Stripe: enlace normal listo para printful-484200714-stone",
+    "Stripe: enlace normal listo para printify-botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para-hidratarse-en-movimiento",
+    "Stripe: enlace normal listo para printify-elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-pebble-blue",
+    "Stripe: enlace normal listo para printify-elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-white",
+    "Stripe: enlace normal listo para printful-484188638-black-camo",
+    "Stripe: enlace normal listo para printful-484188638-forest-camo",
+    "Stripe: enlace normal listo para productifi-polvo-de-perla-de-abeja-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-advanced-whey-protein-chocolate",
+    "Stripe: enlace normal listo para productifi-plan-basico-de-20-mes",
+    "Stripe: enlace normal listo para productifi-plan-premium-de-50-mes",
+    "Stripe: enlace normal listo para interestprint-design-womens-crop-rugby-jersey",
+    "Stripe: enlace normal listo para interestprint-design-womens-crop-rugby-jersey-1",
+    "Stripe: enlace normal listo para interestprint-design-womens-crop-rugby-jersey-2",
+    "Stripe: enlace normal listo para interestprint-design-womens-crop-rugby-jersey-3",
+    "Stripe: enlace normal listo para interestprint-aesthetic-icon-womens-racerback-tank-top-model-t60",
+    "Stripe: enlace normal listo para interestprint-design-womens-v-neck-long-sleeve-sun-protection-top",
+    "Stripe: enlace normal listo para productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-jabon-de-acido-kojico-y-curcuma",
+    "Stripe: enlace normal listo para productifi-gotas-de-azul-de-metileno-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-capsulas-de-vinagre-de-sidra-de-manzana-daz-premium-fit",
+    "Stripe: enlace normal listo para interestprint-descarga-83-sleeveless-yoga-crop-active-tank-tops",
+    "Stripe: enlace normal listo para productifi-gotas-dieteticas-ultra-daz-premium-fit-1-oz",
+    "Stripe: enlace normal listo para interestprint-descarga-31-racerback-sports-bra",
+    "Stripe: enlace normal listo para productifi-ashwagandha-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-suero-de-vitamina-c-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-jabon-breathe-clear-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-jabon-rico-en-sandalo-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-gotas-de-mango-africano-daz-premium-fit-60-ml-2-fl-oz",
+    "Stripe: enlace normal listo para productifi-mezcla-de-hierba-de-cabra-en-celo-daz-premium-fit",
+    "Stripe: enlace normal listo para interestprint-conjunto-tough-bitch-womens-short-yoga-setmodelsets-03",
+    "Stripe: enlace normal listo para productifi-salud-intestinal-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-gomitas-de-curcuma-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-tiras-para-la-resaca-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-frutas-y-verduras-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-maca-plus-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-apoyo-al-higado-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-keto-bhb-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-soporte-hepatico-daz-premium-fit",
     "Stripe: enlace normal listo para productifi-soporte-normal-de-azucar-en-sangre",
-    "Stripe: enlace normal listo para interestprint-design-yoga-zipper-vest",
     "Stripe: enlace normal listo para productifi-max-detox-daz-premium-fitacai-detox",
     "Stripe: enlace normal listo para productifi-raiz-de-remolacha",
-    "Stripe: enlace normal listo para productifi-balsamo-para-patas-de-perro-daz-premium-fit",
     "Stripe: enlace normal listo para interestprint-descarga-79-cross-back-sports-bra",
-    "Stripe: enlace normal listo para productifi-manteca-de-karite-cruda-daz-premium-fit",
     "Stripe: enlace normal listo para interestprint-ivan21-backless-split-knotted-yoga-active-tank-tops",
     "Stripe: enlace normal listo para productifi-aceite-capilar-para-la-salud-del-cuero-cabelludo-y-el-crecimiento-del-cabello-daz-premium-fit",
     "Stripe: enlace normal listo para productifi-ashwagandha-plus-daz-premium-fit",
@@ -1384,46 +1408,11 @@
     "Stripe: enlace normal listo para productifi-berberine-daz-premium-fit",
     "Stripe: enlace normal listo para productifi-formula-para-dormir-daz-premium-fit",
     "Stripe: enlace normal listo para productifi-probiotic-20-billion-daz-premium-fit",
-    "Stripe: enlace normal listo para interestprint-top-dpf",
     "Stripe: enlace normal listo para productifi-male-enhancement-daz-premium-fit",
     "Stripe: enlace normal listo para productifi-gomitas-de-vinagre-de-sidra-de-manzana-daz-premium-fit-60-gomitas",
-    "Stripe: enlace normal listo para productifi-apoyo-conjunto-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-balsamo-corporal-elevador-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-balsamo-corporal-energetico-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-balsamo-corporal-para-dormir-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-balsamo-corporal-relajante-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-balsamo-corporal-sin-perfume-daz-premium-fit",
     "Stripe: enlace normal listo para productifi-complejo-de-bayas-de-acai-daz-premium-fit-60-capsulas",
-    "Stripe: enlace normal listo para productifi-tiras-de-apoyo-para-la-libido-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-cafe-con-miel-de-manuka-daz-premium-fit-4oz",
-    "Stripe: enlace normal listo para productifi-colostrum-powder-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-4oz",
-    "Stripe: enlace normal listo para productifi-ginkgo-biloba-ginseng-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-musgo-marino-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-super-quemador-de-grasa-con-mct-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-apoyo-a-la-prostata-daz-premium-fit",
-    "Stripe: enlace normal listo para interestprint-descarga-81-deep-v-neck-racerback-cutout-active-crop-tops",
-    "Stripe: enlace normal listo para productifi-5-htp",
-    "Stripe: enlace normal listo para productifi-spirulina-powder-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-gomitas-de-apoyo-para-las-articulaciones-daz-premium-fit-adultos",
-    "Stripe: enlace normal listo para productifi-gel-crema-hidro-equilibrante-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-hidratante-de-sandia-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-crema-calmante-para-la-piel-del-perro-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-resveratrol-50-600mg-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-ayurvedic-complex",
-    "Stripe: enlace normal listo para productifi-cafe-mezcla-brasilena-4oz-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-polvo-de-remolacha-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-apoyo-para-huesos-y-corazon-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-soporte-para-huesos-y-corazon-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-colostrum-capsules-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-complejo-de-extracto-de-hongos-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-formula-nootropica-para-el-cerebro-y-la-concentracion-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-hidratante-antienvejecimiento-para-piel-normal-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-hidratante-antienvejecimiento-para-pieles-sensibles-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-perla-de-abeja-daz-premium-fit",
     "Stripe: 250 productos con enlace de pago nuevo en esta hora",
-    "⏱ enlaces de pago: 238 s",
+    "⏱ enlaces de pago: 148 s",
     "Cambio actualizado: 1 USD = 0.9145 EUR",
     "Listo."
   ]

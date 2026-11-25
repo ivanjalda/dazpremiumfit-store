@@ -15,7 +15,7 @@
   "hombre/camiseta"
  ],
  "cg": "t-de-hidratacion-de-la-piel-daz-premium-fit",
- "color": "",
+ "color": "white",
  "created": "2026-11-25",
  "desc_en": "Discover the hydrating power of hyaluronic acid with our advanced cream. Designed to retain essential moisture, this formula promotes a smoother, softer, and more radiant appearance. It contributes to improved skin texture and supports natural skin elasticity with regular use. Ideal to complement your daily personal care routine, delivering the deep nourishment your skin requires.",
  "desc_es": "Descubra el poder hidratante del ácido hialurónico con nuestra crema avanzada. Diseñada para retener la humedad esencial, esta fórmula favorece una apariencia más suave, tersa y radiante. Contribuye a mejorar la textura cutánea y respalda la elasticidad natural de la piel con el uso regular. Ideal para complementar su rutina diaria de cuidado personal, proporcionando la nutrición profunda que su piel necesita.",
@@ -26,22 +26,23 @@
  ],
  "draft": true,
  "fam": "crema-hidratacion-la",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-crema-de-hidratacion-de-la-piel-daz-premium-fit",
  "look": [
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
- "material": "",
+ "material": "Hyaluronic Acid Cream",
  "name_en": "Facial and Body Hydrating Cream",
  "name_es": "Crema Hidratante Facial y Corporal",
  "needs_review": true,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 27.99,
- "rank": 261,
+ "rank": 108,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado personal > Cosméticos > Cuidado de la piel",
@@ -52,6 +53,7 @@
   "2 oz"
  ],
  "source_title": "Crema de Hidratación de la piel DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/fZueVe4UY6mw9eC8qy1gW3a",
  "supplier": "Productifi",
  "supplier_id": "crema-de-hidratacion-de-la-piel-daz-premium-fit",
  "visual_verified": true

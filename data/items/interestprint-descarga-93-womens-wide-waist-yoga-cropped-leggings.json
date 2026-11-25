@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "poliéster",
+ "ai_type": "leggings",
+ "ai_ver": 2,
+ "art_note": "Lifestyle photography inside a modern gym is high quality and professional, elevating the vibrant multicolored print. Flat product shots look slightly artificia",
+ "art_score": 8,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +20,16 @@
  "cg": "t-dpf-kaleido-leggings-de-yoga-de-cintura-alta",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Elevate your practice with a chromatic explosion of kaleidoscopic inspiration. These high-waisted leggings combine a vibrant design with a soft, enveloping touch that adapts to the body's natural movement. The signature logo at the front and graphic detail at the back define a bold attitude. Ideal for the training session or transitioning into the rest of the day with total elegance. Made-to-order pieces with worldwide shipping.",
+ "desc_es": "Eleva tu práctica con una explosión cromática de inspiración caleidoscópica. Estos leggings de cintura alta combinan un diseño vibrante con un tacto suave y envolvente que se adapta al movimiento natural del cuerpo. El logotipo distintivo en el frontal y el gráfico en la parte posterior definen una actitud audaz. Ideales para la sesión de entrenamiento o para la transición hacia el resto del día con total elegancia. Piezas elaboradas bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Material: polyester\n· High and wide waistband\n· Multicolor all-over print\n· DPF graphic details\n· Hand or machine wash cold, max 45 °C\n· Do not bleach, do not tumble dry\n· Made to order",
+ "details_es": "· Material: poliéster\n· Cintura alta y ancha\n· Estampado integral multicolor\n· Detalles gráficos DPF\n· Lavar a mano o a máquina con agua fría, máximo 45 °C\n· No usar lejía, no secar en secadora\n· Made to order",
  "display_images": [
   "assets/products/shop/f73a710e98daccdbf2bf.jpg",
   "assets/products/shop/df0115aaeeca756e3226.jpg",
   "assets/products/shop/b1a104266b19150ccc04.jpg",
   "assets/products/shop/d9afa4e8f38a36906688.jpg",
-  "assets/products/shop/bc3903922f461569061e.jpg",
-  "assets/products/shop/99c0115c0253cdcdcb7f.jpg",
-  "assets/products/shop/adbc99e37afe92a7689c.jpg"
+  "assets/products/shop/bc3903922f461569061e.jpg"
  ],
  "draft": false,
  "fam": "kaleido-leggings-yoga",
@@ -24,22 +37,65 @@
  "id": "interestprint-descarga-93-womens-wide-waist-yoga-cropped-leggings",
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Kaleido Yoga Cintura Leggings",
- "name_es": "Leggings Kaleido Yoga Cintura",
+ "name_en": "Kaleido Yoga Leggings",
+ "name_es": "Leggings de Yoga Kaleido",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
- "rank": 24,
+ "rank": 41,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length A",
+   "Hip B",
+   "Waist C"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo A",
+   "Cadera B",
+   "Cintura C"
+  ],
+  "notes_en": "Values from original product table. The table does not specify if waist and hip measurements correspond to body or garment dimensions. Centimeter measurements are conversions from original inches, rounded to one decimal.",
+  "notes_es": "Valores de la tabla original del producto. La tabla no especifica si cintura y cadera corresponden a medidas corporales o de la prenda. Las medidas en centímetros son conversiones de las pulgadas originales, redondeadas a un decimal.",
+  "rows": [
+   [
+    "XS",
+    "94,0",
+    "76,2",
+    "54,1"
+   ],
+   [
+    "S",
+    "95,0",
+    "80,0",
+    "57,9"
+   ],
+   [
+    "M",
+    "95,8",
+    "84,1",
+    "62,2"
+   ],
+   [
+    "L",
+    "96,8",
+    "89,2",
+    "6?"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "XS",
@@ -53,7 +109,7 @@
   "5XL"
  ],
  "source_title": "DPF Kaleido | Leggings de yoga de cintura alta",
- "stripe_payment_link": "https://buy.stripe.com/5kQ5kE9befX6eyW8qy1gV1T",
+ "stripe_payment_link": "https://buy.stripe.com/3cI7sM87abGQcqO4ai1gW25",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-93-womens-wide-waist-yoga-cropped-leggings",
  "visual_verified": true

@@ -15,7 +15,7 @@
   "hombre/camiseta"
  ],
  "cg": "t-de-sebo-limoncillo-y-lavanda-daz-premium-fit",
- "color": "",
+ "color": "White / Yellow",
  "created": "2026-11-25",
  "desc_en": "Experience the embrace of nature with our tallow cream. Luxurious hydration for radiant skin designed to calm and soothe dry and rough areas. Its rich blend of fatty acids helps maintain clear skin. Enhanced with fat-soluble vitamins A, D, E, and K to support natural skin vitality. Closely resembles the natural oils produced by human skin, making it an excellent choice for sensitive and stressed skin. Free from synthetic ingredients and preservatives for a natural approach.",
  "desc_es": "Disfrute del abrazo de la naturaleza con nuestra crema de sebo. Una hidratación lujosa para una piel radiante que calma y suaviza las zonas secas y ásperas. Su rica mezcla de ácidos grasos ayuda a mantener la piel limpia y con un aspecto claro. Potenciada con vitaminas liposolubles A, D, E y K para respaldar la vitalidad natural. Se parece a los aceites naturales producidos por la piel humana, lo que la convierte en una opción ideal para pieles sensibles y estresadas. Sin ingredientes sintéticos ni conservantes.",
@@ -26,22 +26,23 @@
  ],
  "draft": true,
  "fam": "crema-sebo-limoncillo",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-crema-de-sebo-limoncillo-y-lavanda-daz-premium-fit",
  "look": [
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
- "material": "",
+ "material": "Grass-Fed Tallow",
  "name_en": "Lemongrass and Lavender Tallow Cream",
  "name_es": "Crema de Sebo Limoncillo y Lavanda",
  "needs_review": true,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 31.99,
- "rank": 253,
+ "rank": 95,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado personal > Cosméticos > Cuidado de la piel > Lociones y humectantes",
@@ -52,6 +53,7 @@
   "2oz"
  ],
  "source_title": "Crema De Sebo, Limoncillo Y Lavanda DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/00w3cw1IM5is2QedKS1gW2X",
  "supplier": "Productifi",
  "supplier_id": "crema-de-sebo-limoncillo-y-lavanda-daz-premium-fit",
  "visual_verified": true

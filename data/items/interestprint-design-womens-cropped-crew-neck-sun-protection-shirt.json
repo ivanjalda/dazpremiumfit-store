@@ -18,7 +18,7 @@
   "mujer/chaqueta-sudadera-sueter"
  ],
  "cg": "t-sudadera-corta-de-mujer-dpf-monogram-de-cuello-redondo",
- "color": "",
+ "color": "monogram",
  "created": "2026-11-25",
  "desc_en": "A cropped silhouette defined by a distinctive all-over print. This sweatshirt combines a light base with continuous dark accents. The crew neck and long sleeves structure a balanced cut. The soft and lightweight fabric accompanies daily movement. Designed to pair with high-waisted garments.",
  "desc_es": "Una silueta corta definida por un estampado integral distintivo. Esta sudadera combina una base clara con detalles oscuros continuos. El cuello redondo y la manga larga estructuran un corte equilibrado. El tejido suave y ligero acompaña el movimiento diario. Diseñada para combinar con prendas de cintura alta.",
@@ -33,22 +33,23 @@
  ],
  "draft": false,
  "fam": "sudadera-corta-mujer",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
  "look": [
   "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-descarga-81-racerback-sports-bra"
  ],
- "material": "",
+ "material": "95% polyester, 5% elastane",
  "name_en": "DPF Monogram Cropped Sweatshirt",
  "name_es": "Sudadera Cropped Monogram DPF",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 20.99,
- "rank": 1,
+ "rank": 2,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas",
@@ -150,7 +151,7 @@
   "5XL"
  ],
  "source_title": "Sudadera corta de mujer DPF Monogram de cuello redondo",
- "stripe_payment_link": "https://buy.stripe.com/4gM9AUgDGdOY8ay5em1gV1w",
+ "stripe_payment_link": "https://buy.stripe.com/7sY28sbjmeT23UifT01gW1s",
  "supplier": "InterestPrint",
  "supplier_id": "design-womens-cropped-crew-neck-sun-protection-shirt",
  "visual_verified": true

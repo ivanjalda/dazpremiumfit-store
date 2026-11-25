@@ -15,7 +15,7 @@
   "hombre/camiseta"
  ],
  "cg": "t-cafe-mezcla-brasilena-4oz-daz-premium-fit",
- "color": "",
+ "color": "brown",
  "created": "2026-11-25",
  "desc_en": "Our 4 oz single origin Brazilian blend coffee delivers a full flavor profile. This estate coffee was roasted using a sophisticated split roasting procedure. A portion of the beans is roasted for a shorter time to highlight delicate flavors and fragrances. The remaining part is slow roasted for body and intensity. Crafted with 100% Arabica single origin coffee beans.",
  "desc_es": "Nuestro café de mezcla brasileña de origen único de 4 oz ofrece un perfil de sabor completo. Este café de finca fue tostado mediante un procedimiento sofisticado llamado tostado dividido. Una porción de los granos se tuesta durante menos tiempo para resaltar los delicados sabores y fragancias. La parte restante se tuesta a fuego lento para darle cuerpo e intensidad. Elaborado con granos de café 100% Arabica de origen único.",
@@ -26,22 +26,23 @@
  ],
  "draft": true,
  "fam": "cafe-mezcla-brasilena",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-cafe-mezcla-brasilena-4oz-daz-premium-fit",
  "look": [
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
- "material": "",
+ "material": "100% Arabica coffee beans",
  "name_en": "Brazilian Blend Coffee 4oz",
  "name_es": "Café Mezcla Brasileña 4oz",
  "needs_review": true,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 26.99,
- "rank": 241,
+ "rank": 87,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Alimentación, bebida y tabaco > Bebidas > Café",
@@ -52,7 +53,7 @@
   "4 oz"
  ],
  "source_title": "Café Mezcla Brasileña 4oz DAZ Premium Fit",
- "stripe_payment_link": "https://buy.stripe.com/4gMdRa3QU4eoaiGcGO1gW1g",
+ "stripe_payment_link": "https://buy.stripe.com/6oUaEYevyh1a1Ma0Y61gW2P",
  "supplier": "Productifi",
  "supplier_id": "cafe-mezcla-brasilena-4oz-daz-premium-fit",
  "visual_verified": true

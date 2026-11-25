@@ -18,7 +18,7 @@
   "mujer/conjuntos"
  ],
  "cg": "t-conjunto-de-yoga-dpf-tough-bitch",
- "color": "",
+ "color": "blanco",
  "created": "2026-11-25",
  "desc_en": "The white DPF Tough Bitch yoga set pairs a short-sleeve t-shirt with fitted shorts to accompany you through your yoga sessions, workouts, and daily athletic looks. Its stretch fabric provides flexibility and comfort in a two-piece set that you can wear together or style separately. Designed to offer a snug fit that adapts to your rhythm, this model includes distinct brand details. Available with worldwide shipping and made to order.",
  "desc_es": "El conjunto blanco de yoga DPF Tough Bitch combina una camiseta de manga corta con shorts ajustados para acompañarte en tus sesiones de yoga, tus entrenamientos y tus looks deportivos diarios. Su tejido elástico aporta flexibilidad y comodidad en un conjunto de dos piezas que puedes llevar junto o combinar por separado. Diseñado para ofrecer un ajuste ceñido que se adapta a tu ritmo, este modelo incluye detalles distintivos de la marca. Disponible con envíos a todo el mundo y confección bajo demanda.",
@@ -31,22 +31,23 @@
  ],
  "draft": false,
  "fam": "conjunto-blanco-yoga",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03",
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
   "interestprint-design-custom-womens-high-waist-legging",
-  "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra"
+  "interestprint-design-yoga-top-a6k",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
  ],
- "material": "",
+ "material": "95 % poliéster, 5 % elastano",
  "name_en": "DPF Tough Bitch Yoga Set",
  "name_es": "Conjunto de yoga DPF Tough Bitch",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
- "rank": 20,
+ "rank": 36,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Conjuntos de ropa",
@@ -116,7 +117,7 @@
   "2XL"
  ],
  "source_title": "Conjunto blanco de yoga DPF Tough Bitch",
- "stripe_payment_link": "https://buy.stripe.com/aFa14o9be12c1Ma7mu1gV1P",
+ "stripe_payment_link": "https://buy.stripe.com/9B68wQ2MQ9yIaiGdKS1gW20",
  "supplier": "InterestPrint",
  "supplier_id": "conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03",
  "visual_verified": true

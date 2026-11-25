@@ -35,10 +35,10 @@
  "hidden": false,
  "id": "productifi-cafe-mezcla-brasilena-16oz",
  "look": [
-  "interestprint-design-washed-drop-shoulder-t-shirt",
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "printful-359535579",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "100% Arabica coffee beans",
  "name_en": "Brazilian Blend Coffee",
@@ -47,7 +47,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 38.99,
- "rank": 117,
+ "rank": 175,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Alimentación, bebida y tabaco > Bebidas > Café",
@@ -56,7 +56,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Café Mezcla Brasileña 16oz DAZ Premium Fit",
- "stripe_payment_link": "https://buy.stripe.com/eVq8wQgDG5isfD0gX41gV3o",
+ "stripe_payment_link": "https://buy.stripe.com/cNi9AUbjm5is8ay36e1gX07",
  "supplier": "Productifi",
  "supplier_id": "cafe-mezcla-brasilena-16oz",
  "visual_verified": true

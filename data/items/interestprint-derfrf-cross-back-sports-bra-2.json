@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "80% poliéster y 20% elastano",
+ "ai_type": "Top deportivo",
+ "ai_ver": 2,
+ "art_note": "Clean studio lifestyle photography with professional lighting, complemented by a standard mock-up shot and clear technical size guide.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +19,13 @@
  "cg": "t-dpf-sel-ne-top-deportivo-de-espalda-cruzada",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "Strength finds its most refined expression. This sports top combines essential front lines with a cross-strap back structure that defines a unique silhouette. Designed to accompany every transition, from yoga sessions to high-intensity training. Its elastic fabric offers support and freedom of movement. An essential piece that balances technical elegance with contemporary attitude.",
+ "desc_es": "La fuerza encuentra su expresión más depurada. Este top deportivo combina líneas frontales esenciales con una estructura de tirantes cruzados en la espalda que define una silueta única. Diseñado para acompañar cada transición, desde las sesiones de yoga hasta el entrenamiento de alta intensidad. Su tejido elástico ofrece soporte y libertad de movimiento. Una pieza esencial que equilibra la elegancia técnica con la actitud contemporánea.",
+ "details_en": "· Stretch fabric composed of 80% polyester and 20% elastane\n· Rounded front neckline\n· Multiple crossed straps at the back\n· Front logo and graphic on the back band\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Tejido elástico compuesto por 80% poliéster y 20% elastano\n· Escote redondo delantero\n· Tirantes múltiples cruzados en la espalda\n· Logotipo frontal y gráfico en la banda trasera\n· Hecho bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/b701af24eed80bd398e6.jpg",
-  "assets/products/shop/274dad24ef182a551589.jpg",
-  "assets/products/shop/22a84813d7ef429a1403.jpg",
-  "http://ipimg.interestprint.com/data/product/5212/info/image/20260126/D692082BF2B0D0EFE207F9979EFB7289.png"
+  "assets/products/shop/22a84813d7ef429a1403.jpg"
  ],
  "draft": false,
  "fam": "sel-ne-top",
@@ -23,22 +35,81 @@
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
   "interestprint-design-custom-womens-high-waist-legging",
-  "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-design-yoga-top-a6k",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
  ],
  "material": "",
- "name_en": "Sél Deportivo Espalda Underwear",
- "name_es": "Ropa Interior Sél Deportivo Espalda",
+ "name_en": "Sélène Sports Top",
+ "name_es": "Top Deportivo Sélène",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
- "rank": 36,
+ "rank": 63,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Tops cortos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (A)",
+   "Chest (B)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (A)",
+   "Pecho (B)"
+  ],
+  "notes_en": "Made to order pieces. Worldwide shipping available.",
+  "notes_es": "Piezas fabricadas bajo demanda. Envío mundial disponible.",
+  "rows": [
+   [
+    "S",
+    "15.20",
+    "30.00"
+   ],
+   [
+    "M",
+    "15.50",
+    "31.50"
+   ],
+   [
+    "L",
+    "15.70",
+    "33.50"
+   ],
+   [
+    "XL",
+    "16.00",
+    "35.50"
+   ],
+   [
+    "2XL",
+    "16.20",
+    "37.50"
+   ],
+   [
+    "3XL",
+    "16.60",
+    "39.50"
+   ],
+   [
+    "4XL",
+    "17.00",
+    "41.50"
+   ],
+   [
+    "5XL",
+    "17.40",
+    "43.50"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/5212/info/image/20260126/D692082BF2B0D0EFE207F9979EFB7289.png"
+ ],
  "sizes": [
   "S",
   "M",
@@ -50,7 +121,7 @@
   "5XL"
  ],
  "source_title": "DPF Sélène | Top deportivo de espalda cruzada",
- "stripe_payment_link": "https://buy.stripe.com/4gM7sM1IMbGQ0I65em1gV25",
+ "stripe_payment_link": "https://buy.stripe.com/5kQ7sMafifX6eyW7mu1gW2r",
  "supplier": "InterestPrint",
  "supplier_id": "derfrf-cross-back-sports-bra-2",
  "visual_verified": true

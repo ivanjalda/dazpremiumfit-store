@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/conjuntos"
+ ],
+ "ai_color": "violet",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "two-piece set",
+ "ai_ver": 2,
+ "art_note": "Professional lifestyle imagery elevates the performance set, though flat product renders appear generic.",
+ "art_score": 8,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +20,14 @@
  "cg": "t-conjunto-violeta-de-camiseta-y-shorts-dpf-tough-bitch",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "Elevate your performance with this two-piece athletic set in rich violet. Designed with a fitted silhouette, it pairs a short-sleeve top with coordinated shorts to deliver seamless mobility. The stretch fabric moves naturally with every session, from yoga to high-intensity training. A refined aesthetic that redefines functional style both inside and outside the gym.",
+ "desc_es": "Eleva tu rendimiento con este conjunto deportivo de dos piezas en tono violeta. Diseñado con una silueta de ajuste ceñido, combina una camiseta de manga corta y shorts coordinados para ofrecer máxima movilidad. El tejido elástico acompaña cada movimiento en tus sesiones de yoga o entrenamientos de alta intensidad. Una propuesta depurada que redefine el estilo funcional dentro y fuera del gimnasio.",
+ "details_en": "· Made to order with worldwide shipping\n· 95% polyester and 5% elastane\n· Fitted cut and stretch fabric\n· Hand wash cold and line dry\n· Do not bleach or dry clean",
+ "details_es": "· Hecho bajo pedido con envíos a todo el mundo\n· 95 % poliéster y 5 % elastano\n· Ajuste ceñido y tejido elástico\n· Lavar a mano con agua fría y secar al aire\n· No utilizar lejía ni limpiar en seco",
  "display_images": [
   "assets/products/shop/008fe7dca0fd7b05e2e4.jpg",
   "assets/products/shop/830c8a65e84a53903d50.jpg",
-  "assets/products/shop/e5ab6a02ac7613212b3c.jpg",
-  "assets/products/shop/9ad73ce63dfac4190b59.jpg",
-  "assets/products/shop/2d21b8f7e72e7b12a3b5.jpg"
+  "assets/products/shop/e5ab6a02ac7613212b3c.jpg"
  ],
  "draft": false,
  "fam": "conjunto-violeta-camiseta",
@@ -23,21 +36,100 @@
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
   "interestprint-design-custom-womens-high-waist-legging",
-  "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra"
+  "interestprint-design-yoga-top-a6k",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
  ],
  "material": "",
- "name_en": "Conjunto Violeta Tough Set",
- "name_es": "Conjunto Conjunto Violeta Tough",
+ "name_en": "DPF Tough Violet Athletic Set",
+ "name_es": "Conjunto Deportivo Violeta DPF Tough",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
- "rank": 21,
+ "rank": 37,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Conjuntos de ropa",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "A · cm / in",
+   "B · cm / in",
+   "C · cm / in",
+   "D · cm / in",
+   "E · cm / in",
+   "F · cm / in"
+  ],
+  "headers_es": [
+   "Talla",
+   "A · cm / in",
+   "B · cm / in",
+   "C · cm / in",
+   "D · cm / in",
+   "E · cm / in",
+   "F · cm / in"
+  ],
+  "notes_en": "A: shirt length, B: chest, C: sleeve length, D: shorts length, E: waist, F: hips. Centimeters are approximate conversions.",
+  "notes_es": "A: largo de camiseta, B: pecho, C: largo de manga, D: largo de shorts, E: cintura, F: cadera. Los centímetros son conversiones aproximadas.",
+  "rows": [
+   [
+    "XS",
+    "59,99 / 23,62",
+    "81,99 / 32,28",
+    "13,00 / 5,12",
+    "35,00 / 13,78",
+    "61,01 / 24,02",
+    "70,00 / 27,56"
+   ],
+   [
+    "S",
+    "67,08 / 26,41",
+    "87,00 / 34,25",
+    "13,74 / 5,41",
+    "35,99 / 14,17",
+    "65,99 / 25,98",
+    "75,01 / 29,53"
+   ],
+   [
+    "M",
+    "64,01 / 25,20",
+    "92,00 / 36,22",
+    "14,50 / 5,71",
+    "37,01 / 14,57",
+    "70,99 / 27,95",
+    "80,01 / 31,50"
+   ],
+   [
+    "L",
+    "65,99 / 25,98",
+    "99,01 / 38,98",
+    "15,24 / 6,00",
+    "38,00 / 14,96",
+    "76,00 / 29,92",
+    "84,99 / 33,46"
+   ],
+   [
+    "XL",
+    "68,00 / 26,77",
+    "105,99 / 41,73",
+    "16,00 / 6,30",
+    "38,99 / 15,35",
+    "81,99 / 32,28",
+    "92,51 / 36,42"
+   ],
+   [
+    "2XL",
+    "70,00 / 27,56",
+    "113,00 / 44,49",
+    "16,74 / 6,59",
+    "40,01 / 15,75",
+    "89,99 / 35,43",
+    "100,99 / 39,76"
+   ]
+  ],
+  "unit": "cm / in"
+ },
  "size_guide": [],
  "sizes": [
   "XS",
@@ -48,7 +140,7 @@
   "2XL"
  ],
  "source_title": "Conjunto violeta de camiseta y shorts DPF Tough Bitch",
- "stripe_payment_link": "https://buy.stripe.com/8x200kbjm12cfD09uC1gV1Q",
+ "stripe_payment_link": "https://buy.stripe.com/cNi4gA87abGQaiG22a1gW21",
  "supplier": "InterestPrint",
  "supplier_id": "conjunto-violeta-tough-bitch-womens-short-yoga-setmodelsets-03",
  "visual_verified": true

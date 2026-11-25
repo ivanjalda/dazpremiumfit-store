@@ -15,7 +15,7 @@
   "hombre/camiseta"
  ],
  "cg": "t-toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
- "color": "",
+ "color": "White",
  "created": "2026-11-25",
  "desc_en": "Maintain your pet's ear health with an advanced formula designed for safe and effective cleaning. Crafted with natural ingredients such as willow bark and witch hazel, these wipes hydrate and care for the skin around the ear canal. The pre-moistened design offers a practical alternative to conventional liquid solutions. Each container holds 100 units with balanced pH and a fresh scent. Made in the USA. Available with worldwide shipping and made-to-order fulfillment.",
  "desc_es": "Mantenga la salud auditiva de su mascota con una fórmula avanzada diseñada para una limpieza segura y eficaz. Elaboradas con ingredientes naturales como corteza de sauce y hamalamis, estas toallitas hidratan y cuidan la piel alrededor del canal auditivo. Su diseño prehumedecido ofrece una alternativa práctica a las soluciones líquidas convencionales. Cada envase contiene 100 unidades con pH equilibrado y aroma fresco. Fabricado en Estados Unidos. Disponible con envío a todo el mundo y confección bajo pedido.",
@@ -26,22 +26,23 @@
  ],
  "draft": true,
  "fam": "toallitas-limpiadoras-oidos",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
  "look": [
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
- "material": "",
+ "material": "Pre-moistened wipes",
  "name_en": "Dog Ear Cleaner Wipes",
  "name_es": "Toallitas Limpiadoras de Oídos",
  "needs_review": true,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 25.99,
- "rank": 234,
+ "rank": 82,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Productos para mascotas y animales",
@@ -52,7 +53,7 @@
   "100 wipes"
  ],
  "source_title": "Toallitas Limpiadoras de Oídos para Perros DAZ Premium Fit",
- "stripe_payment_link": "https://buy.stripe.com/9B64gAbjmeT28ay9uC1gW19",
+ "stripe_payment_link": "https://buy.stripe.com/dRm14o1IM6mw2QeayG1gW2K",
  "supplier": "Productifi",
  "supplier_id": "toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
  "visual_verified": true

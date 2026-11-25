@@ -1,0 +1,73 @@
+{
+ "_shop_photos": [
+  "assets/products/shop/1037404109515a9c7121.jpg",
+  "assets/products/shop/3fe3c2550f36ed9e8626.jpg",
+  "assets/products/shop/6ad6c43aa9de8a630ef1.jpg",
+  "assets/products/shop/a2180a7d65aee9a27e00.jpg",
+  "assets/products/shop/8ee956031261c93b035d.jpg",
+  "assets/products/shop/4a2d01c8ced8e0fb7ad5.jpg",
+  "assets/products/shop/a5b3ddac87ee6370bc68.jpg",
+  "assets/products/shop/83059cea0c7c8d1350fa.jpg"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "yoga mat",
+ "ai_ver": 2,
+ "art_note": "Clean product presentation showing the top surface design, but lacks lifestyle context and professional lighting.",
+ "art_score": 5,
+ "audited": "2026-11-25",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta"
+ ],
+ "cg": "printful-359535579",
+ "color": "White",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily practice with this yoga mat designed to offer stability and focus. Its clean surface provides an uncluttered space for your movement. Each piece is crafted on demand to ensure maximum exclusivity. We offer worldwide shipping. Redefine your training space with a minimalist design that prioritizes concentration and performance in every pose. Simplicity meets functionality in an essential accessory for your routine.",
+ "desc_es": "Eleva tu práctica diaria con esta esterilla de yoga diseñada para ofrecer estabilidad y enfoque. Su superficie limpia proporciona un espacio despejado para tu movimiento. Cada pieza se elabora bajo demanda para garantizar la máxima exclusividad. Ofrecemos envíos a todo el mundo. Redefine tu espacio de entrenamiento con un diseño minimalista que prioriza la concentración y el rendimiento en cada postura. La simplicidad se une a la funcionalidad en un accesorio esencial para tu rutina.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "https://files.cdn.printful.com/files/8ce/8ced79023d30496c30e2e80d171ba19b_preview.png"
+ ],
+ "draft": false,
+ "fam": "esterilla-yoga-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "printful-359535579",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "",
+ "name_en": "White Yoga Mat",
+ "name_es": "Esterilla de Yoga White",
+ "needs_review": true,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 84.99,
+ "rank": 1,
+ "shipping_usd": 7.0,
+ "shipping_worst_usd": 33.29,
+ "shop_category": "Equipamiento deportivo > Equipamiento para atletismo > Equipamiento para atletismo de uso general > Colchonetas para gimnasia",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "24″×68″"
+ ],
+ "skus": [
+  "2012311_16714"
+ ],
+ "source_title": "Esterilla de yoga DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/aFa7sM87a4eo76u9uC1gW1r",
+ "supplier": "Printful",
+ "supplier_id": "359535579",
+ "visual_verified": true
+}

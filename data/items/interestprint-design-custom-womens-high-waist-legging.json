@@ -31,22 +31,23 @@
  ],
  "draft": false,
  "fam": "leggings-cintura-alta",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-design-custom-womens-high-waist-legging",
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-descarga-81-racerback-sports-bra"
  ],
- "material": "",
+ "material": "95% polyester, 5% elastane",
  "name_en": "DPF High-Waisted Leggings",
  "name_es": "Leggings de Cintura Alta DPF",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 21.99,
- "rank": 2,
+ "rank": 3,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
@@ -109,7 +110,7 @@
   "2XL"
  ],
  "source_title": "Leggings de cintura alta de mujer DPF Tough Bitch",
- "stripe_payment_link": "https://buy.stripe.com/6oUaEY9be3akduS7mu1gV1x",
+ "stripe_payment_link": "https://buy.stripe.com/9B6aEYfzC3ak2Qe0Y61gW1t",
  "supplier": "InterestPrint",
  "supplier_id": "design-custom-womens-high-waist-legging",
  "visual_verified": true

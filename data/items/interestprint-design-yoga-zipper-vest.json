@@ -32,22 +32,23 @@
  ],
  "draft": true,
  "fam": "yoga-zipper-vest",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-design-yoga-zipper-vest",
  "look": [
   "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-descarga-81-racerback-sports-bra"
  ],
- "material": "",
+ "material": "250g polyester-spandex double-sided fabric",
  "name_en": "Zipper Athletic Vest",
  "name_es": "Top Deportivo con Cremallera",
  "needs_review": false,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 23.99,
- "rank": 196,
+ "rank": 53,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "",
@@ -120,7 +121,7 @@
   "2XL"
  ],
  "source_title": "Design Yoga Zipper Vest",
- "stripe_payment_link": "https://buy.stripe.com/bJeeVe1IM8uEbmK7mu1gW0x",
+ "stripe_payment_link": "https://buy.stripe.com/bJe6oIcnq3ak62qdKS1gW2h",
  "supplier": "InterestPrint",
  "supplier_id": "design-yoga-zipper-vest",
  "visual_verified": true

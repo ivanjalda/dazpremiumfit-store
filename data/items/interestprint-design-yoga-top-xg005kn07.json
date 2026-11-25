@@ -12,6 +12,7 @@
  "ai_ver": 2,
  "art_note": "Model shots look heavily composited with artificial lighting and awkward expressions, typical of marketplace dropshipping.",
  "art_score": 4,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -33,6 +34,7 @@
  ],
  "draft": true,
  "fam": "yoga-top-xg005kn07",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-design-yoga-top-xg005kn07",
  "look": [
@@ -41,14 +43,14 @@
   "interestprint-design-womens-high-waist-layered-sport-skirt",
   "interestprint-descarga-81-racerback-sports-bra"
  ],
- "material": "",
+ "material": "Polyester Spandex Double Fabric",
  "name_en": "Diamond X-Back Yoga Top",
  "name_es": "Top Deportivo X-Back Diamond",
  "needs_review": false,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 22.99,
- "rank": 165,
+ "rank": 25,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "",
@@ -114,7 +116,7 @@
   "2XL"
  ],
  "source_title": "Design Yoga Top (XG005KN07)",
- "stripe_payment_link": "https://buy.stripe.com/8x2aEY3QUcKU2Qe8qy1gW02",
+ "stripe_payment_link": "https://buy.stripe.com/dRmdRa736dOY76ueOW1gW1P",
  "supplier": "InterestPrint",
  "supplier_id": "design-yoga-top-xg005kn07",
  "visual_verified": true

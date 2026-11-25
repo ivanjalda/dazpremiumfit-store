@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Vitamin D3 (as cholecalciferol), Softgel (gelatin, glycerin, water), soybean oil, corn oil",
+ "ai_type": "Vitamin D3 Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean product studio shot with sharp label typography, elevated by minimalist lighting.",
+ "art_score": 7,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,12 +19,13 @@
  "cg": "t-vitamin-d3-daz-premium-fit-iu",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "Elevate your daily performance with our advanced vitamin d3 formula. Designed to support vitality and overall well-being, each softgel delivers a precise dose to accompany your active lifestyle. An essential daily supplement to sustain strength and optimal energy through every training session. Made in the united states under strict quality standards. Available for worldwide shipping with our signature made-to-order approach.",
+ "desc_es": "Potencia tu rendimiento diario con nuestra fórmula avanzada de vitamina D3. Diseñada para apoyar la vitalidad y el bienestar general, cada cápsula blanda entrega una dosis precisa para acompañar tu estilo de vida activo. Un complemento esencial para mantener la fuerza y la energía óptima en cada entrenamiento. Fabricado en Estados Unidos con altos estándares de calidad. Disponible para envío a todo el mundo con la garantía de piezas hechas a medida.",
+ "details_en": "· 100 softgels\n· Ingredients: Vitamin D3 (as cholecalciferol), Softgel (gelatin, glycerin, water), soybean oil, corn oil\n· Made in USA",
+ "details_es": "· 100 cápsulas blandas\n· Ingredientes: Vitamin D3 (as cholecalciferol), Softgel (gelatin, glycerin, water), soybean oil, corn oil\n· Hecho en EE. UU.",
  "display_images": [
   "assets/products/shop/1ad02c4b7129ccad45df.jpg",
-  "assets/products/shop/1e314df8396aace68395.jpg",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png"
+  "assets/products/shop/1e314df8396aace68395.jpg"
  ],
  "draft": false,
  "fam": "vitamin-d3-premium",
@@ -23,12 +36,13 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "name_en": "Vitamin Daz Vitamins",
- "name_es": "Vitaminas Vitamin Daz",
+ "name_en": "Vitamin D3 2000 IU",
+ "name_es": "Vitamina D3 2000 IU",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
- "rank": 34,
+ "rank": 61,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -37,7 +51,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Vitamin D3 DAZ Premium Fit (2,000 IU)",
- "stripe_payment_link": "https://buy.stripe.com/aFadRacnq3akbmKdKS1gV23",
+ "stripe_payment_link": "https://buy.stripe.com/bJe6oI736dOY4Ym0Y61gW2p",
  "supplier": "Productifi",
  "supplier_id": "vitamin-d3-daz-premium-fit-2-000-iu",
  "visual_verified": true

@@ -15,7 +15,7 @@
   "hombre/camiseta"
  ],
  "cg": "t-aceite-capilar-hidratante-y-fortalecedor-daz-premium-fit",
- "color": "",
+ "color": "amber",
  "created": "2026-11-25",
  "desc_en": "This formula has been developed to provide intense nutrition to your hair. Enriched with premium ingredients, including sweet almond oil, avocado oil, olive oil, carrot seed oil, and a special blend of squalane and keratin. The distinctive formula aims to not only deeply hydrate but also strengthen and revitalize each strand of hair, promoting softness and manageability. Luxurious elements like Manuka honey extract and shea butter further enhance the experience.",
  "desc_es": "Esta fórmula ha sido desarrollada para brindar una nutrición intensa a tu cabello. Enriquecido con ingredientes de primera calidad, que incluyen aceite de almendras dulces, aceite de aguacate, aceite de oliva, aceite de semilla de zanahoria y una mezcla especial de escualano y queratina. La fórmula distintiva tiene como objetivo no solo hidratar profundamente sino también fortalecer y revitalizar cada mechón de cabello, promoviendo suavidad y manejabilidad. Elementos lujosos como el extracto de miel de Manuka y la manteca de karité mejoran aún más la experiencia.",
@@ -26,22 +26,23 @@
  ],
  "draft": true,
  "fam": "aceite-capilar-hidratante",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-aceite-capilar-hidratante-y-fortalecedor",
  "look": [
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
- "material": "",
+ "material": "liquid",
  "name_en": "Moisturizing and Strengthening Hair Oil",
  "name_es": "Aceite Capilar Hidratante y Fortalecedor",
  "needs_review": true,
  "needs_studio": false,
- "page": false,
+ "page": true,
  "price_usd": 24.99,
- "rank": 190,
+ "rank": 51,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado personal > Cuidado capilar > Espumas, lacas y geles de peinado",
@@ -52,7 +53,7 @@
   "1 oz"
  ],
  "source_title": "Aceite Capilar Hidratante y Fortalecedor DAZ Premium Fit",
- "stripe_payment_link": "https://buy.stripe.com/bJe5kEevy7qAduSgX41gW0r",
+ "stripe_payment_link": "https://buy.stripe.com/3cIdRadru26gfD0cGO1gW2f",
  "supplier": "Productifi",
  "supplier_id": "aceite-capilar-hidratante-y-fortalecedor",
  "visual_verified": true

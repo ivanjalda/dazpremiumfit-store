@@ -19,7 +19,7 @@
   "mujer/camisetas-blusas-tops"
  ],
  "cg": "t-a-picture-from-kefir-https-kefirapp-com-w-racerback-active-tank-tops",
- "color": "",
+ "color": "Teal",
  "created": "2026-11-25",
  "desc_en": "Designed for optimal performance during training. This tank top combines a technical silhouette with a refined aesthetic. Crafted from breathable and stretchy technical fabric. Features a racerback design for total freedom of movement. Moisture-wicking properties keep the skin dry. An essential piece for the workout routine.",
  "desc_es": "Diseñado para un rendimiento óptimo durante el entrenamiento. Este top de tirantes combina una silueta técnica con una estética refinada. Confeccionado en tejido técnico transpirable y elástico. Incorpora un diseño de espalda nadadora para una total libertad de movimiento. Propiedades de absorción de humedad para mantener la piel seca. Una pieza esencial para la rutina de ejercicio.",
@@ -31,6 +31,7 @@
  ],
  "draft": true,
  "fam": "a-picture-from",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-a-picture-from-kefir-https-kefirapp-com-w-2201121-racerback-active-tank-tops",
  "img_checked": "2026-11-25",
@@ -40,14 +41,14 @@
   "interestprint-design-womens-high-waist-layered-sport-skirt",
   "interestprint-descarga-81-racerback-sports-bra"
  ],
- "material": "",
+ "material": "Polyester",
  "name_en": "Racerback Active Tank Top",
  "name_es": "Top Deportivo de Tirantes Racerback",
  "needs_review": false,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 22.99,
- "rank": 150,
+ "rank": 7,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "",
@@ -129,7 +130,7 @@
   "5XL"
  ],
  "source_title": "A picture from Kefir_ https___kefirapp_com_w_2201121 Racerback Active Tank Tops",
- "stripe_payment_link": "https://buy.stripe.com/eVqaEYcnqfX64Ym0Y61gV3V",
+ "stripe_payment_link": "https://buy.stripe.com/aFa8wQ4UYeT2fD07mu1gW1x",
  "supplier": "InterestPrint",
  "supplier_id": "a-picture-from-kefir_-https___kefirapp_com_w_2201121-racerback-active-tank-tops",
  "visual_verified": true

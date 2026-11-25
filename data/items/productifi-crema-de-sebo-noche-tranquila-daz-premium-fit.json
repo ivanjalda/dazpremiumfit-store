@@ -15,7 +15,7 @@
   "hombre/camiseta"
  ],
  "cg": "t-de-sebo-noche-tranquila-daz-premium-fit",
- "color": "",
+ "color": "White / Blue",
  "created": "2026-11-25",
  "desc_en": "Experience deep hydration designed to soothe and revitalize dry, rough skin. Formulated with nourishing ingredients that mirror the body's natural oils, this vitamin-rich blend promotes a smooth and balanced appearance. Ideal for daily care on delicate areas, providing a lasting sensation of comfort and natural well-being. Available with worldwide shipping and made to order.",
  "desc_es": "Descubra una hidratación profunda diseñada para calmar y revitalizar la piel seca y áspera. Elaborada con ingredientes nutritivos que imitan los aceites naturales del cuerpo, esta fórmula rica en vitaminas favorece un aspecto suave y equilibrado. Ideal para el cuidado diario de las zonas más delicadas, brindando una sensación de confort duradero y bienestar natural. Disponible con envío a todo el mundo y fabricado bajo pedido.",
@@ -35,22 +35,24 @@
  ],
  "draft": true,
  "fam": "crema-sebo-noche",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-crema-de-sebo-noche-tranquila-daz-premium-fit",
+ "img_checked": "2026-11-25",
  "look": [
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
- "material": "",
+ "material": "Grass-fed Tallow",
  "name_en": "Peaceful Night Tallow Cream",
  "name_es": "Crema de Sebo Peaceful Night",
  "needs_review": true,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 31.99,
- "rank": 254,
+ "rank": 96,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado personal > Cosméticos > Cuidado de la piel > Lociones y humectantes",
@@ -61,6 +63,7 @@
   "2oz"
  ],
  "source_title": "Crema de Sebo Noche tranquila DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/fZu28sdrufX63UicGO1gW2Y",
  "supplier": "Productifi",
  "supplier_id": "crema-de-sebo-noche-tranquila-daz-premium-fit",
  "visual_verified": true

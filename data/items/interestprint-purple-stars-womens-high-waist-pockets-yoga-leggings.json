@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "Purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "High-end fitness campaign imagery with professional lighting and clean gym environments, showcasing the garment fit and details clearly.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dpf-star-pocket-leggings-con-bolsillos",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Streamlined silhouette featuring graphic star motifs set against a deep black backdrop. High-rise wide waistband for secure support. Soft touch finish delivering lasting comfort. Functional side pockets and a hidden rear interior compartment for essentials. Made-to-order piece with worldwide shipping.",
+ "desc_es": "Diseño depurado con motivos gráficos y estelares sobre fondo negro. Cinturilla ancha de tiro alto para un ajuste firme. Tacto suave y confort duradero. Incorpora bolsillos laterales y un compartimento interior trasero para pequeños esenciales. Pieza confeccionada bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Fabric: soft-touch polyester.\n· Waist: high-rise with wide elastic waistband.\n· Pockets: two side pockets and one hidden rear interior pocket.\n· Made-to-order piece.",
+ "details_es": "· Tejido: poliéster de tacto suave.\n· Cintura: alta, con cinturilla ancha y elástica.\n· Bolsillos: dos laterales y uno interior oculto en la parte trasera.\n· Confección bajo demanda.",
  "display_images": [
   "assets/products/shop/5fbc4a2cf4bca0137c53.jpg",
   "assets/products/shop/f9c15e46e7753f03657c.jpg",
@@ -22,22 +36,95 @@
  "id": "interestprint-purple-stars-womens-high-waist-pockets-yoga-leggings",
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Star Pocket Bolsillos Leggings · Purple",
- "name_es": "Leggings Star Pocket Bolsillos · Púrpura",
+ "name_en": "Purple Star Pocket Leggings",
+ "name_es": "Leggings con Bolsillos Purple Star",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 28,
+ "rank": 50,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (cm)",
+   "Hip (cm)",
+   "Waist (cm)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (cm)",
+   "Cadera (cm)",
+   "Cintura (cm)"
+  ],
+  "notes_en": "Garment reference measurements. Length is measured from waistband to hem. Compare measurements with similar cut leggings. Centimeters converted from original inches and rounded to one decimal.",
+  "notes_es": "Medidas de referencia de la prenda. El largo se mide desde la cintura hasta el bajo. Compara las medidas con unos leggings de corte similar. Los centímetros se han convertido de la guía original en pulgadas y redondeado a un decimal.",
+  "rows": [
+   [
+    "XS",
+    "89,9",
+    "79,2",
+    "60,2"
+   ],
+   [
+    "S",
+    "90,9",
+    "83,1",
+    "64,0"
+   ],
+   [
+    "M",
+    "91,9",
+    "86,9",
+    "67,8"
+   ],
+   [
+    "L",
+    "93,0",
+    "91,9",
+    "72,9"
+   ],
+   [
+    "XL",
+    "94,0",
+    "97,0",
+    "78,0"
+   ],
+   [
+    "2XL",
+    "95,0",
+    "102,1",
+    "83,1"
+   ],
+   [
+    "3XL",
+    "96,0",
+    "107,2",
+    "88,1"
+   ],
+   [
+    "4XL",
+    "97,0",
+    "112,3",
+    "93,2"
+   ],
+   [
+    "5XL",
+    "98,0",
+    "117,3",
+    "98,3"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "XS",
@@ -51,7 +138,7 @@
   "5XL"
  ],
  "source_title": "DPF Purple Star Pocket | Leggings con bolsillos",
- "stripe_payment_link": "https://buy.stripe.com/8x26oI1IM4eobmKfT01gV1X",
+ "stripe_payment_link": "https://buy.stripe.com/14A00k87a9yIgH4ayG1gW2e",
  "supplier": "InterestPrint",
  "supplier_id": "purple-stars-womens-high-waist-pockets-yoga-leggings",
  "visual_verified": true

@@ -44,7 +44,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
- "rank": 26,
+ "rank": 48,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Sin categoría",
@@ -55,7 +55,7 @@
   "60 capsules"
  ],
  "source_title": "Moringa Pure DAZ Premium Fit",
- "stripe_payment_link": "https://buy.stripe.com/5kQfZi0EI12cbmK4ai1gV1V",
+ "stripe_payment_link": "https://buy.stripe.com/cNi00k736dOY4YmgX41gW2c",
  "supplier": "Productifi",
  "supplier_id": "moringa-pure-daz-premium-fit",
  "visual_verified": true

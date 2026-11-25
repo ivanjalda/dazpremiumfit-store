@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos"
+ ],
+ "ai_color": "blanco",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100 % poliéster",
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Outdoor lifestyle context elevates the garment, though studio lighting and some model shots feel composited.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,13 @@
  "cg": "t-daz-premium-fit-immortal-warrior-pantalon-corto-de-hombre",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "Engineered for the transition between training and urban living. These shorts combine a relaxed, generous silhouette with a strong athletic character. The elongated cut falling below the knee delivers a commanding yet effortless presence. The adjustable waistband ensures a precise fit, while side pockets prioritize everyday functionality. Crafted to offer absolute freedom of movement. Made to order with worldwide shipping available.",
+ "desc_es": "Diseñado para la transición entre el entrenamiento y la vida urbana. Este pantalón corto combina una silueta holgada y amplia con un marcado carácter deportivo. Su caída por debajo de la rodilla aporta una presencia imponente y desenfadada. La cintura regulable asegura un ajuste preciso, mientras los bolsillos laterales priorizan la funcionalidad diaria. Confeccionado para ofrecer libertad absoluta de movimiento. Pieza elaborada bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 100% polyester, unlined\n· Loose, long fit falling below the knee\n· Elastic waistband with adjustable inner drawstring\n· Two side pockets\n· Machine wash cold, maximum 40 °C\n· Do not bleach\n· Iron with a protective cloth\n· Do not tumble dry, dry in the shade",
+ "details_es": "· 100 % poliéster, sin forro\n· Corte holgado y largo, por debajo de la rodilla\n· Cintura elástica con cordón interior regulable\n· Dos bolsillos laterales\n· Lavar a máquina con agua fría, a un máximo de 40 °C\n· No usar blanqueador con cloro\n· Planchar con un paño protector\n· No utilizar secadora y secar a la sombra",
  "display_images": [
   "assets/products/shop/717a4e6959a6ecee9cc5.jpg",
-  "assets/products/shop/bd3a1e6d31a9846e3f6e.jpg",
-  "assets/products/shop/1098586f08602bcf3589.jpg",
-  "assets/products/shop/78258e1afcb09938dc73.jpg",
-  "http://ipimg.interestprint.com/data/product/958/info/image/20190327/48786BF59B33CDDBD12EDA62D74BE601.jpg"
+  "assets/products/shop/bd3a1e6d31a9846e3f6e.jpg"
  ],
  "draft": false,
  "fam": "premium-fit-immortal",
@@ -22,24 +33,75 @@
  "id": "interestprint-immortal-warrior-short-2-mens-all-over-print-baggy-shorts-model-l37",
  "img_checked": "2026-11-25",
  "look": [
-  "interestprint-design-washed-drop-shoulder-t-shirt",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
+  "printful-359535579",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
   "productifi-apoyo-conjunto-daz-premium-fit"
  ],
  "material": "",
- "name_en": "Daz Immortal Warrior Shorts",
- "name_es": "Bermuda Daz Immortal Warrior",
+ "name_en": "Immortal Warrior Shorts",
+ "name_es": "Pantalón corto Immortal Warrior",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 28.99,
- "rank": 59,
+ "rank": 111,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Pantalones cortos > Pantalones cortos para correr",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (A)",
+   "Waist (B)",
+   "Hips (C)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (A)",
+   "Cintura (B)",
+   "Caderas (C)"
+  ],
+  "notes_en": "Consulta las medidas antes de elegir tu talla. Las medidas pueden presentar variaciones de 2 a 3 cm.",
+  "notes_es": "Consulta las medidas antes de elegir tu talla. Las medidas pueden presentar variaciones de 2 a 3 cm.",
+  "rows": [
+   [
+    "S",
+    "28.15",
+    "29.92",
+    "44.09"
+   ],
+   [
+    "M",
+    "28.54",
+    "31.89",
+    "46.85"
+   ],
+   [
+    "L",
+    "28.94",
+    "33.46",
+    "49.61"
+   ],
+   [
+    "XL",
+    "29.33",
+    "35.04",
+    "52.36"
+   ],
+   [
+    "2XL",
+    "29.72",
+    "36.61",
+    "55.51"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/958/info/image/20190327/48786BF59B33CDDBD12EDA62D74BE601.jpg"
+ ],
  "sizes": [
   "S",
   "M",
@@ -48,7 +110,7 @@
   "2XL"
  ],
  "source_title": "DAZ Premium Fit Immortal Warrior Blanco | Pantalón corto de hombre",
- "stripe_payment_link": "https://buy.stripe.com/eVq14o87aaCM8ay22a1gV2s",
+ "stripe_payment_link": "https://buy.stripe.com/eVq4gAevy7qA2Qe5em1gW3d",
  "supplier": "InterestPrint",
  "supplier_id": "immortal-warrior-short-2-mens-all-over-print-baggy-shorts-model-l37",
  "visual_verified": true

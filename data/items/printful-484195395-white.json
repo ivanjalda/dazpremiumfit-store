@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "Sweatshirt",
+ "ai_ver": 2,
+ "art_note": "The image is a flat digital mockup on a solid white background, lacking the depth and sophistication of a real studio campaign.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-484195395",
  "color": "White",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Clean silhouette. Designed for distraction-free performance. This crewneck piece defines the modern aesthetic of daily training. Each item is made to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Silueta limpia. Diseñada para un rendimiento sin distracciones. Esta prenda de cuello redondo define la estética moderna del entrenamiento diario. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/3df/3dfddd64f8e2ae2208393d4af4aa2a55_preview.png"
  ],
@@ -20,17 +34,19 @@
  "id": "printful-484195395-white",
  "img_checked": "2026-11-25",
  "look": [
-  "interestprint-design-washed-drop-shoulder-t-shirt",
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "printful-359535579",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "",
- "name_en": "Cuello Redondo Immortal Sweatshirt · White",
- "name_es": "Sudadera Cuello Redondo Immortal · Blanco",
+ "name_en": "Immortal Warrior Sweatshirt · White",
+ "name_es": "Sudadera Immortal Warrior · Blanco",
  "needs_review": false,
+ "needs_studio": true,
+ "page": true,
  "price_usd": 37.99,
- "rank": 66,
+ "rank": 120,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas",
@@ -52,7 +68,7 @@
   "1918864_20486"
  ],
  "source_title": "Sudadera de cuello redondo DPF Immortal Warrior",
- "stripe_payment_link": "https://buy.stripe.com/cNi8wQ0EI4eo1Ma22a1gV2z",
+ "stripe_payment_link": "https://buy.stripe.com/4gM5kE7366mwaiG8qy1gW3m",
  "supplier": "Printful",
  "supplier_id": "484195395-white",
  "visual_verified": true

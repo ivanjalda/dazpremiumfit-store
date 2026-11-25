@@ -1,21 +1,27 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
  "ai_color": "Multicolor",
  "ai_copy": true,
  "ai_done": true,
  "ai_gender": "unisex",
  "ai_material": "100% Arabica whole beans",
  "ai_sizes": "340 g",
- "ai_type": "Coffee Beans",
+ "ai_type": "coffee bag",
  "ai_ver": 2,
  "art_note": "Clean, high-end studio lighting with crisp product renders and professional composition fitting a luxury wellness brand.",
  "art_score": 9,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
  ],
  "cg": "t-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
- "color": "",
+ "color": "Multicolor",
  "created": "2026-11-25",
  "desc_en": "This light roast coffee delivers a vibrant profile bursting with citrus, nuts, and a bright finish. The blend combines fruity Ethiopian heirloom varieties with the pure sweetness of Mexican Bourbon and the intense body of Brazilian Catuaí. The result is a balanced and complex cup with medium-high acidity. Designed for pour-over, drip, or cold brew methods, it brings energy to every routine. Made in the USA. Available with worldwide shipping and made-to-order production.",
  "desc_es": "Este café de tueste ligero ofrece un perfil vibrante rebosante de cítricos, frutos secos y un final brillante. La mezcla combina variedades heirloom etíopes con notas frutales, la dulzura pura del Bourbon mexicano y el cuerpo intenso del Catuaí brasileño. El resultado es una taza equilibrada y compleja con acidez media-alta. Diseñado para métodos de vertido, goteo o cold brew, aporta energía a cada jornada. Fabricado en Estados Unidos. Disponible con envío a todo el mundo y confección bajo demanda.",
@@ -30,22 +36,23 @@
  ],
  "draft": true,
  "fam": "cafe-fruity-bloom",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
  "look": [
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-484195395-black",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "printful-359535579",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
- "material": "",
+ "material": "100% Arabica whole beans",
  "name_en": "Fruity Bloom Light Roast Coffee",
  "name_es": "Café Fruity Bloom Tueste Ligero",
  "needs_review": true,
  "needs_studio": false,
- "page": false,
+ "page": true,
  "price_usd": 26.99,
- "rank": 179,
+ "rank": 38,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "",
@@ -56,7 +63,7 @@
   "340 g"
  ],
  "source_title": "Café Fruity Bloom (Tueste ligero) DAZ Premium Fit",
- "stripe_payment_link": "https://buy.stripe.com/fZu8wQcnqfX63Ui8qy1gW0g",
+ "stripe_payment_link": "https://buy.stripe.com/bJe28sbjm12cduScGO1gW22",
  "supplier": "Productifi",
  "supplier_id": "cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
  "visual_verified": true

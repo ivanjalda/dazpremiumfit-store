@@ -12,6 +12,7 @@
  "ai_ver": 2,
  "art_note": "Clean model photography with clear garment details, though standard studio staging keeps it from high editorial tier.",
  "art_score": 6,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -32,6 +33,7 @@
  ],
  "draft": true,
  "fam": "yoga-top-yj053",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-design-yoga-top-yj053",
  "look": [
@@ -40,14 +42,14 @@
   "interestprint-design-womens-high-waist-layered-sport-skirt",
   "interestprint-descarga-81-racerback-sports-bra"
  ],
- "material": "",
+ "material": "Polyester Spandex Double Fabric",
  "name_en": "Printed Yoga Top",
  "name_es": "Top de Yoga Estampado",
  "needs_review": false,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 22.99,
- "rank": 177,
+ "rank": 35,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "",
@@ -112,7 +114,7 @@
   "2XL"
  ],
  "source_title": "Design Yoga Top (YJ053)",
- "stripe_payment_link": "https://buy.stripe.com/7sY5kE4UYbGQ2Qe8qy1gW0e",
+ "stripe_payment_link": "https://buy.stripe.com/3cIaEYevydOYduS0Y61gW1Z",
  "supplier": "InterestPrint",
  "supplier_id": "design-yoga-top-yj053",
  "visual_verified": true

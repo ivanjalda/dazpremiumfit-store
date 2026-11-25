@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "monochrome",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "polyester",
+ "ai_type": "leggings",
+ "ai_ver": 2,
+ "art_note": "The lifestyle gym imagery elevates the product significantly, though the flat mockups look cheap.",
+ "art_score": 8,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +20,13 @@
  "cg": "t-dpf-monochrome-star-leggings-de-cintura-alta",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Redefine your workout with a piece designed to stand out. The contrast of black stars against a white background delivers a graphic and modern aesthetic. Its high-rise silhouette sculpts the figure while offering secure support during movement. Crafted for the woman who demands presence both in the gym and on the street. Each piece is made to order and features worldwide shipping.",
+ "desc_es": "Redefine tu entrenamiento con una pieza diseñada para destacar. El contraste de estrellas negras sobre fondo blanco aporta una estética gráfica y moderna. Su silueta de tiro alto esculpe la figura mientras ofrece un soporte seguro durante el movimiento. Confeccionados para la mujer que exige presencia tanto en el gimnasio como en la calle. Cada prenda se elabora bajo pedido y cuenta con envío mundial.",
+ "details_en": "· Soft-touch polyester fabric\n· High-rise waist with wide waistband\n· Fitted cut\n· Black stars on white design, front DPF logo and rear graphic\n· Made to order",
+ "details_es": "· Tejido de poliéster de tacto suave\n· Cintura de tiro alto con cinturilla ancha\n· Ajuste ceñido\n· Diseño de estrellas negras sobre blanco, logotipo DPF delantero y gráfico trasero\n· Hecho bajo pedido",
  "display_images": [
   "assets/products/shop/c32190564eadc2b44096.jpg",
-  "assets/products/shop/48fae1f75c9874abd757.jpg",
-  "assets/products/shop/c32bfe299cc948f5f92d.jpg",
-  "assets/products/shop/77b4b19473be8d1178eb.jpg"
+  "assets/products/shop/48fae1f75c9874abd757.jpg"
  ],
  "draft": false,
  "fam": "monochrome-star-leggings",
@@ -21,22 +34,95 @@
  "id": "interestprint-aesthetic-icon-womens-wide-waist-yoga-cropped-leggings",
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Monochrome Star Cintura Leggings",
- "name_es": "Leggings Monochrome Star Cintura",
+ "name_en": "Monochrome Star Leggings",
+ "name_es": "Leggings Monocromáticos Star",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
- "rank": 22,
+ "rank": 39,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Hip",
+   "Waist"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cadera",
+   "Cintura"
+  ],
+  "notes_en": "Garment reference measurements converted from original inches and rounded to one decimal. Length measured from waist to hem. Compare measurements with similar cut leggings. Variations of 2-3 cm may occur due to manual measurement.",
+  "notes_es": "Medidas de referencia de la prenda convertidas de la guía original en pulgadas y redondeadas a un decimal. El largo se mide desde la cintura hasta el bajo. Compara las medidas con unos leggings de corte similar. Puede haber variaciones de 2-3 cm por la medición manual.",
+  "rows": [
+   [
+    "XS",
+    "94,0",
+    "76,2",
+    "54,1"
+   ],
+   [
+    "S",
+    "95,0",
+    "80,0",
+    "57,9"
+   ],
+   [
+    "M",
+    "95,8",
+    "84,1",
+    "62,2"
+   ],
+   [
+    "L",
+    "96,8",
+    "89,2",
+    "67,3"
+   ],
+   [
+    "XL",
+    "97,8",
+    "94,2",
+    "72,4"
+   ],
+   [
+    "2XL",
+    "98,8",
+    "99,3",
+    "77,5"
+   ],
+   [
+    "3XL",
+    "99,8",
+    "104,4",
+    "82,5"
+   ],
+   [
+    "4XL",
+    "100,8",
+    "109,5",
+    "87,6"
+   ],
+   [
+    "5XL",
+    "101,9",
+    "114,6",
+    "92,7"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "XS",
@@ -50,7 +136,7 @@
   "5XL"
  ],
  "source_title": "DPF Monochrome Star | Leggings de cintura alta",
- "stripe_payment_link": "https://buy.stripe.com/aFa5kE0EIaCM1Ma6iq1gV1R",
+ "stripe_payment_link": "https://buy.stripe.com/6oUeVebjmfX6duS0Y61gW23",
  "supplier": "InterestPrint",
  "supplier_id": "aesthetic-icon-womens-wide-waist-yoga-cropped-leggings",
  "visual_verified": true

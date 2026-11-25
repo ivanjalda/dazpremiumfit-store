@@ -18,7 +18,7 @@
   "mujer/bodies"
  ],
  "cg": "t-balsamo-corporal-relajante-daz-premium-fit",
- "color": "",
+ "color": "Natural",
  "created": "2026-11-25",
  "desc_en": "This body balm is a deep hydration treatment designed for dry skin. The advanced formula immediately replenishes moisture while natural plant extracts soothe the skin. Featuring a lightweight texture, it is non-sticky, non-greasy, and leaves no residue behind. Simple to apply and versatile for use across the entire body. Housed in a biodegradable container crafted for everyday wellness.",
  "desc_es": "Este bálsamo corporal es un tratamiento de hidratación profunda diseñado para pieles secas. Su fórmula avanzada repone la humedad de manera inmediata mientras los extractos de plantas naturales calman la piel. De textura ligera, no es pegajoso ni graso y no deja residuos. Su aplicación es sumamente sencilla y versátil para cualquier zona del cuerpo. Envasado en un formato biodegradable pensado para el bienestar diario.",
@@ -29,22 +29,23 @@
  ],
  "draft": true,
  "fam": "balsamo-corporal-relajante",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-balsamo-corporal-relajante-daz-premium-fit",
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
   "interestprint-design-custom-womens-high-waist-legging",
-  "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra"
+  "interestprint-design-yoga-top-a6k",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
  ],
- "material": "",
+ "material": "Butyrospermum Parkii (Shea) Butter, Caprylic/capric triglyceride, Emulsifying Wax, Euphorbia cerifera (Candelilla) Wax, Theobroma Cacao (Cocoa) Butter, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Tapioca starch, Pogostemon cablin (Patchouli) Leaf Oil, Ocimum Basilicum (Basil) Oil, Helianthus annuus (Sunflower) Seed Oil, Calendula Officinalis Flower Extract, Helianthus Annuus (Sunflower) Flower Extract, Aloe Barbadensis Leaf Extract, Chondrus Crispus Extract, Althaea Officinalis Root Extract, d-alpha-tocopherol, Pelargonium Graveolens (Geranium) Flower Oil, Cymbopogon Flexuosus (Lemongrass) Oil, Phenoxyethanol, Caprylyl Glycol",
  "name_en": "Relax Body Balm",
  "name_es": "Bálsamo Corporal Relajante",
  "needs_review": false,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 27.99,
- "rank": 220,
+ "rank": 74,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado personal",
@@ -55,7 +56,7 @@
   "2.5 oz"
  ],
  "source_title": "Bálsamo Corporal Relajante Daz Premium Fit",
- "stripe_payment_link": "https://buy.stripe.com/00w6oI1IMaCMcqOfT01gW0V",
+ "stripe_payment_link": "https://buy.stripe.com/cNi3cw87a6mw76ubCK1gW2C",
  "supplier": "Productifi",
  "supplier_id": "balsamo-corporal-relajante-daz-premium-fit",
  "visual_verified": true

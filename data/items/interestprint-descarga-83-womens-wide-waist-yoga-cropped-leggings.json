@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "Violeta intenso",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Poliéster",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "The campaign lifestyle shots on the model look professional and high-end, contrasting with the flat mockup product shots.",
+ "art_score": 8,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +20,15 @@
  "cg": "t-dpf-amethyst-leggings-de-yoga-de-cintura-alta",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Elevate your training with a piece designed to stand out. These leggings feature a deep violet tone combined with an ornamental print and distinctive waistband details. The high-waisted silhouette offers flawless coverage and an exceptionally soft feel against the skin. Ideal for demanding yoga sessions as well as transitioning into a sophisticated urban look. Made to order pieces with worldwide shipping.",
+ "desc_es": "Eleva tu entrenamiento con una pieza diseñada para destacar. Estos leggings presentan un profundo tono violeta combinado con un estampado ornamental y detalles distintivos en la cintura. La silueta de cintura alta ofrece una cobertura impecable y un tacto excepcionalmente suave sobre la piel. Ideales tanto para sesiones de yoga exigentes como para transicionar hacia un estilo urbano sofisticado. Confección bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Composition: polyester.\n· High and wide waistband.\n· All-over ornamental print.\n· Hand or machine wash cold, max 45 degrees.\n· Do not bleach, do not tumble dry, do not soak.\n· Made-to-order piece with worldwide shipping.",
+ "details_es": "· Composición: poliéster.\n· Cintura alta y ancha.\n· Estampado ornamental integral.\n· Lavar a mano o a máquina con agua fría máximo 45 grados.\n· No usar lejía, no secar en secadora y no dejar en remojo.\n· Pieza confeccionada bajo demanda con envíos a todo el mundo.",
  "display_images": [
   "assets/products/shop/8380808a8ef4851280ad.jpg",
   "assets/products/shop/a8885d0a3859460b9af4.jpg",
   "assets/products/shop/ebc812823aac0c6684e4.jpg",
-  "assets/products/shop/5c98bdca585f6ce9c175.jpg",
-  "assets/products/shop/a8861b62ebf580ca637b.jpg",
-  "assets/products/shop/1d43450f4289d6aeed72.jpg"
+  "assets/products/shop/5c98bdca585f6ce9c175.jpg"
  ],
  "draft": false,
  "fam": "amethyst-leggings-yoga",
@@ -23,22 +36,59 @@
  "id": "interestprint-descarga-83-womens-wide-waist-yoga-cropped-leggings",
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-81-racerback-sports-bra",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Amethyst Yoga Cintura Leggings",
- "name_es": "Leggings Amethyst Yoga Cintura",
+ "name_en": "Amethyst Yoga Leggings",
+ "name_es": "Leggings de Yoga Amethyst",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
- "rank": 23,
+ "rank": 40,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length A",
+   "Hip B",
+   "Waist C"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo A",
+   "Cadera B",
+   "Cintura C"
+  ],
+  "notes_en": "Values from the original product table. The original table does not specify whether waist and hip correspond to body or garment measurements, and they should not be interpreted as flat widths.",
+  "notes_es": "Valores de la tabla original del producto. La tabla original no especifica si cintura y cadera corresponden a medidas corporales o de la prenda; no deben interpretarse como anchos en plano.",
+  "rows": [
+   [
+    "XS",
+    "94,0",
+    "76,2",
+    "54,1"
+   ],
+   [
+    "S",
+    "95,0",
+    "80,0",
+    "57,9"
+   ],
+   [
+    "M",
+    "95,8",
+    "84,1",
+    "62,2"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "XS",
@@ -52,7 +102,7 @@
   "5XL"
  ],
  "source_title": "DPF Amethyst | Leggings de yoga de cintura alta",
- "stripe_payment_link": "https://buy.stripe.com/6oU28sbjm3akfD0bCK1gV1S",
+ "stripe_payment_link": "https://buy.stripe.com/5kQbJ2evyeT24YmeOW1gW24",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-83-womens-wide-waist-yoga-cropped-leggings",
  "visual_verified": true

@@ -1,5 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "track pants",
+ "ai_ver": 2,
+ "art_note": "Clean flat lay product shot, but lacks dynamic lighting and high-end campaign styling.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +21,10 @@
  "cg": "printful-480571842",
  "color": "White",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Track pants engineered for continuous movement. Refined silhouette in an immaculate white tone. Minimalist aesthetic with a subtle graphic finish. Made to order with worldwide shipping. Absolute comfort for daily performance.",
+ "desc_es": "Pantalón de chándal diseñado para el movimiento continuo. Silueta depurada en tono blanco impecable. Estética minimalista con acabado gráfico sutil. Confección bajo demanda con envíos a todo el mundo. Comodidad absoluta para la rutina diaria.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/469/46935f5cd8fb0ab2a376f0aad57c1280_preview.png"
  ],
@@ -20,17 +34,19 @@
  "id": "printful-480571842",
  "img_checked": "2026-11-25",
  "look": [
-  "interestprint-design-washed-drop-shoulder-t-shirt",
-  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "productifi-cafe-mezcla-brasilena-16oz",
-  "productifi-apoyo-conjunto-daz-premium-fit"
+  "printful-359535579",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "",
- "name_en": "Pantalón Chándal Élan Sweatshirt · White",
- "name_es": "Sudadera Pantalón Chándal Élan · Blanco",
+ "name_en": "DPF Élan Track Pants",
+ "name_es": "Pantalón de Chándal DPF Élan",
  "needs_review": false,
+ "needs_studio": true,
+ "page": true,
  "price_usd": 55.99,
- "rank": 104,
+ "rank": 161,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 9.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Pantalones para correr",
@@ -56,7 +72,7 @@
   "8224782_15755"
  ],
  "source_title": "Pantalón de chándal DPF Élan",
- "stripe_payment_link": "https://buy.stripe.com/8x2eVeevybGQaiGayG1gV3b",
+ "stripe_payment_link": "https://buy.stripe.com/28E9AUafiaCMeyW0Y61gW41",
  "supplier": "Printful",
  "supplier_id": "480571842",
  "visual_verified": true

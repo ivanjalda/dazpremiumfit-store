@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "80% polyester, 20% elastane",
+ "ai_type": "sports bra",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and professional model shots elevate the brand aesthetic, though digital mockups prevent a higher score.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +19,14 @@
  "cg": "t-dpf-amethyste-top-deportivo-de-espalda-cruzada",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "An elegant silhouette brings intensity to your everyday wardrobe. The rich purple tone combines with a strappy crossback structure to define a refined aesthetic. The scoop neckline and wide band balance the piece with clean lines. A design conceived to accompany you through yoga sessions and urban transitions alike. Made to order with worldwide shipping.",
+ "desc_es": "Una silueta elegante aporta intensidad a tu vestuario diario. El tono morado se combina con una estructura de tirantes entrecruzados en la espalda para definir una estética depurada. El escote redondo y la banda ancha equilibran la pieza con líneas limpias. Un diseño concebido para acompañarte tanto en tus sesiones de yoga como en tus desplazamientos urbanos. Pieza confeccionada bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Composition: 80% polyester and 20% elastane\n· Design: Multiple crisscross back straps and front scoop neckline\n· Details: Logo on chest and graphic on back band\n· Care: Hand or machine wash at a maximum of 45 C. Do not bleach or soak for prolonged periods\n· Made to order and worldwide shipping",
+ "details_es": "· Composición: 80% poliéster y 20% elastano\n· Diseño: Espalda con múltiples tirantes cruzados y escote redondo frontal\n· Detalles: Logotipo en el pecho y gráfico en la banda trasera\n· Cuidados: Lavar a mano o a máquina a un máximo de 45 C. No utilizar lejía ni dejar en remojo\n· Fabricación bajo demanda y envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/950259c02138d3e5d32e.jpg",
   "assets/products/shop/f41b876c2d553753c374.jpg",
-  "assets/products/shop/a0479fdf02239375cbf4.jpg",
-  "http://ipimg.interestprint.com/data/product/5212/info/image/20260126/D692082BF2B0D0EFE207F9979EFB7289.png"
+  "assets/products/shop/a0479fdf02239375cbf4.jpg"
  ],
  "draft": false,
  "fam": "amethyste-top-deportivo",
@@ -23,22 +36,81 @@
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
   "interestprint-design-custom-womens-high-waist-legging",
-  "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-design-yoga-top-a6k",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
  ],
  "material": "",
- "name_en": "Améthyste Deportivo Espalda Underwear",
- "name_es": "Ropa Interior Améthyste Deportivo Espalda",
+ "name_en": "Améthyste Crossback Sports Bra",
+ "name_es": "Top Deportivo Améthyste Espalda Cruzada",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 37,
+ "rank": 64,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Tops cortos",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST(B)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LARGO (A)",
+   "PECHO (B)"
+  ],
+  "notes_en": "Measurements are provided in inches. Please consult the size guide before selecting.",
+  "notes_es": "Las medidas se indican en pulgadas. Consulta la guía de tallas antes de elegir.",
+  "rows": [
+   [
+    "S",
+    "15.20",
+    "30.00"
+   ],
+   [
+    "M",
+    "15.50",
+    "31.50"
+   ],
+   [
+    "L",
+    "15.70",
+    "33.50"
+   ],
+   [
+    "XL",
+    "16.00",
+    "35.50"
+   ],
+   [
+    "2XL",
+    "16.20",
+    "37.50"
+   ],
+   [
+    "3XL",
+    "16.60",
+    "39.50"
+   ],
+   [
+    "4XL",
+    "17.00",
+    "45.50"
+   ],
+   [
+    "5XL",
+    "17.40",
+    "43.50"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/5212/info/image/20260126/D692082BF2B0D0EFE207F9979EFB7289.png"
+ ],
  "sizes": [
   "S",
   "M",
@@ -50,7 +122,7 @@
   "5XL"
  ],
  "source_title": "DPF Améthyste | Top deportivo de espalda cruzada",
- "stripe_payment_link": "https://buy.stripe.com/6oUaEYgDGaCM3UicGO1gV26",
+ "stripe_payment_link": "https://buy.stripe.com/3cI28scnq8uE8ay0Y61gW2s",
  "supplier": "InterestPrint",
  "supplier_id": "derfrfjj-cross-back-sports-bra",
  "visual_verified": true

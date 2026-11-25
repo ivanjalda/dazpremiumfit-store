@@ -18,7 +18,7 @@
   "mujer/falda"
  ],
  "cg": "t-daz-premium-fit-plume-falda-deportiva-de-cintura-alta",
- "color": "",
+ "color": "white",
  "created": "2026-11-25",
  "desc_en": "Movement with a light touch. The Plume skirt combines a crisp white base with a delicate feather print. The layered design creates movement and a refined athletic silhouette. The wide elastic waistband ensures a secure fit. Built-in inner shorts provide coverage during active movement. Designed for effortless transitions throughout the day.",
  "desc_es": "Movimiento con un toque ligero. La falda Plume combina una base blanca con un delicado estampado de plumas. Su diseño de capas aporta vuelo y una silueta deportiva. La cintura ancha y elástica ofrece un ajuste ceñido. El pantalón corto interior aporta cobertura durante el movimiento. Fabricada para acompañar cada transición del día.",
@@ -31,23 +31,24 @@
  ],
  "draft": false,
  "fam": "premium-fit-plume",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-design-womens-high-waist-layered-sport-skirt",
  "img_checked": "2026-11-25",
  "look": [
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
   "interestprint-design-custom-womens-high-waist-legging",
-  "interestprint-descarga-81-racerback-sports-bra",
-  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+  "interestprint-design-yoga-top-a6k",
+  "interestprint-descarga-81-racerback-sports-bra"
  ],
- "material": "",
+ "material": "95% polyester, 5% elastane",
  "name_en": "Plume High-Waisted Performance Skirt",
  "name_es": "Falda deportiva Plume de talle alto",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 22.99,
- "rank": 7,
+ "rank": 10,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Faldas pantalón",
@@ -119,7 +120,7 @@
   "3XL"
  ],
  "source_title": "DAZ Premium Fit Plume | Falda deportiva de cintura alta",
- "stripe_payment_link": "https://buy.stripe.com/3cI3cw1IMaCM62q9uC1gV1C",
+ "stripe_payment_link": "https://buy.stripe.com/00w28safi3ak0I64ai1gW1A",
  "supplier": "InterestPrint",
  "supplier_id": "design-womens-high-waist-layered-sport-skirt",
  "visual_verified": true
