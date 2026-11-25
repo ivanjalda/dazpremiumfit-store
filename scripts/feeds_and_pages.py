@@ -11,7 +11,7 @@ Genera solo, cada hora:
   3. sitemap.xml y robots.txt para que Google encuentre todas las páginas.
 """
 
-import html
+import re, html
 import json
 import os
 import shutil
@@ -179,6 +179,8 @@ def policy_pages(cfg, site):
     addr = esc(cfg.get("company_address") or "500 4th St NW, Suite 102 #1327, Albuquerque, NM 87102, USA")
     mail = esc(cfg.get("contact_email") or "info@dazpremiumfit.com")
     m = f'<a href="mailto:{mail}">{mail}</a>'
+    phone = esc(cfg.get("phone") or "+1 (505) 437-5675")
+    tel = f'<a href="tel:{re.sub(r"[^0-9+]", "", phone)}">{phone}</a>'
     pages = {
         "policies/shipping": ("Shipping Policy · Política de envíos", f"""
 <h2>Shipping Policy</h2>
@@ -187,7 +189,7 @@ def policy_pages(cfg, site):
 <p><b>Delivery time:</b> tracked international shipping, usually 5 to 15 business days depending on the destination.</p>
 <p><b>Tracking:</b> you will receive a tracking number by email as soon as your order ships.</p>
 <p><b>Countries:</b> we ship to the United States, Canada, the United Kingdom, the European Union and most other countries. Import taxes or duties outside the United States, if any, are paid by the buyer.</p>
-<p>Questions: {m}</p>
+<p>Questions: {m} · {tel}</p>
 <h2>Política de envíos</h2>
 <p><b>Envío gratis en todos los pedidos.</b> El precio que ves es el precio final; el envío está incluido.</p>
 <p><b>Confección:</b> cada pieza se fabrica bajo pedido, entre 2 y 7 días laborables después del pago.</p>
@@ -207,7 +209,7 @@ def policy_pages(cfg, site):
 <p>Si resides en la Unión Europea, conservas tu derecho de desistimiento de 14 días desde la entrega, salvo en productos personalizados a petición tuya.</p>"""),
         "policies/privacy": ("Privacy Policy · Privacidad", f"""
 <h2>Privacy Policy</h2>
-<p>Data controller: {co}, {addr}. Contact: {m}.</p>
+<p>Data controller: {co}, {addr}. Contact: {m} · {tel}.</p>
 <ul><li>Payments are processed by Stripe. We never see or store your card details.</li>
 <li>Account and favorites: if you sign in, they are stored in Google Firebase (United States).</li>
 <li>Newsletter: your email is stored in Brevo only if you subscribe; you can unsubscribe in every email.</li>
@@ -223,21 +225,40 @@ def policy_pages(cfg, site):
 <p>By purchasing you accept these terms and our <a href="../shipping/">Shipping</a> and <a href="../returns/">Return</a> policies. Governing law: State of New Mexico, USA, without prejudice to the rights granted by the law of your country of residence.</p>
 <h2>Condiciones</h2>
 <p>Esta tienda y la marca DAZ Premium Fit pertenecen a {co}, {addr}. Los precios se muestran en dólares e incluyen el envío. El pago lo procesa Stripe de forma segura. Cada pieza se fabrica tras confirmarse el pago. Ley aplicable: Nuevo México (EE. UU.), sin perjuicio de los derechos que te reconozca la ley de tu país.</p>"""),
+        "about": ("About Us · Quiénes somos", f"""
+<h2>About DAZ Premium Fit</h2>
+<p>DAZ Premium Fit is an American sportswear and supplements brand for bodybuilding, fitness and CrossFit. Our apparel is made to order and our supplements are produced in the United States under the DAZ Premium Fit&reg; registered trademark (U.S. Reg. No. 8,056,872).</p>
+<p>DAZ Premium Fit is owned and operated by {co}, a limited liability company registered in the State of New Mexico, USA (EIN on file).</p>
+<p><b>Address:</b> {addr}<br><b>Email:</b> {m}<br><b>Phone:</b> {tel}</p>
+<p>Secure payments by Stripe · Free tracked shipping · 30-day replacement or refund for damaged or wrong items. See our <a href="../policies/">store policies</a>.</p>
+<h2>Quiénes somos</h2>
+<p>DAZ Premium Fit pertenece a {co}, sociedad registrada en Nuevo México (EE. UU.). Dirección: {addr}. Correo: {m}. Teléfono: {tel}. Pagos seguros con Stripe, envío gratis con seguimiento y reposición o reembolso en 30 días si la pieza llega dañada o equivocada.</p>"""),
+        "policies": ("Store Policies · Políticas de la tienda", f"""
+<ul>
+<li><a href="shipping/">Shipping Policy · Envíos</a></li>
+<li><a href="returns/">Return &amp; Refund Policy · Devoluciones</a></li>
+<li><a href="privacy/">Privacy Policy · Privacidad</a></li>
+<li><a href="terms/">Terms of Service · Condiciones</a></li>
+<li><a href="../contact/">Contact · Contacto</a></li>
+<li><a href="../about/">About Us · Quiénes somos</a></li>
+</ul>
+<p>{co} · {addr} · {m} · {tel}</p>"""),
         "contact": ("Contact &amp; About Us · Contacto", f"""
 <h2>About DAZ Premium Fit</h2>
 <p>DAZ Premium Fit is an American sportswear and supplements brand for bodybuilding, fitness and CrossFit, with original designs made to order and shipped worldwide.</p>
 <h2>Contact us</h2>
 <p><b>Email:</b> {m} — we answer within 24 to 48 hours, Monday to Friday.</p>
+<p><b>Phone:</b> {tel} — Monday to Friday, 9:00 to 17:00 (Mountain Time).</p>
 <p><b>Company:</b> {co}</p>
 <p><b>Address:</b> {addr}</p>
-<p><b>Trademark:</b> DAZ Premium Fit&reg; is a registered trademark of {co} in the United States (Registered in the U.S.).</p>
+<p><b>Trademark:</b> DAZ PREMIUM FIT&reg; is a registered trademark of {co} in the United States (U.S. Reg. No. 8,056,872, Class 5: vitamins and dietary supplements).</p>
 <h2>Contacto</h2>
-<p>Escríbenos a {m}; respondemos en 24 a 48 horas, de lunes a viernes. Empresa: {co}. Dirección: {addr}.</p>"""),
+<p>Escríbenos a {m} o llama al {tel}; respondemos en 24 a 48 horas, de lunes a viernes. Empresa: {co}. Dirección: {addr}.</p>"""),
     }
     for path, (title, body) in pages.items():
         up = "../" * (path.count("/") + 1)
         nav = (f'<a href="{up}policies/shipping/">Shipping</a> · <a href="{up}policies/returns/">Returns</a> · '
-               f'<a href="{up}policies/privacy/">Privacy</a> · <a href="{up}policies/terms/">Terms</a> · <a href="{up}contact/">Contact</a>')
+               f'<a href="{up}policies/privacy/">Privacy</a> · <a href="{up}policies/terms/">Terms</a> · <a href="{up}contact/">Contact</a> · <a href="{up}about/">About</a>')
         page = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
