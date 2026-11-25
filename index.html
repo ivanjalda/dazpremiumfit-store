@@ -1,837 +1,135 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>DAZ Premium Fit | Performance Apparel, Footwear & Nutrition</title>
-<meta name="description" content="DAZ Premium Fit: ropa deportiva de alto rendimiento, calzado técnico, nutrición, suplementos y asesoría VIP. Marca americana.">
+<title>DAZ Premium Fit — Sportswear & Supplements</title>
+<meta name="description" content="DAZ Premium Fit — American sportswear brand for bodybuilding, fitness and CrossFit, plus essential supplements. Ropa deportiva y suplementos.">
 <meta name="theme-color" content="#000000">
+<meta name="google-site-verification" content="x01nFH4KHh-T-0Ib5TtVy9dsbSrzaLmss8EIcF4keSw" />
+<meta name="p:domain_verify" content="9a45b7e190c6f8750d23bffd2307f265"/>
+<meta name="msvalidate.01" content="1303C52AFCE3F45C2C819132F1E05D2C" />
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="DAZ Premium Fit">
+<meta property="og:title" content="DAZ Premium Fit — Sportswear & Supplements">
+<meta property="og:description" content="Bodybuilding, fitness and CrossFit apparel and essential supplements. Ropa deportiva y suplementos.">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:image" content="https://dazpremiumfit.com/assets/brand/og-image.jpg">
+<meta property="og:url" content="https://dazpremiumfit.com/">
+<link rel="canonical" href="https://dazpremiumfit.com/">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://dazpremiumfit.com/#org", "name": "DAZ Premium Fit", "url": "https://dazpremiumfit.com/", "logo": "https://dazpremiumfit.com/assets/brand/logo-512.jpg", "email": "info@dazpremiumfit.com", "address": {"@type": "PostalAddress", "streetAddress": "500 4th St NW, Suite 102 #1327", "addressLocality": "Albuquerque", "addressRegion": "NM", "postalCode": "87102", "addressCountry": "US"}, "sameAs": ["https://www.instagram.com/dazpremiumfit", "https://www.tiktok.com/@dazpremiumfit.com"]}, {"@type": "WebSite", "@id": "https://dazpremiumfit.com/#site", "name": "DAZ Premium Fit", "alternateName": "DPF", "url": "https://dazpremiumfit.com/", "publisher": {"@id": "https://dazpremiumfit.com/#org"}}]}</script>
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<style>
-:root{
-  --black:#000;--white:#fff;--gold:#C5A059;--gold2:#D4AF37;--red:#C8102E;
-  --ink:#111;--grey:#6b6b6b;--line:#e6e6e6;--soft:#f5f5f5;--r:12px;
-  --serif:'Cormorant Garamond',Georgia,serif;--sans:'Inter',system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
-  --hh:64px;
-}
-*{box-sizing:border-box;margin:0;padding:0}
-html{scroll-behavior:smooth}
-body{font-family:var(--sans);background:var(--white);color:var(--ink);-webkit-font-smoothing:antialiased;padding-top:calc(var(--hh) + 44px)}
-a{color:inherit;text-decoration:none}
-button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
-img{max-width:100%;display:block}
-.wrap{max-width:1320px;margin:0 auto;padding:0 18px}
-
-/* ---------- CABECERA ---------- */
-header.top{position:fixed;top:0;left:0;right:0;z-index:50;background:var(--black);color:var(--white)}
-.bar{height:var(--hh);display:grid;grid-template-columns:1fr auto 1fr;align-items:center;padding:0 12px}
-.bar .l,.bar .r{display:flex;align-items:center;gap:4px}
-.bar .r{justify-content:flex-end}
-.ico{width:40px;height:40px;display:grid;place-items:center;border-radius:50%;position:relative}
-.ico:hover{background:#1a1a1a}
-.ico svg{width:22px;height:22px;stroke:#fff;fill:none;stroke-width:1.7}
-.count{position:absolute;top:4px;right:2px;background:var(--gold);color:#000;font-size:10px;font-weight:800;min-width:17px;height:17px;border-radius:9px;display:grid;place-items:center;padding:0 4px}
-.count[data-n="0"]{display:none}
-.brand{display:flex;flex-direction:column;align-items:center;gap:1px}
-.brand svg{width:38px;height:42px}
-.brand b{font-family:var(--serif);color:var(--gold);font-size:11px;letter-spacing:.32em;font-weight:600}
-.pill{display:flex;border:1px solid #333;border-radius:999px;overflow:hidden;font-size:11px;font-weight:700}
-.pill button{padding:5px 8px;color:#aaa}
-.pill button.on{background:var(--gold);color:#000}
-.toggles{display:flex;gap:6px;margin-right:4px}
-nav.cats{height:44px;background:#0a0a0a;border-top:1px solid #1d1d1d;overflow-x:auto;scrollbar-width:none;white-space:nowrap;text-align:center}
-nav.cats::-webkit-scrollbar{display:none}
-nav.cats a{display:inline-block;line-height:44px;padding:0 14px;font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#ddd}
-nav.cats a:hover,nav.cats a.on{color:var(--gold)}
-@media(max-width:640px){.toggles{display:none}.bar .l .hide-m{display:none}}
-
-/* ---------- MENÚ LATERAL ---------- */
-.drawer{position:fixed;inset:0;z-index:60;display:none}
-.drawer.open{display:block}
-.drawer .shade{position:absolute;inset:0;background:rgba(0,0,0,.55)}
-.drawer .panel{position:absolute;top:0;left:0;bottom:0;width:min(88vw,380px);background:#000;color:#fff;overflow-y:auto;padding:18px}
-.drawer.right .panel{left:auto;right:0;background:#fff;color:var(--ink)}
-.panel h3{font-family:var(--serif);color:var(--gold);font-size:26px;font-weight:600;margin:6px 0 14px}
-.drawer.right .panel h3{color:var(--ink)}
-.close{position:absolute;top:12px;right:12px;font-size:26px;line-height:1;width:40px;height:40px}
-.tree details{border-bottom:1px solid #1f1f1f}
-.tree summary{list-style:none;padding:15px 2px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:13px;display:flex;justify-content:space-between}
-.tree summary::-webkit-details-marker{display:none}
-.tree summary::after{content:'+';color:var(--gold)}
-.tree details[open] summary::after{content:'–'}
-.tree a{display:block;padding:9px 12px;color:#bbb;font-size:14px}
-.tree a:hover{color:var(--gold)}
-.tree .grp{color:var(--gold);font-size:11px;letter-spacing:.14em;text-transform:uppercase;padding:10px 12px 2px}
-.drawer-toggles{display:flex;gap:10px;margin:18px 0}
-
-/* ---------- BLOQUES ---------- */
-.blk-dark{background:#000;color:#fff}
-.blk-light{background:#fff;color:var(--ink)}
-.blk-soft{background:var(--soft)}
-.sec{padding:56px 0}
-.kicker{font-size:11px;font-weight:800;letter-spacing:.22em;text-transform:uppercase;color:var(--red)}
-.blk-dark .kicker{color:var(--gold)}
-.h-serif{font-family:var(--serif);font-weight:600;line-height:1.02}
-.blk-dark .h-serif{color:var(--gold)}
-.sec-head{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;margin-bottom:22px}
-.sec-head h2{font-size:clamp(30px,5vw,52px)}
-.link-more{font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;border-bottom:2px solid currentColor;padding-bottom:3px;white-space:nowrap}
-
-.hero{min-height:min(82vh,760px);display:flex;align-items:flex-end;position:relative;overflow:hidden;background:radial-gradient(120% 90% at 80% 10%,#2a0a0e 0%,#000 55%)}
-.hero .hexbg{position:absolute;right:-8%;top:8%;width:min(70vw,620px);opacity:.16}
-.hero .wrap{position:relative;padding-bottom:64px;padding-top:40px}
-.hero h1{font-size:clamp(44px,9vw,108px);margin:12px 0 16px}
-.hero p{max-width:540px;color:#cfcfcf;font-size:17px;line-height:1.55}
-.btns{display:flex;gap:10px;flex-wrap:wrap;margin-top:26px}
-.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;height:50px;padding:0 26px;border-radius:var(--r);font-weight:800;font-size:13px;letter-spacing:.1em;text-transform:uppercase;transition:.15s}
-.btn-gold{background:var(--gold);color:#000}.btn-gold:hover{background:var(--gold2)}
-.btn-line{border:1.5px solid currentColor}
-.btn-black{background:#000;color:#fff}.btn-black:hover{background:#222}
-.btn-full{width:100%}
-
-/* rejilla de productos */
-.rail{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(220px,1fr);gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:8px;scrollbar-width:thin}
-.rail>*{scroll-snap-align:start}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:16px}
-@media(max-width:520px){.grid{grid-template-columns:1fr 1fr;gap:10px}.rail{grid-auto-columns:70%}}
-.card{border-radius:var(--r);overflow:hidden;background:#fff;color:var(--ink);position:relative;display:flex;flex-direction:column}
-.blk-dark .card{background:#0f0f0f;color:#fff}
-.card .img{aspect-ratio:4/5;background:var(--soft);position:relative;overflow:hidden}
-.blk-dark .card .img{background:#161616}
-.card .img img{width:100%;height:100%;object-fit:cover;transition:transform .4s}
-.card:hover .img img{transform:scale(1.04)}
-.ph{width:100%;height:100%;display:grid;place-items:center;text-align:center;padding:16px;background:linear-gradient(160deg,#1a1a1a,#000);color:var(--gold);font-family:var(--serif);font-size:20px}
-.ph svg{width:46px;height:52px;display:block;opacity:.85;margin:0 auto 10px}
-.badge{position:absolute;top:10px;left:10px;background:#000;color:var(--gold);font-size:10px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:5px 8px;border-radius:6px;z-index:2}
-.badge.red{background:var(--red);color:#fff}
-.fav{position:absolute;top:8px;right:8px;width:36px;height:36px;border-radius:50%;background:rgba(255,255,255,.92);display:grid;place-items:center;z-index:2}
-.fav svg{width:18px;height:18px;stroke:#000;fill:none;stroke-width:1.8}
-.fav.on svg{fill:var(--red);stroke:var(--red)}
-.card .info{padding:12px 4px 6px}
-.card .sub{font-size:11px;color:var(--grey);text-transform:uppercase;letter-spacing:.08em;font-weight:600}
-.card .nm{font-weight:700;font-size:15px;margin:4px 0;line-height:1.3}
-.card .pr{font-weight:800;font-size:15px}
-.card .pr s{color:var(--grey);font-weight:500;margin-left:6px;font-size:13px}
-
-/* escaparates */
-.show-intro{display:grid;grid-template-columns:1.1fr 2fr;gap:28px;align-items:start}
-@media(max-width:860px){.show-intro{grid-template-columns:1fr}}
-.show-intro .txt p{color:#bdbdbd;line-height:1.6;margin:14px 0 22px}
-.blk-light .show-intro .txt p{color:var(--grey)}
-
-.edit{display:grid;grid-template-columns:1fr 1fr;gap:0}
-.edit>div{padding:64px 7%}
-.edit .e1{background:#000;color:#fff}
-.edit .e2{background:#fff}
-.edit h2{font-size:clamp(32px,4.6vw,56px);margin:12px 0 18px}
-.edit p{line-height:1.7;color:#bdbdbd;max-width:520px}
-.edit .e2 p{color:var(--grey)}
-.vip-list{margin:22px 0 6px;display:grid;gap:12px}
-.vip-item{border:1px solid var(--line);border-radius:var(--r);padding:16px;display:flex;justify-content:space-between;gap:12px;align-items:center}
-.vip-item b{display:block;font-family:var(--serif);font-size:21px}
-.vip-item small{color:var(--grey)}
-@media(max-width:860px){.edit{grid-template-columns:1fr}.edit>div{padding:48px 18px}}
-
-.subs{text-align:center;padding:64px 0}
-.subs h2{font-size:clamp(30px,5vw,48px);margin:10px 0}
-.subs form{display:flex;gap:8px;max-width:520px;margin:22px auto 0}
-.subs input{flex:1;height:50px;border-radius:var(--r);border:1px solid #333;background:#0d0d0d;color:#fff;padding:0 16px;font-size:15px}
-.subs .ok{color:var(--gold);margin-top:14px;font-weight:600}
-@media(max-width:520px){.subs form{flex-direction:column}}
-
-/* pie */
-footer{background:#000;color:#bbb;padding:52px 0 28px;font-size:14px}
-.fcols{display:grid;grid-template-columns:1.3fr repeat(3,1fr);gap:28px}
-@media(max-width:860px){.fcols{grid-template-columns:1fr 1fr}}
-footer h4{color:var(--gold);font-family:var(--serif);font-size:20px;font-weight:600;margin-bottom:12px}
-footer li{list-style:none;margin:8px 0}
-footer a:hover{color:var(--gold)}
-.pay{display:flex;flex-wrap:wrap;gap:6px;margin-top:26px}
-.pay span{border:1px solid #333;border-radius:6px;padding:5px 9px;font-size:11px;font-weight:700;color:#ddd;letter-spacing:.04em}
-.social{display:flex;gap:10px;margin-top:14px}
-.social a{width:40px;height:40px;border:1px solid #333;border-radius:50%;display:grid;place-items:center}
-.social svg{width:18px;height:18px;fill:#ddd}
-.legal{border-top:1px solid #1f1f1f;margin-top:30px;padding-top:18px;font-size:12px;color:#777;line-height:1.6}
-
-/* catálogo */
-.crumbs{font-size:12px;color:var(--grey);padding:18px 0 4px}
-.crumbs a:hover{text-decoration:underline}
-.cat-head h1{font-size:clamp(34px,6vw,60px);margin:6px 0 16px}
-.chips{display:flex;gap:8px;overflow-x:auto;padding:4px 0 14px;scrollbar-width:none}
-.chip{flex:0 0 auto;border:1.5px solid var(--line);border-radius:999px;padding:9px 15px;font-size:13px;font-weight:700;background:#fff}
-.chip.on{background:#000;color:#fff;border-color:#000}
-.tools{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:16px;font-size:13px;color:var(--grey)}
-select{height:40px;border-radius:var(--r);border:1.5px solid var(--line);padding:0 12px;font:inherit;font-weight:600;background:#fff}
-.empty{padding:60px 0;text-align:center;color:var(--grey)}
-
-/* ficha */
-.pdp{display:grid;grid-template-columns:1.25fr 1fr;gap:36px;padding:10px 0 50px}
-@media(max-width:860px){.pdp{grid-template-columns:1fr;gap:18px}}
-.gal{display:grid;grid-template-columns:1fr 1fr;gap:8px}
-.gal>div{border-radius:var(--r);overflow:hidden;aspect-ratio:4/5;background:var(--soft)}
-.gal>div:first-child{grid-column:1/-1}
-.gal img{width:100%;height:100%;object-fit:cover}
-@media(max-width:860px){.gal{display:flex;overflow-x:auto;scroll-snap-type:x mandatory}.gal>div{flex:0 0 88%;scroll-snap-align:start}}
-.buy{position:sticky;top:calc(var(--hh) + 60px);align-self:start}
-.buy h1{font-size:30px;font-weight:800;line-height:1.15;margin:6px 0 8px}
-.buy .price{font-size:22px;font-weight:800;margin:6px 0 18px}
-.buy .lbl{font-size:12px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;margin:18px 0 8px;display:flex;justify-content:space-between}
-.buy .lbl button{text-decoration:underline;font-weight:600;letter-spacing:0;text-transform:none;font-size:13px}
-.sizes{display:grid;grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:8px}
-.sizes button{height:46px;border:1.5px solid var(--line);border-radius:var(--r);font-weight:700;font-size:14px}
-.sizes button.on{border-color:#000;background:#000;color:#fff}
-.sizes button[disabled]{opacity:.35;text-decoration:line-through}
-.acts{display:grid;gap:10px;margin-top:22px}
-.acts .row{display:grid;grid-template-columns:1fr 52px;gap:10px}
-.acts .fav-big{border:1.5px solid var(--line);border-radius:var(--r);display:grid;place-items:center}
-.acts .fav-big svg{width:22px;stroke:#000;fill:none;stroke-width:1.8}
-.acts .fav-big.on svg{fill:var(--red);stroke:var(--red)}
-.note{font-size:12px;color:var(--grey);margin-top:10px;line-height:1.5}
-.acc details{border-top:1px solid var(--line)}
-.acc details:last-child{border-bottom:1px solid var(--line)}
-.acc summary{list-style:none;padding:17px 0;font-weight:800;font-size:14px;display:flex;justify-content:space-between}
-.acc summary::-webkit-details-marker{display:none}
-.acc summary::after{content:'+'}
-.acc details[open] summary::after{content:'–'}
-.acc .in{padding:0 0 18px;line-height:1.65;font-size:14px;color:#333}
-.acc ul{padding-left:18px}
-table.tb{width:100%;border-collapse:collapse;font-size:14px}
-table.tb th,table.tb td{text-align:left;padding:9px 6px;border-bottom:1px solid var(--line)}
-table.tb th{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--grey)}
-.stack{background:#000;color:#fff;padding:44px 0}
-.stack h2{font-size:clamp(28px,4vw,42px);margin-bottom:18px}
-
-/* carrito / modales */
-.cart-line{display:grid;grid-template-columns:70px 1fr;gap:12px;padding:14px 0;border-bottom:1px solid var(--line)}
-.cart-line .th{width:70px;height:86px;border-radius:10px;overflow:hidden;background:var(--soft)}
-.cart-line .th img{width:100%;height:100%;object-fit:cover}
-.cart-line b{font-size:14px;display:block}
-.cart-line small{color:var(--grey);display:block;margin:3px 0}
-.qty{display:flex;align-items:center;gap:10px;margin-top:6px;font-weight:700}
-.qty button{width:28px;height:28px;border:1px solid var(--line);border-radius:8px}
-.mini{font-size:12px;text-decoration:underline;color:var(--grey);margin-left:auto}
-.total{display:flex;justify-content:space-between;font-weight:800;font-size:17px;margin:18px 0}
-.modal{position:fixed;inset:0;z-index:70;display:none;align-items:center;justify-content:center;background:rgba(0,0,0,.6);padding:16px}
-.modal.open{display:flex}
-.modal .box{background:#fff;border-radius:16px;max-width:520px;width:100%;max-height:86vh;overflow:auto;padding:24px;position:relative}
-.modal h3{font-size:22px;margin-bottom:12px}
-.tabs{display:flex;gap:6px;margin-bottom:12px}
-.search-top{position:fixed;inset:0;z-index:65;background:#fff;display:none;flex-direction:column}
-.search-top.open{display:flex}
-.search-top .in{display:flex;gap:8px;align-items:center;padding:12px 16px;border-bottom:1px solid var(--line)}
-.search-top input{flex:1;height:48px;border:0;font-size:18px;outline:none;font-family:var(--sans)}
-.search-top .res{overflow:auto;padding:16px}
-.toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%) translateY(30px);background:#000;color:#fff;padding:13px 18px;border-radius:var(--r);font-weight:600;font-size:14px;opacity:0;transition:.25s;z-index:90;border:1px solid var(--gold)}
-.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
-.article{max-width:760px;margin:0 auto;padding:30px 18px 60px;line-height:1.75;font-size:17px}
-.article h1{font-family:var(--serif);font-size:clamp(34px,6vw,54px);line-height:1.05;margin:10px 0 18px}
-.article p{margin:0 0 16px}
-.jcard{border:1px solid var(--line);border-radius:var(--r);padding:20px;display:block}
-.jcard:hover{border-color:#000}
-.jcard b{font-family:var(--serif);font-size:24px;display:block;margin:8px 0}
-.jcard p{color:var(--grey);font-size:14px;line-height:1.55}
-</style>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/brand/favicon-96.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/assets/brand/icon-192.png">
+<link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">
 </head>
 <body>
 
-<!-- ================= CABECERA FIJA ================= -->
-<header class="top">
-  <div class="bar">
-    <div class="l">
-      <button class="ico" id="btnMenu" aria-label="Menú"><svg viewBox="0 0 24 24"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
-      <button class="ico" id="btnSearch" aria-label="Buscar"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
-    </div>
-    <a href="#/" class="brand" aria-label="DAZ Premium Fit">
-      <svg viewBox="0 0 100 112" id="emblem"><use href="#hex"/></svg>
-      <b>DAZ PREMIUM FIT</b>
-    </a>
-    <div class="r">
-      <div class="toggles">
-        <div class="pill" data-lang-pill><button data-lang="es">ES</button><button data-lang="en">EN</button></div>
-        <div class="pill" data-cur-pill><button data-cur="USD">$</button><button data-cur="EUR">€</button></div>
-      </div>
-      <button class="ico" id="btnAccount" aria-label="Mi cuenta"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg></button>
-      <button class="ico hide-m" id="btnFavs" aria-label="Favoritos"><svg viewBox="0 0 24 24"><path d="M12 21s-8-5-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 6-8 11-8 11z"/></svg><span class="count" id="favCount" data-n="0">0</span></button>
-      <button class="ico" id="btnCart" aria-label="Carrito"><svg viewBox="0 0 24 24"><path d="M5 8h14l-1.2 12.2a1 1 0 0 1-1 .8H7.2a1 1 0 0 1-1-.8z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg><span class="count" id="cartCount" data-n="0">0</span></button>
-    </div>
+<!-- Barra superior: idioma y divisa -->
+<div class="topbar">
+  <div class="topbar-msg" id="topMsg"></div>
+  <div class="topbar-switches">
+    <button class="switch" id="langBtn" aria-label="Idioma / Language">ES | EN</button>
+    <button class="switch" id="curBtn" aria-label="Divisa / Currency">USD $</button>
   </div>
-  <nav class="cats" id="topNav"></nav>
+</div>
+
+<!-- Cabecera fija -->
+<header class="header">
+  <div class="header-left">
+    <button class="icon-btn" id="searchBtn" aria-label="Buscar"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></button>
+    <button class="icon-btn" id="menuBtn" aria-label="Menú"><svg viewBox="0 0 24 24"><path d="M4 8h16M4 16h16"/></svg></button>
+  </div>
+  <a href="#/" class="logo" aria-label="DAZ Premium Fit">DAZ <span>Premium</span> Fit</a>
+  <div class="header-right">
+    <a href="#/cuenta" class="icon-btn" aria-label="Mi cuenta / Favoritos"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg><span class="count" id="favCount"></span></a>
+    <button class="icon-btn" id="cartBtn" aria-label="Carrito"><svg viewBox="0 0 24 24"><path d="M5 8h14l-1.2 12H6.2z"/><path d="M9 8V6a3 3 0 016 0v2"/></svg><span class="count" id="cartCount"></span></button>
+  </div>
 </header>
 
-<!-- emblema hexagonal DAZ (dibujo propio; se puede sustituir por el logo oficial) -->
-<svg width="0" height="0" style="position:absolute">
-  <defs>
-    <symbol id="hex" viewBox="0 0 100 112">
-      <polygon points="50,2 97,29 97,83 50,110 3,83 3,29" fill="#C8102E"/>
-      <polygon points="50,10 90,33 90,79 50,102 10,79 10,33" fill="#000"/>
-      <polygon points="50,10 90,33 90,79 50,102" fill="#7a0a1b" opacity=".55"/>
-      <polygon points="50,18 83,37 83,75 50,94 17,75 17,37" fill="none" stroke="#C5A059" stroke-width="2"/>
-      <text x="50" y="66" text-anchor="middle" font-family="Georgia,serif" font-weight="700" font-size="28" fill="#D4AF37" letter-spacing="1">DAZ</text>
-    </symbol>
-  </defs>
-</svg>
+<!-- Menú principal -->
+<nav class="mainnav" id="mainNav" aria-label="Menú principal"></nav>
+<div class="megamenu" id="megaMenu" hidden></div>
 
-<!-- ================= MENÚ LATERAL ================= -->
-<div class="drawer" id="menuDrawer">
-  <div class="shade" data-close></div>
-  <div class="panel">
-    <button class="close" data-close aria-label="Cerrar">×</button>
-    <h3>DAZ Premium Fit</h3>
-    <div class="drawer-toggles">
-      <div class="pill" data-lang-pill><button data-lang="es">ES</button><button data-lang="en">EN</button></div>
-      <div class="pill" data-cur-pill><button data-cur="USD">USD $</button><button data-cur="EUR">EUR €</button></div>
+<!-- Contenido (se cambia sin recargar la página) -->
+<main id="app" tabindex="-1"></main>
+
+<!-- Suscripción -->
+<section class="subscribe" id="subscribe">
+  <p class="eyebrow" data-i18n="sub_eyebrow"></p>
+  <h2 data-i18n="sub_title"></h2>
+  <p class="muted" data-i18n="sub_text"></p>
+  <form id="subForm" class="sub-form">
+    <input type="email" name="EMAIL" required autocomplete="email" data-i18n-ph="sub_ph">
+    <button type="submit" class="btn" data-i18n="sub_btn"></button>
+  </form>
+  <p class="sub-msg" id="subMsg" role="status"></p>
+  <iframe name="subFrame" id="subFrame" hidden title="subscribe"></iframe>
+</section>
+
+<!-- Pie oficial -->
+<footer class="footer">
+  <div class="footer-logo">DAZ <span>Premium</span> Fit</div>
+  <nav class="social" id="social" aria-label="Redes sociales"></nav>
+  <div class="footer-cols">
+    <div>
+      <h4 data-i18n="f_house"></h4>
+      <a href="#/identidad" data-i18n="f_identity"></a>
+      <a href="#/identidad#campanas" data-i18n="f_campaigns"></a>
+      <a href="#/c/decor" data-i18n="f_decor"></a>
     </div>
-    <div class="tree" id="menuTree"></div>
-  </div>
-</div>
-
-<!-- ================= CARRITO ================= -->
-<div class="drawer right" id="cartDrawer">
-  <div class="shade" data-close></div>
-  <div class="panel">
-    <button class="close" data-close aria-label="Cerrar">×</button>
-    <h3 data-i18n="cart">Carrito</h3>
-    <div id="cartBody"></div>
-  </div>
-</div>
-
-<!-- ================= BUSCADOR ================= -->
-<div class="search-top" id="searchBox">
-  <div class="in">
-    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#000" stroke-width="1.8"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-    <input id="searchInput" type="search" autocomplete="off">
-    <button class="close" style="position:static" id="searchClose">×</button>
-  </div>
-  <div class="res"><div class="grid" id="searchRes"></div></div>
-</div>
-
-<!-- ================= VENTANAS ================= -->
-<div class="modal" id="modal"><div class="box"><button class="close" data-mclose>×</button><div id="modalBody"></div></div></div>
-<div class="toast" id="toast"></div>
-
-<main id="app"></main>
-
-<footer>
-  <div class="wrap">
-    <div class="fcols">
-      <div>
-        <svg viewBox="0 0 100 112" width="46" height="52"><use href="#hex"/></svg>
-        <p style="margin-top:12px;line-height:1.6" data-i18n="footAbout">Marca americana de rendimiento: ropa técnica, calzado, nutrición y asesoría privada.</p>
-        <div class="social" id="social"></div>
-      </div>
-      <div><h4 data-i18n="shop">Tienda</h4><ul id="footShop"></ul></div>
-      <div><h4 data-i18n="help">Ayuda</h4><ul>
-        <li><a href="#/legal/envios" data-i18n="shipping">Envíos</a></li>
-        <li><a href="#/legal/devoluciones" data-i18n="returns">Devoluciones</a></li>
-        <li><a href="#/legal/tallas" data-i18n="sizeGuide">Guía de tallas</a></li>
-        <li><a href="#/legal/contacto" data-i18n="contact">Contacto</a></li>
-      </ul></div>
-      <div><h4 data-i18n="legalT">Legal</h4><ul>
-        <li><a href="#/legal/privacidad" data-i18n="privacy">Política de privacidad</a></li>
-        <li><a href="#/legal/terminos" data-i18n="terms">Términos y condiciones</a></li>
-        <li><a href="#/legal/cookies" data-i18n="cookies">Cookies</a></li>
-        <li><a href="#/legal/aviso" data-i18n="notice">Aviso legal</a></li>
-      </ul></div>
+    <div>
+      <h4 data-i18n="f_help"></h4>
+      <a href="policies/shipping/" data-i18n="l_envios"></a>
+      <a href="policies/returns/" data-i18n="l_devoluciones"></a>
+      <a href="contact/">Contact · Contacto</a>
+      <a href="#/cuenta" data-i18n="f_account"></a>
     </div>
-    <div class="pay"><span>Stripe</span><span>VISA</span><span>Mastercard</span><span>AMEX</span><span>PayPal</span><span>Apple Pay</span><span>Google Pay</span></div>
-    <div class="legal">
-      © <span id="year"></span> DAZ PREMIUM FIT® — <span data-i18n="tm">Marca registrada en la Oficina de Patentes y Marcas de EE. UU. (USPTO), Reg. Nº 8.056.872</span> · Community16 LLC · 500 4th St NW, Suite 102 #1327, Albuquerque, NM 87102, USA
+    <div>
+      <h4 data-i18n="f_legal"></h4>
+      <a href="#/legal/aviso" data-i18n="l_aviso"></a>
+      <a href="policies/privacy/" data-i18n="l_privacidad"></a>
+      <a href="policies/terms/" data-i18n="l_terminos"></a>
+      <a href="#/legal/cookies" data-i18n="l_cookies"></a>
     </div>
   </div>
+  <p class="secure" data-i18n="secure"></p>
+  <div class="payments" aria-label="Métodos de pago">
+    <span title="Visa" aria-label="Visa"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#fff"/><text x="25" y="21" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" font-style="italic" fill="#1A1F71">VISA</text></svg></span><span title="Mastercard" aria-label="Mastercard"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#fff"/><circle cx="20" cy="16" r="9" fill="#EB001B"/><circle cx="30" cy="16" r="9" fill="#F79E1B"/><path d="M25 8.5a9 9 0 010 15 9 9 0 010-15z" fill="#FF5F00"/></svg></span><span title="American Express" aria-label="American Express"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#2E77BC"/><text x="25" y="20" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#fff">AMEX</text></svg></span><span title="Apple Pay" aria-label="Apple Pay"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#fff"/><text x="25" y="20" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="700" fill="#000">Apple Pay</text></svg></span><span title="Google Pay" aria-label="Google Pay"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#fff"/><text x="25" y="20" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700"><tspan fill="#4285F4">G</tspan><tspan fill="#5F6368"> Pay</tspan></text></svg></span><span title="Amazon Pay" aria-label="Amazon Pay"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#fff"/><text x="25" y="17" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="700" fill="#232F3E">amazon</text><path d="M14 21q11 5 22 0" stroke="#FF9900" stroke-width="1.8" fill="none"/><text x="25" y="29" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="6" fill="#232F3E">pay</text></svg></span><span title="Klarna" aria-label="Klarna"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#FFB3C7"/><text x="25" y="20" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#17120F">Klarna.</text></svg></span><span title="Affirm" aria-label="Affirm"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#fff"/><text x="25" y="20" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#4A4AF4">affirm</text></svg></span><span title="Stripe" aria-label="Stripe"><svg viewBox="0 0 50 32" role="img"><rect width="50" height="32" rx="4" fill="#635BFF"/><text x="25" y="20" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#fff">stripe</text></svg></span>
+  </div>
+  <p class="copyright" id="copyright"></p>
 </footer>
 
-<script>
-/* =====================================================================
-   DAZ PREMIUM FIT — tienda propia (GitHub Pages)
-   Los productos se leen de data/products.json (el motor en Python los
-   actualizará solo). Aquí no hace falta tocar nada para añadir productos.
-   ===================================================================== */
+<!-- Buscador -->
+<div class="overlay" id="searchOverlay" hidden>
+  <div class="overlay-inner">
+    <div class="search-row">
+      <input type="search" id="searchInput" data-i18n-ph="search_ph" autocomplete="off">
+      <button class="icon-btn" data-close="searchOverlay" aria-label="Cerrar">✕</button>
+    </div>
+    <div class="grid" id="searchResults"></div>
+  </div>
+</div>
 
-// ---------- TEXTOS EN LOS DOS IDIOMAS ----------
-const T = {
- es:{cart:'Carrito',shop:'Tienda',help:'Ayuda',legalT:'Legal',shipping:'Envíos',returns:'Devoluciones',sizeGuide:'Guía de tallas',contact:'Contacto',privacy:'Política de privacidad',terms:'Términos y condiciones',cookies:'Cookies',notice:'Aviso legal',tm:'Marca registrada en la Oficina de Patentes y Marcas de EE. UU. (USPTO), Reg. Nº 8.056.872',
-  footAbout:'Marca americana de rendimiento: ropa técnica, calzado, nutrición y asesoría privada.',
-  heroK:'Nueva temporada', heroT:'Rendimiento<br>sin concesiones', heroP:'Ropa técnica, calzado de alto rendimiento, nutrición deportiva y asesoría privada. Diseñado para quienes entrenan en serio.',
-  shopMen:'Comprar Hombre', shopWomen:'Comprar Mujer',
-  tbK:'Colección Mujer', tbT:'Tough Bitch', tbP:'Ropa deportiva femenina de alto impacto. Sujeción, compresión y estilo para entrenar al máximo.',
-  iwK:'Colección Hombre', iwT:'Immortal Warrior', iwP:'Culturismo y rendimiento masculino. Cortes oversize, tejidos que respiran y acabado premium.',
-  pfK:'Técnico', pfT:'Performance & Footwear', pfP:'Calzado técnico y ropa de rendimiento: amortiguación, agarre y estabilidad para cada disciplina.',
-  nuK:'Nutrición', nuT:'Completa tu Stack', nuP:'Proteínas, creatina y suplementos específicos con su tabla nutricional completa.',
-  exK:'DAZ Premium Fit', exT:'La Excelencia como Estilo de Vida', exP:'No hacemos ropa para mirar. Hacemos equipación para quienes convierten la disciplina en identidad. Cada prenda, cada zapatilla y cada fórmula se elige por una sola razón: rendir.',
-  knowBrand:'Conoce la marca',
-  vipK:'Asesoría Privada', vipT:'Tu plan, a tu medida', vipP:'Programas personales de nutrición y entrenamiento con seguimiento directo. Plazas limitadas.',
-  book:'Reservar', subK:'Acceso privado', subT:'Recibe acceso privado y novedades', subP:'Lanzamientos exclusivos, consejos de entrenamiento y nutrición. Sin spam.', email:'Tu correo electrónico', join:'Unirme', subOk:'¡Gracias! Te avisaremos muy pronto.',
-  viewAll:'Ver todo', all:'Todo', results:'productos', sort:'Ordenar', sRel:'Destacados', sLow:'Precio: menor a mayor', sHigh:'Precio: mayor a menor',
-  men:'Hombre', women:'Mujer', size:'Talla', sizeConv:'Conversor de tallas', chooseSize:'Elige una talla', addCart:'Añadir al carrito', buyNow:'Comprar ahora',
-  desc:'Descripción', specs:'Especificaciones técnicas', nutri:'Tabla nutricional', ship:'Envíos y devoluciones', shipTxt:'Envío internacional con seguimiento. Producción bajo pedido: 3–7 días laborables + transporte. Devoluciones según nuestra política.',
-  stackT:'Completa tu Stack', kitT:'Completa tu Equipación', empty:'Pronto habrá productos aquí.', cartEmpty:'Tu carrito está vacío.', total:'Total', remove:'Quitar',
-  checkoutNote:'Cada producto se paga con su botón seguro de Stripe.', pay:'Pagar', added:'Añadido al carrito', favAdd:'Guardado en Favoritos', favRem:'Quitado de Favoritos',
-  favs:'Favoritos', favEmpty:'Aún no tienes favoritos.', account:'Mi Cuenta', accountTxt:'Muy pronto podrás iniciar sesión para guardar tus Favoritos, tu historial de tallas y suplementos y el seguimiento de tus pedidos. Mientras tanto puedes comprar como invitado.',
-  searchPh:'Buscar productos…', noLink:'Pago aún no activado para este producto.', demo:'Producto de ejemplo',
-  journalT:'DAZ Journal', journalP:'Entrenamiento, hipertrofia y nutrición deportiva.', read:'Leer', soon:'Página en preparación.',
-  serving:'Por ración', per100:'Por 100 g', sizeNote:'Tabla orientativa. Si estás entre dos tallas, elige la mayor.', chooseOpt:'Elige una opción'},
- en:{cart:'Bag',shop:'Shop',help:'Help',legalT:'Legal',shipping:'Shipping',returns:'Returns',sizeGuide:'Size guide',contact:'Contact',privacy:'Privacy policy',terms:'Terms & conditions',cookies:'Cookies',notice:'Legal notice',tm:'Registered with the U.S. Patent and Trademark Office (USPTO), Reg. No. 8,056,872',
-  footAbout:'American performance brand: technical apparel, footwear, nutrition and private coaching.',
-  heroK:'New season', heroT:'Performance<br>without compromise', heroP:'Technical apparel, high-performance footwear, sports nutrition and private coaching. Built for people who train seriously.',
-  shopMen:'Shop Men', shopWomen:'Shop Women',
-  tbK:"Women's Collection", tbT:'Tough Bitch', tbP:'High-impact women’s activewear. Support, compression and style to train at your peak.',
-  iwK:"Men's Collection", iwT:'Immortal Warrior', iwP:'Men’s bodybuilding and performance. Oversized cuts, breathable fabrics and a premium finish.',
-  pfK:'Technical', pfT:'Performance & Footwear', pfP:'Technical footwear and performance apparel: cushioning, grip and stability for every discipline.',
-  nuK:'Nutrition', nuT:'Complete your Stack', nuP:'Protein, creatine and specialty supplements with full nutrition facts.',
-  exK:'DAZ Premium Fit', exT:'Excellence as a Lifestyle', exP:'We don’t make clothes to look at. We make gear for people who turn discipline into identity. Every garment, every shoe and every formula is chosen for one reason: performance.',
-  knowBrand:'Discover the brand',
-  vipK:'Private Coaching', vipT:'Your plan, made for you', vipP:'Personal nutrition and training programs with direct follow-up. Limited spots.',
-  book:'Book now', subK:'Private access', subT:'Get private access and new drops', subP:'Exclusive launches, training and nutrition tips. No spam.', email:'Your email address', join:'Join', subOk:'Thank you! We’ll be in touch very soon.',
-  viewAll:'View all', all:'All', results:'products', sort:'Sort', sRel:'Featured', sLow:'Price: low to high', sHigh:'Price: high to low',
-  men:'Men', women:'Women', size:'Size', sizeConv:'Size converter', chooseSize:'Choose a size', addCart:'Add to bag', buyNow:'Buy now',
-  desc:'Description', specs:'Technical specs', nutri:'Nutrition facts', ship:'Shipping & returns', shipTxt:'International tracked shipping. Made to order: 3–7 business days + transit. Returns per our policy.',
-  stackT:'Complete your Stack', kitT:'Complete your Kit', empty:'Products coming soon.', cartEmpty:'Your bag is empty.', total:'Total', remove:'Remove',
-  checkoutNote:'Each item is paid with its own secure Stripe button.', pay:'Pay', added:'Added to bag', favAdd:'Saved to Favorites', favRem:'Removed from Favorites',
-  favs:'Favorites', favEmpty:'No favorites yet.', account:'My Account', accountTxt:'Soon you’ll be able to sign in to save your Favorites, your size and supplement history and track your orders. Meanwhile you can check out as a guest.',
-  searchPh:'Search products…', noLink:'Payment not yet active for this product.', demo:'Sample product',
-  journalT:'DAZ Journal', journalP:'Training, hypertrophy and sports nutrition.', read:'Read', soon:'Page coming soon.',
-  serving:'Per serving', per100:'Per 100 g', sizeNote:'Approximate chart. If you are between sizes, choose the larger one.', chooseOpt:'Choose an option'}
-};
+<!-- Carrito -->
+<aside class="drawer" id="cartDrawer" hidden>
+  <div class="drawer-head">
+    <h3 data-i18n="cart"></h3>
+    <button class="icon-btn" data-close="cartDrawer" aria-label="Cerrar">✕</button>
+  </div>
+  <div id="cartItems" class="drawer-body"></div>
+  <div class="drawer-foot" id="cartFoot"></div>
+</aside>
+<div class="backdrop" id="backdrop" hidden></div>
 
-// ---------- MENÚ Y SUBCATEGORÍAS ----------
-const CATS = [
- {id:'hombre', es:'Colección Hombre', en:"Men's Collection", subs:[
-  ['sudaderas-chaquetas','Sudaderas & Chaquetas','Hoodies & Jackets'],
-  ['camisetas-oversize','Camisetas Oversize','Oversized T-Shirts'],
-  ['camisetas-asas-tirantes','Camisetas de Asas & Tirantes','Tank Tops & Stringers'],
-  ['pantalones-cortos','Pantalones Cortos','Shorts'],
-  ['pantalones-largos','Pantalones Largos','Pants & Joggers']]},
- {id:'mujer', es:'Colección Mujer', en:"Women's Collection", subs:[
-  ['chaqueta-sudadera','Chaqueta & Sudadera','Jackets & Hoodies'],
-  ['tops-deportivos','Tops Deportivos','Sports Bras & Tops'],
-  ['mallas','Mallas','Leggings'],
-  ['camisetas','Camisetas','T-Shirts'],
-  ['shorts','Shorts','Shorts'],
-  ['faldas-deportivas','Faldas Deportivas','Sports Skirts'],
-  ['pantalones-chandal','Pantalones chándal','Joggers'],
-  ['conjuntos-deportivos','Conjuntos deportivos','Matching Sets']]},
- {id:'calzado', es:'Calzado Deportivo', en:'Performance Footwear', gender:true, subs:[
-  ['entrenamiento-gym','Zapatillas de Entrenamiento & Gym','Training & Gym Shoes'],
-  ['running-alto-rendimiento','Running & Alto Rendimiento','Running & High Performance'],
-  ['lifestyle-recuperacion','Calzado Lifestyle & Recuperación','Lifestyle & Recovery'],
-  ['chanclas-sandalias','Chanclas y Sandalias Deportivas','Slides & Sport Sandals']]},
- {id:'nutricion', es:'Nutrición & Rendimiento', en:'Nutrition & Performance', subs:[
-  ['proteinas-derivados','Proteínas & Derivados','Protein'],
-  ['creatina-aminoacidos','Creatina & Aminoácidos','Creatine & Amino Acids'],
-  ['suplementos-especificos','Suplementos Específicos','Specialty Supplements']]},
- {id:'bienestar', es:'Bienestar & Cuidado', en:'Wellness & Care', subs:[
-  ['cuidado-personal','Cuidado Facial & Corporal','Skin & Body Care'],
-  ['cafe-bebidas','Café & Bebidas Funcionales','Coffee & Functional Drinks'],
-  ['mascotas','Cuidado de Mascotas','Pet Care']]},
- {id:'asesoria', es:'Asesoría VIP', en:'VIP Coaching', subs:[
-  ['nutricion-entrenamiento-personal','Nutrición y Entrenamiento Personal','Personal Nutrition & Training']]},
- {id:'coleccion', es:'Colección & Estilo', en:'Collection & Style', subs:[
-  ['accesorios','Accesorios','Accessories'],
-  ['la-marca','Conoce DAZ Premium Fit: La Marca Americana','About DAZ Premium Fit: The American Brand']]},
- {id:'journal', es:'DAZ Journal', en:'DAZ Journal', subs:[]}
-];
+<!-- Visor de zoom -->
+<div class="lightbox" id="lightbox" hidden><button class="close" id="lbClose" aria-label="Cerrar">✕</button><img id="lbImg" alt=""></div>
 
-// ---------- TABLAS DE TALLAS DE CALZADO (US / EU / UK) ----------
-const SHOE = {
- men:[['7','40','6'],['7.5','40.5','6.5'],['8','41','7'],['8.5','42','7.5'],['9','42.5','8'],['9.5','43','8.5'],['10','44','9'],['10.5','44.5','9.5'],['11','45','10'],['11.5','45.5','10.5'],['12','46','11'],['13','47.5','12']],
- women:[['5','35.5','2.5'],['5.5','36','3'],['6','36.5','3.5'],['6.5','37.5','4'],['7','38','4.5'],['7.5','38.5','5'],['8','39','5.5'],['8.5','40','6'],['9','40.5','6.5'],['9.5','41','7'],['10','42','7.5'],['11','43','8.5']]
-};
-
-// ---------- ESTADO (se guarda en el navegador) ----------
-const store = {
-  get(k,d){try{const v=localStorage.getItem('dpf_'+k);return v?JSON.parse(v):d}catch(e){return d}},
-  set(k,v){try{localStorage.setItem('dpf_'+k,JSON.stringify(v))}catch(e){}}
-};
-const S = {
-  lang: store.get('lang', (navigator.language||'es').toLowerCase().startsWith('es')?'es':'en'),
-  cur: store.get('cur','USD'),
-  cart: store.get('cart',[]),
-  favs: store.get('favs',[]),
-  data: {settings:{usd_eur:0.92,social:{}},products:[]},
-  journal: []
-};
-const t = k => (T[S.lang][k] ?? T.es[k] ?? k);
-const L = (o,base) => o[base+'_'+S.lang] || o[base+'_es'] || o[base+'_en'] || '';
-const esc = s => String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const $ = s => document.querySelector(s);
-const $$ = s => [...document.querySelectorAll(s)];
-
-function money(usd){
-  if(usd==null||isNaN(usd)) return '';
-  const v = S.cur==='EUR' ? usd*(S.data.settings.usd_eur||0.92) : usd;
-  return new Intl.NumberFormat(S.lang==='es'?'es-ES':'en-US',{style:'currency',currency:S.cur}).format(v);
-}
-function catName(id){const c=CATS.find(x=>x.id===id);return c?c[S.lang]:id}
-function subName(cid,sid){const c=CATS.find(x=>x.id===cid);const s=c&&c.subs.find(x=>x[0]===sid);return s?(S.lang==='es'?s[1]:s[2]):sid}
-
-/* Fotos: si visual_verified es true y hay foto en assets/verified/, se usa esa.
-   Si no, se muestran SOLO las fotos originales nítidas del proveedor. */
-function photos(p){
-  if(p.visual_verified && p.verified_images && p.verified_images.length) return p.verified_images;
-  return p.original_images || [];
-}
-function imgHTML(p,i=0){
-  const ph = photos(p);
-  if(ph[i]) return `<img src="${esc(ph[i])}" alt="${esc(L(p,'name'))}" loading="lazy">`;
-  return `<div class="ph"><div><svg viewBox="0 0 100 112"><use href="#hex"/></svg>${esc(L(p,'name'))}</div></div>`;
-}
-
-// ---------- TARJETA DE PRODUCTO ----------
-function card(p){
-  const fav = S.favs.includes(p.id);
-  const b = (p.badges||[])[0];
-  const badge = b ? `<span class="badge ${b.red?'red':''}">${esc(b[S.lang]||b.es)}</span>` : '';
-  const old = p.compare_at_usd ? `<s>${money(p.compare_at_usd)}</s>` : '';
-  return `<div class="card">
-    <a href="#/p/${esc(p.id)}" class="img">${badge}${imgHTML(p)}</a>
-    <button class="fav ${fav?'on':''}" data-fav="${esc(p.id)}" aria-label="${t('favs')}"><svg viewBox="0 0 24 24"><path d="M12 21s-8-5-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 6-8 11-8 11z"/></svg></button>
-    <a href="#/p/${esc(p.id)}" class="info">
-      <div class="sub">${esc(subName(p.category,p.subcategory))}</div>
-      <div class="nm">${esc(L(p,'name'))}</div>
-      <div class="pr">${money(p.price_usd)}${old}</div>
-    </a></div>`;
-}
-const live = () => S.data.products.filter(p=>p.active!==false).sort((a,b)=>(a.rank??999)-(b.rank??999));
-const byTag = tag => live().filter(p=>(p.showcase||[]).includes(tag));
-
-// ---------- PÁGINA DE INICIO ----------
-function viewHome(){
-  const vip = live().filter(p=>p.category==='asesoria');
-  const show = (cls,k,tit,p,tag,link,dark) => {
-    const list = byTag(tag);
-    return `<section class="sec ${cls}"><div class="wrap show-intro">
-      <div class="txt"><div class="kicker">${t(k)}</div><h2 class="h-serif" style="font-size:clamp(38px,6vw,68px);margin-top:10px">${t(tit)}</h2><p>${t(p)}</p>
-      <a href="${link}" class="btn ${dark?'btn-gold':'btn-black'}">${t('viewAll')}</a></div>
-      <div class="rail">${list.length?list.map(card).join(''):`<div class="empty">${t('empty')}</div>`}</div>
-    </div></section>`;
-  };
-  return `
-  <section class="hero blk-dark"><svg class="hexbg" viewBox="0 0 100 112"><use href="#hex"/></svg>
-    <div class="wrap"><div class="kicker">${t('heroK')}</div>
-      <h1 class="h-serif">${t('heroT')}</h1><p>${t('heroP')}</p>
-      <div class="btns"><a class="btn btn-gold" href="#/c/hombre">${t('shopMen')}</a><a class="btn btn-line" href="#/c/mujer">${t('shopWomen')}</a></div>
-    </div></section>
-  ${show('blk-dark','tbK','tbT','tbP','tough-bitch','#/c/mujer',true)}
-  ${show('blk-dark','iwK','iwT','iwP','immortal-warrior','#/c/hombre',true)}
-  ${show('blk-light','pfK','pfT','pfP','performance-footwear','#/c/calzado',false)}
-  ${show('blk-soft','nuK','nuT','nuP','nutrition','#/c/nutricion',false)}
-  <section class="edit">
-    <div class="e1"><div class="kicker">${t('exK')}</div><h2 class="h-serif">${t('exT')}</h2><p>${t('exP')}</p>
-      <div class="btns"><a class="btn btn-gold" href="#/c/coleccion/la-marca">${t('knowBrand')}</a></div></div>
-    <div class="e2"><div class="kicker">${t('vipK')}</div><h2 class="h-serif">${t('vipT')}</h2><p>${t('vipP')}</p>
-      <div class="vip-list">${vip.map(p=>`<a class="vip-item" href="#/p/${esc(p.id)}"><div><b>${esc(L(p,'name'))}</b><small>${money(p.price_usd)}</small></div><span class="btn btn-black" style="height:42px;padding:0 16px">${t('book')}</span></a>`).join('')}</div></div>
-  </section>
-  ${subsBox()}`;
-}
-function subsBox(){
-  return `<section class="blk-dark subs"><div class="wrap">
-    <div class="kicker">${t('subK')}</div><h2 class="h-serif">${t('subT')}</h2><p style="color:#bbb">${t('subP')}</p>
-    <form id="subForm"><input type="email" required placeholder="${t('email')}" aria-label="${t('email')}"><button class="btn btn-gold">${t('join')}</button></form>
-    <div class="ok" id="subOk"></div></div></section>`;
-}
-
-// ---------- CATÁLOGO ----------
-function viewCat(cid,sid,extra){
-  const c = CATS.find(x=>x.id===cid); if(!c) return viewHome();
-  if(cid==='journal') return viewJournal();
-  if(cid==='coleccion' && sid==='la-marca') return viewBrand();
-  const gender = extra && (extra==='hombre'||extra==='mujer') ? extra : null;
-  let list = live().filter(p=>p.category===cid && (!sid||p.subcategory===sid) && (!gender||p.gender===gender||p.gender==='unisex'));
-  const sort = store.get('sort','rel');
-  if(sort==='low') list.sort((a,b)=>a.price_usd-b.price_usd);
-  if(sort==='high') list.sort((a,b)=>b.price_usd-a.price_usd);
-  const base = `#/c/${cid}`;
-  const chips = [`<a class="chip ${!sid?'on':''}" href="${base}${gender?'//'+gender:''}">${t('all')}</a>`]
-    .concat(c.subs.map(s=>`<a class="chip ${sid===s[0]?'on':''}" href="${base}/${s[0]}${gender?'/'+gender:''}">${esc(S.lang==='es'?s[1]:s[2])}</a>`)).join('');
-  const gchips = c.gender ? `<div class="chips">
-      <a class="chip ${!gender?'on':''}" href="${base}${sid?'/'+sid:''}">${t('all')}</a>
-      <a class="chip ${gender==='hombre'?'on':''}" href="${base}/${sid||''}/hombre">${t('men')}</a>
-      <a class="chip ${gender==='mujer'?'on':''}" href="${base}/${sid||''}/mujer">${t('women')}</a>
-      <button class="chip" data-sizeconv>${t('sizeConv')} US / EU / UK</button></div>` : '';
-  return `<div class="wrap cat-head">
-    <div class="crumbs"><a href="#/">DAZ</a> / ${esc(c[S.lang])}${sid?' / '+esc(subName(cid,sid)):''}</div>
-    <h1 class="h-serif">${esc(sid?subName(cid,sid):c[S.lang])}</h1>
-    ${gchips}<div class="chips">${chips}</div>
-    <div class="tools"><span>${list.length} ${t('results')}</span>
-      <select id="sortSel" aria-label="${t('sort')}">
-        <option value="rel" ${sort==='rel'?'selected':''}>${t('sRel')}</option>
-        <option value="low" ${sort==='low'?'selected':''}>${t('sLow')}</option>
-        <option value="high" ${sort==='high'?'selected':''}>${t('sHigh')}</option></select></div>
-    ${list.length?`<div class="grid">${list.slice(0,60*(window.__pg||1)).map(card).join('')}</div>${list.length>60*(window.__pg||1)?`<div style="text-align:center;margin-top:24px"><button class="btn btn-black" onclick="window.__pg=(window.__pg||1)+1;route.keep=true;route()">${S.lang==='es'?'Ver más':'Load more'}</button></div>`:''}`:`<div class="empty">${t('empty')}</div>`}
-    <div style="height:50px"></div></div>`;
-}
-
-// ---------- FICHA DE PRODUCTO ----------
-let selSize = null;
-function viewProduct(id){
-  const p = S.data.products.find(x=>x.id===id); if(!p) return viewHome();
-  selSize = null; selOpts = (p.options||[]).map(o=>o.values.length===1?o.values[0]:null);
-  const ph = photos(p); const n = Math.max(ph.length,1);
-  const gal = Array.from({length:Math.min(n,5)},(_,i)=>`<div>${imgHTML(p,i)}</div>`).join('');
-  const fav = S.favs.includes(p.id);
-  const isShoe = p.category==='calzado';
-  const sizes = p.sizes||[];
-  const sizeBlock = sizes.length ? `<div class="lbl"><span>${t('size')}${isShoe?' (US)':''}</span>${isShoe?`<button data-sizeconv>${t('sizeConv')}</button>`:''}</div>
-    <div class="sizes">${sizes.map(s=>`<button data-size="${esc(s)}">${esc(s)}</button>`).join('')}</div>` : '';
-  const specs = p['specs_'+S.lang]||p.specs_es||[];
-  const nut = p.nutrition;
-  const nutHTML = nut ? `<details open><summary>${t('nutri')}</summary><div class="in">
-      <table class="tb"><tr><th></th><th>${t('serving')} ${nut.serving_g?'('+nut.serving_g+' g)':''}</th><th>${t('per100')}</th></tr>
-      ${(nut.rows||[]).map(r=>`<tr><td>${esc(r[S.lang]||r.es)}</td><td>${esc(r.serving)}</td><td>${esc(r.per100)}</td></tr>`).join('')}</table>
-      ${nut['note_'+S.lang]?`<p class="note">${esc(nut['note_'+S.lang])}</p>`:''}</div></details>` : '';
-  const isSupp = p.category==='nutricion';
-  const rel = (p.related||[]).map(r=>S.data.products.find(x=>x.id===r)).filter(Boolean);
-  const related = rel.length?rel:live().filter(x=>x.category===p.category&&x.id!==p.id).slice(0,6);
-  const b = (p.badges||[]).map(x=>`<span class="kicker" style="margin-right:10px">${esc(x[S.lang]||x.es)}</span>`).join('');
-  return `<div class="wrap">
-    <div class="crumbs"><a href="#/">DAZ</a> / <a href="#/c/${p.category}">${esc(catName(p.category))}</a> / <a href="#/c/${p.category}/${p.subcategory}">${esc(subName(p.category,p.subcategory))}</a></div>
-    <div class="pdp">
-      <div class="gal">${gal}</div>
-      <div class="buy">
-        ${b}${p.demo?`<span class="kicker" style="color:var(--grey)">${t('demo')}</span>`:''}
-        <h1>${esc(L(p,'name'))}</h1>
-        <div class="price" id="pdpPrice">${money(p.price_usd)}${p.compare_at_usd?` <s style="color:var(--grey);font-weight:500;font-size:16px">${money(p.compare_at_usd)}</s>`:''}</div>
-        ${sizeBlock}${optsHTML(p)}
-        <div class="acts">
-          <button class="btn btn-black btn-full" data-buy="${esc(p.id)}">${t('buyNow')}</button>
-          <div class="row"><button class="btn btn-line btn-full" data-add="${esc(p.id)}">${t('addCart')}</button>
-          <button class="fav-big ${fav?'on':''}" data-fav="${esc(p.id)}" aria-label="${t('favs')}"><svg viewBox="0 0 24 24"><path d="M12 21s-8-5-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 6-8 11-8 11z"/></svg></button></div>
-        </div>
-        <div class="acc" style="margin-top:26px">
-          <details open><summary>${t('desc')}</summary><div class="in">${descHTML(p)}</div></details>
-          ${specs.length?`<details><summary>${t('specs')}</summary><div class="in"><ul>${specs.map(s=>`<li>${esc(s)}</li>`).join('')}</ul></div></details>`:''}
-          ${nutHTML}
-          <details><summary>${t('ship')}</summary><div class="in">${t('shipTxt')}</div></details>
-        </div>
-      </div>
-    </div></div>
-    ${related.length?`<section class="stack"><div class="wrap"><h2 class="h-serif">${isSupp?t('stackT'):t('kitT')}</h2><div class="rail">${related.map(card).join('')}</div></div></section>`:''}`;
-}
-
-function descHTML(p){
-  const d = p['desc_'+S.lang] || p.desc_es || '';
-  const arr = Array.isArray(d) ? d : [d];
-  return arr.map(x=>x.startsWith('• ')?`<div style="padding-left:12px">${esc(x)}</div>`:`<p style="margin:0 0 10px">${esc(x)}</p>`).join('');
-}
-// variante elegida según las opciones marcadas
-let selOpts = [];
-function curVariant(p){
-  const vs = p.variants||[];
-  if(!vs.length) return null;
-  if(!(p.options||[]).length) return vs[0];
-  return vs.find(v=>v.o.every((val,i)=>selOpts[i]===val)) || null;
-}
-function optsHTML(p){
-  const isShoe = p.category==='calzado';
-  return (p.options||[]).map((o,i)=>`<div class="lbl"><span>${esc(o['name_'+S.lang]||o.name_es)}</span>${isShoe&&i===0?`<button data-sizeconv>${t('sizeConv')}</button>`:''}</div>
-    <div class="sizes">${o.values.map(v=>`<button data-opt="${i}" data-val="${esc(v)}" class="${selOpts[i]===v?'on':''}">${esc(v)}</button>`).join('')}</div>`).join('');
-}
-function refreshBuy(p){
-  const v = curVariant(p);
-  const pr = v ? v.price_usd : p.price_usd, cmp = v ? v.compare_at_usd : p.compare_at_usd;
-  const el = document.getElementById('pdpPrice');
-  if(el) el.innerHTML = money(pr)+(cmp&&cmp>pr?` <s style="color:var(--grey);font-weight:500;font-size:16px">${money(cmp)}</s>`:'');
-  if(v && v.image){ const g=document.querySelector('.gal>div:first-child'); if(g) g.innerHTML=`<img src="${esc(v.image)}" alt="">`; }
-}
-// ---------- DAZ JOURNAL ----------
-function viewJournal(slug){
-  if(slug){
-    const a = S.journal.find(x=>x.slug===slug); if(!a) return viewJournal();
-    return `<article class="article"><div class="crumbs"><a href="#/journal">DAZ Journal</a></div>
-      <div class="kicker">${esc(a.date||'')}</div><h1>${esc(L(a,'title'))}</h1>
-      ${(a['body_'+S.lang]||a.body_es||[]).map(p=>`<p>${esc(p)}</p>`).join('')}</article>`;
-  }
-  return `<section class="blk-dark sec"><div class="wrap"><div class="kicker">DAZ</div><h1 class="h-serif" style="font-size:clamp(40px,7vw,80px)">${t('journalT')}</h1><p style="color:#bbb;margin-top:10px">${t('journalP')}</p></div></section>
-    <div class="wrap sec"><div class="grid" style="grid-template-columns:repeat(auto-fill,minmax(280px,1fr))">
-    ${S.journal.length?S.journal.map(a=>`<a class="jcard" href="#/journal/${esc(a.slug)}"><div class="kicker">${esc(a.date||'')}</div><b>${esc(L(a,'title'))}</b><p>${esc(L(a,'summary'))}</p></a>`).join(''):`<div class="empty">${t('empty')}</div>`}
-    </div></div>`;
-}
-
-// ---------- LA MARCA ----------
-function viewBrand(){
-  const es = ['DAZ Premium Fit es una marca registrada en Estados Unidos que une rendimiento deportivo y acabado de lujo.','Diseñamos ropa técnica, calzado, nutrición y programas de asesoría para atletas que exigen lo máximo a su cuerpo y a su equipación.','Nuestra filosofía es simple: la excelencia no es un momento, es un estilo de vida.','DAZ PREMIUM FIT® es una marca registrada en la Oficina de Patentes y Marcas de Estados Unidos (USPTO), registro Nº 8.056.872, propiedad de Community16 LLC (Nuevo México, EE. UU.).'];
-  const en = ['DAZ Premium Fit is a U.S. registered trademark that unites athletic performance and a luxury finish.','We design technical apparel, footwear, nutrition and coaching programs for athletes who demand the most from their body and their gear.','Our philosophy is simple: excellence is not a moment, it is a lifestyle.','DAZ PREMIUM FIT® is registered with the United States Patent and Trademark Office (USPTO), Reg. No. 8,056,872, owned by Community16 LLC (New Mexico, USA).'];
-  return `<section class="blk-dark sec"><div class="wrap" style="text-align:center"><svg viewBox="0 0 100 112" width="90" height="100" style="margin:0 auto 14px"><use href="#hex"/></svg>
-    <h1 class="h-serif" style="font-size:clamp(38px,7vw,76px)">${S.lang==='es'?'La Marca Americana':'The American Brand'}</h1></div></section>
-    <div class="article">${(S.lang==='es'?es:en).map(p=>`<p>${p}</p>`).join('')}</div>${subsBox()}`;
-}
-function viewLegal(){ return `<div class="article"><h1>${t('legalT')}</h1><p>${t('soon')}</p></div>`; }
-
-// ---------- NAVEGACIÓN ----------
-function route(){
-  const h = location.hash.replace(/^#\/?/,'').split('/');
-  let html;
-  if(h[0]==='c') html = viewCat(h[1],h[2]||null,h[3]||null);
-  else if(h[0]==='p') html = viewProduct(h[1]);
-  else if(h[0]==='journal') html = viewJournal(h[1]);
-  else if(h[0]==='legal') html = viewLegal(h[1]);
-  else if(h[0]==='gracias'){ S.cart=[]; store.set('cart',S.cart); counts();
-    html = `<section class="blk-dark sec"><div class="wrap" style="text-align:center"><svg viewBox="0 0 100 112" width="80" height="90" style="margin:0 auto 16px"><use href="#hex"/></svg>
-      <h1 class="h-serif" style="font-size:clamp(36px,6vw,64px)">${S.lang==='es'?'¡Gracias por tu compra!':'Thank you for your order!'}</h1>
-      <p style="color:#bbb;margin:14px auto 26px;max-width:520px">${S.lang==='es'?'Hemos recibido tu pedido. Te llegará un correo de confirmación con todos los detalles.':'We have received your order. You will get a confirmation email with all the details.'}</p>
-      <a class="btn btn-gold" href="#/">${S.lang==='es'?'Seguir comprando':'Keep shopping'}</a></div></section>`; }
-  else html = viewHome();
-  $('#app').innerHTML = html;
-  $$('#topNav a').forEach(a=>a.classList.toggle('on', h[0]==='c' && a.dataset.c===h[1] || h[0]==='journal'&&a.dataset.c==='journal'));
-  closeAll(); if(!route.keep) window.scrollTo(0,0); route.keep=false;
-}
-function buildMenus(){
-  $('#topNav').innerHTML = CATS.map(c=>`<a data-c="${c.id}" href="${c.id==='journal'?'#/journal':'#/c/'+c.id}">${esc(c[S.lang])}</a>`).join('');
-  $('#menuTree').innerHTML = CATS.map(c=>{
-    if(!c.subs.length) return `<details><summary onclick="location.hash='#/journal'">${esc(c[S.lang])}</summary></details>`;
-    let inner = `<a href="#/c/${c.id}">${t('viewAll')}</a>`;
-    if(c.gender){
-      inner += ['hombre','mujer'].map(g=>`<div class="grp">${t(g==='hombre'?'men':'women')}</div>`+c.subs.map(s=>`<a href="#/c/${c.id}/${s[0]}/${g}">${esc(S.lang==='es'?s[1]:s[2])}</a>`).join('')).join('');
-    } else inner += c.subs.map(s=>`<a href="#/c/${c.id}/${s[0]}">${esc(S.lang==='es'?s[1]:s[2])}</a>`).join('');
-    return `<details><summary>${esc(c[S.lang])}</summary>${inner}</details>`;
-  }).join('');
-  $('#footShop').innerHTML = CATS.slice(0,5).map(c=>`<li><a href="#/c/${c.id}">${esc(c[S.lang])}</a></li>`).join('');
-  const so = S.data.settings.social||{};
-  const icons = {
-    facebook:'<path d="M14 8h3V4h-3a4 4 0 0 0-4 4v2H8v4h2v8h4v-8h3l1-4h-4V8z"/>',
-    instagram:'<path d="M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10zm0 8a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm5.3-8.9a1.2 1.2 0 1 1-2.4 0 1.2 1.2 0 0 1 2.4 0zM12 2c-2.7 0-3 0-4.1.1C4.4 2.3 2.3 4.4 2.1 7.9 2 9 2 9.3 2 12s0 3 .1 4.1c.2 3.5 2.3 5.6 5.8 5.8 1.1.1 1.4.1 4.1.1s3 0 4.1-.1c3.5-.2 5.6-2.3 5.8-5.8.1-1.1.1-1.4.1-4.1s0-3-.1-4.1c-.2-3.5-2.3-5.6-5.8-5.8C15 2 14.7 2 12 2zm0 1.8c2.7 0 3 0 4 .1 2.6.1 3.9 1.4 4 4 .1 1 .1 1.3.1 4s0 3-.1 4c-.1 2.6-1.4 3.9-4 4-1 .1-1.3.1-4 .1s-3 0-4-.1c-2.6-.1-3.9-1.4-4-4-.1-1-.1-1.3-.1-4s0-3 .1-4c.1-2.6 1.4-3.9 4-4 1-.1 1.3-.1 4-.1z"/>',
-    tiktok:'<path d="M16.5 2h-3.3v13.4a2.9 2.9 0 1 1-2.9-2.9c.3 0 .6 0 .9.1V9.2a6.2 6.2 0 1 0 5.3 6.2V8.6a7.6 7.6 0 0 0 4.4 1.4V6.7a4.4 4.4 0 0 1-4.4-4.7z"/>'
-  };
-  $('#social').innerHTML = Object.keys(icons).map(k=>`<a href="${esc(so[k]||'#')}" target="_blank" rel="noopener" aria-label="${k}"><svg viewBox="0 0 24 24">${icons[k]}</svg></a>`).join('');
-}
-function applyLang(){
-  document.documentElement.lang = S.lang;
-  $$('[data-i18n]').forEach(el=>el.textContent=t(el.dataset.i18n));
-  $$('[data-lang]').forEach(b=>b.classList.toggle('on',b.dataset.lang===S.lang));
-  $$('[data-cur]').forEach(b=>b.classList.toggle('on',b.dataset.cur===S.cur));
-  $('#searchInput').placeholder = t('searchPh');
-  buildMenus(); route(); renderCart(); counts();
-}
-
-// ---------- FAVORITOS Y CARRITO ----------
-function counts(){
-  const n = S.cart.reduce((a,b)=>a+b.q,0);
-  $('#cartCount').textContent=n; $('#cartCount').dataset.n=n;
-  $('#favCount').textContent=S.favs.length; $('#favCount').dataset.n=S.favs.length;
-}
-function toast(msg){const el=$('#toast');el.textContent=msg;el.classList.add('show');clearTimeout(el._t);el._t=setTimeout(()=>el.classList.remove('show'),1900)}
-function toggleFav(id){
-  const i=S.favs.indexOf(id);
-  if(i>-1){S.favs.splice(i,1);toast(t('favRem'))}else{S.favs.push(id);toast(t('favAdd'))}
-  store.set('favs',S.favs); counts();
-  $$(`[data-fav="${CSS.escape(id)}"]`).forEach(b=>b.classList.toggle('on',S.favs.includes(id)));
-}
-function needSize(p){
-  if((p.sizes||[]).length && !selSize){toast(t('chooseSize'));return true}
-  if((p.options||[]).length && !curVariant(p)){toast(t('chooseOpt'));return true}
-  return false }
-function varLabel(p,vi){ const v=(p.variants||[])[vi]; return v&&v.o&&v.o.length?v.o.filter(Boolean).join(' / '):'' }
-function addCart(id){
-  const p=S.data.products.find(x=>x.id===id); if(!p||needSize(p)) return;
-  const v=curVariant(p); const vi=v?p.variants.indexOf(v):-1;
-  const key=id+'|'+(selSize||'')+'|'+vi; const ex=S.cart.find(x=>x.k===key);
-  if(ex) ex.q++; else S.cart.push({k:key,id,size:selSize,vi,q:1});
-  store.set('cart',S.cart); counts(); renderCart(); toast(t('added'));
-}
-function payLink(p,size,vi){
-  const v=(p.variants||[])[vi];
-  const link=(v&&v.stripe_link)||p.stripe_link;
-  if(!link) return null;
-  // Enlace de pago de Stripe: se envía la talla como referencia para preparar el pedido
-  const u = new URL(link);
-  if(size) u.searchParams.set('client_reference_id', (p.id+'_'+size).replace(/[^\w-]/g,'_'));
-  u.searchParams.set('locale', S.lang);
-  return u.toString();
-}
-function buyNow(id,size,vi){
-  const p=S.data.products.find(x=>x.id===id); if(!p) return;
-  if(size===undefined){ if(needSize(p)) return; size=selSize; const v=curVariant(p); vi=v?p.variants.indexOf(v):-1 }
-  const link=payLink(p,size,vi);
-  if(!link){toast(t('noLink'));return}
-  location.href=link;
-}
-function renderCart(){
-  if(!S.cart.length){$('#cartBody').innerHTML=`<p class="empty">${t('cartEmpty')}</p>`;return}
-  let tot=0;
-  const lines=S.cart.map((it,i)=>{
-    const p=S.data.products.find(x=>x.id===it.id); if(!p) return '';
-    const vv=(p.variants||[])[it.vi]; const pr=vv?vv.price_usd:p.price_usd; tot+=pr*it.q;
-    return `<div class="cart-line"><div class="th">${imgHTML(p)}</div><div>
-      <b>${esc(L(p,'name'))}</b><small>${it.size?t('size')+': '+esc(it.size)+' · ':''}${varLabel(p,it.vi)?esc(varLabel(p,it.vi))+' · ':''}${money(pr)}</small>
-      <div class="qty"><button data-q="${i}" data-d="-1">−</button>${it.q}<button data-q="${i}" data-d="1">+</button>
-      <button class="mini" data-rm="${i}">${t('remove')}</button></div>
-      <button class="btn btn-black" style="height:38px;margin-top:10px;font-size:11px" data-paycart="${i}">${t('pay')} ${money(pr*it.q)}</button></div></div>`;
-  }).join('');
-  $('#cartBody').innerHTML = lines+`<div class="total"><span>${t('total')}</span><span>${money(tot)}</span></div><p class="note">${t('checkoutNote')}</p>`;
-}
-
-// ---------- VENTANAS ----------
-function openModal(html){$('#modalBody').innerHTML=html;$('#modal').classList.add('open')}
-function sizeConvHTML(g='men'){
-  return `<h3>${t('sizeConv')}</h3><div class="tabs">
-    <button class="chip ${g==='men'?'on':''}" data-conv="men">${t('men')}</button>
-    <button class="chip ${g==='women'?'on':''}" data-conv="women">${t('women')}</button></div>
-    <table class="tb"><tr><th>US</th><th>EU</th><th>UK</th></tr>${SHOE[g].map(r=>`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td></tr>`).join('')}</table>
-    <p class="note">${t('sizeNote')}</p>`;
-}
-function favsHTML(){
-  const list=S.favs.map(id=>S.data.products.find(p=>p.id===id)).filter(Boolean);
-  return `<h3>${t('favs')}</h3>${list.length?`<div class="grid">${list.map(card).join('')}</div>`:`<p class="note">${t('favEmpty')}</p>`}`;
-}
-function closeAll(){$$('.drawer').forEach(d=>d.classList.remove('open'));$('#modal').classList.remove('open');$('#searchBox').classList.remove('open')}
-
-// ---------- BUSCADOR ----------
-function doSearch(q){
-  q=q.trim().toLowerCase();
-  const res = q.length<2?[]:live().filter(p=>[p.name_es,p.name_en,subName(p.category,p.subcategory),catName(p.category),(p.tags||[]).join(' ')].join(' ').toLowerCase().includes(q));
-  $('#searchRes').innerHTML = res.map(card).join('');
-}
-
-// ---------- EVENTOS ----------
-document.addEventListener('click',e=>{
-  const el=e.target.closest('button,a,summary,[data-close],[data-mclose]'); if(!el) return;
-  const d=el.dataset;
-  if(d.lang){S.lang=d.lang;store.set('lang',S.lang);applyLang();return}
-  if(d.cur){S.cur=d.cur;store.set('cur',S.cur);applyLang();return}
-  if(d.fav!==undefined){e.preventDefault();toggleFav(d.fav);return}
-  if(d.size!==undefined){selSize=d.size;$$('[data-size]').forEach(b=>b.classList.toggle('on',b.dataset.size===selSize));return}
-  if(d.add){addCart(d.add);return}
-  if(d.buy){buyNow(d.buy);return}
-  if(d.paycart!==undefined){const it=S.cart[+d.paycart];buyNow(it.id,it.size,it.vi);return}
-  if(d.opt!==undefined){selOpts[+d.opt]=d.val;$$(`[data-opt="${d.opt}"]`).forEach(b=>b.classList.toggle('on',b.dataset.val===d.val));const p=S.data.products.find(x=>location.hash.endsWith('/'+x.id));if(p)refreshBuy(p);return}
-  if(d.q!==undefined){const it=S.cart[+d.q];it.q=Math.max(1,it.q+ +d.d);store.set('cart',S.cart);renderCart();counts();return}
-  if(d.rm!==undefined){S.cart.splice(+d.rm,1);store.set('cart',S.cart);renderCart();counts();return}
-  if(d.sizeconv!==undefined){openModal(sizeConvHTML());return}
-  if(d.conv){openModal(sizeConvHTML(d.conv));return}
-  if(d.close!==undefined||d.mclose!==undefined){closeAll();return}
-});
-$('#btnMenu').onclick=()=>$('#menuDrawer').classList.add('open');
-$('#btnCart').onclick=()=>{renderCart();$('#cartDrawer').classList.add('open')};
-$('#btnFavs').onclick=()=>openModal(favsHTML());
-$('#btnAccount').onclick=()=>openModal(`<h3>${t('account')}</h3><p class="note" style="font-size:15px">${t('accountTxt')}</p><div style="margin-top:18px"><button class="btn btn-black btn-full" onclick="document.getElementById('modalBody').innerHTML=favsHTML()">${t('favs')} (${S.favs.length})</button></div>`);
-$('#btnSearch').onclick=()=>{$('#searchBox').classList.add('open');setTimeout(()=>$('#searchInput').focus(),50)};
-$('#searchClose').onclick=closeAll;
-$('#searchInput').oninput=e=>doSearch(e.target.value);
-$('#searchRes').addEventListener('click',e=>{if(e.target.closest('a'))closeAll()});
-$('#modal').addEventListener('click',e=>{if(e.target.id==='modal')closeAll(); if(e.target.closest('.card a'))closeAll()});
-document.addEventListener('change',e=>{if(e.target.id==='sortSel'){store.set('sort',e.target.value);route()}});
-document.addEventListener('submit',e=>{
-  if(e.target.id==='subForm'){e.preventDefault();
-    // Más adelante este formulario se conectará a Brevo (gratis).
-    $('#subOk').textContent=t('subOk'); e.target.reset();}
-});
-document.addEventListener('keydown',e=>{if(e.key==='Escape')closeAll()});
-window.addEventListener('hashchange',()=>{window.__pg=1;route()});
-$('#year').textContent=new Date().getFullYear();
-
-// ---------- CARGA DE DATOS ----------
-Promise.all([
-  fetch('data/products.json',{cache:'no-cache'}).then(r=>r.json()).catch(()=>null),
-  fetch('data/journal.json',{cache:'no-cache'}).then(r=>r.json()).catch(()=>null)
-]).then(([d,j])=>{
-  if(d) S.data=d;
-  if(j) S.journal=j.articles||[];
-  S.data.settings=S.data.settings||{usd_eur:0.92,social:{}};
-  S.cart=S.cart.filter(it=>S.data.products.some(p=>p.id===it.id));
-  applyLang();
-});
-</script>
+<script src="assets/app.js" defer></script>
 </body>
 </html>
