@@ -28,8 +28,9 @@
  "name_en": "Péptidos Colágeno Collagen",
  "name_es": "Colágeno Péptidos Colágeno",
  "needs_review": false,
+ "page": true,
  "price_usd": 35.99,
- "rank": 58,
+ "rank": 72,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Sin categoría",
@@ -38,6 +39,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Péptidos de colágeno hidrolizados DAZ Premium Fit alimentados con pasto",
+ "stripe_payment_link": "https://buy.stripe.com/aFa5kEgDGh1abmKeOW1gV2F",
  "supplier": "Productifi",
  "supplier_id": "peptidos-de-colageno-hidrolizados-daz-premium-fit-alimentados-con-pasto",
  "visual_verified": true

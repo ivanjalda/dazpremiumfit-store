@@ -30,8 +30,9 @@
  "name_en": "Star Pocket Bolsillos Leggings · Purple",
  "name_es": "Leggings Star Pocket Bolsillos · Púrpura",
  "needs_review": false,
+ "page": true,
  "price_usd": 26.99,
- "rank": 25,
+ "rank": 28,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
@@ -50,6 +51,7 @@
   "5XL"
  ],
  "source_title": "DPF Purple Star Pocket | Leggings con bolsillos",
+ "stripe_payment_link": "https://buy.stripe.com/8x26oI1IM4eobmKfT01gV1X",
  "supplier": "InterestPrint",
  "supplier_id": "purple-stars-womens-high-waist-pockets-yoga-leggings",
  "visual_verified": true

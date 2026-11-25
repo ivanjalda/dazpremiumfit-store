@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Black, Grey, White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Polyester",
+ "ai_type": "Tank Top",
+ "ai_ver": 2,
+ "art_note": "The images look heavily composited with digital print mapping, giving an artificial appearance typical of low-tier drop-shipping rather than a high-end athletic",
+ "art_score": 3,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "t-daz-premium-fit-immortal-mindset-abstract",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "The Immortal Mindset tank top combines an abstract black, grey, and white print with defined white binding. Crafted from soft polyester, it moves with you during fitness and bodybuilding sessions. The DPF logo adorns the chest, while the Immortal Mindset message is displayed on the upper back. A bold athletic piece designed to stand out inside and outside the gym.",
+ "desc_es": "La camiseta sin mangas Immortal Mindset combina un diseño abstracto en tonos negro, gris y blanco con ribetes blancos definidos. Confeccionada en suave poliéster, acompaña cada movimiento durante tus sesiones de fitness y musculación. El logotipo DPF adorna el pecho, mientras que el mensaje Immortal Mindset destaca en la parte superior de la espalda. Una prenda de carácter deportivo pensada para destacar dentro y fuera del gimnasio.",
+ "details_en": "· Soft-touch polyester fabric\n· Sleeveless cut with crew neck and curved front hem\n· All-over abstract print with white binding\n· DPF chest logo and back lettering\n· Made to order\n· Worldwide shipping\n· Wash with cold water at a maximum of 40 °C\n· Do not use chlorine bleach\n· Iron with a protective cloth\n· Do not tumble dry or expose to direct sunlight",
+ "details_es": "· Tejido de poliéster de tacto suave\n· Corte sin mangas con cuello redondo y bajo delantero curvo\n· Estampado integral abstracto con ribetes blancos\n· Logotipo DPF en el pecho y mensaje en la espalda\n· Hecho a pedido\n· Envíos a todo el mundo\n· Lavar con agua fría a un máximo de 40 °C\n· No usar blanqueador con cloro\n· Planchar con un paño protector\n· No utilizar secadora ni exponer al sol directo",
  "display_images": [
   "assets/products/shop/05fa86368714e5dc9c7d.jpg",
   "assets/products/shop/880e98fd5ac2e99f625e.jpg",
@@ -20,20 +35,78 @@
  "id": "interestprint-descarga-1-mens-all-over-print-tank-top-model-t46",
  "look": [
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-pantalon-de-chandal-unisex",
-  "productifi-cafe-mezcla-brasilena-16oz"
+  "printful-484195395-black",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
  ],
  "material": "",
- "name_en": "Daz Immortal Mindset Tee",
- "name_es": "Camiseta Daz Immortal Mindset",
+ "name_en": "Immortal Mindset Tank Top",
+ "name_es": "Camiseta sin mangas Immortal Mindset",
  "needs_review": false,
+ "needs_studio": true,
+ "page": true,
  "price_usd": 22.99,
  "rank": 5,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Camisetas sin mangas",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Chest",
+   "Length (in)",
+   "Chest (in)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Pecho",
+   "Largo (pulgadas)",
+   "Pecho (pulgadas)"
+  ],
+  "notes_en": "XXL equals 2XL.",
+  "notes_es": "XXL equivale a 2XL.",
+  "rows": [
+   [
+    "S",
+    "68.5",
+    "89.6",
+    "26.97",
+    "35.28"
+   ],
+   [
+    "M",
+    "71.0",
+    "100.0",
+    "27.95",
+    "39.37"
+   ],
+   [
+    "L",
+    "73.5",
+    "110.0",
+    "28.94",
+    "43.31"
+   ],
+   [
+    "XL",
+    "76.0",
+    "120.0",
+    "29.92",
+    "47.24"
+   ],
+   [
+    "2XL",
+    "?",
+    "?",
+    "?",
+    "?"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "S",
@@ -43,6 +116,7 @@
   "XXL"
  ],
  "source_title": "DAZ Premium Fit Immortal Mindset Abstract",
+ "stripe_payment_link": "https://buy.stripe.com/4gM7sM1IM9yI4YmbCK1gV1A",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-1-mens-all-over-print-tank-top-model-t46",
  "visual_verified": true

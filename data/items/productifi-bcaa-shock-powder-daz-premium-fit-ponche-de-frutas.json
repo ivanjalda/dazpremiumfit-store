@@ -27,8 +27,9 @@
  "name_en": "Bcaa Shock Powder Amino Acids",
  "name_es": "Aminoácidos Bcaa Shock Powder",
  "needs_review": false,
+ "page": true,
  "price_usd": 31.99,
- "rank": 42,
+ "rank": 49,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -37,6 +38,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "BCAA Shock Powder DAZ Premium Fit (ponche de frutas)",
+ "stripe_payment_link": "https://buy.stripe.com/cNi00k87a8uE2Qe22a1gV2i",
  "supplier": "Productifi",
  "supplier_id": "bcaa-shock-powder-daz-premium-fit-ponche-de-frutas",
  "visual_verified": true

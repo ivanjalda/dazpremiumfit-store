@@ -1,0 +1,59 @@
+{
+ "ai_priority": true,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printful-484195395",
+ "color": "Black",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "https://files.cdn.printful.com/files/07d/07d163d408bb758ef986b34cfcc9f3a5_preview.png"
+ ],
+ "draft": false,
+ "fam": "sudadera-cuello-redondo",
+ "hidden": false,
+ "id": "printful-484195395-black",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-washed-drop-shoulder-t-shirt",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Cuello Redondo Immortal Sweatshirt · Black",
+ "name_es": "Sudadera Cuello Redondo Immortal · Negro",
+ "needs_review": false,
+ "price_usd": 37.99,
+ "rank": 65,
+ "shipping_usd": 7.0,
+ "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "1918864_20463",
+  "1918864_20468",
+  "1918864_20473",
+  "1918864_20478",
+  "1918864_20483"
+ ],
+ "source_title": "Sudadera de cuello redondo DPF Immortal Warrior",
+ "stripe_payment_link": "https://buy.stripe.com/dRmeVedrubGQ62q5em1gV2y",
+ "supplier": "Printful",
+ "supplier_id": "484195395-black",
+ "visual_verified": true
+}

@@ -34,8 +34,9 @@
  "name_en": "Energy Powder Daz Supplement",
  "name_es": "Suplemento Energy Powder Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 30.99,
- "rank": 66,
+ "rank": 84,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Alimentación, bebida y tabaco > Bebidas > Bebidas isotónicas y energéticas > Bebidas energéticas",
@@ -44,6 +45,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Energy Powder DAZ Premium Fit (Yuzu Flavor)",
+ "stripe_payment_link": "https://buy.stripe.com/cNibJ2evy8uEaiG9uC1gV2R",
  "supplier": "Productifi",
  "supplier_id": "energy-powder-daz-premium-fit-yuzu-flavor",
  "visual_verified": true

@@ -22,13 +22,15 @@
  "id": "interestprint-design-all-over-print-tank-top-bkrev1",
  "look": [
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-pantalon-de-chandal-unisex",
-  "productifi-cafe-mezcla-brasilena-16oz"
+  "printful-484195395-black",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
  ],
  "material": "",
  "name_en": "Daz Immortal Warrior Tee",
  "name_es": "Camiseta Daz Immortal Warrior",
  "needs_review": false,
+ "page": true,
  "price_usd": 21.99,
  "rank": 10,
  "shipping_usd": 8.0,
@@ -48,6 +50,7 @@
   "5XL"
  ],
  "source_title": "DAZ Premium Fit Immortal Warrior Classic | Camiseta sin mangas de hombre",
+ "stripe_payment_link": "https://buy.stripe.com/cNifZigDG5is9eCeOW1gV1F",
  "supplier": "InterestPrint",
  "supplier_id": "design-all-over-print-tank-top-bkrev1",
  "visual_verified": true

@@ -25,11 +25,14 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
+ "missing_days": 1,
+ "missing_last": "2026-11-25",
  "name_en": "Tarro Cristal Diseño Glass",
  "name_es": "Vaso Tarro Cristal Diseño",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
- "rank": 38,
+ "rank": 41,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Cocina y comedor > Utensilios de mesa > Cristalería > Vasos",
@@ -40,6 +43,7 @@
   "12oz"
  ],
  "source_title": "Tarro de cristal con diseño de diamante y pajita",
+ "stripe_payment_link": "https://buy.stripe.com/00w9AUafi4eo8aybCK1gV2a",
  "supplier": "Printify",
  "supplier_id": "tarro-de-cristal-con-diseno-de-diamante-y-pajita",
  "visual_verified": true

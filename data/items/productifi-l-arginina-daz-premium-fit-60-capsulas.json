@@ -23,8 +23,9 @@
  "name_en": "Arginina Daz Cápsulas Supplement · Black",
  "name_es": "Suplemento Arginina Daz Cápsulas · Negro",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
- "rank": 43,
+ "rank": 50,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -35,6 +36,7 @@
   "60 Vegetable capsules"
  ],
  "source_title": "L-Arginina DAZ Premium Fit (60 Cápsulas)",
+ "stripe_payment_link": "https://buy.stripe.com/fZu9AU0EI8uEgH4eOW1gV2j",
  "supplier": "Productifi",
  "supplier_id": "l-arginina-daz-premium-fit-60-capsulas",
  "visual_verified": true

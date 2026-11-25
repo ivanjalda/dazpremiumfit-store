@@ -30,8 +30,9 @@
  "name_en": "Superalimento Daz Vitamins",
  "name_es": "Vitaminas Superalimento Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 28.99,
- "rank": 46,
+ "rank": 55,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -40,6 +41,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Superalimento verde DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/6oU6oI4UYaCM3UieOW1gV2o",
  "supplier": "Productifi",
  "supplier_id": "superalimento-verde-daz-premium-fit",
  "visual_verified": true

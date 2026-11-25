@@ -29,8 +29,9 @@
  "name_en": "Glutamina Daz Polvo Amino Acids",
  "name_es": "Aminoácidos Glutamina Daz Polvo",
  "needs_review": false,
+ "page": true,
  "price_usd": 29.99,
- "rank": 70,
+ "rank": 88,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -39,6 +40,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "L-Glutamina DAZ Premium Fit en Polvo",
+ "stripe_payment_link": "https://buy.stripe.com/bJe14o3QUh1aduSgX41gV2V",
  "supplier": "Productifi",
  "supplier_id": "l-glutamina-daz-premium-fit-en-polvo",
  "visual_verified": true

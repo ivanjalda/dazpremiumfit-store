@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "The lifestyle and studio model shots convey a high-end, professional performance aesthetic, whereas the flat product mockups look like generic print-on-demand a",
+ "art_score": 8,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +20,14 @@
  "cg": "t-leggings-de-cintura-alta-de-mujer-dpf-tough-bitch",
  "color": "Negro",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "A black base with its own attitude. These high-waisted leggings combine a streamlined ankle-length silhouette with distinctive gold-olive details. The design features a wide, elasticated waistband positioned above the natural waist for coverage and support. Crafted from a lightweight, soft, and smooth fabric with slight elasticity, they move naturally with the body. Ideal for demanding training sessions or moments of rest.",
+ "desc_es": "Una base negra con actitud propia. Estos leggings de cintura alta combinan una silueta entallada hasta el tobillo con detalles distintivos en tono oliva dorado. El diseño incorpora una cinturilla ancha y elástica que se sitúa por encima de la cintura natural para ofrecer cobertura y sujeción. Confeccionados en un tejido ligero, suave y de tacto liso con ligera elasticidad, se adaptan con naturalidad al movimiento. Ideales para entrenamientos exigentes o momentos de descanso.",
+ "details_en": "· Composition: 95% polyester and 5% elastane\n· Lightweight, soft, smooth, and slightly elastic fabric\n· High waist with a wide elastic waistband\n· Ankle length\n· Wrinkle-resistant fabric\n· Hand or machine wash at a maximum temperature of 45 °C\n· Do not soak for prolonged periods\n· Do not bleach\n· Made-to-order pieces with worldwide shipping",
+ "details_es": "· Composición: 95 % poliéster y 5 % elastano\n· Tejido ligero, suave, liso y ligeramente elástico\n· Cintura alta con cinturilla elástica ancha\n· Largo hasta los tobillos\n· Tejido resistente a las arrugas\n· Lavar a mano o a máquina a una temperatura máxima de 45 °C\n· No dejar en remojo durante periodos prolongados\n· No utilizar lejía\n· Piezas confeccionadas bajo demanda con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/8e16df30b189ea913be8.jpg",
   "assets/products/shop/b7c72553686d0b436bc0.jpg",
-  "assets/products/shop/1c07b2487d1d65d3707a.jpg",
-  "assets/products/shop/ad5062a628d8875eba40.jpg",
-  "assets/products/shop/82f32b599a33bdd59d4c.jpg"
+  "assets/products/shop/1c07b2487d1d65d3707a.jpg"
  ],
  "draft": false,
  "fam": "leggings-cintura-alta",
@@ -27,16 +40,66 @@
   "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
  ],
  "material": "",
- "name_en": "Cintura Alta Tough Leggings",
- "name_es": "Leggings Cintura Alta Tough",
+ "name_en": "DPF High-Waisted Leggings",
+ "name_es": "Leggings de Cintura Alta DPF",
  "needs_review": false,
+ "needs_studio": true,
+ "page": true,
  "price_usd": 21.99,
  "rank": 2,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "1/2 Waist",
+   "1/2 Hips"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "1/2 cintura",
+   "1/2 cadera"
+  ],
+  "notes_en": "Garment measurements taken flat. 1/2 waist and 1/2 hips indicate widths, not full body contours. Compare measurements with well-fitting leggings. Manual measurement may vary by 1-2 cm.",
+  "notes_es": "Medidas de la prenda tomada en plano. 1/2 cintura y 1/2 cadera indican anchuras, no contornos corporales completos. Compara las medidas con unos leggings que te queden bien. La guía indica una posible variación de 1-2 cm por medición manual.",
+  "rows": [
+   [
+    "S",
+    "95",
+    "33",
+    "39"
+   ],
+   [
+    "M",
+    "98",
+    "35,5",
+    "41,5"
+   ],
+   [
+    "L",
+    "101",
+    "38",
+    "44"
+   ],
+   [
+    "XL",
+    "104",
+    "40,5",
+    "46,5"
+   ],
+   [
+    "2XL",
+    "107",
+    "43",
+    "49"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "S",
@@ -46,6 +109,7 @@
   "2XL"
  ],
  "source_title": "Leggings de cintura alta de mujer DPF Tough Bitch",
+ "stripe_payment_link": "https://buy.stripe.com/6oUaEY9be3akduS7mu1gV1x",
  "supplier": "InterestPrint",
  "supplier_id": "design-custom-womens-high-waist-legging",
  "visual_verified": true

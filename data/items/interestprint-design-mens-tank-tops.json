@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "100% polyester",
+ "ai_type": "Tank Top",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio and gym lifestyle imagery that conveys an athletic, premium identity.",
+ "art_score": 8,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +20,15 @@
  "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
  "color": "Negro",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Engineered for absolute performance. This tank top combines a tailored silhouette with unrestricted movement through a racerback cut and wide armholes. The soft fabric flows effortlessly from intense training sessions to urban recovery. Distinctive color contrasts and graphics define a refined, confident aesthetic. Made to order with worldwide shipping available.",
+ "desc_es": "Diseñada para el rendimiento absoluto. Esta camiseta de tirantes combina una silueta entallada con amplitud de movimiento gracias a su espalda nadadora y sisas amplias. El tejido suave acompaña cada transición desde el entrenamiento intenso hasta la recuperación urbana. Los contrastes cromáticos y gráficos definen una estética sobria y segura. Pieza confeccionada bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 100% soft and comfortable polyester\n· Tailored silhouette with elongated curved hem\n· Racerback construction and wide armholes\n· Front DPF logo and Immortal Warrior graphics on lower back\n· Machine wash cold with like colors\n· Do not bleach, tumble dry low\n· Do not iron or dry clean",
+ "details_es": "· 100 % poliéster suave y cómodo\n· Silueta entallada con bajo alargado y curvo\n· Espalda nadadora y sisas amplias\n· Logotipo DPF delantero y gráficos Immortal Warrior en el bajo trasero\n· Lavar a máquina con agua fría y colores similares\n· No usar blanqueador, secar en secadora a baja temperatura\n· No planchar ni limpiar en seco",
  "display_images": [
   "assets/products/shop/5d1ee1c0b055907b832c.jpg",
   "assets/products/shop/fefa25d4510aa45b2d81.jpg",
   "assets/products/shop/335c3761b7250ed26da2.jpg",
-  "assets/products/shop/3b0e278829283d644b87.jpg",
-  "assets/products/shop/a7432b3b1b6167763b42.jpg"
+  "assets/products/shop/3b0e278829283d644b87.jpg"
  ],
  "draft": false,
  "fam": "premium-fit-immortal",
@@ -22,21 +36,77 @@
  "id": "interestprint-design-mens-tank-tops",
  "look": [
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-pantalon-de-chandal-unisex",
-  "productifi-cafe-mezcla-brasilena-16oz"
+  "printful-484195395-black",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
  ],
  "material": "",
- "name_en": "Daz Immortal Warrior Tee · Negro",
- "name_es": "Camiseta Daz Immortal Warrior · Negro",
+ "name_en": "Immortal Warrior Tank Top · Negro",
+ "name_es": "Camiseta de Tirantes Immortal Warrior · Negro",
  "needs_review": false,
+ "needs_studio": false,
+ "page": true,
  "price_usd": 21.99,
  "rank": 8,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Camisetas sin mangas",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Bust (cm/in)",
+   "Length (cm/in)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Busto (cm/in)",
+   "Longitud (cm/in)"
+  ],
+  "notes_en": "Measurements may vary by 2 to 3 cm.",
+  "notes_es": "Las medidas pueden presentar variaciones de 2 a 3 cm.",
+  "rows": [
+   [
+    "S",
+    "92/36.2",
+    "67/26.3"
+   ],
+   [
+    "M",
+    "96/37.8",
+    "69/27"
+   ],
+   [
+    "L",
+    "100/39.37",
+    "71/27.95"
+   ],
+   [
+    "XL",
+    "104/40.94",
+    "73/28.74"
+   ],
+   [
+    "2XL",
+    "108/42.5",
+    "75/29.52"
+   ],
+   [
+    "3XL",
+    "112/44",
+    "77/30.31"
+   ],
+   [
+    "4XL",
+    "116/45.7",
+    "79/31.1"
+   ]
+  ],
+  "unit": "cm/in"
+ },
+ "size_guide": [
+  "assets/products/shop/a7432b3b1b6167763b42.jpg"
+ ],
  "sizes": [
   "S",
   "M",
@@ -47,6 +117,7 @@
   "4XL"
  ],
  "source_title": "DAZ Premium Fit Immortal Warrior | Camiseta de tirantes negra de hombre",
+ "stripe_payment_link": "https://buy.stripe.com/cNi9AU0EI12c4YmdKS1gV1D",
  "supplier": "InterestPrint",
  "supplier_id": "design-mens-tank-tops",
  "visual_verified": true

@@ -1,0 +1,136 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Teal",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_priority": true,
+ "ai_type": "Tank Top",
+ "ai_ver": 2,
+ "art_note": "The lifestyle images look composited and artificial, typical of print-on-demand marketplaces, while the studio shots are acceptable.",
+ "art_score": 4,
+ "audited": "2026-11-25",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "t-a-picture-from-kefir-https-kefirapp-com-w-racerback-active-tank-tops",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Designed for optimal performance during training. This tank top combines a technical silhouette with a refined aesthetic. Crafted from breathable and stretchy technical fabric. Features a racerback design for total freedom of movement. Moisture-wicking properties keep the skin dry. An essential piece for the workout routine.",
+ "desc_es": "Diseñado para un rendimiento óptimo durante el entrenamiento. Este top de tirantes combina una silueta técnica con una estética refinada. Confeccionado en tejido técnico transpirable y elástico. Incorpora un diseño de espalda nadadora para una total libertad de movimiento. Propiedades de absorción de humedad para mantener la piel seca. Una pieza esencial para la rutina de ejercicio.",
+ "details_en": "· 100% polyester\n· Stretchy and breathable fabric\n· Banded crew neckline\n· Racerback style with bound edges\n· Flatlock seams\n· Hand wash recommended\n· Available with worldwide shipping and made-to-order production",
+ "details_es": "· 100% poliéster\n· Tejido elástico y transpirable\n· Cuello redondo ribeteado\n· Espalda nadadora con bordes ribeteados\n· Costuras planas\n· Lavado a mano recomendado\n· Disponible con envío a todo el mundo y confección bajo demanda",
+ "display_images": [
+  "assets/products/shop/1e84132b365ef1c30e0c.jpg",
+  "assets/products/shop/857fd2916af6ba20b49b.jpg"
+ ],
+ "draft": true,
+ "fam": "a-picture-from",
+ "hidden": false,
+ "id": "interestprint-a-picture-from-kefir-https-kefirapp-com-w-2201121-racerback-active-tank-tops",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Racerback Active Tank Top",
+ "name_es": "Top Deportivo de Tirantes Racerback",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 22.99,
+ "rank": 150,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length(A)",
+   "Chest(B)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo(A)",
+   "Pecho(B)"
+  ],
+  "notes_en": "Measurements are provided in inches.",
+  "notes_es": "Las medidas se indican en pulgadas.",
+  "rows": [
+   [
+    "XS",
+    "24.00",
+    "30.80"
+   ],
+   [
+    "S",
+    "24.40",
+    "32.30"
+   ],
+   [
+    "M",
+    "24.80",
+    "33.90"
+   ],
+   [
+    "L",
+    "25.20",
+    "35.90"
+   ],
+   [
+    "XL",
+    "25.60",
+    "37.90"
+   ],
+   [
+    "2XL",
+    "26.00",
+    "39.90"
+   ],
+   [
+    "3XL",
+    "26.40",
+    "41.90"
+   ],
+   [
+    "4XL",
+    "26.80",
+    "43.60"
+   ],
+   [
+    "5XL",
+    "27.20",
+    "45.90"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/4423/info/image/20250618/86E54ED87159A67D29337DD9D22B718E.png"
+ ],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "A picture from Kefir_ https___kefirapp_com_w_2201121 Racerback Active Tank Tops",
+ "stripe_payment_link": "https://buy.stripe.com/eVqaEYcnqfX64Ym0Y61gV3V",
+ "supplier": "InterestPrint",
+ "supplier_id": "a-picture-from-kefir_-https___kefirapp_com_w_2201121-racerback-active-tank-tops",
+ "visual_verified": true
+}

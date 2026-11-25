@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/falda"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "skirt",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio lifestyle imagery with professional lighting and consistent styling.",
+ "art_score": 8,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +20,14 @@
  "cg": "t-daz-premium-fit-plume-falda-deportiva-de-cintura-alta",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Movement with a light touch. The Plume skirt combines a crisp white base with a delicate feather print. The layered design creates movement and a refined athletic silhouette. The wide elastic waistband ensures a secure fit. Built-in inner shorts provide coverage during active movement. Designed for effortless transitions throughout the day.",
+ "desc_es": "Movimiento con un toque ligero. La falda Plume combina una base blanca con un delicado estampado de plumas. Su diseño de capas aporta vuelo y una silueta deportiva. La cintura ancha y elástica ofrece un ajuste ceñido. El pantalón corto interior aporta cobertura durante el movimiento. Fabricada para acompañar cada transición del día.",
+ "details_en": "· Fabric: 95% polyester and 5% elastane\n· Weight: 220 g/m²\n· Fit: high waist, wide elastic band, layered skirt\n· Coverage: hidden inner shorts\n· Care: hand or machine wash, do not bleach\n· Made to order and worldwide shipping available",
+ "details_es": "· Tejido: 95 % poliéster y 5 % elastano\n· Gramaje: 220 g/m²\n· Corte: cintura alta, banda elástica ancha y falda de capas\n· Cobertura: pantalón corto interior oculto\n· Cuidados: lavar a mano o a máquina, no utilizar lejía\n· Hecho a pedido y envío mundial disponible",
  "display_images": [
   "assets/products/shop/b7e1df5a3e4d81675d76.jpg",
   "assets/products/shop/1e0cdd9ab53befaeb57c.jpg",
-  "assets/products/shop/8fe57244288cefb5d29c.jpg",
-  "https://ipimg.interestprint.com/data/product/5385/info/image/20260320/EA71AD88BBC22488B2E34DD606709520.png"
+  "assets/products/shop/8fe57244288cefb5d29c.jpg"
  ],
  "draft": false,
  "fam": "premium-fit-plume",
@@ -27,17 +41,75 @@
   "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
  ],
  "material": "",
- "name_en": "Daz Plume Deportiva Skirt",
- "name_es": "Falda Daz Plume Deportiva",
+ "name_en": "Plume High-Waisted Performance Skirt",
+ "name_es": "Falda deportiva Plume de talle alto",
  "needs_review": false,
+ "needs_studio": false,
+ "page": true,
  "price_usd": 22.99,
  "rank": 7,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Faldas pantalón",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "WAIST(B)",
+   "IPS(C)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A)",
+   "CINTURA(B)",
+   "CADERA(C)"
+  ],
+  "notes_en": "Measurements are provided in inches.",
+  "notes_es": "Las medidas se indican en pulgadas.",
+  "rows": [
+   [
+    "S",
+    "13.8",
+    "27.6",
+    "39.4"
+   ],
+   [
+    "M",
+    "14.2",
+    "29.5",
+    "41.3"
+   ],
+   [
+    "L",
+    "14.6",
+    "32.1",
+    "43.9"
+   ],
+   [
+    "XL",
+    "15.0",
+    "34.8",
+    "46.7"
+   ],
+   [
+    "2XL",
+    "15.4",
+    "37.8",
+    "49.6"
+   ],
+   [
+    "3XL",
+    "15.7",
+    "40.7",
+    "52.6"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "https://ipimg.interestprint.com/data/product/5385/info/image/20260320/EA71AD88BBC22488B2E34DD606709520.png"
+ ],
  "sizes": [
   "S",
   "M",
@@ -47,6 +119,7 @@
   "3XL"
  ],
  "source_title": "DAZ Premium Fit Plume | Falda deportiva de cintura alta",
+ "stripe_payment_link": "https://buy.stripe.com/3cI3cw1IMaCM62q9uC1gV1C",
  "supplier": "InterestPrint",
  "supplier_id": "design-womens-high-waist-layered-sport-skirt",
  "visual_verified": true

@@ -1,12 +1,12 @@
 {
   "hidden": {},
   "checked": {},
-  "cursor": 80,
+  "cursor": 160,
   "last": {
-    "date": "2026-11-25T16:35+00:00",
+    "date": "2026-11-25T19:46+00:00",
     "fixes": 0,
     "checked_images": 80,
     "broken": 0,
-    "visible": 142
+    "visible": 203
   }
 }

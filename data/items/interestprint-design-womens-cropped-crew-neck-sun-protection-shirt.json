@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "monogram",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "sweatshirt",
+ "ai_ver": 2,
+ "art_note": "High-end gym lifestyle imagery featuring professional lighting and clear garment detail.",
+ "art_score": 9,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "t-sudadera-corta-de-mujer-dpf-monogram-de-cuello-redondo",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "A cropped silhouette defined by a distinctive all-over print. This sweatshirt combines a light base with continuous dark accents. The crew neck and long sleeves structure a balanced cut. The soft and lightweight fabric accompanies daily movement. Designed to pair with high-waisted garments.",
+ "desc_es": "Una silueta corta definida por un estampado integral distintivo. Esta sudadera combina una base clara con detalles oscuros continuos. El cuello redondo y la manga larga estructuran un corte equilibrado. El tejido suave y ligero acompaña el movimiento diario. Diseñada para combinar con prendas de cintura alta.",
+ "details_en": "· Composition: 95% polyester and 5% elastane.\n· Fabric weight: 190 g/m².\n· Cropped fit.\n· Crew neck and long sleeves.\n· All-over monogram print.\n· Hand wash or machine wash. Do not bleach.\n· Made-to-order piece. Worldwide shipping available.",
+ "details_es": "· Composición: 95 % poliéster y 5 % elastano.\n· Peso del tejido: 190 g/m².\n· Corte corto o cropped.\n· Cuello redondo y manga larga.\n· Estampado de monograma por toda la prenda.\n· Lavar a mano o a máquina. No utilizar lejía.\n· Pieza confeccionada bajo demanda. Envío mundial disponible.",
  "display_images": [
   "assets/products/shop/331894d852addcb56d81.jpg",
   "assets/products/shop/fe245b28a0804d334ace.jpg",
@@ -27,16 +42,101 @@
   "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
  ],
  "material": "",
- "name_en": "Corta Monogram Cuello Sweatshirt · Red",
- "name_es": "Sudadera Corta Monogram Cuello · Rojo",
+ "name_en": "DPF Monogram Cropped Sweatshirt",
+ "name_es": "Sudadera Cropped Monogram DPF",
  "needs_review": false,
+ "needs_studio": false,
+ "page": true,
  "price_usd": 20.99,
  "rank": 1,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Prendas de ropa superiores > Sudaderas",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length A",
+   "Chest B",
+   "Shoulders C",
+   "Sleeve D"
+  ],
+  "headers_es": [
+   "Talla",
+   "Longitud A",
+   "Pecho B",
+   "Hombros C",
+   "Manga D"
+  ],
+  "notes_en": "Values provided for this model. The source does not specify whether measurements correspond to the body or the garment.",
+  "notes_es": "Valores facilitados para este modelo. La fuente no especifica si las medidas corresponden al cuerpo o a la prenda.",
+  "rows": [
+   [
+    "XS",
+    "38,9",
+    "91,9",
+    "38,4",
+    "55,4"
+   ],
+   [
+    "S",
+    "39,9",
+    "95,8",
+    "39,9",
+    "55,9"
+   ],
+   [
+    "M",
+    "40,9",
+    "99,8",
+    "41,4",
+    "56,4"
+   ],
+   [
+    "L",
+    "41,9",
+    "103,9",
+    "42,9",
+    "56,9"
+   ],
+   [
+    "XL",
+    "42,9",
+    "108,0",
+    "44,5",
+    "57,4"
+   ],
+   [
+    "2XL",
+    "43,9",
+    "111,8",
+    "46,0",
+    "57,9"
+   ],
+   [
+    "3XL",
+    "45,0",
+    "115,8",
+    "47,5",
+    "58,4"
+   ],
+   [
+    "4XL",
+    "46,0",
+    "119,9",
+    "48,8",
+    "58,9"
+   ],
+   [
+    "5XL",
+    "47,0",
+    "124,0",
+    "50,3",
+    "59,4"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "XS",
@@ -50,6 +150,7 @@
   "5XL"
  ],
  "source_title": "Sudadera corta de mujer DPF Monogram de cuello redondo",
+ "stripe_payment_link": "https://buy.stripe.com/4gM9AUgDGdOY8ay5em1gV1w",
  "supplier": "InterestPrint",
  "supplier_id": "design-womens-cropped-crew-neck-sun-protection-shirt",
  "visual_verified": true

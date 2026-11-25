@@ -1,0 +1,63 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printful-484201718",
+ "color": "White",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "https://files.cdn.printful.com/files/f60/f60c858b2b3b517cb224d5081294de6a_preview.png"
+ ],
+ "draft": false,
+ "fam": "sudadera-mujer-tough",
+ "hidden": false,
+ "id": "printful-484201718-white",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Tough Bitch Cremallera Sweatshirt · White",
+ "name_es": "Sudadera Tough Bitch Cremallera · Blanco",
+ "needs_review": false,
+ "price_usd": 50.99,
+ "rank": 80,
+ "shipping_usd": 7.0,
+ "shipping_worst_usd": 7.0,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL"
+ ],
+ "skus": [
+  "8968186_23167",
+  "8968186_23176",
+  "8968186_23185",
+  "8968186_23194",
+  "8968186_23203",
+  "8968186_23212",
+  "8968186_23221",
+  "8968186_23230"
+ ],
+ "source_title": "Sudadera de mujer DPF Tough Bitch con cremallera corta",
+ "stripe_payment_link": "https://buy.stripe.com/5kQfZi73612c2QegX41gV2N",
+ "supplier": "Printful",
+ "supplier_id": "484201718-white",
+ "visual_verified": true
+}

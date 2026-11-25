@@ -29,8 +29,9 @@
  "name_en": "Violet Star Tiro Leggings",
  "name_es": "Leggings Violet Star Tiro",
  "needs_review": false,
+ "page": true,
  "price_usd": 38.99,
- "rank": 100,
+ "rank": 115,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
@@ -50,6 +51,7 @@
   "XXXXXL"
  ],
  "source_title": "DPF Violet Star | Leggings de tiro bajo",
+ "stripe_payment_link": "https://buy.stripe.com/4gM00k1IM7qA9eC36e1gV3m",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-66-all-over-low-rise-leggings-model-l05",
  "visual_verified": true

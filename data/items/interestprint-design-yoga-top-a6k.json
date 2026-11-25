@@ -1,0 +1,123 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% Polyester, 5% Spandex",
+ "ai_priority": true,
+ "ai_type": "Yoga Top",
+ "ai_ver": 2,
+ "art_note": "The product photography relies heavily on composited studio lifestyle mockups that lack high-end editorial depth.",
+ "art_score": 4,
+ "audited": "2026-11-25",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "t-design-yoga-top-a6k",
+ "color": "white",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your practice with this high-performance top designed for dynamic support. Crafted from a technical stretchy and breathable blend, it delivers moisture-wicking comfort to keep you dry through every session. The X-shaped back construction ensures unrestricted movement and absolute stability. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Eleva tu práctica con este top de rendimiento diseñado para un soporte dinámico. Confeccionado con una mezcla técnica elástica y transpirable, ofrece absorción de humedad para mantenerte seca durante cualquier entrenamiento. El diseño de espalda cruzada asegura libertad de movimiento y estabilidad absoluta. Cada pieza es hecha a pedido y cuenta con envío mundial.",
+ "details_en": "· 95% polyester, 5% spandex\n· X-shaped back design\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 95% poliéster, 5% elastano\n· Diseño de espalda cruzada\n· Hecho a pedido\n· Envío mundial disponible",
+ "display_images": [
+  "assets/products/shop/68e55d63cdd62a8522dd.jpg",
+  "assets/products/shop/97fb4e2e761f24070412.jpg",
+  "assets/products/shop/f0a0981d8cc906f30a59.jpg",
+  "assets/products/shop/0687b8b675e02b4db6f2.jpg",
+  "assets/products/shop/8a705fa44ff3b72388ca.jpg"
+ ],
+ "draft": true,
+ "fam": "yoga-top-a6k",
+ "hidden": false,
+ "id": "interestprint-design-yoga-top-a6k",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Printed Yoga Crop Top",
+ "name_es": "Top de Yoga Estampado",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 20.99,
+ "rank": 149,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "1/2 Chest",
+   "1/2 Bottom Hem"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "1/2 Pecho",
+   "1/2 Dobladillo Inferior"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2cm. Por favor revise y compare la talla cuidadosamente antes de comprar!",
+  "rows": [
+   [
+    "S",
+    "32cm / 12.6in",
+    "36cm / 14.2in",
+    "31cm / 12.2in"
+   ],
+   [
+    "M",
+    "33cm / 13in",
+    "38.5cm / 15.2in",
+    "33.5cm / 13.2in"
+   ],
+   [
+    "L",
+    "34cm / 13.4in",
+    "41cm / 16.1in",
+    "36cm / 14.2in"
+   ],
+   [
+    "XL",
+    "35cm / 13.8in",
+    "43.5cm / 17.1in",
+    "38.5cm / 15.2in"
+   ],
+   [
+    "XXL",
+    "36cm / 14.2in",
+    "46cm / 18.1in",
+    "41cm / 16.1in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/3fec2233d2bcde4fb5e5.jpg",
+  "http://ipimg.interestprint.com/data/product/3586/info/image/20240703/14C79B9559F9391AEA742B8070A6C6ED.jpg"
+ ],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "source_title": "Design Yoga Top (A6K)",
+ "stripe_payment_link": "https://buy.stripe.com/eVq4gA7363akaiGeOW1gV3U",
+ "supplier": "InterestPrint",
+ "supplier_id": "design-yoga-top-a6k",
+ "visual_verified": true
+}

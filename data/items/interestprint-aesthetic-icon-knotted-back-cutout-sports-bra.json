@@ -32,8 +32,9 @@
  "name_en": "Astrale Deportivo Estrellas Underwear",
  "name_es": "Ropa Interior Astrale Deportivo Estrellas",
  "needs_review": false,
+ "page": true,
  "price_usd": 26.99,
- "rank": 36,
+ "rank": 39,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Tops cortos",
@@ -51,6 +52,7 @@
   "5XL"
  ],
  "source_title": "DPF Astrale | Top deportivo de estrellas y espalda anudada",
+ "stripe_payment_link": "https://buy.stripe.com/4gM00k3QUfX6gH45em1gV28",
  "supplier": "InterestPrint",
  "supplier_id": "aesthetic-icon-knotted-back-cutout-sports-bra",
  "visual_verified": true

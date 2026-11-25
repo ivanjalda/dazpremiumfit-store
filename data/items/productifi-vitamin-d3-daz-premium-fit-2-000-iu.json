@@ -26,8 +26,9 @@
  "name_en": "Vitamin Daz Vitamins",
  "name_es": "Vitaminas Vitamin Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 26.99,
- "rank": 31,
+ "rank": 34,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -36,6 +37,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Vitamin D3 DAZ Premium Fit (2,000 IU)",
+ "stripe_payment_link": "https://buy.stripe.com/aFadRacnq3akbmKdKS1gV23",
  "supplier": "Productifi",
  "supplier_id": "vitamin-d3-daz-premium-fit-2-000-iu",
  "visual_verified": true

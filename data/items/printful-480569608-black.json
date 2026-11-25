@@ -1,0 +1,57 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/pantalones-cortos"
+ ],
+ "cg": "printful-480569608",
+ "color": "Black",
+ "created": "2026-11-25",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "https://files.cdn.printful.com/files/04c/04c592593a829a55dac3b3598e77dbea_preview.png"
+ ],
+ "draft": false,
+ "fam": "immortal-shorts-vellon",
+ "hidden": false,
+ "id": "printful-480569608-black",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-washed-drop-shoulder-t-shirt",
+  "printful-484195395-black",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Immortal Vellón Shorts · Black",
+ "name_es": "Bermuda Immortal Vellón · Negro",
+ "needs_review": false,
+ "price_usd": 47.99,
+ "rank": 92,
+ "shipping_usd": 7.0,
+ "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Pantalones cortos > Pantalones cortos para correr",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "8690237_12444",
+  "8690237_12445",
+  "8690237_12446",
+  "8690237_12447",
+  "8690237_12448"
+ ],
+ "source_title": "DPF Immortal | Shorts de vellón para hombre",
+ "stripe_payment_link": "https://buy.stripe.com/3cI28scnqaCMgH4ayG1gV2Z",
+ "supplier": "Printful",
+ "supplier_id": "480569608-black",
+ "visual_verified": true
+}

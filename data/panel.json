@@ -1,33 +1,33 @@
 {
   "key": "",
   "owner": "",
-  "updated": "2026-11-25 16:13 UTC",
+  "updated": "2026-11-25 19:20 UTC",
   "totals": {
     "catalogo": 299,
-    "a_la_vista": 142,
-    "disenos_a_la_vista": 118,
-    "ocultos": 157,
-    "ia_revisados": 16,
-    "ia_pendientes": 283,
-    "con_boton_de_pago": 0,
-    "sin_boton_de_pago": 142,
-    "seccion_dudosa": 13,
+    "a_la_vista": 203,
+    "disenos_a_la_vista": 178,
+    "ocultos": 96,
+    "ia_revisados": 91,
+    "ia_pendientes": 208,
+    "con_boton_de_pago": 185,
+    "sin_boton_de_pago": 18,
+    "seccion_dudosa": 56,
     "ventas_30_dias": 0,
     "visitas_30_dias": 0,
     "fotos_de_campana": 0
   },
   "reasons": {
-    "Borrador": 156,
-    "Esperando la IA": 1
+    "Oculto": 1,
+    "Borrador": 95
   },
   "suppliers": {
     "InterestPrint": {
-      "visibles": 38,
-      "ocultos": 25
+      "visibles": 44,
+      "ocultos": 19
     },
     "Productifi": {
-      "visibles": 62,
-      "ocultos": 131
+      "visibles": 117,
+      "ocultos": 76
     },
     "Printify": {
       "visibles": 25,
@@ -147,15 +147,368 @@
       "pr": 34.99
     },
     {
-      "id": "productifi-cafe-mezcla-brasilena-16oz",
-      "n": "Café Mezcla Brasileña",
+      "id": "productifi-hyaluronic-acid-serum",
+      "n": "Suero de Ácido Hialurónico",
       "s": "Productifi",
-      "img": "assets/products/shop/a727d19df11090523b82.jpg",
-      "c": "hombre/bolsos-carteras",
-      "pr": 38.99
+      "img": "assets/products/shop/bf7f99e4d92ad11d006f.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
+    },
+    {
+      "id": "productifi-exfoliante-de-cafe-y-menta-daz-premium-fit",
+      "n": "Exfoliante de Café y Menta",
+      "s": "Productifi",
+      "img": "assets/products/shop/45f327df233c2bf2a366.jpg",
+      "c": "hombre/camiseta",
+      "pr": 24.99
+    },
+    {
+      "id": "productifi-limpiador-facial-de-carbon-daz-premium-fit",
+      "n": "Limpiador Facial de Carbón Activo",
+      "s": "Productifi",
+      "img": "assets/products/shop/99d2b894b474dcb57d5c.jpg",
+      "c": "hombre/camiseta",
+      "pr": 24.99
+    },
+    {
+      "id": "productifi-aceite-facial-gua-sha-daz-premium-fit",
+      "n": "Aceite Facial Gua Sha",
+      "s": "Productifi",
+      "img": "assets/products/shop/8f2152c7b9775c7ae85f.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
+    },
+    {
+      "id": "productifi-aloe-cool-cucumber-soap",
+      "n": "Jabón de Aloe y Pepino",
+      "s": "Productifi",
+      "img": "assets/products/shop/cf6132a1af0214539c59.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
+    },
+    {
+      "id": "productifi-jabon-calmante-de-lavanda-daz-premium-fit",
+      "n": "Jabón Calmante de Lavanda",
+      "s": "Productifi",
+      "img": "assets/products/shop/31c352d9aecac0e56d0a.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
+    },
+    {
+      "id": "productifi-jabon-de-carbon-daz-premium-fit",
+      "n": "Jabón Purificante de Carbón",
+      "s": "Productifi",
+      "img": "assets/products/shop/ec09e61488ddf6dd6bc6.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
+    },
+    {
+      "id": "productifi-jabon-de-limoncillo-y-salvia-daz-premium-fit",
+      "n": "Jabón de Limoncillo y Salvia",
+      "s": "Productifi",
+      "img": "assets/products/shop/c879402ac5e68ca24cac.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
+    },
+    {
+      "id": "productifi-jabon-de-miel-con-leche-de-avena-daz-premium-fit",
+      "n": "Jabón de Avena y Miel",
+      "s": "Productifi",
+      "img": "assets/products/shop/6d1367a82c5e992aa15e.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
+    },
+    {
+      "id": "productifi-jabon-de-playa-de-coco-daz-premium-fit",
+      "n": "Jabón de Playa de Coco",
+      "s": "Productifi",
+      "img": "assets/products/shop/bbb5132d93ad1f0510cf.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
+    },
+    {
+      "id": "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+      "n": "Café Fruity Bloom Tueste Ligero",
+      "s": "Productifi",
+      "img": "assets/products/shop/1da030026ae006d05e53.jpg",
+      "c": "hombre/camiseta",
+      "pr": 26.99
+    },
+    {
+      "id": "productifi-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-4oz",
+      "n": "Mezcla de Café de Cáñamo",
+      "s": "Productifi",
+      "img": "assets/products/shop/fa667e1bc70f6a318708.jpg",
+      "c": "hombre/camiseta",
+      "pr": 26.99
+    },
+    {
+      "id": "productifi-barra-exfoliante-luffa-daz-premium-fit",
+      "n": "Barra Exfoliante Luffa DAZ",
+      "s": "Productifi",
+      "img": "assets/products/shop/dbbfe6cbf11b84aa20ce.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
+    },
+    {
+      "id": "productifi-suero-para-manchas-oscuras-para-pieles-normales-daz-premium-fit",
+      "n": "Suero para Manchas Oscuras",
+      "s": "Productifi",
+      "img": "assets/products/shop/f6df6475995c9e585fe8.jpg",
+      "c": "hombre/camiseta",
+      "pr": 25.99
+    },
+    {
+      "id": "productifi-suero-para-manchas-oscuras-para-pieles-sensibles-daz-premium-fit",
+      "n": "Sérum para Manchas Oscuras",
+      "s": "Productifi",
+      "img": "assets/products/shop/941f55487a67384db644.jpg",
+      "c": "hombre/camiseta",
+      "pr": 25.99
+    },
+    {
+      "id": "productifi-aceite-capilar-hidratante-y-fortalecedor",
+      "n": "Aceite Capilar Hidratante y Fortalecedor",
+      "s": "Productifi",
+      "img": "assets/products/shop/ae4c0c764d165ebd5c73.jpg",
+      "c": "hombre/camiseta",
+      "pr": 24.99
+    },
+    {
+      "id": "productifi-gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit",
+      "n": "Gel Iluminador Aloe y Árbol de Té",
+      "s": "Productifi",
+      "img": "assets/products/shop/2c9409e7eed611d1c3c1.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
+    },
+    {
+      "id": "productifi-balsamo-para-patas-de-perro-daz-premium-fit",
+      "n": "Bálsamo para Patas de Perro",
+      "s": "Productifi",
+      "img": "assets/products/shop/b3e813f1403efdd7aa68.jpg",
+      "c": "hombre/camiseta",
+      "pr": 26.99
+    },
+    {
+      "id": "productifi-manteca-de-karite-cruda-daz-premium-fit",
+      "n": "Manteca de Karité Cruda",
+      "s": "Productifi",
+      "img": "assets/products/shop/4a05081e211ac2707b41.jpg",
+      "c": "hombre/camiseta",
+      "pr": 27.99
+    },
+    {
+      "id": "productifi-cafe-con-miel-de-manuka-daz-premium-fit-4oz",
+      "n": "Café Con Miel De Manuka",
+      "s": "Productifi",
+      "img": "assets/products/shop/881b29a934e8fc78f8fc.jpg",
+      "c": "hombre/camiseta",
+      "pr": 26.99
+    },
+    {
+      "id": "productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-4oz",
+      "n": "Café con Hongos Melena y Chaga",
+      "s": "Productifi",
+      "img": "assets/products/shop/0dc582d2cac28e85991c.jpg",
+      "c": "hombre/camiseta",
+      "pr": 26.99
+    },
+    {
+      "id": "productifi-toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
+      "n": "Toallitas Limpiadoras de Oídos",
+      "s": "Productifi",
+      "img": "assets/products/shop/a282e7b22473826c652b.jpg",
+      "c": "hombre/camiseta",
+      "pr": 25.99
+    },
+    {
+      "id": "productifi-gel-crema-hidro-equilibrante-daz-premium-fit",
+      "n": "Crema Gel Hidroequilibrante Premium",
+      "s": "Productifi",
+      "img": "assets/products/shop/8b525a371ed1529b3253.jpg",
+      "c": "hombre/camiseta",
+      "pr": 29.99
+    },
+    {
+      "id": "productifi-hidratante-de-sandia-daz-premium-fit",
+      "n": "Humectante Hidratante de Sandía",
+      "s": "Productifi",
+      "img": "assets/products/shop/cbe9ed9275e6453447f0.jpg",
+      "c": "hombre/camiseta",
+      "pr": 29.99
+    },
+    {
+      "id": "productifi-crema-calmante-para-la-piel-del-perro-daz-premium-fit",
+      "n": "Crema Calmante para Piel Canina",
+      "s": "Productifi",
+      "img": "assets/products/shop/9536554439c18c90b436.jpg",
+      "c": "hombre/camiseta",
+      "pr": 26.99
+    },
+    {
+      "id": "productifi-cafe-mezcla-brasilena-4oz-daz-premium-fit",
+      "n": "Café Mezcla Brasileña 4oz",
+      "s": "Productifi",
+      "img": "assets/products/shop/271c5e97847c4aa3594d.jpg",
+      "c": "hombre/camiseta",
+      "pr": 26.99
+    },
+    {
+      "id": "productifi-hidratante-antienvejecimiento-para-piel-normal-daz-premium-fit",
+      "n": "Hidratante Antienvejecimiento Piel Normal",
+      "s": "Productifi",
+      "img": "assets/products/shop/811a889150dfd6b50f2b.jpg",
+      "c": "hombre/camiseta",
+      "pr": 29.99
+    },
+    {
+      "id": "productifi-hidratante-antienvejecimiento-para-pieles-sensibles-daz-premium-fit",
+      "n": "Crema Antienvejecimiento Piel Sensible",
+      "s": "Productifi",
+      "img": "assets/products/shop/1a55a236c667370b68d2.jpg",
+      "c": "hombre/camiseta",
+      "pr": 29.99
+    },
+    {
+      "id": "productifi-hidratante-con-peptidos-daz-premium-fit",
+      "n": "Humectante Facial con Péptidos",
+      "s": "Productifi",
+      "img": "assets/products/shop/a1b5fab746adbc95f366.jpg",
+      "c": "hombre/camiseta",
+      "pr": 30.99
+    },
+    {
+      "id": "productifi-crema-de-sebo-limoncillo-y-lavanda-daz-premium-fit",
+      "n": "Crema de Sebo Limoncillo y Lavanda",
+      "s": "Productifi",
+      "img": "assets/products/shop/5aee019315e307b41d71.jpg",
+      "c": "hombre/camiseta",
+      "pr": 31.99
+    },
+    {
+      "id": "productifi-crema-de-sebo-noche-tranquila-daz-premium-fit",
+      "n": "Crema de Sebo Peaceful Night",
+      "s": "Productifi",
+      "img": "assets/products/shop/f71a0c46a875136634a6.jpg",
+      "c": "hombre/camiseta",
+      "pr": 31.99
+    },
+    {
+      "id": "productifi-gel-limpiador-suave-daz-premium-fit",
+      "n": "Gel Limpiador Suave",
+      "s": "Productifi",
+      "img": "assets/products/shop/f498bb4c88064cd1e2de.jpg",
+      "c": "hombre/camiseta",
+      "pr": 28.99
+    },
+    {
+      "id": "productifi-suero-de-niacinamida-al-10-daz-premium-fit",
+      "n": "Suero Niacinamida Diez Por Ciento",
+      "s": "Productifi",
+      "img": "assets/products/shop/2c6d046b3c03765c9950.jpg",
+      "c": "hombre/camiseta",
+      "pr": 27.99
+    },
+    {
+      "id": "productifi-tonico-equilibrante-suave-daz-premium-fit",
+      "n": "Tónico equilibrante suave",
+      "s": "Productifi",
+      "img": "assets/products/shop/467f2424ff0b7e7f0f3d.jpg",
+      "c": "hombre/camiseta",
+      "pr": 29.99
+    },
+    {
+      "id": "productifi-crema-de-hidratacion-de-la-piel-daz-premium-fit",
+      "n": "Crema Hidratante Facial y Corporal",
+      "s": "Productifi",
+      "img": "assets/products/shop/ece491f010820ecdef78.jpg",
+      "c": "hombre/camiseta",
+      "pr": 27.99
+    },
+    {
+      "id": "productifi-suero-botanico-para-el-crecimiento-del-cabello-daz-premium-fit",
+      "n": "Suero Botánico Capilar",
+      "s": "Productifi",
+      "img": "assets/products/shop/ff8f8852de203aa89b4c.jpg",
+      "c": "hombre/camiseta",
+      "pr": 30.99
+    },
+    {
+      "id": "productifi-crema-para-ojos-con-peptidos-daz-premium-fit",
+      "n": "Crema de Ojos con Péptidos",
+      "s": "Productifi",
+      "img": "assets/products/shop/a57ce18104fc4f76b8b4.jpg",
+      "c": "hombre/camiseta",
+      "pr": 34.99
+    },
+    {
+      "id": "productifi-polvo-de-matcha-ceremonial-daz-premium-fit",
+      "n": "Polvo de Matcha Ceremonial DAZ",
+      "s": "Productifi",
+      "img": "assets/products/shop/d29904c1bc29bb3fc3da.jpg",
+      "c": "hombre/camiseta",
+      "pr": 34.99
+    },
+    {
+      "id": "productifi-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz",
+      "n": "Café de Cáñamo Tostado Medio",
+      "s": "Productifi",
+      "img": "assets/products/shop/a3aea3a4943060ddc022.jpg",
+      "c": "hombre/camiseta",
+      "pr": 36.99
+    },
+    {
+      "id": "productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-16oz",
+      "n": "Café con Hongos Melena y Chaga",
+      "s": "Productifi",
+      "img": "assets/products/shop/1505cde8869d992b1a5b.jpg",
+      "c": "hombre/camiseta",
+      "pr": 40.99
+    },
+    {
+      "id": "productifi-crema-reafirmante-de-la-piel-daz-premium-fit",
+      "n": "Crema Reafirmante Facial",
+      "s": "Productifi",
+      "img": "assets/products/shop/f5e17f2f7eabf3ad31b6.jpg",
+      "c": "hombre/camiseta",
+      "pr": 30.99
+    },
+    {
+      "id": "productifi-cafe-con-miel-de-manuka-daz-premium-fit-16oz",
+      "n": "Café Miel de Manuka",
+      "s": "Productifi",
+      "img": "assets/products/shop/c7cf4be404084bc582b5.jpg",
+      "c": "hombre/camiseta",
+      "pr": 43.99
+    },
+    {
+      "id": "productifi-plan-basico-de-20-mes",
+      "n": "The Blueprint Series Nutritional Foundation",
+      "s": "Productifi",
+      "img": "assets/products/shop/5aa8df3f54a26e26e81b.jpg",
+      "c": "hombre/camiseta",
+      "pr": 95.0
+    },
+    {
+      "id": "productifi-plan-premium-de-50-mes",
+      "n": "The Prestige Protocol Biometric Mastery",
+      "s": "Productifi",
+      "img": "assets/products/shop/5261ee6f01aa707b7440.jpg",
+      "c": "hombre/camiseta",
+      "pr": 245.0
     }
   ],
   "hidden": [
+    {
+      "id": "printful-359535579",
+      "n": "Esterilla de Yoga White",
+      "s": "Printful",
+      "img": "https://files.cdn.printful.com/files/8ce/8ced79023d30496c30e2e80d171ba19b_preview.png",
+      "c": "hombre/camiseta",
+      "pr": 84.99,
+      "why": "Oculto"
+    },
     {
       "id": "interestprint-design-womens-crop-rugby-jersey",
       "n": "Camiseta Crop Rugby · Blanco",
@@ -202,24 +555,6 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-yoga-top-a6k",
-      "n": "Camiseta Yoga · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/68e55d63cdd62a8522dd.jpg",
-      "c": "hombre/camiseta",
-      "pr": 20.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-a-picture-from-kefir-https-kefirapp-com-w-2201121-racerback-active-tank-tops",
-      "n": "Camiseta Picture From Kefir",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/4caa30f3b8596cf96be0.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-design-womens-v-neck-long-sleeve-sun-protection-top",
       "n": "Camiseta Sun Protection",
       "s": "InterestPrint",
@@ -229,30 +564,12 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-hyaluronic-acid-serum",
-      "n": "Pieza Suero Ácido Hialurónico",
-      "s": "Productifi",
-      "img": "assets/products/shop/bf7f99e4d92ad11d006f.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
       "n": "Vitaminas Gotas Salud Respiratoria",
       "s": "Productifi",
       "img": "assets/products/shop/21b97c30914be54971eb.jpg",
       "c": "decor",
       "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-exfoliante-de-cafe-y-menta-daz-premium-fit",
-      "n": "Pieza Exfoliante Café Menta",
-      "s": "Productifi",
-      "img": "assets/products/shop/45f327df233c2bf2a366.jpg",
-      "c": "hombre/camiseta",
-      "pr": 24.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -292,30 +609,12 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-      "n": "Sudadera Gel Refrescante Polar",
-      "s": "Productifi",
-      "img": "assets/products/shop/38d9a434d739a2be2c26.jpg",
-      "c": "hombre/chandal-sudaderas",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-gotas-dieteticas-ultra-daz-premium-fit-1-oz",
       "n": "Vitaminas Gotas Dietéticas Ultra",
       "s": "Productifi",
       "img": "assets/products/shop/6a1e7e4499d91726d834.jpg",
       "c": "decor",
       "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-limpiador-facial-de-carbon-daz-premium-fit",
-      "n": "Pieza Limpiador Facial Carbón",
-      "s": "Productifi",
-      "img": "assets/products/shop/99d2b894b474dcb57d5c.jpg",
-      "c": "hombre/camiseta",
-      "pr": 24.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -346,82 +645,10 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-yoga-top-xg005kn07",
-      "n": "Camiseta Yoga · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/1e52a4d8b453a71807bc.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-aceite-facial-gua-sha-daz-premium-fit",
-      "n": "Pieza Aceite Facial Gua",
-      "s": "Productifi",
-      "img": "assets/products/shop/8f2152c7b9775c7ae85f.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-aloe-cool-cucumber-soap",
-      "n": "Pieza Jabón Aloe Pepino",
-      "s": "Productifi",
-      "img": "assets/products/shop/cf6132a1af0214539c59.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-jabon-breathe-clear-daz-premium-fit",
       "n": "Pieza Jabón Breathe Clear",
       "s": "Productifi",
       "img": "assets/products/shop/a4f22a2077c471ff6452.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-jabon-calmante-de-lavanda-daz-premium-fit",
-      "n": "Pieza Jabón Calmante Lavanda",
-      "s": "Productifi",
-      "img": "assets/products/shop/31c352d9aecac0e56d0a.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-jabon-de-carbon-daz-premium-fit",
-      "n": "Pieza Jabón Carbón Daz",
-      "s": "Productifi",
-      "img": "assets/products/shop/ec09e61488ddf6dd6bc6.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-jabon-de-limoncillo-y-salvia-daz-premium-fit",
-      "n": "Pieza Jabón Limoncillo Salvia",
-      "s": "Productifi",
-      "img": "assets/products/shop/c879402ac5e68ca24cac.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-jabon-de-miel-con-leche-de-avena-daz-premium-fit",
-      "n": "Pieza Jabón Miel Leche",
-      "s": "Productifi",
-      "img": "assets/products/shop/6d1367a82c5e992aa15e.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-jabon-de-playa-de-coco-daz-premium-fit",
-      "n": "Pieza Jabón Playa Coco",
-      "s": "Productifi",
-      "img": "assets/products/shop/bbb5132d93ad1f0510cf.jpg",
       "c": "hombre/camiseta",
       "pr": 23.99,
       "why": "Borrador: esperando la revisión de la IA"
@@ -454,30 +681,12 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-yoga-top-yj053",
-      "n": "Camiseta Yoga · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/c1f359ffcb6d78db19ac.jpg",
-      "c": "hombre/camiseta",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-conjunto-tough-bitch-womens-short-yoga-setmodelsets-03",
       "n": "Conjunto Conjunto Tough Bitch",
       "s": "InterestPrint",
       "img": "assets/products/shop/c9454bc34f016200ff7f.jpg",
       "c": "mujer/conjuntos",
       "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
-      "n": "Pieza Café Fruity Bloom",
-      "s": "Productifi",
-      "img": "assets/products/shop/1da030026ae006d05e53.jpg",
-      "c": "hombre/camiseta",
-      "pr": 26.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -499,56 +708,11 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-4oz",
-      "n": "Pieza Mezcla Café Cáñamo",
-      "s": "Productifi",
-      "img": "assets/products/shop/fa667e1bc70f6a318708.jpg",
-      "c": "hombre/camiseta",
-      "pr": 26.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-barra-exfoliante-luffa-daz-premium-fit",
-      "n": "Pieza Barra Exfoliante Luffa",
-      "s": "Productifi",
-      "img": "assets/products/shop/dbbfe6cbf11b84aa20ce.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-suero-para-manchas-oscuras-para-pieles-normales-daz-premium-fit",
-      "n": "Pieza Suero Manchas Oscuras",
-      "s": "Productifi",
-      "img": "assets/products/shop/f6df6475995c9e585fe8.jpg",
-      "c": "hombre/camiseta",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-suero-para-manchas-oscuras-para-pieles-sensibles-daz-premium-fit",
-      "n": "Pieza Suero Manchas Oscuras",
-      "s": "Productifi",
-      "img": "assets/products/shop/941f55487a67384db644.jpg",
-      "c": "hombre/camiseta",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-tiras-para-la-resaca-daz-premium-fit",
       "n": "Vitaminas Tiras Resaca Daz",
       "s": "Productifi",
       "img": "assets/products/shop/3a2f88e5e0ae93d162fe.jpg",
       "c": "decor",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-complejo-de-hongos-10x-daz-premium-fit",
-      "n": "Pieza Complejo Hongos Daz",
-      "s": "Productifi",
-      "img": "assets/products/shop/95df16035027620d083f.jpg",
-      "c": "hombre/camiseta",
       "pr": 25.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
@@ -571,30 +735,12 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-aceite-capilar-hidratante-y-fortalecedor",
-      "n": "Pieza Aceite Capilar Hidratante",
-      "s": "Productifi",
-      "img": "assets/products/shop/ae4c0c764d165ebd5c73.jpg",
-      "c": "hombre/camiseta",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-apoyo-al-higado-daz-premium-fit",
       "n": "Suplemento Apoyo Hígado Daz",
       "s": "Productifi",
       "img": "assets/products/shop/b9ac3f99e1e4f68b8035.jpg",
       "c": "decor",
       "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit",
-      "n": "Pieza Gel Iluminador Aloe",
-      "s": "Productifi",
-      "img": "assets/products/shop/2c9409e7eed611d1c3c1.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -625,15 +771,6 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-design-yoga-zipper-vest",
-      "n": "Chaleco Yoga Zipper Vest · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/d166e370401fcd2c8293.jpg",
-      "c": "hombre/abrigo-chaqueta-sueter",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-max-detox-daz-premium-fitacai-detox",
       "n": "Vitaminas Max Detox Daz",
       "s": "Productifi",
@@ -652,30 +789,12 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-balsamo-para-patas-de-perro-daz-premium-fit",
-      "n": "Pieza Bálsamo Patas Perro",
-      "s": "Productifi",
-      "img": "assets/products/shop/b3e813f1403efdd7aa68.jpg",
-      "c": "hombre/camiseta",
-      "pr": 26.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "interestprint-descarga-79-cross-back-sports-bra",
       "n": "Ropa Interior Descarga Cross Back",
       "s": "InterestPrint",
       "img": "assets/products/shop/0ba7127fc7ebf8ffabc9.jpg",
       "c": "mujer/ropa-interior",
       "pr": 26.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-manteca-de-karite-cruda-daz-premium-fit",
-      "n": "Pieza Manteca Karité Cruda",
-      "s": "Productifi",
-      "img": "assets/products/shop/4a05081e211ac2707b41.jpg",
-      "c": "hombre/camiseta",
-      "pr": 27.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -778,15 +897,6 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "interestprint-top-dpf",
-      "n": "Camiseta Monogram",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/48bf5428ceb50f1ca674.jpg",
-      "c": "hombre/camiseta",
-      "pr": 26.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-male-enhancement-daz-premium-fit",
       "n": "Vitaminas Vitality Daz",
       "s": "Productifi",
@@ -802,60 +912,6 @@
       "img": "assets/products/shop/dc7387745bb4168b63df.jpg",
       "c": "decor",
       "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-apoyo-conjunto-daz-premium-fit",
-      "n": "Conjunto Apoyo Conjunto Daz",
-      "s": "Productifi",
-      "img": "assets/products/shop/3fafcd06c8026514e266.jpg",
-      "c": "hombre/conjuntos",
-      "pr": 26.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-balsamo-corporal-elevador-daz-premium-fit",
-      "n": "Pieza Bálsamo Corporal Elevador",
-      "s": "Productifi",
-      "img": "assets/products/shop/c92ad5206054fa267b76.jpg",
-      "c": "hombre/camiseta",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-balsamo-corporal-energetico-daz-premium-fit",
-      "n": "Pieza Bálsamo Corporal Energético",
-      "s": "Productifi",
-      "img": "assets/products/shop/1a6ba37407b6a6c29c3f.jpg",
-      "c": "hombre/camiseta",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-balsamo-corporal-para-dormir-daz-premium-fit",
-      "n": "Pieza Bálsamo Corporal Dormir",
-      "s": "Productifi",
-      "img": "assets/products/shop/bd8db220ea2cd9f1488f.jpg",
-      "c": "hombre/camiseta",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-balsamo-corporal-relajante-daz-premium-fit",
-      "n": "Pieza Bálsamo Corporal Relajante",
-      "s": "Productifi",
-      "img": "assets/products/shop/28c7d8645e46dc5f392b.jpg",
-      "c": "hombre/camiseta",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-balsamo-corporal-sin-perfume-daz-premium-fit",
-      "n": "Pieza Bálsamo Corporal Sin",
-      "s": "Productifi",
-      "img": "assets/products/shop/c72adc5244d05e101505.jpg",
-      "c": "hombre/camiseta",
-      "pr": 27.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -877,30 +933,12 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-cafe-con-miel-de-manuka-daz-premium-fit-4oz",
-      "n": "Pieza Café Miel Manuka",
-      "s": "Productifi",
-      "img": "assets/products/shop/881b29a934e8fc78f8fc.jpg",
-      "c": "hombre/camiseta",
-      "pr": 26.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-colostrum-powder-daz-premium-fit",
       "n": "Vitaminas Colostrum Powder Daz",
       "s": "Productifi",
       "img": "assets/products/shop/01fd81f5fe1bf61ec0c7.jpg",
       "c": "decor",
       "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-4oz",
-      "n": "Pieza Fusión Café Champiñones",
-      "s": "Productifi",
-      "img": "assets/products/shop/0dc582d2cac28e85991c.jpg",
-      "c": "hombre/camiseta",
-      "pr": 26.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -967,47 +1005,11 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
-      "n": "Pieza Toallitas Limpiadoras Oídos",
-      "s": "Productifi",
-      "img": "assets/products/shop/a282e7b22473826c652b.jpg",
-      "c": "hombre/camiseta",
-      "pr": 25.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-gomitas-de-apoyo-para-las-articulaciones-daz-premium-fit-adultos",
       "n": "Vitaminas Gomitas Apoyo Las",
       "s": "Productifi",
       "img": "assets/products/shop/56f985ff0e48f989730f.jpg",
       "c": "decor",
-      "pr": 26.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-gel-crema-hidro-equilibrante-daz-premium-fit",
-      "n": "Pieza Gel Hidro Equilibrante",
-      "s": "Productifi",
-      "img": "assets/products/shop/8b525a371ed1529b3253.jpg",
-      "c": "hombre/camiseta",
-      "pr": 29.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-hidratante-de-sandia-daz-premium-fit",
-      "n": "Pieza Hidratante Sandía Daz",
-      "s": "Productifi",
-      "img": "assets/products/shop/cbe9ed9275e6453447f0.jpg",
-      "c": "hombre/camiseta",
-      "pr": 29.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-crema-calmante-para-la-piel-del-perro-daz-premium-fit",
-      "n": "Pieza Calmante Piel Del",
-      "s": "Productifi",
-      "img": "assets/products/shop/9536554439c18c90b436.jpg",
-      "c": "hombre/camiseta",
       "pr": 26.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
@@ -1027,15 +1029,6 @@
       "img": "assets/products/shop/b3c151452c688821d780.jpg",
       "c": "decor",
       "pr": 29.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-cafe-mezcla-brasilena-4oz-daz-premium-fit",
-      "n": "Pieza Café Mezcla Brasileña",
-      "s": "Productifi",
-      "img": "assets/products/shop/271c5e97847c4aa3594d.jpg",
-      "c": "hombre/camiseta",
-      "pr": 26.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -1093,75 +1086,12 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-hidratante-antienvejecimiento-para-piel-normal-daz-premium-fit",
-      "n": "Pieza Hidratante Antienvejecimiento",
-      "s": "Productifi",
-      "img": "assets/products/shop/811a889150dfd6b50f2b.jpg",
-      "c": "hombre/camiseta",
-      "pr": 29.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-hidratante-antienvejecimiento-para-pieles-sensibles-daz-premium-fit",
-      "n": "Pieza Hidratante Antienvejecimiento",
-      "s": "Productifi",
-      "img": "assets/products/shop/1a55a236c667370b68d2.jpg",
-      "c": "hombre/camiseta",
-      "pr": 29.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-perla-de-abeja-daz-premium-fit",
-      "n": "Pieza Perla Abeja Daz",
-      "s": "Productifi",
-      "img": "assets/products/shop/b9390a798750102f3a68.jpg",
-      "c": "hombre/camiseta",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-hidratante-con-peptidos-daz-premium-fit",
-      "n": "Pieza Hidratante Péptidos Daz",
-      "s": "Productifi",
-      "img": "assets/products/shop/a1b5fab746adbc95f366.jpg",
-      "c": "hombre/camiseta",
-      "pr": 30.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-crema-de-sebo-de-naranja-y-bergamota-daz-premium-fit",
       "n": "Suplemento Sebo Bergamota Daz",
       "s": "Productifi",
       "img": "assets/products/shop/733d8e5e3019eadb76f4.jpg",
       "c": "decor",
       "pr": 31.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-crema-de-sebo-limoncillo-y-lavanda-daz-premium-fit",
-      "n": "Pieza Sebo Limoncillo Lavanda",
-      "s": "Productifi",
-      "img": "assets/products/shop/5aee019315e307b41d71.jpg",
-      "c": "hombre/camiseta",
-      "pr": 31.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-crema-de-sebo-noche-tranquila-daz-premium-fit",
-      "n": "Pieza Sebo Noche Tranquila",
-      "s": "Productifi",
-      "img": "assets/products/shop/f71a0c46a875136634a6.jpg",
-      "c": "hombre/camiseta",
-      "pr": 31.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-gel-limpiador-suave-daz-premium-fit",
-      "n": "Pieza Gel Limpiador Suave",
-      "s": "Productifi",
-      "img": "assets/products/shop/f498bb4c88064cd1e2de.jpg",
-      "c": "hombre/camiseta",
-      "pr": 28.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -1174,30 +1104,12 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-suero-de-niacinamida-al-10-daz-premium-fit",
-      "n": "Pieza Suero Niacinamida Daz",
-      "s": "Productifi",
-      "img": "assets/products/shop/2c6d046b3c03765c9950.jpg",
-      "c": "hombre/camiseta",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-womens-vitality-formula-daz-premium-fit",
       "n": "Vitaminas Vitality Formula Daz",
       "s": "Productifi",
       "img": "assets/products/shop/800ad238010d61c34460.jpg",
       "c": "decor",
       "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-tonico-equilibrante-suave-daz-premium-fit",
-      "n": "Pieza Tónico Equilibrante Suave",
-      "s": "Productifi",
-      "img": "assets/products/shop/467f2424ff0b7e7f0f3d.jpg",
-      "c": "hombre/camiseta",
-      "pr": 29.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -1210,30 +1122,12 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-crema-de-hidratacion-de-la-piel-daz-premium-fit",
-      "n": "Pieza Hidratación Piel Daz",
-      "s": "Productifi",
-      "img": "assets/products/shop/ece491f010820ecdef78.jpg",
-      "c": "hombre/camiseta",
-      "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-curcuma-platino-daz-premium-fit",
       "n": "Vitaminas Cúrcuma Platino Daz",
       "s": "Productifi",
       "img": "assets/products/shop/4648cd07b2bd364420a5.jpg",
       "c": "decor",
       "pr": 27.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-suero-botanico-para-el-crecimiento-del-cabello-daz-premium-fit",
-      "n": "Pieza Suero Botánico Crecimiento",
-      "s": "Productifi",
-      "img": "assets/products/shop/ff8f8852de203aa89b4c.jpg",
-      "c": "hombre/camiseta",
-      "pr": 30.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -1252,15 +1146,6 @@
       "img": "assets/products/shop/b63b30b7c7cfe69a9a7f.jpg",
       "c": "mujer/ropa-interior",
       "pr": 28.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-crema-para-ojos-con-peptidos-daz-premium-fit",
-      "n": "Pieza Ojos Péptidos Daz",
-      "s": "Productifi",
-      "img": "assets/products/shop/a57ce18104fc4f76b8b4.jpg",
-      "c": "hombre/camiseta",
-      "pr": 34.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -1291,30 +1176,12 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-polvo-de-matcha-ceremonial-daz-premium-fit",
-      "n": "Pieza Polvo Matcha Ceremonial",
-      "s": "Productifi",
-      "img": "assets/products/shop/d29904c1bc29bb3fc3da.jpg",
-      "c": "hombre/camiseta",
-      "pr": 34.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-potenciador-de-testosterona-daz-premium-fit",
       "n": "Vitaminas Potenciador Testosterona Daz",
       "s": "Productifi",
       "img": "assets/products/shop/357019a7852a1de5e701.jpg",
       "c": "decor",
       "pr": 30.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz",
-      "n": "Pieza Mezcla Café Cáñamo",
-      "s": "Productifi",
-      "img": "assets/products/shop/a3aea3a4943060ddc022.jpg",
-      "c": "hombre/camiseta",
-      "pr": 36.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -1399,24 +1266,6 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-16oz",
-      "n": "Pieza Fusión Café Champiñones",
-      "s": "Productifi",
-      "img": "assets/products/shop/1505cde8869d992b1a5b.jpg",
-      "c": "hombre/camiseta",
-      "pr": 40.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-crema-reafirmante-de-la-piel-daz-premium-fit",
-      "n": "Pieza Reafirmante Piel Daz",
-      "s": "Productifi",
-      "img": "assets/products/shop/f5e17f2f7eabf3ad31b6.jpg",
-      "c": "hombre/camiseta",
-      "pr": 30.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-keto-5-daz-premium-fit",
       "n": "Vitaminas Keto Daz",
       "s": "Productifi",
@@ -1453,15 +1302,6 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "printful-esterilla-de-yoga-daz-premium-fit",
-      "n": "Pieza Esterilla Yoga Daz",
-      "s": "Printful",
-      "img": "assets/products/shop/1037404109515a9c7121.jpg",
-      "c": "hombre/camiseta",
-      "pr": 67.99,
-      "why": "Esperando la IA: sección dudosa (no se enseña hasta saber dónde va)"
-    },
-    {
       "id": "productifi-mezcla-de-champinones-fermentados-daz-premium-fit",
       "n": "Vitaminas Mezcla Champiñones",
       "s": "Productifi",
@@ -1476,15 +1316,6 @@
       "s": "Productifi",
       "img": "assets/products/shop/95ddfd047cb8031f4870.jpg",
       "c": "decor",
-      "pr": 30.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-hongo-cordyceps-daz-premium-fit",
-      "n": "Pieza Hongo Cordyceps Daz",
-      "s": "Productifi",
-      "img": "assets/products/shop/364f2d87cd632a03dd42.jpg",
-      "c": "hombre/camiseta",
       "pr": 30.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
@@ -1516,24 +1347,6 @@
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
-      "id": "productifi-cafe-con-miel-de-manuka-daz-premium-fit-16oz",
-      "n": "Pieza Café Miel Manuka",
-      "s": "Productifi",
-      "img": "assets/products/shop/c7cf4be404084bc582b5.jpg",
-      "c": "hombre/camiseta",
-      "pr": 43.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-hongo-melena-de-leon-daz-premium-fit",
-      "n": "Pieza Hongo Melena León",
-      "s": "Productifi",
-      "img": "assets/products/shop/1b18c481abfec525bb45.jpg",
-      "c": "hombre/camiseta",
-      "pr": 32.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
       "id": "productifi-trufas-de-birch-chaga-daz-premium-fit",
       "n": "Vitaminas Trufas Birch Chaga",
       "s": "Productifi",
@@ -1550,85 +1363,67 @@
       "c": "decor",
       "pr": 34.99,
       "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-plan-basico-de-20-mes",
-      "n": "Pieza Blueprint Series Nutritional · Azul",
-      "s": "Productifi",
-      "img": "assets/products/shop/5aa8df3f54a26e26e81b.jpg",
-      "c": "hombre/camiseta",
-      "pr": 95.0,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-plan-premium-de-50-mes",
-      "n": "Pieza Prestige Protocol Biometric",
-      "s": "Productifi",
-      "img": "assets/products/shop/35f427026f188badb049.jpg",
-      "c": "hombre/camiseta",
-      "pr": 245.0,
-      "why": "Borrador: esperando la revisión de la IA"
     }
   ],
   "log": [
-    "IA: fallo con productifi-barra-exfoliante-luffa-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-suero-para-manchas-oscuras-para-pieles-normales-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-suero-para-manchas-oscuras-para-pieles-sensibles-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-complejo-de-hongos-10x-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-aceite-capilar-hidratante-y-fortalecedor: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-balsamo-para-patas-de-perro-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-manteca-de-karite-cruda-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-aceite-capilar-para-la-salud-del-cuero-cabelludo-y-el-crecimiento-del-cabello-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-balsamo-corporal-elevador-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-balsamo-corporal-energetico-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-balsamo-corporal-para-dormir-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-balsamo-corporal-relajante-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-balsamo-corporal-sin-perfume-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-cafe-con-miel-de-manuka-daz-premium-fit-4oz: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-4oz: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-gel-crema-hidro-equilibrante-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-hidratante-de-sandia-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-crema-calmante-para-la-piel-del-perro-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-cafe-mezcla-brasilena-4oz-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-hidratante-antienvejecimiento-para-piel-normal-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-hidratante-antienvejecimiento-para-pieles-sensibles-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-perla-de-abeja-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-hidratante-con-peptidos-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-crema-de-sebo-limoncillo-y-lavanda-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-crema-de-sebo-noche-tranquila-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-gel-limpiador-suave-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-suero-de-niacinamida-al-10-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-tonico-equilibrante-suave-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-crema-de-hidratacion-de-la-piel-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-suero-botanico-para-el-crecimiento-del-cabello-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-crema-para-ojos-con-peptidos-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-polvo-de-matcha-ceremonial-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-16oz: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-crema-reafirmante-de-la-piel-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-batido-de-verduras-ultra-limpio: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-hongo-cordyceps-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-cafe-con-miel-de-manuka-daz-premium-fit-16oz: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-hongo-melena-de-leon-daz-premium-fit: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-plan-basico-de-20-mes: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con productifi-plan-premium-de-50-mes: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con interestprint-design-womens-cropped-crew-neck-sun-protection-shirt: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con interestprint-design-custom-womens-high-waist-legging: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con interestprint-design-custom-womens-high-waist-legging-1: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con interestprint-design-washed-drop-shoulder-t-shirt: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con interestprint-descarga-1-mens-all-over-print-tank-top-model-t46: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: fallo con interestprint-descarga-135-mens-all-over-print-tank-top-model-t46: gemini-flash-lite-latest: HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usual",
-    "IA: tiempo de esta hora agotado; sigo en la próxima.",
-    "IA: 16 productos revisados (fotos, guía de tallas y textos) · quedan 283",
-    "⏱ revisión con IA: 1203 s",
-    "Vigilante: 1 correcciones en esta hora",
-    "⏱ vigilante: 92 s",
-    "Estudio de fotos: Google no permite crear imágenes con esta clave gratuita hoy. Se reintenta mañana.",
-    "Estudio de fotos: 0 fotos de campaña nuevas (de 1 intentos)",
-    "⏱ estudio de fotos: 0 s",
-    "⏱ enlaces de pago: 0 s",
+    "Stripe: enlace normal listo para productifi-soporte-normal-de-azucar-en-sangre",
+    "Stripe: enlace normal listo para interestprint-design-yoga-zipper-vest",
+    "Stripe: enlace normal listo para productifi-max-detox-daz-premium-fitacai-detox",
+    "Stripe: enlace normal listo para productifi-raiz-de-remolacha",
+    "Stripe: enlace normal listo para productifi-balsamo-para-patas-de-perro-daz-premium-fit",
+    "Stripe: enlace normal listo para interestprint-descarga-79-cross-back-sports-bra",
+    "Stripe: enlace normal listo para productifi-manteca-de-karite-cruda-daz-premium-fit",
+    "Stripe: enlace normal listo para interestprint-ivan21-backless-split-knotted-yoga-active-tank-tops",
+    "Stripe: enlace normal listo para productifi-aceite-capilar-para-la-salud-del-cuero-cabelludo-y-el-crecimiento-del-cabello-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-ashwagandha-plus-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-duerme-bien-gomitas-daz-premium-fit-adulto",
+    "Stripe: enlace normal listo para productifi-soporte-de-vision-daz-premium-fit",
+    "Stripe: enlace normal listo para interestprint-derfrf-cross-back-sports-bra-1",
+    "Stripe: enlace normal listo para interestprint-descarga-85-cross-back-sports-bra",
+    "Stripe: enlace normal listo para productifi-apoyo-cognitivo-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-berberine-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-formula-para-dormir-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-probiotic-20-billion-daz-premium-fit",
+    "Stripe: enlace normal listo para interestprint-top-dpf",
+    "Stripe: enlace normal listo para productifi-male-enhancement-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-gomitas-de-vinagre-de-sidra-de-manzana-daz-premium-fit-60-gomitas",
+    "Stripe: enlace normal listo para productifi-apoyo-conjunto-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-balsamo-corporal-elevador-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-balsamo-corporal-energetico-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-balsamo-corporal-para-dormir-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-balsamo-corporal-relajante-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-balsamo-corporal-sin-perfume-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-complejo-de-bayas-de-acai-daz-premium-fit-60-capsulas",
+    "Stripe: enlace normal listo para productifi-tiras-de-apoyo-para-la-libido-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-cafe-con-miel-de-manuka-daz-premium-fit-4oz",
+    "Stripe: enlace normal listo para productifi-colostrum-powder-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-4oz",
+    "Stripe: enlace normal listo para productifi-ginkgo-biloba-ginseng-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-musgo-marino-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-super-quemador-de-grasa-con-mct-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-apoyo-a-la-prostata-daz-premium-fit",
+    "Stripe: enlace normal listo para interestprint-descarga-81-deep-v-neck-racerback-cutout-active-crop-tops",
+    "Stripe: enlace normal listo para productifi-5-htp",
+    "Stripe: enlace normal listo para productifi-spirulina-powder-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-gomitas-de-apoyo-para-las-articulaciones-daz-premium-fit-adultos",
+    "Stripe: enlace normal listo para productifi-gel-crema-hidro-equilibrante-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-hidratante-de-sandia-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-crema-calmante-para-la-piel-del-perro-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-resveratrol-50-600mg-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-ayurvedic-complex",
+    "Stripe: enlace normal listo para productifi-cafe-mezcla-brasilena-4oz-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-polvo-de-remolacha-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-apoyo-para-huesos-y-corazon-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-soporte-para-huesos-y-corazon-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-colostrum-capsules-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-complejo-de-extracto-de-hongos-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-formula-nootropica-para-el-cerebro-y-la-concentracion-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-hidratante-antienvejecimiento-para-piel-normal-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-hidratante-antienvejecimiento-para-pieles-sensibles-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-perla-de-abeja-daz-premium-fit",
+    "Stripe: 250 productos con enlace de pago nuevo en esta hora",
+    "⏱ enlaces de pago: 238 s",
     "Cambio actualizado: 1 USD = 0.9145 EUR",
     "Listo."
   ]

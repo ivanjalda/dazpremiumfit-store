@@ -1,0 +1,62 @@
+{
+ "ai_cats": [
+  "mujer/bodies"
+ ],
+ "ai_color": "Natural",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Butyrospermum Parkii (Shea) Butter, Caprylic/capric triglyceride, Emulsifying Wax, Euphorbia cerifera (Candelilla) Wax, Theobroma Cacao (Cocoa) Butter, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Tapioca starch, Lavandula Angustifolia (Lavender) Oil, Cananga Odorata (Ylang Ylang) Flower Oil, Helianthus annuus (Sunflower) Seed Oil, Calendula Officinalis Flower Extract, Helianthus Annuus (Sunflower) Flower Extract, Aloe Barbadensis Leaf Extract, Chondrus Crispus Extract, Althaea Officinalis Root Extract, d-alpha-tocopherol, Anthemis Nobilis (Chamomile) Flower Oil, Phenoxyethanol, Caprylyl Glycol",
+ "ai_sizes": "2.5 oz",
+ "ai_type": "Body Balm",
+ "ai_ver": 2,
+ "art_note": "Clean product studio shot with clear branding, but surrounded by repetitive low-quality icon graphics.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/bodies"
+ ],
+ "cg": "t-balsamo-corporal-para-dormir-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Indulge in a deep hydration treatment designed to restore dry skin. The advanced formula immediately replenishes moisture while natural extracts soothe the skin. Lightweight and fast absorbing, it melts in without leaving greasy residue. Enhanced with essential oils for an exceptional nocturnal sensory experience. Made to order. Available with worldwide shipping.",
+ "desc_es": "Disfrute de un tratamiento de hidratación profunda diseñado para restaurar la piel seca. Su fórmula avanzada repone la humedad de manera inmediata mientras los extractos naturales calman la piel. De textura ligera y rápida absorción, se funde sin dejar residuos grasos. Enriquecido con aceites esenciales para una experiencia sensorial nocturna excepcional. Hecho a pedido. Disponible con envío a todo el mundo.",
+ "details_en": "· 2.5 oz body balm\n· Lavender, chamomile, and ylang ylang scent\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Bálsamo corporal de 2.5 oz\n· Fragancia de lavanda, manzanilla e ylang ylang\n· Hecho a pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/bd8db220ea2cd9f1488f.jpg"
+ ],
+ "draft": true,
+ "fam": "balsamo-corporal-dormir",
+ "hidden": false,
+ "id": "productifi-balsamo-corporal-para-dormir-daz-premium-fit",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Night Body Balm",
+ "name_es": "Bálsamo Corporal de Noche",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 27.99,
+ "rank": 219,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Servicios > Servicios personales > Belleza y cuidado personal",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "2.5 oz"
+ ],
+ "source_title": "Bálsamo corporal para dormir DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/cNi28sfzCh1aeyWbCK1gW0U",
+ "supplier": "Productifi",
+ "supplier_id": "balsamo-corporal-para-dormir-daz-premium-fit",
+ "visual_verified": true
+}

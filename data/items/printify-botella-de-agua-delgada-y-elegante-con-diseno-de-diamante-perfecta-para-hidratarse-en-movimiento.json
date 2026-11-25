@@ -22,11 +22,14 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
+ "missing_days": 1,
+ "missing_last": "2026-11-25",
  "name_en": "Botella Agua Delgada Bottle · White",
  "name_es": "Termo Botella Agua Delgada · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 35.99,
- "rank": 120,
+ "rank": 136,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Sin categoría",
@@ -37,6 +40,7 @@
   "20oz"
  ],
  "source_title": "Botella de agua delgada y elegante con diseño de diamante: perfecta para hidratarse en movimiento",
+ "stripe_payment_link": "https://buy.stripe.com/4gM5kEevy26g1MabCK1gV3H",
  "supplier": "Printify",
  "supplier_id": "botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para-hidratarse-en-movimiento",
  "visual_verified": true

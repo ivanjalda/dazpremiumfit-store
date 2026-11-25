@@ -28,8 +28,9 @@
  "name_en": "Esenciales Daz Cabello Vitamins",
  "name_es": "Vitaminas Esenciales Daz Cabello",
  "needs_review": false,
+ "page": true,
  "price_usd": 26.99,
- "rank": 39,
+ "rank": 42,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -38,6 +39,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Esenciales DAZ Premium Fit para cabello, piel y uñas",
+ "stripe_payment_link": "https://buy.stripe.com/9B600kgDG7qA76ucGO1gV2b",
  "supplier": "Productifi",
  "supplier_id": "esenciales-para-cabello-piel-y-unas",
  "visual_verified": true

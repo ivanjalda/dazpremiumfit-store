@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "hombre/camiseta"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Polyester",
+ "ai_type": "Tank Top",
+ "ai_ver": 2,
+ "art_note": "High-end fitness campaign imagery with professional lighting and gym context.",
+ "art_score": 9,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "t-daz-premium-fit-dpf-camiseta-de-tirantes",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "A silhouette engineered for demanding training. This tank top combines a deep black base with defined graphic contrasts. The soft-touch polyester fabric follows every movement with fluidity. An essential piece for the weight room that prioritizes character and functionality.",
+ "desc_es": "Una silueta diseñada para la exigencia del entrenamiento. Esta camiseta de tirantes combina una base profunda en color negro con contrastes gráficos definidos. El tejido de poliéster de tacto suave acompaña cada movimiento con fluidez. Una prenda esencial para la sala de pesas que prioriza el carácter y la funcionalidad.",
+ "details_en": "· Soft-touch polyester fabric\n· Sleeveless cut with a round neckline\n· Curved front hem\n· DPF logo on the chest and details on the back\n· Available made to order with worldwide shipping",
+ "details_es": "· Tejido de poliéster de tacto suave\n· Corte sin mangas con cuello redondo\n· Bajo delantero curvo\n· Diseño con logotipo DPF en el pecho y detalles en la espalda\n· Disponible bajo demanda con envíos a todo el mundo",
  "display_images": [
   "assets/products/shop/b35e72910206eebb65d9.jpg",
   "assets/products/shop/9bf3a05528d956ea04cf.jpg",
@@ -20,20 +35,78 @@
  "id": "interestprint-descarga-135-mens-all-over-print-tank-top-model-t46",
  "look": [
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-pantalon-de-chandal-unisex",
-  "productifi-cafe-mezcla-brasilena-16oz"
+  "printful-484195395-black",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
  ],
  "material": "",
- "name_en": "Daz Tirantes Tee",
- "name_es": "Camiseta Daz Tirantes",
+ "name_en": "DPF 144 Tank Top",
+ "name_es": "Camiseta de tirantes DPF 144",
  "needs_review": false,
+ "needs_studio": false,
+ "page": true,
  "price_usd": 22.99,
  "rank": 6,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Camisetas sin mangas",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Chest",
+   "Length (in)",
+   "Chest (in)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (cm)",
+   "Pecho (cm)",
+   "Largo (pulgadas)",
+   "Pecho (pulgadas)"
+  ],
+  "notes_en": "Made to order pieces. Worldwide shipping available.",
+  "notes_es": "Piezas bajo demanda. Envíos a todo el mundo.",
+  "rows": [
+   [
+    "S",
+    "68.5",
+    "89.6",
+    "26.97",
+    "35.28"
+   ],
+   [
+    "M",
+    "71.0",
+    "100.0",
+    "27.95",
+    "39.37"
+   ],
+   [
+    "L",
+    "73.5",
+    "110.0",
+    "28.94",
+    "43.31"
+   ],
+   [
+    "XL",
+    "76.0",
+    "120.0",
+    "29.92",
+    "47.24"
+   ],
+   [
+    "2XL / XXL",
+    "78.5",
+    "130.0",
+    "30.91",
+    "51.18"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "S",
@@ -43,6 +116,7 @@
   "XXL"
  ],
  "source_title": "DAZ Premium Fit DPF 144 | Camiseta de tirantes negra",
+ "stripe_payment_link": "https://buy.stripe.com/8x26oIbjm7qA4Ym6iq1gV1B",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-135-mens-all-over-print-tank-top-model-t46",
  "visual_verified": true

@@ -1,0 +1,130 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "80% Polyester, 20% Spandex",
+ "ai_priority": true,
+ "ai_type": "Sports Bra",
+ "ai_ver": 2,
+ "art_note": "Model photos feature heavy digital compositing and unnatural background blending, reducing overall brand prestige.",
+ "art_score": 3,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "t-top-dpf",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your training with support engineered for continuous movement. This sports bra combines a fluid silhouette with sleek, low-friction hold. The cutout back design frames the physique with elegance while maintaining technical functionality. Crafted from smooth, breathable, quick-drying fabric, it includes non-see-through pads for complete confidence during every routine. An essential piece that transitions effortlessly from the studio to the street. Available made to order with worldwide shipping.",
+ "desc_es": "Eleve su entrenamiento con un soporte diseñado para el movimiento continuo. Este top deportivo combina una silueta fluida con una sujeción ligera y de baja fricción. El diseño trasero enmarca la figura con elegancia mientras mantiene la funcionalidad técnica. Confeccionado con un tejido suave, transpirable y de secado rápido, incluye almohadillas opacas para mayor seguridad en cada rutina. Una pieza esencial que transita sin esfuerzo del estudio a la calle. Disponible mediante producción bajo demanda con envíos a todo el mundo.",
+ "details_en": "· 80% polyester, 20% spandex\n· Low-friction support fit\n· Non-see-through pads included\n· Hand or machine wash at temperatures <=45ºC\n· Made to order with worldwide shipping",
+ "details_es": "· 80% poliéster, 20% spandex\n· Soporte de baja fricción\n· Almohadillas no transparentes incluidas\n· Lavado a mano o a máquina a temperatura inferior o igual a 45ºC\n· Hecho a pedido con envíos a todo el mundo",
+ "display_images": [
+  "assets/products/shop/48bf5428ceb50f1ca674.jpg",
+  "assets/products/shop/c787e51e55750d2e76a5.jpg",
+  "assets/products/shop/2e76aea4bbb6e6bf5860.jpg",
+  "assets/products/shop/322bedcf4dbe69113b81.jpg"
+ ],
+ "draft": true,
+ "fam": "top",
+ "hidden": false,
+ "id": "interestprint-top-dpf",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Knotted Back Cutout Sports Bra",
+ "name_es": "Top Deportivo Con Espalda Nudillo",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 213,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH (A)",
+   "CHEST (B)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LARGO (A)",
+   "PECHO (B)"
+  ],
+  "notes_en": "Calculate your size from the measurement chart above.",
+  "notes_es": "Calcule su talla a partir de la tabla de medidas anterior.",
+  "rows": [
+   [
+    "S",
+    "14.70",
+    "30.00"
+   ],
+   [
+    "M",
+    "15.00",
+    "31.50"
+   ],
+   [
+    "L",
+    "15.20",
+    "33.50"
+   ],
+   [
+    "XL",
+    "15.50",
+    "35.50"
+   ],
+   [
+    "2XL",
+    "15.70",
+    "37.50"
+   ],
+   [
+    "3XL",
+    "16.00",
+    "39.50"
+   ],
+   [
+    "4XL",
+    "16.20",
+    "41.50"
+   ],
+   [
+    "5XL",
+    "16.50",
+    "43.50"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/5215/info/image/20260126/918C94DA0E1A9D0DD4A96311CB9C1E51.png"
+ ],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "TOP DPF",
+ "stripe_payment_link": "https://buy.stripe.com/4gM00k5Z24eofD036e1gW0O",
+ "supplier": "InterestPrint",
+ "supplier_id": "top-dpf",
+ "visual_verified": true
+}

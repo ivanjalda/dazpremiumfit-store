@@ -30,8 +30,9 @@
  "name_en": "Conjunto Violeta Tough Set",
  "name_es": "Conjunto Conjunto Violeta Tough",
  "needs_review": false,
+ "page": true,
  "price_usd": 25.99,
- "rank": 19,
+ "rank": 21,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Conjuntos de ropa",
@@ -47,6 +48,7 @@
   "2XL"
  ],
  "source_title": "Conjunto violeta de camiseta y shorts DPF Tough Bitch",
+ "stripe_payment_link": "https://buy.stripe.com/8x200kbjm12cfD09uC1gV1Q",
  "supplier": "InterestPrint",
  "supplier_id": "conjunto-violeta-tough-bitch-womens-short-yoga-setmodelsets-03",
  "visual_verified": true

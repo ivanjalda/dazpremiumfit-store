@@ -35,8 +35,9 @@
  "name_en": "Daz Tough Cintura Leggings · Gold",
  "name_es": "Leggings Daz Tough Cintura · Oro",
  "needs_review": false,
+ "page": true,
  "price_usd": 45.99,
- "rank": 77,
+ "rank": 96,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
@@ -51,6 +52,7 @@
   "2XL"
  ],
  "source_title": "DAZ Premium Fit Tough Gold | Leggings de cintura alta con bolsillos",
+ "stripe_payment_link": "https://buy.stripe.com/6oUeVecnqdOYfD0fT01gV33",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-43-all-over-print-high-waist-leggings-with-pockets-modell56",
  "visual_verified": true

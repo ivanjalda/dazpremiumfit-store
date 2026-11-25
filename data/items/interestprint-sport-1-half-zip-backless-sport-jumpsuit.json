@@ -28,8 +28,9 @@
  "name_en": "Mono Corto Deportivo Jumpsuit",
  "name_es": "Mono Mono Corto Deportivo",
  "needs_review": false,
+ "page": true,
  "price_usd": 36.99,
- "rank": 83,
+ "rank": 102,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Leotardos y unitardos > Unitardos",
@@ -47,6 +48,7 @@
   "5XL"
  ],
  "source_title": "Mono corto deportivo DPF No Permission con espalda abierta",
+ "stripe_payment_link": "https://buy.stripe.com/eVq28s3QU7qAeyWeOW1gV39",
  "supplier": "InterestPrint",
  "supplier_id": "sport-1-half-zip-backless-sport-jumpsuit",
  "visual_verified": true

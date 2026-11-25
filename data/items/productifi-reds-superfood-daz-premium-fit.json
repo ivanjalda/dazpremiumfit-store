@@ -27,8 +27,9 @@
  "name_en": "Reds Superfood Daz Vitamins · Red",
  "name_es": "Vitaminas Reds Superfood Daz · Rojo",
  "needs_review": false,
+ "page": true,
  "price_usd": 28.99,
- "rank": 45,
+ "rank": 54,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -37,6 +38,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Reds Superfood DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/00w3cw0EIbGQ62qdKS1gV2n",
  "supplier": "Productifi",
  "supplier_id": "reds-superfood-daz-premium-fit",
  "visual_verified": true

@@ -1,0 +1,58 @@
+{
+ "ai_color": "Brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "90% USDA Organic Arabica Coffee, 5% USDA Organic Lion's Mane Mushroom Powder, 5% USDA Organic Chaga Mushroom Powder",
+ "ai_sizes": "16 oz",
+ "ai_type": "Mushroom Coffee",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio product shot of the packaging against a neutral background.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta"
+ ],
+ "cg": "t-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your morning routine with a sophisticated blend of organic Arabica coffee and powerful functional mushrooms. Crafted for optimal focus and daily performance, this dark roast delivers rich notes with a smooth, balanced profile. Formulated with carefully selected extracts to support your daily wellness journey without compromising on taste. Experience the ultimate fusion of rich coffee flavor and nutrient dense botanical ingredients designed to complement your active lifestyle. Available exclusively through made-to-order production with worldwide shipping.",
+ "desc_es": "Elevate your morning routine with a sophisticated blend of organic Arabica coffee and powerful functional mushrooms. Crafted for optimal focus and daily performance, this dark roast delivers rich notes with a smooth, balanced profile. Formulated with carefully selected extracts to support your daily wellness journey without compromising on taste. Experience the ultimate fusion of rich coffee flavor and nutrient dense botanical ingredients designed to complement your active lifestyle. Available exclusively through made-to-order production with worldwide shipping.",
+ "details_en": "· 90% USDA organic arabica coffee, 5% organic lion's mane, 5% organic chaga\n· Ground coffee format 16 oz (454 g)\n· Ingredients sourced from Brazil, manufactured in USA\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 90% café arábica orgánico USDA, 5% melena de león orgánica, 5% chaga orgánico\n· Formato de café molido de 16 oz (454 g)\n· Ingredientes de origen brasileño, fabricado en EE. UU.\n· Hecho a pedido\n· Envío mundial disponible",
+ "display_images": [
+  "assets/products/shop/1505cde8869d992b1a5b.jpg"
+ ],
+ "draft": true,
+ "fam": "fusion-cafe-champinones",
+ "hidden": false,
+ "id": "productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-16oz",
+ "look": [
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
+  "printful-484195395-black",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Mushroom Coffee Lion Mane Chaga",
+ "name_es": "Café con Hongos Melena y Chaga",
+ "needs_review": true,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 40.99,
+ "rank": 282,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Alimentación, bebida y tabaco > Bebidas > Café",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "16 oz"
+ ],
+ "source_title": "Fusión de café con champiñones - Melena de león y Chaga DAZ Premium Fit 16oz",
+ "supplier": "Productifi",
+ "supplier_id": "fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-16oz",
+ "visual_verified": true
+}

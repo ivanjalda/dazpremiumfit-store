@@ -1,0 +1,59 @@
+{
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Saponified Oils (Organic Palm Oil, Organic Coconut Oil, Organic Sunflower Oil, Organic Extra Virgin Olive Oil), Peppermint Essential Oil, Tea Tree Essential Oil, Activated Charcoal",
+ "ai_sizes": "4 oz",
+ "ai_type": "Soap",
+ "ai_ver": 2,
+ "art_note": "The primary product shot is clean, sharp, and maintains a high-end minimalist aesthetic suitable for a luxury performance brand.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta"
+ ],
+ "cg": "t-jabon-de-carbon-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily cleansing ritual with a formulation meticulously designed for deep purification. This soap combines activated charcoal with peppermint and tea tree essential oils to deliver a revitalizing experience without compromising your skin's softness. Its crafted texture generates a rich lather that eliminates impurities accumulated after training or throughout the day. Designed to provide lasting freshness and superior body care. Available with worldwide shipping and made-to-order pieces.",
+ "desc_es": "Eleve su ritual de limpieza diario con una formulación meticulosamente diseñada para la purificación profunda. Este jabón combina carbón activado con aceites esenciales de menta y árbol de té para ofrecer una experiencia revitalizante sin comprometer la suavidad de su piel. Su textura elaborada genera una espuma rica que elimina las impurezas acumuladas tras el entrenamiento o durante la jornada. Diseñado para proporcionar frescura duradera y un cuidado corporal superior. Disponible con envíos a todo el mundo y piezas elaboradas bajo demanda.",
+ "details_en": "· Saponified Oils (Organic Palm Oil, Organic Coconut Oil, Organic Sunflower Oil, Organic Extra Virgin Olive Oil)\n· Peppermint Essential Oil\n· Tea Tree Essential Oil\n· Activated Charcoal\n· Made to order and worldwide shipping",
+ "details_es": "· Saponified Oils (Organic Palm Oil, Organic Coconut Oil, Organic Sunflower Oil, Organic Extra Virgin Olive Oil)\n· Peppermint Essential Oil\n· Tea Tree Essential Oil\n· Activated Charcoal\n· Made to order and worldwide shipping",
+ "display_images": [
+  "assets/products/shop/ec09e61488ddf6dd6bc6.jpg"
+ ],
+ "draft": true,
+ "fam": "jabon-carbon-premium",
+ "hidden": false,
+ "id": "productifi-jabon-de-carbon-daz-premium-fit",
+ "look": [
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
+  "printful-484195395-black",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Charcoal Purifying Soap",
+ "name_es": "Jabón Purificante de Carbón",
+ "needs_review": true,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 23.99,
+ "rank": 170,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado personal > Cosméticos > Cuidado de la piel",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "4 oz"
+ ],
+ "source_title": "Jabón de Carbón DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/7sY5kE3QU5isaiG8qy1gW07",
+ "supplier": "Productifi",
+ "supplier_id": "jabon-de-carbon-daz-premium-fit",
+ "visual_verified": true
+}

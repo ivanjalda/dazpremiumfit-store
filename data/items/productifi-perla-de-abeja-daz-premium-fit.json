@@ -1,0 +1,60 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white/yellow",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Freeze dried extract of bee bread, vitamin C",
+ "ai_sizes": "30 capsules",
+ "ai_type": "Dietary Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio product lighting with a professional presentation adhering to high-end e-commerce standards.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-perla-de-abeja-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "An essential natural blend designed to sustain your daily vitality and well-being. This advanced dietary supplement combines pollen, nectar, and enzymes in a pure formula crafted to support your daily performance and energy levels. Formulated under strict quality standards with freeze-dried bee bread extract and vitamin C. Suitable for vegetarians and gluten-free, it delivers a sophisticated solution for those pursuing excellence in their wellness routine.",
+ "desc_es": "Una mezcla natural esencial para mantener su vitalidad y bienestar diario. Este suplemento dietético avanzado combina polen, néctar y enzimas en una fórmula pura diseñada para apoyar su rendimiento diario y niveles de energía. Elaborado bajo estrictos estándares de calidad con extracto liofilizado de pan de abeja y vitamina C. Apto para vegetarianos y libre de gluten, ofrece una solución sofisticada para quienes buscan la excelencia en su rutina de bienestar.",
+ "details_en": "· Freeze dried extract of bee bread (700mg)\n· Vitamin C (48mg)\n· 30 capsules\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Extracto liofilizado de pan de abeja (700mg)\n· Vitamina C (48mg)\n· 30 cápsulas\n· Hecho bajo pedido\n· Envío mundial disponible",
+ "display_images": [
+  "assets/products/shop/b9390a798750102f3a68.jpg",
+  "assets/products/shop/f47c6188bcfcca2df31a.jpg"
+ ],
+ "draft": true,
+ "fam": "perla-abeja-premium",
+ "hidden": false,
+ "id": "productifi-perla-de-abeja-daz-premium-fit",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Bee Pearl Concentrated Bee Bread",
+ "name_es": "Bee Pearl Concentrated Bee Bread",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 27.99,
+ "rank": 250,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Sin categoría",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "30 capsules"
+ ],
+ "source_title": "Perla de abeja DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/8x26oI7369yI76uayG1gW1p",
+ "supplier": "Productifi",
+ "supplier_id": "perla-de-abeja-daz-premium-fit",
+ "visual_verified": true
+}

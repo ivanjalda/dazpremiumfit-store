@@ -30,8 +30,9 @@
  "name_en": "Violette Deportivo Cuadros Underwear",
  "name_es": "Ropa Interior Violette Deportivo Cuadros",
  "needs_review": false,
+ "page": true,
  "price_usd": 26.99,
- "rank": 32,
+ "rank": 35,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sujetadores deportivos",
@@ -49,6 +50,7 @@
   "5XL"
  ],
  "source_title": "DPF Violette | Top deportivo de cuadros y espalda cruzada",
+ "stripe_payment_link": "https://buy.stripe.com/28EfZi0EI9yIgH46iq1gV24",
  "supplier": "InterestPrint",
  "supplier_id": "derfrf-cross-back-sports-bra",
  "visual_verified": true

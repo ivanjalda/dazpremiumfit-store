@@ -29,6 +29,7 @@
  "name_en": "Ink Yoga Leggings",
  "name_es": "Leggings Ink Yoga",
  "needs_review": false,
+ "page": true,
  "price_usd": 24.99,
  "rank": 12,
  "shipping_usd": 8.0,
@@ -45,6 +46,7 @@
   "2XL"
  ],
  "source_title": "DPF Ink | Leggings de yoga",
+ "stripe_payment_link": "https://buy.stripe.com/fZu9AU4UYcKUbmK9uC1gV1H",
  "supplier": "InterestPrint",
  "supplier_id": "design-yoga-leggings-yj033",
  "visual_verified": true

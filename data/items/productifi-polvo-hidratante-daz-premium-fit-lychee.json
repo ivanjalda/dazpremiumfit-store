@@ -37,8 +37,9 @@
  "name_en": "Polvo Hidratante Daz Supplement",
  "name_es": "Suplemento Polvo Hidratante Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 33.99,
- "rank": 51,
+ "rank": 61,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Jardín > Jardinería > Hidropónicos > Nutrientes y suplementos > Suplementos",
@@ -47,6 +48,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Polvo hidratante DAZ Premium Fit (Lychee)",
+ "stripe_payment_link": "https://buy.stripe.com/4gMcN687aaCMaiG4ai1gV2u",
  "supplier": "Productifi",
  "supplier_id": "polvo-hidratante-daz-premium-fit-lychee",
  "visual_verified": true

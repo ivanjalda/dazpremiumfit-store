@@ -1,0 +1,62 @@
+{
+ "ai_cats": [
+  "mujer/bodies"
+ ],
+ "ai_color": "Natural",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Shea Butter, Cacao Butter, Candelilla Wax, Soy Wax",
+ "ai_sizes": "2.5 oz",
+ "ai_type": "Body Balm",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot with clear branding, but secondary images are low quality icons or dark placeholders.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/bodies"
+ ],
+ "cg": "t-balsamo-corporal-energetico-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "This deep hydration treatment is designed for dry skin. The advanced formula immediately replenishes moisture while natural plant extracts soothe the skin. Easy to apply, this balm absorbs without leaving greasy or sticky residue. Infused with cinnamon, spearmint, and lemon essential oils, it delivers a unique sensory experience designed to revitalize mind and body. Crafted with selected ingredients and packaged in an eco-friendly format.",
+ "desc_es": "Este tratamiento de hidratación profunda está diseñado para pieles secas. Su fórmula avanzada repone inmediatamente la humedad mientras los extractos de plantas naturales calman la piel. De fácil aplicación, este bálsamo se absorbe sin dejar residuos grasos ni pegajosos. Perfumado con aceites esenciales de canela, menta verde y limón, ofrece una experiencia sensorial única que ayuda a revitalizar la mente y el cuerpo. Elaborado con ingredientes seleccionados y envasado en un formato ecológico.",
+ "details_en": "· Net weight: 2.5 oz / 70 g\n· Key ingredients: Shea butter, cocoa butter, candelilla wax, and essential oils\n· Scent: Cinnamon, spearmint, and lemon\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Contenido neto: 2,5 oz / 70 g\n· Ingredientes principales: Manteca de karité, manteca de cacao, cera de candelilla y aceites esenciales\n· Aroma: Canela, menta verde y limón\n· Hecho bajo pedido\n· Envío mundial disponible",
+ "display_images": [
+  "assets/products/shop/1a6ba37407b6a6c29c3f.jpg"
+ ],
+ "draft": true,
+ "fam": "balsamo-corporal-energetico",
+ "hidden": false,
+ "id": "productifi-balsamo-corporal-energetico-daz-premium-fit",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Energy Body Balm",
+ "name_es": "Bálsamo Corporal Energético",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 27.99,
+ "rank": 218,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Bricolaje > Suministros eléctricos > Kits de energía solar",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "2.5 oz"
+ ],
+ "source_title": "Bálsamo Corporal Energético DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/3cIdRa4UY26geyWcGO1gW0T",
+ "supplier": "Productifi",
+ "supplier_id": "balsamo-corporal-energetico-daz-premium-fit",
+ "visual_verified": true
+}

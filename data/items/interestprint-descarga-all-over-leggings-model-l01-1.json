@@ -29,8 +29,9 @@
  "name_en": "Negros Leggings · Black",
  "name_es": "Leggings Negros · Negro",
  "needs_review": false,
+ "page": true,
  "price_usd": 37.99,
- "rank": 62,
+ "rank": 78,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
@@ -47,6 +48,7 @@
   "XXXL"
  ],
  "source_title": "DPF Essential Black | Leggings negros",
+ "stripe_payment_link": "https://buy.stripe.com/bJefZiafi8uE3Ui4ai1gV2L",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-all-over-leggings-model-l01-1",
  "visual_verified": true

@@ -2,8 +2,8 @@
   "products": [
     {
       "id": "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
-      "name_es": "Sudadera Corta Monogram Cuello · Rojo",
-      "name_en": "Corta Monogram Cuello Sweatshirt · Red",
+      "name_es": "Sudadera Cropped Monogram DPF",
+      "name_en": "DPF Monogram Cropped Sweatshirt",
       "price_usd": 20.99,
       "badge": "new",
       "categories": [
@@ -12,16 +12,17 @@
       "available": true,
       "rank": 1,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "design-womens-cropped-crew-neck-sun-protection-shirt",
       "fam": "sudadera-corta-mujer",
       "cg": "t-sudadera-corta-de-mujer-dpf-monogram-de-cuello-redondo",
-      "img": "assets/products/shop/331894d852addcb56d81.jpg",
-      "page": true
+      "art_score": 9,
+      "img": "assets/products/shop/331894d852addcb56d81.jpg"
     },
     {
       "id": "interestprint-design-custom-womens-high-waist-legging",
-      "name_es": "Leggings Cintura Alta Tough",
-      "name_en": "Cintura Alta Tough Leggings",
+      "name_es": "Leggings de Cintura Alta DPF",
+      "name_en": "DPF High-Waisted Leggings",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -30,17 +31,18 @@
       "available": true,
       "rank": 2,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "design-custom-womens-high-waist-legging",
       "fam": "leggings-cintura-alta",
       "cg": "t-leggings-de-cintura-alta-de-mujer-dpf-tough-bitch",
       "color": "Negro",
-      "img": "assets/products/shop/8e16df30b189ea913be8.jpg",
-      "page": true
+      "art_score": 8,
+      "img": "assets/products/shop/8e16df30b189ea913be8.jpg"
     },
     {
       "id": "interestprint-design-custom-womens-high-waist-legging-1",
-      "name_es": "Leggings Citron Cintura Alta",
-      "name_en": "Citron Cintura Alta Leggings",
+      "name_es": "Leggings de cintura alta DPF Citron",
+      "name_en": "DPF Citron High-Waist Leggings",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -49,12 +51,13 @@
       "available": true,
       "rank": 3,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "design-custom-womens-high-waist-legging-1",
       "fam": "citron-leggings-cintura",
       "cg": "t-dpf-citron-leggings-de-cintura-alta",
       "color": "Verde",
-      "img": "assets/products/shop/5412e77dd6bbb0074eb3.jpg",
-      "page": true
+      "art_score": 3,
+      "img": "assets/products/shop/5412e77dd6bbb0074eb3.jpg"
     },
     {
       "id": "interestprint-design-washed-drop-shoulder-t-shirt",
@@ -69,17 +72,17 @@
       "available": true,
       "rank": 4,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "design-washed-drop-shoulder-t-shirt",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-mindset-camiseta-de-algodon-efecto-lavado",
       "color": "Negro",
-      "img": "assets/products/shop/79a3e63c28411cd33d82.jpg",
-      "page": true
+      "img": "assets/products/shop/79a3e63c28411cd33d82.jpg"
     },
     {
       "id": "interestprint-descarga-1-mens-all-over-print-tank-top-model-t46",
-      "name_es": "Camiseta Daz Immortal Mindset",
-      "name_en": "Daz Immortal Mindset Tee",
+      "name_es": "Camiseta sin mangas Immortal Mindset",
+      "name_en": "Immortal Mindset Tank Top",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -88,16 +91,17 @@
       "available": true,
       "rank": 5,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "descarga-1-mens-all-over-print-tank-top-model-t46",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-mindset-abstract",
-      "img": "assets/products/shop/05fa86368714e5dc9c7d.jpg",
-      "page": true
+      "art_score": 3,
+      "img": "assets/products/shop/05fa86368714e5dc9c7d.jpg"
     },
     {
       "id": "interestprint-descarga-135-mens-all-over-print-tank-top-model-t46",
-      "name_es": "Camiseta Daz Tirantes",
-      "name_en": "Daz Tirantes Tee",
+      "name_es": "Camiseta de tirantes DPF 144",
+      "name_en": "DPF 144 Tank Top",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -106,16 +110,17 @@
       "available": true,
       "rank": 6,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "descarga-135-mens-all-over-print-tank-top-model-t46",
       "fam": "premium-fit-camiseta",
       "cg": "t-daz-premium-fit-dpf-camiseta-de-tirantes",
-      "img": "assets/products/shop/b35e72910206eebb65d9.jpg",
-      "page": true
+      "art_score": 9,
+      "img": "assets/products/shop/b35e72910206eebb65d9.jpg"
     },
     {
       "id": "interestprint-design-womens-high-waist-layered-sport-skirt",
-      "name_es": "Falda Daz Plume Deportiva",
-      "name_en": "Daz Plume Deportiva Skirt",
+      "name_es": "Falda deportiva Plume de talle alto",
+      "name_en": "Plume High-Waisted Performance Skirt",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -124,16 +129,17 @@
       "available": true,
       "rank": 7,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "design-womens-high-waist-layered-sport-skirt",
       "fam": "premium-fit-plume",
       "cg": "t-daz-premium-fit-plume-falda-deportiva-de-cintura-alta",
-      "img": "assets/products/shop/b7e1df5a3e4d81675d76.jpg",
-      "page": true
+      "art_score": 8,
+      "img": "assets/products/shop/b7e1df5a3e4d81675d76.jpg"
     },
     {
       "id": "interestprint-design-mens-tank-tops",
-      "name_es": "Camiseta Daz Immortal Warrior · Negro",
-      "name_en": "Daz Immortal Warrior Tee · Negro",
+      "name_es": "Camiseta de Tirantes Immortal Warrior · Negro",
+      "name_en": "Immortal Warrior Tank Top · Negro",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -142,17 +148,18 @@
       "available": true,
       "rank": 8,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "design-mens-tank-tops",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
       "color": "Negro",
-      "img": "assets/products/shop/5d1ee1c0b055907b832c.jpg",
-      "page": true
+      "art_score": 8,
+      "img": "assets/products/shop/5d1ee1c0b055907b832c.jpg"
     },
     {
       "id": "interestprint-design-mens-tank-tops-1",
-      "name_es": "Camiseta Daz Immortal Warrior · Blanco",
-      "name_en": "Daz Immortal Warrior Tee · Blanco",
+      "name_es": "Camiseta de Tirantes Immortal Warrior · Blanco",
+      "name_en": "Immortal Warrior Tank Top · Blanco",
       "price_usd": 21.99,
       "badge": "new",
       "categories": [
@@ -161,12 +168,12 @@
       "available": true,
       "rank": 9,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "design-mens-tank-tops-1",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
       "color": "Blanco",
-      "img": "assets/products/shop/43a7a72d13ff5bc6aa00.jpg",
-      "page": true
+      "img": "assets/products/shop/43a7a72d13ff5bc6aa00.jpg"
     },
     {
       "id": "interestprint-design-all-over-print-tank-top-bkrev1",
@@ -180,17 +187,17 @@
       "available": true,
       "rank": 10,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "design-all-over-print-tank-top-bkrev1",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-classic-camiseta-sin-mangas-de-hombre",
       "color": "Negro",
-      "img": "assets/products/shop/d35e3667683afe7405a7.jpg",
-      "page": true
+      "img": "assets/products/shop/d35e3667683afe7405a7.jpg"
     },
     {
       "id": "interestprint-camiseta-immortal-warrior-2-mens-all-over-print-tank-top-model-t57",
-      "name_es": "Camiseta Daz Immortal Warrior",
-      "name_en": "Daz Immortal Warrior Tee",
+      "name_es": "Camiseta de Tirantes Immortal Warrior",
+      "name_en": "Immortal Warrior Tank Top",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -199,11 +206,12 @@
       "available": true,
       "rank": 11,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "camiseta-immortal-warrior-2-mens-all-over-print-tank-top-model-t57",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
-      "img": "assets/products/shop/eb148921620f7e3a90d7.jpg",
-      "page": true
+      "art_score": 8,
+      "img": "assets/products/shop/eb148921620f7e3a90d7.jpg"
     },
     {
       "id": "interestprint-design-yoga-leggings-yj033",
@@ -217,17 +225,17 @@
       "available": true,
       "rank": 12,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "design-yoga-leggings-yj033",
       "fam": "ink-leggings-yoga",
       "cg": "t-dpf-ink-leggings-de-yoga",
       "color": "Negro",
-      "img": "assets/products/shop/3b2daff2e846cf2d7ce8.jpg",
-      "page": true
+      "img": "assets/products/shop/3b2daff2e846cf2d7ce8.jpg"
     },
     {
       "id": "interestprint-immortal-warrior-3-mens-all-over-print-tank-top-model-t57",
-      "name_es": "Camiseta Daz Immortal Warrior",
-      "name_en": "Daz Immortal Warrior Tee",
+      "name_es": "Camiseta sin mangas Immortal Warrior",
+      "name_en": "Immortal Warrior Tank Top",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -236,16 +244,17 @@
       "available": true,
       "rank": 13,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "immortal-warrior-3-mens-all-over-print-tank-top-model-t57",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-oliva-camiseta-de-tirantes-de-hombre",
-      "img": "assets/products/shop/f2a19a4795e47ca1246c.jpg",
-      "page": true
+      "art_score": 8,
+      "img": "assets/products/shop/f2a19a4795e47ca1246c.jpg"
     },
     {
       "id": "interestprint-immortal-warrior4-mens-all-over-print-tank-top-model-t57",
-      "name_es": "Camiseta Daz Immortal Warrior",
-      "name_en": "Daz Immortal Warrior Tee",
+      "name_es": "Camiseta de Tirantes Immortal Warrior",
+      "name_en": "Immortal Warrior Tank Top",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -254,16 +263,16 @@
       "available": true,
       "rank": 14,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "immortal-warrior4-mens-all-over-print-tank-top-model-t57",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
-      "img": "assets/products/shop/a27a7ad2113e90e83b04.jpg",
-      "page": true
+      "img": "assets/products/shop/a27a7ad2113e90e83b04.jpg"
     },
     {
       "id": "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos",
-      "name_es": "Vitaminas Gomitas Oso Multivitamínicas",
-      "name_en": "Gomitas Oso Multivitamínicas Vitamins",
+      "name_es": "Gomitas Multivitamínicas Premium",
+      "name_en": "Premium Multivitamin Gummies",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
@@ -272,16 +281,17 @@
       "available": true,
       "rank": 15,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos",
       "fam": "gomitas-oso-multivitaminicas",
       "cg": "t-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos",
-      "img": "assets/products/shop/2a494be740efed8f4ac0.jpg",
-      "page": true
+      "art_score": 6,
+      "img": "assets/products/shop/2a494be740efed8f4ac0.jpg"
     },
     {
       "id": "interestprint-descarga-81-racerback-sports-bra",
-      "name_es": "Ropa Interior Daz Volt Deportivo",
-      "name_en": "Daz Volt Deportivo Underwear",
+      "name_es": "Sujetador Deportivo Volt Lima y Negro",
+      "name_en": "Volt Lime and Black Sports Bra",
       "price_usd": 22.99,
       "badge": "new",
       "categories": [
@@ -290,47 +300,90 @@
       "available": true,
       "rank": 16,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "descarga-81-racerback-sports-bra",
       "fam": "premium-fit-volt",
       "cg": "t-daz-premium-fit-volt-top-deportivo-de-espalda-cruzada",
-      "img": "assets/products/shop/a6911365640529b67b05.jpg",
-      "page": true
+      "art_score": 5,
+      "img": "assets/products/shop/cfdf1ed5c4bec4ce364d.jpg"
+    },
+    {
+      "id": "productifi-champu-sin-agua-para-perros-daz-premium-fit",
+      "name_es": "Champú Sin Agua para Perros",
+      "name_en": "Dog Waterless Shampoo",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 17,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "champu-sin-agua-para-perros-daz-premium-fit",
+      "fam": "champu-sin-agua",
+      "cg": "t-champu-sin-agua-para-perros-daz-premium-fit",
+      "color": "white",
+      "art_score": 8,
+      "img": "assets/products/shop/8e0145282279f29d3708.jpg"
     },
     {
       "id": "productifi-combinacion-de-l-citrulina-y-l-arginina-daz-premium-fit",
-      "name_es": "Aminoácidos Combinación Citrulina",
-      "name_en": "Combinación Citrulina Amino Acids",
+      "name_es": "Complejo de Aminoácidos Ciclados",
+      "name_en": "Advanced Amino Acid Complex",
       "price_usd": 24.99,
       "badge": "new",
       "categories": [
         "decor"
       ],
       "available": true,
-      "rank": 17,
+      "rank": 18,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "combinacion-de-l-citrulina-y-l-arginina-daz-premium-fit",
       "fam": "combinacion-l-citrulina",
       "cg": "t-combinacion-de-l-citrulina-y-l-arginina-daz-premium-fit",
-      "img": "assets/products/shop/c6075a5bd7e9e382e687.jpg",
-      "page": true
+      "art_score": 9,
+      "img": "assets/products/shop/c6075a5bd7e9e382e687.jpg"
+    },
+    {
+      "id": "productifi-jabon-de-sueno-daz-premium-fit",
+      "name_es": "Jabón Corporal Slumber",
+      "name_en": "Slumber Body Soap",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 19,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "jabon-de-sueno-daz-premium-fit",
+      "fam": "jabon-sueno-premium",
+      "cg": "t-jabon-de-sueno-daz-premium-fit",
+      "color": "Multicolor",
+      "art_score": 5,
+      "img": "assets/products/shop/736b51b424f5aa70eaab.jpg"
     },
     {
       "id": "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03",
-      "name_es": "Conjunto Conjunto Yoga Tough",
-      "name_en": "Conjunto Yoga Tough Set",
+      "name_es": "Conjunto de yoga DPF Tough Bitch",
+      "name_en": "DPF Tough Bitch Yoga Set",
       "price_usd": 25.99,
       "badge": "new",
       "categories": [
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 18,
+      "rank": 20,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03",
       "fam": "conjunto-blanco-yoga",
       "cg": "t-conjunto-de-yoga-dpf-tough-bitch",
-      "img": "assets/products/shop/e03861061293738e5131.jpg",
-      "page": true
+      "art_score": 4,
+      "img": "assets/products/shop/e03861061293738e5131.jpg"
     },
     {
       "id": "interestprint-conjunto-violeta-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -342,13 +395,13 @@
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 19,
+      "rank": 21,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "conjunto-violeta-tough-bitch-womens-short-yoga-setmodelsets-03",
       "fam": "conjunto-violeta-camiseta",
       "cg": "t-conjunto-violeta-de-camiseta-y-shorts-dpf-tough-bitch",
-      "img": "assets/products/shop/008fe7dca0fd7b05e2e4.jpg",
-      "page": true
+      "img": "assets/products/shop/008fe7dca0fd7b05e2e4.jpg"
     },
     {
       "id": "interestprint-aesthetic-icon-womens-wide-waist-yoga-cropped-leggings",
@@ -360,13 +413,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 20,
+      "rank": 22,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "aesthetic-icon-womens-wide-waist-yoga-cropped-leggings",
       "fam": "monochrome-star-leggings",
       "cg": "t-dpf-monochrome-star-leggings-de-cintura-alta",
-      "img": "assets/products/shop/c32190564eadc2b44096.jpg",
-      "page": true
+      "img": "assets/products/shop/c32190564eadc2b44096.jpg"
     },
     {
       "id": "interestprint-descarga-83-womens-wide-waist-yoga-cropped-leggings",
@@ -378,13 +431,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 21,
+      "rank": 23,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "descarga-83-womens-wide-waist-yoga-cropped-leggings",
       "fam": "amethyst-leggings-yoga",
       "cg": "t-dpf-amethyst-leggings-de-yoga-de-cintura-alta",
-      "img": "assets/products/shop/8380808a8ef4851280ad.jpg",
-      "page": true
+      "img": "assets/products/shop/8380808a8ef4851280ad.jpg"
     },
     {
       "id": "interestprint-descarga-93-womens-wide-waist-yoga-cropped-leggings",
@@ -396,13 +449,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 22,
+      "rank": 24,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "descarga-93-womens-wide-waist-yoga-cropped-leggings",
       "fam": "kaleido-leggings-yoga",
       "cg": "t-dpf-kaleido-leggings-de-yoga-de-cintura-alta",
-      "img": "assets/products/shop/f73a710e98daccdbf2bf.jpg",
-      "page": true
+      "img": "assets/products/shop/f73a710e98daccdbf2bf.jpg"
     },
     {
       "id": "productifi-gomitas-de-colageno-daz-premium-fit-adultos",
@@ -414,13 +467,33 @@
         "decor"
       ],
       "available": true,
-      "rank": 23,
+      "rank": 25,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "gomitas-de-colageno-daz-premium-fit-adultos",
       "fam": "gomitas-colageno-premium",
       "cg": "t-gomitas-de-colageno-daz-premium-fit-adultos",
-      "img": "assets/products/shop/fa1ac6e23c63e81fb685.jpg",
-      "page": true
+      "img": "assets/products/shop/fa1ac6e23c63e81fb685.jpg"
+    },
+    {
+      "id": "productifi-moringa-pure-daz-premium-fit",
+      "name_es": "Moringa Pura Premium Fit",
+      "name_en": "Moringa Pure Premium Fit",
+      "price_usd": 24.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 26,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "moringa-pure-daz-premium-fit",
+      "fam": "moringa-pure-premium",
+      "cg": "t-moringa-pure-daz-premium-fit",
+      "color": "White",
+      "art_score": 5,
+      "img": "assets/products/shop/0d3221664bbdd3ab449c.jpg"
     },
     {
       "id": "interestprint-descarga-55-womens-high-waist-pockets-yoga-leggings",
@@ -432,13 +505,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 24,
+      "rank": 27,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "descarga-55-womens-high-waist-pockets-yoga-leggings",
       "fam": "rebel-hearts-leggings",
       "cg": "t-dpf-rebel-hearts-leggings-con-bolsillos",
-      "img": "assets/products/shop/2cb3242f66ac1e8833ee.jpg",
-      "page": true
+      "img": "assets/products/shop/2cb3242f66ac1e8833ee.jpg"
     },
     {
       "id": "interestprint-purple-stars-womens-high-waist-pockets-yoga-leggings",
@@ -450,13 +523,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 25,
+      "rank": 28,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "purple-stars-womens-high-waist-pockets-yoga-leggings",
       "fam": "star-pocket-leggings",
       "cg": "t-dpf-star-pocket-leggings-con-bolsillos",
-      "img": "assets/products/shop/5fbc4a2cf4bca0137c53.jpg",
-      "page": true
+      "img": "assets/products/shop/5fbc4a2cf4bca0137c53.jpg"
     },
     {
       "id": "productifi-glicinato-de-magnesio-daz-premium-fit",
@@ -468,13 +541,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 26,
+      "rank": 29,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "glicinato-de-magnesio-daz-premium-fit",
       "fam": "glicinato-magnesio-premium",
       "cg": "t-glicinato-de-magnesio-daz-premium-fit",
-      "img": "assets/products/shop/afeb1147696017a1c048.jpg",
-      "page": true
+      "img": "assets/products/shop/afeb1147696017a1c048.jpg"
     },
     {
       "id": "productifi-sleep-strips-daz-premium-fit",
@@ -486,13 +559,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 27,
+      "rank": 30,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "sleep-strips-daz-premium-fit",
       "fam": "sleep-strips-premium",
       "cg": "t-sleep-strips-daz-premium-fit",
-      "img": "assets/products/shop/4bbe9ee951023de3ff9d.jpg",
-      "page": true
+      "img": "assets/products/shop/4bbe9ee951023de3ff9d.jpg"
     },
     {
       "id": "productifi-tiras-energeticas-daz-premium-fit",
@@ -504,13 +577,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 28,
+      "rank": 31,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "tiras-energeticas-daz-premium-fit",
       "fam": "tiras-energeticas-premium",
       "cg": "t-tiras-energeticas-daz-premium-fit",
-      "img": "assets/products/shop/1bfa77d9c3adff85e812.jpg",
-      "page": true
+      "img": "assets/products/shop/1bfa77d9c3adff85e812.jpg"
     },
     {
       "id": "productifi-tiras-energeticas-daz-premium-fit-1",
@@ -522,13 +595,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 29,
+      "rank": 32,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "tiras-energeticas-daz-premium-fit-1",
       "fam": "tiras-energeticas-premium",
       "cg": "t-tiras-energeticas-daz-premium-fit",
-      "img": "assets/products/shop/2d78f669e39ead22f603.jpg",
-      "page": true
+      "img": "assets/products/shop/2d78f669e39ead22f603.jpg"
     },
     {
       "id": "productifi-complete-multivitamin",
@@ -540,13 +613,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 30,
+      "rank": 33,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "complete-multivitamin",
       "fam": "multivitaminico-completo-premium",
       "cg": "t-multivitaminico-completo-daz-premium-fit",
-      "img": "assets/products/shop/a5bd6a30fbf3d07880f9.jpg",
-      "page": true
+      "img": "assets/products/shop/a5bd6a30fbf3d07880f9.jpg"
     },
     {
       "id": "productifi-vitamin-d3-daz-premium-fit-2-000-iu",
@@ -558,13 +631,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 31,
+      "rank": 34,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "vitamin-d3-daz-premium-fit-2-000-iu",
       "fam": "vitamin-d3-premium",
       "cg": "t-vitamin-d3-daz-premium-fit-iu",
-      "img": "assets/products/shop/1ad02c4b7129ccad45df.jpg",
-      "page": true
+      "img": "assets/products/shop/1ad02c4b7129ccad45df.jpg"
     },
     {
       "id": "interestprint-derfrf-cross-back-sports-bra",
@@ -576,13 +649,13 @@
         "mujer/ropa-interior"
       ],
       "available": true,
-      "rank": 32,
+      "rank": 35,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "derfrf-cross-back-sports-bra",
       "fam": "violette-top-deportivo",
       "cg": "t-dpf-violette-top-deportivo-de-cuadros-y-espalda-cruzada",
-      "img": "assets/products/shop/e98a00122533dc0b1fa1.jpg",
-      "page": true
+      "img": "assets/products/shop/e98a00122533dc0b1fa1.jpg"
     },
     {
       "id": "interestprint-derfrf-cross-back-sports-bra-2",
@@ -594,13 +667,13 @@
         "mujer/ropa-interior"
       ],
       "available": true,
-      "rank": 33,
+      "rank": 36,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "derfrf-cross-back-sports-bra-2",
       "fam": "sel-ne-top",
       "cg": "t-dpf-sel-ne-top-deportivo-de-espalda-cruzada",
-      "img": "assets/products/shop/b701af24eed80bd398e6.jpg",
-      "page": true
+      "img": "assets/products/shop/b701af24eed80bd398e6.jpg"
     },
     {
       "id": "interestprint-derfrfjj-cross-back-sports-bra",
@@ -612,13 +685,13 @@
         "mujer/ropa-interior"
       ],
       "available": true,
-      "rank": 34,
+      "rank": 37,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "derfrfjj-cross-back-sports-bra",
       "fam": "amethyste-top-deportivo",
       "cg": "t-dpf-amethyste-top-deportivo-de-espalda-cruzada",
-      "img": "assets/products/shop/950259c02138d3e5d32e.jpg",
-      "page": true
+      "img": "assets/products/shop/950259c02138d3e5d32e.jpg"
     },
     {
       "id": "productifi-oxido-nitrico-daz-premium-fit",
@@ -630,13 +703,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 35,
+      "rank": 38,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "oxido-nitrico-daz-premium-fit",
       "fam": "oxido-nitrico-premium",
       "cg": "t-oxido-nitrico-daz-premium-fit",
-      "img": "assets/products/shop/7c56d4d4fca7708ed388.jpg",
-      "page": true
+      "img": "assets/products/shop/7c56d4d4fca7708ed388.jpg"
     },
     {
       "id": "interestprint-aesthetic-icon-knotted-back-cutout-sports-bra",
@@ -648,13 +721,13 @@
         "mujer/ropa-interior"
       ],
       "available": true,
-      "rank": 36,
+      "rank": 39,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "aesthetic-icon-knotted-back-cutout-sports-bra",
       "fam": "astrale-top-deportivo",
       "cg": "t-dpf-astrale-top-deportivo-de-estrellas-y-espalda-anudada",
-      "img": "assets/products/shop/c2bfa6aa71ba4d0b61c5.jpg",
-      "page": true
+      "img": "assets/products/shop/c2bfa6aa71ba4d0b61c5.jpg"
     },
     {
       "id": "interestprint-geometric-in-blush-and-rose-gold-canvas-print-for-sale-by-urbanepiphany-knotted-back-cutout-sports-bra",
@@ -666,13 +739,13 @@
         "mujer/ropa-interior"
       ],
       "available": true,
-      "rank": 37,
+      "rank": 40,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "_geometric-in-blush-and-rose-gold_-canvas-print-for-sale-by-urbanepiphany-knotted-back-cutout-sports-bra",
       "fam": "rosea-top-deportivo",
       "cg": "t-dpf-rosea-top-deportivo-geometrico-de-espalda-anudada",
-      "img": "assets/products/shop/e6ef2f199a4efa5ee03e.jpg",
-      "page": true
+      "img": "assets/products/shop/e6ef2f199a4efa5ee03e.jpg"
     },
     {
       "id": "printify-tarro-de-cristal-con-diseno-de-diamante-y-pajita",
@@ -684,14 +757,14 @@
         "decor"
       ],
       "available": true,
-      "rank": 38,
+      "rank": 41,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "tarro-de-cristal-con-diseno-de-diamante-y-pajita",
       "fam": "tarro-cristal-diseno",
       "cg": "t-tarro-de-cristal-con-diseno-de-diamante-y-pajita",
       "color": "Transparent",
-      "img": "assets/products/shop/5e5ce222a5880d721c6c.jpg",
-      "page": true
+      "img": "assets/products/shop/5e5ce222a5880d721c6c.jpg"
     },
     {
       "id": "productifi-esenciales-para-cabello-piel-y-unas",
@@ -703,13 +776,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 39,
+      "rank": 42,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "esenciales-para-cabello-piel-y-unas",
       "fam": "esenciales-premium-fit",
       "cg": "t-esenciales-daz-premium-fit-para-cabello-piel-y-unas",
-      "img": "assets/products/shop/e84266ddbcd0b80cada6.jpg",
-      "page": true
+      "img": "assets/products/shop/e84266ddbcd0b80cada6.jpg"
     },
     {
       "id": "productifi-vitamina-k2-d3-daz-premium-fit-60-capsulas",
@@ -721,14 +794,74 @@
         "decor"
       ],
       "available": true,
-      "rank": 40,
+      "rank": 43,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "vitamina-k2-d3-daz-premium-fit-60-capsulas",
       "fam": "vitamina-k2-d3",
       "cg": "t-vitamina-k2-d3-daz-premium-fit-capsulas",
       "color": "White bottle + cap",
-      "img": "assets/products/shop/fb0a1e09f0e6d8dcc285.jpg",
-      "page": true
+      "img": "assets/products/shop/fb0a1e09f0e6d8dcc285.jpg"
+    },
+    {
+      "id": "productifi-aceite-facial-nutritivo-de-jojoba-daz-premium-fit",
+      "name_es": "Aceite Facial Nutritivo de Jojoba",
+      "name_en": "Nourishing Jojoba Face Oil",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 44,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "aceite-facial-nutritivo-de-jojoba-daz-premium-fit",
+      "fam": "aceite-facial-nutritivo",
+      "cg": "t-aceite-facial-nutritivo-de-jojoba-daz-premium-fit",
+      "color": "Amber",
+      "art_score": 6,
+      "img": "assets/products/shop/30165f73103b0c129085.jpg"
+    },
+    {
+      "id": "productifi-toallitas-dentales-para-perros-daz-premium-fit",
+      "name_es": "Toallitas Dentales para Perros",
+      "name_en": "Dog Dental Wipes",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 45,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "toallitas-dentales-para-perros-daz-premium-fit",
+      "fam": "toallitas-dentales-perros",
+      "cg": "t-toallitas-dentales-para-perros-daz-premium-fit",
+      "color": "white",
+      "art_score": 4,
+      "img": "assets/products/shop/76c43b5bd359f96f92c2.jpg"
+    },
+    {
+      "id": "productifi-toallitas-para-ojos-de-perro-daz-premium-fit",
+      "name_es": "Toallitas para Ojos DAZ",
+      "name_en": "DAZ Dog Eye Wipes",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 46,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "toallitas-para-ojos-de-perro-daz-premium-fit",
+      "fam": "toallitas-ojos-perro",
+      "cg": "t-toallitas-para-ojos-de-perro-daz-premium-fit",
+      "color": "white",
+      "art_score": 5,
+      "img": "assets/products/shop/40489fe2871f8117f10a.jpg"
     },
     {
       "id": "productifi-omega-3-epa-180mg-dha-120mg-daz-premium-fit",
@@ -740,13 +873,33 @@
         "decor"
       ],
       "available": true,
-      "rank": 41,
+      "rank": 47,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "omega-3-epa-180mg-dha-120mg-daz-premium-fit",
       "fam": "omega-epa-180mg",
       "cg": "t-omega-epa-180mg-dha-120mg-daz-premium-fit",
-      "img": "assets/products/shop/a37683a264375f3864c8.jpg",
-      "page": true
+      "img": "assets/products/shop/a37683a264375f3864c8.jpg"
+    },
+    {
+      "id": "productifi-suero-iluminador-pdrn-daz-premium-fit",
+      "name_es": "Suero Iluminador PDRN DAZ",
+      "name_en": "DAZ PDRN Brightening Serum",
+      "price_usd": 28.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 48,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "suero-iluminador-pdrn-daz-premium-fit",
+      "fam": "suero-iluminador-pdrn",
+      "cg": "t-suero-iluminador-pdrn-daz-premium-fit",
+      "color": "white",
+      "art_score": 5,
+      "img": "assets/products/shop/261a2520e5bcecee41ad.jpg"
     },
     {
       "id": "productifi-bcaa-shock-powder-daz-premium-fit-ponche-de-frutas",
@@ -758,13 +911,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 42,
+      "rank": 49,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "bcaa-shock-powder-daz-premium-fit-ponche-de-frutas",
       "fam": "bcaa-shock-powder",
       "cg": "t-bcaa-shock-powder-daz-premium-fit-ponche-de-frutas",
-      "img": "assets/products/shop/2c2554ad7afa31d953c2.jpg",
-      "page": true
+      "img": "assets/products/shop/2c2554ad7afa31d953c2.jpg"
     },
     {
       "id": "productifi-l-arginina-daz-premium-fit-60-capsulas",
@@ -776,14 +929,54 @@
         "decor"
       ],
       "available": true,
-      "rank": 43,
+      "rank": 50,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "l-arginina-daz-premium-fit-60-capsulas",
       "fam": "l-arginina-premium",
       "cg": "t-l-arginina-daz-premium-fit-capsulas",
       "color": "Black bottle + cap",
-      "img": "assets/products/shop/43f3d079a1d9e2bf1e55.jpg",
-      "page": true
+      "img": "assets/products/shop/43f3d079a1d9e2bf1e55.jpg"
+    },
+    {
+      "id": "productifi-suero-antioxidante-de-te-verde-daz-premium-fit",
+      "name_es": "Suero Antioxidante de Té Verde",
+      "name_en": "Green Tea Antioxidant Serum",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 51,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "suero-antioxidante-de-te-verde-daz-premium-fit",
+      "fam": "suero-antioxidante-te",
+      "cg": "t-suero-antioxidante-de-te-daz-premium-fit",
+      "color": "white",
+      "art_score": 6,
+      "img": "assets/products/shop/67d752a7663f84da5f1e.jpg"
+    },
+    {
+      "id": "productifi-suero-daz-premium-fit-de-niacinamida-al-10",
+      "name_es": "Suero Facial de Niacinamida",
+      "name_en": "Niacinamide Facial Serum",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 52,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "suero-daz-premium-fit-de-niacinamida-al-10",
+      "fam": "suero-premium-fit",
+      "cg": "t-suero-daz-premium-fit-de-niacinamida-al",
+      "color": "white",
+      "art_score": 6,
+      "img": "assets/products/shop/17d2052a477898a77739.jpg"
     },
     {
       "id": "printify-botella-deportiva-oregon-daz-premium-fit",
@@ -795,14 +988,14 @@
         "decor"
       ],
       "available": true,
-      "rank": 44,
+      "rank": 53,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "botella-deportiva-oregon-daz-premium-fit",
       "fam": "botella-deportiva-oregon",
       "cg": "t-botella-deportiva-oregon-daz-premium-fit",
       "color": "White",
-      "img": "assets/products/shop/031507e4d1ca50da4c2a.jpg",
-      "page": true
+      "img": "assets/products/shop/031507e4d1ca50da4c2a.jpg"
     },
     {
       "id": "productifi-reds-superfood-daz-premium-fit",
@@ -814,13 +1007,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 45,
+      "rank": 54,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "reds-superfood-daz-premium-fit",
       "fam": "reds-superfood-premium",
       "cg": "t-reds-superfood-daz-premium-fit",
-      "img": "assets/products/shop/ff94de5451e9dd1a949a.jpg",
-      "page": true
+      "img": "assets/products/shop/ff94de5451e9dd1a949a.jpg"
     },
     {
       "id": "productifi-superalimento-verde-daz-premium-fit",
@@ -832,13 +1025,33 @@
         "decor"
       ],
       "available": true,
-      "rank": 46,
+      "rank": 55,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "superalimento-verde-daz-premium-fit",
       "fam": "superalimento-verde-premium",
       "cg": "t-superalimento-daz-premium-fit",
-      "img": "assets/products/shop/785062e7109c83b75a72.jpg",
-      "page": true
+      "img": "assets/products/shop/785062e7109c83b75a72.jpg"
+    },
+    {
+      "id": "productifi-tonico-perfeccionador-de-poros-con-hamamelis-daz-premium-fit",
+      "name_es": "Tónico Perfeccionador de Poros",
+      "name_en": "Pore Perfecting Toner",
+      "price_usd": 29.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 56,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "tonico-perfeccionador-de-poros-con-hamamelis-daz-premium-fit",
+      "fam": "tonico-perfeccionador-poros",
+      "cg": "t-tonico-perfeccionador-de-poros-con-hamamelis-daz-premium-fit",
+      "color": "Clear",
+      "art_score": 6,
+      "img": "assets/products/shop/8a7846d04bd6560fcbae.jpg"
     },
     {
       "id": "productifi-creatine-hydration-powder",
@@ -850,13 +1063,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 47,
+      "rank": 57,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "creatine-hydration-powder",
       "fam": "creatine-hydration-powder",
       "cg": "t-creatine-hydration-powder-daz-premium-fit",
-      "img": "assets/products/shop/8781a2d359c409cae09c.jpg",
-      "page": true
+      "img": "assets/products/shop/8781a2d359c409cae09c.jpg"
     },
     {
       "id": "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
@@ -868,13 +1081,13 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 48,
+      "rank": 58,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-pantalon-corto-de-hombre",
-      "img": "assets/products/shop/a0caa336b47bb350e095.jpg",
-      "page": true
+      "img": "assets/products/shop/a0caa336b47bb350e095.jpg"
     },
     {
       "id": "interestprint-immortal-warrior-short-2-mens-all-over-print-baggy-shorts-model-l37",
@@ -886,13 +1099,13 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 49,
+      "rank": 59,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "immortal-warrior-short-2-mens-all-over-print-baggy-shorts-model-l37",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-pantalon-corto-de-hombre",
-      "img": "assets/products/shop/717a4e6959a6ecee9cc5.jpg",
-      "page": true
+      "img": "assets/products/shop/717a4e6959a6ecee9cc5.jpg"
     },
     {
       "id": "productifi-polvo-hidratante-daz-premium-fit-limonada",
@@ -904,13 +1117,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 50,
+      "rank": 60,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "polvo-hidratante-daz-premium-fit-limonada",
       "fam": "polvo-hidratante-premium",
       "cg": "t-polvo-hidratante-daz-premium-fit-limonada",
-      "img": "assets/products/shop/1ab1dc833ee535395ae2.jpg",
-      "page": true
+      "img": "assets/products/shop/1ab1dc833ee535395ae2.jpg"
     },
     {
       "id": "productifi-polvo-hidratante-daz-premium-fit-lychee",
@@ -922,13 +1135,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 51,
+      "rank": 61,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "polvo-hidratante-daz-premium-fit-lychee",
       "fam": "polvo-hidratante-premium",
       "cg": "t-polvo-hidratante-daz-premium-fit-lychee",
-      "img": "assets/products/shop/3626e1076831dc2ef3f5.jpg",
-      "page": true
+      "img": "assets/products/shop/3626e1076831dc2ef3f5.jpg"
     },
     {
       "id": "productifi-polvo-hidratante-daz-premium-fit-maracuya",
@@ -940,13 +1153,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 52,
+      "rank": 62,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "polvo-hidratante-daz-premium-fit-maracuya",
       "fam": "polvo-hidratante-premium",
       "cg": "t-polvo-hidratante-daz-premium-fit-maracuya",
-      "img": "assets/products/shop/a4a24215b6426916b584.jpg",
-      "page": true
+      "img": "assets/products/shop/a4a24215b6426916b584.jpg"
     },
     {
       "id": "productifi-polvo-hidratante-daz-premium-fit-melocoton-y-mango",
@@ -958,13 +1171,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 53,
+      "rank": 63,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "polvo-hidratante-daz-premium-fit-melocoton-y-mango",
       "fam": "polvo-hidratante-premium",
       "cg": "t-polvo-hidratante-daz-premium-fit-melocoton-y-mango",
-      "img": "assets/products/shop/c7f0a941c0d38e551d12.jpg",
-      "page": true
+      "img": "assets/products/shop/c7f0a941c0d38e551d12.jpg"
     },
     {
       "id": "productifi-polvo-hidratante-daz-premium-fit-te-verde-matcha",
@@ -976,12 +1189,52 @@
         "decor"
       ],
       "available": true,
-      "rank": 54,
+      "rank": 64,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "polvo-hidratante-daz-premium-fit-te-verde-matcha",
       "fam": "polvo-hidratante-premium",
       "cg": "t-polvo-hidratante-daz-premium-fit-te-matcha",
-      "img": "assets/products/shop/e56e09c61e69bbaf812a.jpg",
+      "img": "assets/products/shop/e56e09c61e69bbaf812a.jpg"
+    },
+    {
+      "id": "printful-484195395-black",
+      "name_es": "Sudadera Cuello Redondo Immortal · Negro",
+      "name_en": "Cuello Redondo Immortal Sweatshirt · Black",
+      "price_usd": 37.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 65,
+      "created": "2026-11-25",
+      "supplier_id": "484195395-black",
+      "fam": "sudadera-cuello-redondo",
+      "cg": "printful-484195395",
+      "color": "Black",
+      "img": "https://files.cdn.printful.com/files/07d/07d163d408bb758ef986b34cfcc9f3a5_preview.png",
+      "page": true
+    },
+    {
+      "id": "printful-484195395-white",
+      "name_es": "Sudadera Cuello Redondo Immortal · Blanco",
+      "name_en": "Cuello Redondo Immortal Sweatshirt · White",
+      "price_usd": 37.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 66,
+      "created": "2026-11-25",
+      "supplier_id": "484195395-white",
+      "fam": "sudadera-cuello-redondo",
+      "cg": "printful-484195395",
+      "color": "White",
+      "img": "https://files.cdn.printful.com/files/3df/3dfddd64f8e2ae2208393d4af4aa2a55_preview.png",
       "page": true
     },
     {
@@ -994,13 +1247,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 55,
+      "rank": 67,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "descarga-63-womens-high-waisted-leggings-model-l36",
       "fam": "wire-leggings-cintura",
       "cg": "t-dpf-wire-leggings-de-cintura-alta",
-      "img": "assets/products/shop/00580f69581729d91c2b.jpg",
-      "page": true
+      "img": "assets/products/shop/00580f69581729d91c2b.jpg"
     },
     {
       "id": "printify-vaso-gator-de-32-oz-daz-premium-fit",
@@ -1012,14 +1265,14 @@
         "decor"
       ],
       "available": true,
-      "rank": 56,
+      "rank": 68,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "vaso-gator-de-32-oz-daz-premium-fit",
       "fam": "vaso-gator-oz",
       "cg": "t-vaso-gator-de-oz-daz-premium-fit",
       "color": "Silver",
-      "img": "assets/products/shop/91e415cde00c7870a6c6.jpg",
-      "page": true
+      "img": "assets/products/shop/91e415cde00c7870a6c6.jpg"
     },
     {
       "id": "printify-botella-termica-de-20-oz-perfecta-para-la-hidratacion-sobre-la-marcha",
@@ -1031,13 +1284,53 @@
         "decor"
       ],
       "available": true,
-      "rank": 57,
+      "rank": 69,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "botella-termica-de-20-oz-perfecta-para-la-hidratacion-sobre-la-marcha",
       "fam": "botella-termica-oz",
       "cg": "t-botella-termica-de-oz-perfecta-para-la-hidratacion-sobre-la-marcha",
-      "img": "assets/products/shop/5cd99ec015fed5f77229.jpg",
-      "page": true
+      "img": "assets/products/shop/5cd99ec015fed5f77229.jpg"
+    },
+    {
+      "id": "productifi-barro-del-mar-muerto-daz-premium-fit",
+      "name_es": "Barro del Mar Muerto DAZ",
+      "name_en": "DAZ Dead Sea Mud",
+      "price_usd": 29.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 70,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "barro-del-mar-muerto-daz-premium-fit",
+      "fam": "barro-del-mar",
+      "cg": "t-barro-del-mar-muerto-daz-premium-fit",
+      "color": "Black",
+      "art_score": 5,
+      "img": "assets/products/shop/12dc9073aa23ea5335d9.jpg"
+    },
+    {
+      "id": "productifi-hongo-reishi-daz-premium-fit",
+      "name_es": "Extracto Reishi Premium DAZ",
+      "name_en": "DAZ Premium Reishi Extract",
+      "price_usd": 30.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 71,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "hongo-reishi-daz-premium-fit",
+      "fam": "hongo-reishi-premium",
+      "cg": "t-hongo-reishi-daz-premium-fit",
+      "color": "Blanco",
+      "art_score": 6,
+      "img": "assets/products/shop/0571bbccb7c7d8269015.jpg"
     },
     {
       "id": "productifi-peptidos-de-colageno-hidrolizados-daz-premium-fit-alimentados-con-pasto",
@@ -1049,13 +1342,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 58,
+      "rank": 72,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "peptidos-de-colageno-hidrolizados-daz-premium-fit-alimentados-con-pasto",
       "fam": "peptidos-colageno-hidrolizados",
       "cg": "t-peptidos-de-colageno-hidrolizados-daz-premium-fit-alimentados-con-pasto",
-      "img": "assets/products/shop/73748f33b646caa9c5f7.jpg",
-      "page": true
+      "img": "assets/products/shop/73748f33b646caa9c5f7.jpg"
     },
     {
       "id": "interestprint-action-painting-i-mila-blau-elastic-waist-double-layered-active-shorts",
@@ -1067,12 +1360,50 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 59,
+      "rank": 73,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "action-painting-i-mila-blau-elastic-waist-double-layered-active-shorts",
       "fam": "shorts-deportivos-mujer",
       "cg": "t-shorts-deportivos-de-mujer-dpf-tough-bitch-de-doble-capa",
-      "img": "assets/products/shop/6871ff7c4f4de4b8e6d1.jpg",
+      "img": "assets/products/shop/6871ff7c4f4de4b8e6d1.jpg"
+    },
+    {
+      "id": "printful-484199287-black",
+      "name_es": "Sudadera Corta Tough Bitch · Negro",
+      "name_en": "Corta Tough Bitch Sweatshirt · Black",
+      "price_usd": 57.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 74,
+      "created": "2026-11-25",
+      "supplier_id": "484199287-black",
+      "fam": "sudadera-corta-mujer",
+      "cg": "printful-484199287",
+      "color": "Black",
+      "img": "https://files.cdn.printful.com/files/92d/92de38c429ea6a2559c4242a9f0be43c_preview.png",
+      "page": true
+    },
+    {
+      "id": "printful-484199287-military-green",
+      "name_es": "Sudadera Corta Tough Bitch · Military Green",
+      "name_en": "Corta Tough Bitch Sweatshirt · Military Green",
+      "price_usd": 57.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 75,
+      "created": "2026-11-25",
+      "supplier_id": "484199287-military-green",
+      "fam": "sudadera-corta-mujer",
+      "cg": "printful-484199287",
+      "color": "Military Green",
+      "img": "https://files.cdn.printful.com/files/776/7760cd4621b14db869124ab5f2fd11a3_preview.png",
       "page": true
     },
     {
@@ -1085,14 +1416,14 @@
         "decor"
       ],
       "available": true,
-      "rank": 60,
+      "rank": 76,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "botella-de-agua-de-acero-inoxidable-vibrante-con-tapa-estandar-perfecta-para-hidratarse-en-movimiento",
       "fam": "botella-agua-acero",
       "cg": "t-botella-de-agua-de-acero-inoxidable-vibrante-con-tapa-estandar-perfecta-para",
       "color": "White",
-      "img": "assets/products/shop/e17c05d21e8ab4ae779d.jpg",
-      "page": true
+      "img": "assets/products/shop/e17c05d21e8ab4ae779d.jpg"
     },
     {
       "id": "interestprint-descarga-all-over-leggings-model-l01",
@@ -1104,13 +1435,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 61,
+      "rank": 77,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "descarga-all-over-leggings-model-l01",
       "fam": "smoke-leggings-estampados",
       "cg": "t-dpf-smoke-leggings-estampados",
-      "img": "assets/products/shop/022411077f16167d2ae7.jpg",
-      "page": true
+      "img": "assets/products/shop/022411077f16167d2ae7.jpg"
     },
     {
       "id": "interestprint-descarga-all-over-leggings-model-l01-1",
@@ -1122,12 +1453,50 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 62,
+      "rank": 78,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "descarga-all-over-leggings-model-l01-1",
       "fam": "essential-leggings-negros",
       "cg": "t-dpf-essential-leggings-negros",
-      "img": "assets/products/shop/b2ffa8f7ab587cf7328a.jpg",
+      "img": "assets/products/shop/b2ffa8f7ab587cf7328a.jpg"
+    },
+    {
+      "id": "printful-484201718-black",
+      "name_es": "Sudadera Tough Bitch Cremallera · Negro",
+      "name_en": "Tough Bitch Cremallera Sweatshirt · Black",
+      "price_usd": 50.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 79,
+      "created": "2026-11-25",
+      "supplier_id": "484201718-black",
+      "fam": "sudadera-mujer-tough",
+      "cg": "printful-484201718",
+      "color": "Black",
+      "img": "https://files.cdn.printful.com/files/712/712b28c28e7d99a299181fdc8cd39c95_preview.png",
+      "page": true
+    },
+    {
+      "id": "printful-484201718-white",
+      "name_es": "Sudadera Tough Bitch Cremallera · Blanco",
+      "name_en": "Tough Bitch Cremallera Sweatshirt · White",
+      "price_usd": 50.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 80,
+      "created": "2026-11-25",
+      "supplier_id": "484201718-white",
+      "fam": "sudadera-mujer-tough",
+      "cg": "printful-484201718",
+      "color": "White",
+      "img": "https://files.cdn.printful.com/files/f60/f60c858b2b3b517cb224d5081294de6a_preview.png",
       "page": true
     },
     {
@@ -1140,13 +1509,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 63,
+      "rank": 81,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "energy-powder-algodon-de-azucar-daz-premium-fit",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-algodon-de-azucar",
-      "img": "assets/products/shop/a92b1f9c37594be96cb4.jpg",
-      "page": true
+      "img": "assets/products/shop/a92b1f9c37594be96cb4.jpg"
     },
     {
       "id": "productifi-energy-powder-daz-premium-fit-melon-creamsicle",
@@ -1158,13 +1527,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 64,
+      "rank": 82,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "energy-powder-daz-premium-fit-melon-creamsicle",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-melon-creamsicle",
-      "img": "assets/products/shop/2ddb53b6a10b64bfb772.jpg",
-      "page": true
+      "img": "assets/products/shop/2ddb53b6a10b64bfb772.jpg"
     },
     {
       "id": "productifi-energy-powder-daz-premium-fit-tarta-de-fresas",
@@ -1176,13 +1545,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 65,
+      "rank": 83,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "energy-powder-daz-premium-fit-tarta-de-fresas",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-tarta-de-fresas",
-      "img": "assets/products/shop/edc266fdbabd026410f1.jpg",
-      "page": true
+      "img": "assets/products/shop/edc266fdbabd026410f1.jpg"
     },
     {
       "id": "productifi-energy-powder-daz-premium-fit-yuzu-flavor",
@@ -1194,13 +1563,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 66,
+      "rank": 84,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "energy-powder-daz-premium-fit-yuzu-flavor",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-yuzu-flavor",
-      "img": "assets/products/shop/a345b1d15e7ffc8e4fd2.jpg",
-      "page": true
+      "img": "assets/products/shop/a345b1d15e7ffc8e4fd2.jpg"
     },
     {
       "id": "productifi-energy-powder-daz-premium-fitfruit-punch",
@@ -1212,13 +1581,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 67,
+      "rank": 85,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "energy-powder-daz-premium-fitfruit-punch",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-fruit-punch",
-      "img": "assets/products/shop/7b17c782a2662b15e1de.jpg",
-      "page": true
+      "img": "assets/products/shop/7b17c782a2662b15e1de.jpg"
     },
     {
       "id": "productifi-energy-powder-daz-premium-fitguava-berry",
@@ -1230,13 +1599,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 68,
+      "rank": 86,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "energy-powder-daz-premium-fitguava-berry",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-guava-berry",
-      "img": "assets/products/shop/20f4598f6d0a1095d171.jpg",
-      "page": true
+      "img": "assets/products/shop/20f4598f6d0a1095d171.jpg"
     },
     {
       "id": "productifi-energy-powder-daz-premium-fitlychee-splash-energy",
@@ -1248,13 +1617,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 69,
+      "rank": 87,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "energy-powder-daz-premium-fitlychee-splash-energy",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-lychee-splash-energy",
-      "img": "assets/products/shop/f0600d1e4d489d4a916f.jpg",
-      "page": true
+      "img": "assets/products/shop/f0600d1e4d489d4a916f.jpg"
     },
     {
       "id": "productifi-l-glutamina-daz-premium-fit-en-polvo",
@@ -1266,13 +1635,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 70,
+      "rank": 88,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "l-glutamina-daz-premium-fit-en-polvo",
       "fam": "l-glutamina-premium",
       "cg": "t-l-glutamina-daz-premium-fit-en-polvo",
-      "img": "assets/products/shop/fe37b9d16bd7d81a8cc4.jpg",
-      "page": true
+      "img": "assets/products/shop/fe37b9d16bd7d81a8cc4.jpg"
     },
     {
       "id": "productifi-pre-entrenamiento-daz-premium-fit-sandia-300-g-10-58-oz",
@@ -1284,14 +1653,14 @@
         "decor"
       ],
       "available": true,
-      "rank": 71,
+      "rank": 89,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "pre-entrenamiento-daz-premium-fit-sandia-300-g-10-58-oz",
       "fam": "pre-entrenamiento-premium",
       "cg": "t-pre-entrenamiento-daz-premium-fit-sandia-g-oz",
       "color": "Black jar + lid",
-      "img": "assets/products/shop/8a701e20e3429b8f01c0.jpg",
-      "page": true
+      "img": "assets/products/shop/8a701e20e3429b8f01c0.jpg"
     },
     {
       "id": "productifi-proteina-vegetal-daz-premium-fitchocolate",
@@ -1303,13 +1672,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 72,
+      "rank": 90,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "proteina-vegetal-daz-premium-fitchocolate",
       "fam": "proteina-vegetal-premium",
       "cg": "t-proteina-vegetal-daz-premium-fit-chocolate",
-      "img": "assets/products/shop/9d38db9a58ff05cc8fcb.jpg",
-      "page": true
+      "img": "assets/products/shop/9d38db9a58ff05cc8fcb.jpg"
     },
     {
       "id": "productifi-proteina-vegetal-daz-premium-fitvainilla",
@@ -1321,50 +1690,69 @@
         "decor"
       ],
       "available": true,
-      "rank": 73,
+      "rank": 91,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "proteina-vegetal-daz-premium-fitvainilla",
       "fam": "proteina-vegetal-premium",
       "cg": "t-proteina-vegetal-daz-premium-fit-vainilla",
-      "img": "assets/products/shop/4eccae3705c9d87b8017.jpg",
+      "img": "assets/products/shop/4eccae3705c9d87b8017.jpg"
+    },
+    {
+      "id": "printful-480569608-black",
+      "name_es": "Bermuda Immortal Vellón · Negro",
+      "name_en": "Immortal Vellón Shorts · Black",
+      "price_usd": 47.99,
+      "badge": "new",
+      "categories": [
+        "hombre/pantalones-cortos"
+      ],
+      "available": true,
+      "rank": 92,
+      "created": "2026-11-25",
+      "supplier_id": "480569608-black",
+      "fam": "immortal-shorts-vellon",
+      "cg": "printful-480569608",
+      "color": "Black",
+      "img": "https://files.cdn.printful.com/files/04c/04c592593a829a55dac3b3598e77dbea_preview.png",
       "page": true
     },
     {
-      "id": "printful-camiseta-manga-larga-con-cremallera-blanco",
-      "name_es": "Sudadera Tough Bitch Cremallera · Blanco",
-      "name_en": "Tough Bitch Cremallera Sweatshirt · Blanco",
-      "price_usd": 50.99,
+      "id": "printful-480569608-heather-grey",
+      "name_es": "Bermuda Immortal Vellón · Heather Grey",
+      "name_en": "Immortal Vellón Shorts · Heather Grey",
+      "price_usd": 47.99,
       "badge": "new",
       "categories": [
-        "mujer/chaqueta-sudadera-sueter"
+        "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 74,
+      "rank": 93,
       "created": "2026-11-25",
-      "supplier_id": "camiseta-manga-larga-con-cremallera-blanco",
-      "fam": "sudadera-mujer-tough",
-      "cg": "t-sudadera-de-mujer-dpf-tough-bitch-con-cremallera-corta",
-      "color": "Blanco",
-      "img": "assets/products/shop/1b75b5d00dd1090dd9ac.jpg",
+      "supplier_id": "480569608-heather-grey",
+      "fam": "immortal-shorts-vellon",
+      "cg": "printful-480569608",
+      "color": "Heather Grey",
+      "img": "https://files.cdn.printful.com/files/776/7767181928b91a02b936c484f9fc3cf0_preview.png",
       "page": true
     },
     {
-      "id": "printful-camiseta-manga-larga-con-cremallera-negro",
-      "name_es": "Sudadera Tough Bitch Cremallera · Negro",
-      "name_en": "Tough Bitch Cremallera Sweatshirt · Negro",
-      "price_usd": 50.99,
+      "id": "printful-480569608-white",
+      "name_es": "Bermuda Immortal Vellón · Blanco",
+      "name_en": "Immortal Vellón Shorts · White",
+      "price_usd": 47.99,
       "badge": "new",
       "categories": [
-        "mujer/chaqueta-sudadera-sueter"
+        "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 75,
+      "rank": 94,
       "created": "2026-11-25",
-      "supplier_id": "camiseta-manga-larga-con-cremallera-negro",
-      "fam": "sudadera-mujer-tough",
-      "cg": "t-sudadera-de-mujer-dpf-tough-bitch-con-cremallera-corta",
-      "color": "Negro",
-      "img": "assets/products/shop/c5f5ce1e55475e8c0265.jpg",
+      "supplier_id": "480569608-white",
+      "fam": "immortal-shorts-vellon",
+      "cg": "printful-480569608",
+      "color": "White",
+      "img": "https://files.cdn.printful.com/files/712/712b686bcbf054995aef28c38401e983_preview.png",
       "page": true
     },
     {
@@ -1377,14 +1765,14 @@
         "decor"
       ],
       "available": true,
-      "rank": 76,
+      "rank": 95,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "vaso-con-diseno-de-diamante-de-40-oz-el-regalo-perfecto-para-cualquier-ocasion",
       "fam": "vaso-diseno-diamante",
       "cg": "t-vaso-con-diseno-de-diamante-de-oz",
       "color": "Blanco",
-      "img": "assets/products/shop/87a64753b3d25dd4bad3.jpg",
-      "page": true
+      "img": "assets/products/shop/87a64753b3d25dd4bad3.jpg"
     },
     {
       "id": "interestprint-descarga-43-all-over-print-high-waist-leggings-with-pockets-modell56",
@@ -1396,13 +1784,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 77,
+      "rank": 96,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "descarga-43-all-over-print-high-waist-leggings-with-pockets-modell56",
       "fam": "premium-fit-tough",
       "cg": "t-daz-premium-fit-tough-leggings-de-cintura-alta-con-bolsillos",
-      "img": "assets/products/shop/57a6d2a53c2ae67b4bda.jpg",
-      "page": true
+      "img": "assets/products/shop/57a6d2a53c2ae67b4bda.jpg"
     },
     {
       "id": "interestprint-descarga-52-womens-high-waist-leggingsmodell44plus-size",
@@ -1414,13 +1802,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 78,
+      "rank": 97,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "descarga-52-womens-high-waist-leggingsmodell44plus-size",
       "fam": "premium-fit-tough",
       "cg": "t-daz-premium-fit-tough-plaid-leggings-de-cintura-alta-a-cuadros",
-      "img": "assets/products/shop/4c931946a0448116a8d9.jpg",
-      "page": true
+      "img": "assets/products/shop/4c931946a0448116a8d9.jpg"
     },
     {
       "id": "printify-botella-termica-de-20oz-daz-premium-fit",
@@ -1432,13 +1820,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 79,
+      "rank": 98,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "botella-termica-de-20oz-daz-premium-fit",
       "fam": "botella-termica-20oz",
       "cg": "t-botella-termica-de-20oz-daz-premium-fit",
-      "img": "assets/products/shop/bf38884cc92ccc8b950b.jpg",
-      "page": true
+      "img": "assets/products/shop/bf38884cc92ccc8b950b.jpg"
     },
     {
       "id": "printify-vaso-de-40oz-daz",
@@ -1450,14 +1838,14 @@
         "decor"
       ],
       "available": true,
-      "rank": 80,
+      "rank": 99,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "vaso-de-40oz-daz",
       "fam": "vaso-40oz",
       "cg": "t-vaso-de-40oz-daz",
       "color": "White",
-      "img": "assets/products/shop/cd9df56c63cb43c109a4.jpg",
-      "page": true
+      "img": "assets/products/shop/cd9df56c63cb43c109a4.jpg"
     },
     {
       "id": "productifi-creatine-monohydrate-daz-premium-fit",
@@ -1469,13 +1857,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 81,
+      "rank": 100,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "creatine-monohydrate-daz-premium-fit",
       "fam": "creatine-monohydrate-premium",
       "cg": "t-creatine-monohydrate-daz-premium-fit",
-      "img": "assets/products/shop/ffcc3d91debbbc9d8ff8.jpg",
-      "page": true
+      "img": "assets/products/shop/ffcc3d91debbbc9d8ff8.jpg"
     },
     {
       "id": "printify-botella-de-agua-ecologica-de-acero-inoxidable-con-pajita-hidratacion-esencial-de-590-ml",
@@ -1487,14 +1875,14 @@
         "decor"
       ],
       "available": true,
-      "rank": 82,
+      "rank": 101,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "botella-de-agua-ecologica-de-acero-inoxidable-con-pajita-hidratacion-esencial-de-590-ml",
       "fam": "botella-agua-ecologica",
       "cg": "t-botella-de-agua-ecologica-de-acero-inoxidable-con-pajita-hidratacion-esencial-de",
       "color": "Plata",
-      "img": "assets/products/shop/fceed4d68c7ef932fbf2.jpg",
-      "page": true
+      "img": "assets/products/shop/fceed4d68c7ef932fbf2.jpg"
     },
     {
       "id": "interestprint-sport-1-half-zip-backless-sport-jumpsuit",
@@ -1506,13 +1894,13 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 83,
+      "rank": 102,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "sport-1-half-zip-backless-sport-jumpsuit",
       "fam": "mono-corto-deportivo",
       "cg": "t-mono-corto-deportivo-dpf-no-permission-con-espalda-abierta",
-      "img": "assets/products/shop/7cb13b3cf9bc2d085400.jpg",
-      "page": true
+      "img": "assets/products/shop/7cb13b3cf9bc2d085400.jpg"
     },
     {
       "id": "interestprint-sport-2-half-zip-backless-sport-jumpsuit",
@@ -1524,32 +1912,52 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 84,
+      "rank": 103,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "sport-2-half-zip-backless-sport-jumpsuit",
       "fam": "mono-corto-deportivo",
       "cg": "t-mono-corto-deportivo-dpf-no-permission-con-espalda-abierta",
-      "img": "assets/products/shop/825ae39be232d79dd8ec.jpg",
-      "page": true
+      "img": "assets/products/shop/825ae39be232d79dd8ec.jpg"
     },
     {
-      "id": "printful-pantalon-de-chandal-unisex",
-      "name_es": "Sudadera Pantalón Chándal Élan",
-      "name_en": "Pantalón Chándal Élan Sweatshirt",
-      "price_usd": 51.99,
+      "id": "printful-480571842",
+      "name_es": "Sudadera Pantalón Chándal Élan · Blanco",
+      "name_en": "Pantalón Chándal Élan Sweatshirt · White",
+      "price_usd": 55.99,
       "badge": "new",
       "categories": [
         "hombre/chandal-sudaderas",
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 85,
+      "rank": 104,
       "created": "2026-11-25",
-      "supplier_id": "pantalon-de-chandal-unisex",
+      "supplier_id": "480571842",
       "fam": "pantalon-chandal-elan",
-      "cg": "t-pantalon-de-chandal-dpf-elan",
-      "color": "Blanco",
-      "img": "assets/products/shop/a7b903556dd8d0d6ef8a.jpg",
+      "cg": "printful-480571842",
+      "color": "White",
+      "img": "https://files.cdn.printful.com/files/469/46935f5cd8fb0ab2a376f0aad57c1280_preview.png",
+      "page": true
+    },
+    {
+      "id": "printful-484192500",
+      "name_es": "Sudadera Capucha Under Armour · Negro",
+      "name_en": "Capucha Under Armour Sweatshirt · Black",
+      "price_usd": 88.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 105,
+      "created": "2026-11-25",
+      "supplier_id": "484192500",
+      "fam": "sudadera-capucha-under",
+      "cg": "printful-484192500",
+      "color": "Black",
+      "img": "https://files.cdn.printful.com/files/868/8685a77884f4f5813b4defe8c9652453_preview.png",
       "page": true
     },
     {
@@ -1562,94 +1970,14 @@
         "decor"
       ],
       "available": true,
-      "rank": 86,
+      "rank": 106,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "botella-de-agua-de-acero-inoxidable-daz-premium-fit",
       "fam": "botella-agua-acero",
       "cg": "t-botella-de-agua-de-acero-inoxidable-daz-premium-fit",
       "color": "White",
-      "img": "assets/products/shop/bb2888ece8f78971d96b.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-sudadera-cuello-redondo-blanco",
-      "name_es": "Sudadera Cuello Redondo Immortal · Blanco",
-      "name_en": "Cuello Redondo Immortal Sweatshirt · Blanco",
-      "price_usd": 43.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 87,
-      "created": "2026-11-25",
-      "supplier_id": "sudadera-cuello-redondo-blanco",
-      "fam": "sudadera-cuello-redondo",
-      "cg": "t-sudadera-de-cuello-redondo-dpf-immortal-warrior",
-      "color": "Blanco",
-      "img": "assets/products/shop/1758572d3f568c0917c4.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-sudadera-cuello-redondo-negro",
-      "name_es": "Sudadera Cuello Redondo Immortal · Negro",
-      "name_en": "Cuello Redondo Immortal Sweatshirt · Negro",
-      "price_usd": 43.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 88,
-      "created": "2026-11-25",
-      "supplier_id": "sudadera-cuello-redondo-negro",
-      "fam": "sudadera-cuello-redondo",
-      "cg": "t-sudadera-de-cuello-redondo-dpf-immortal-warrior",
-      "color": "Negro",
-      "img": "assets/products/shop/047d2c9f6921a556ce88.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-sudadera-gruesa-con-capucha-unisex-camuflaje-boscoso",
-      "name_es": "Sudadera Capucha Immortal Warrior · Camuflaje Boscoso",
-      "name_en": "Capucha Immortal Warrior Sweatshirt · Camuflaje Boscoso",
-      "price_usd": 61.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 89,
-      "created": "2026-11-25",
-      "supplier_id": "sudadera-gruesa-con-capucha-unisex-camuflaje-boscoso",
-      "fam": "sudadera-capucha-immortal",
-      "cg": "t-sudadera-con-capucha-dpf-immortal-warrior-de-camuflaje",
-      "color": "Camuflaje boscoso",
-      "img": "assets/products/shop/1ba115c39d0ff7a799e4.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-sudadera-gruesa-con-capucha-unisex-camuflaje-negro",
-      "name_es": "Sudadera Capucha Immortal Warrior · Camuflaje Negro",
-      "name_en": "Capucha Immortal Warrior Sweatshirt · Camuflaje Negro",
-      "price_usd": 61.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 90,
-      "created": "2026-11-25",
-      "supplier_id": "sudadera-gruesa-con-capucha-unisex-camuflaje-negro",
-      "fam": "sudadera-capucha-immortal",
-      "cg": "t-sudadera-con-capucha-dpf-immortal-warrior-de-camuflaje",
-      "color": "Camuflaje negro",
-      "img": "assets/products/shop/d5c966bc37530dd018e5.jpg",
-      "page": true
+      "img": "assets/products/shop/bb2888ece8f78971d96b.jpg"
     },
     {
       "id": "productifi-advanced-100-whey-protein-isolate-vanilla",
@@ -1661,897 +1989,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 91,
+      "rank": 107,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "advanced-100-whey-protein-isolate-vanilla",
       "fam": "premium-fit-advanced",
       "cg": "t-daz-premium-fit-advanced-whey-protein-isolate-vanilla",
-      "img": "assets/products/shop/1e1e70f80e0245d59ab2.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-crema-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
-      "name_es": "Colágeno Colágeno Daz Vacas",
-      "name_en": "Colágeno Daz Vacas Collagen",
-      "price_usd": 36.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 92,
-      "created": "2026-11-25",
-      "supplier_id": "crema-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
-      "fam": "crema-colageno-premium",
-      "cg": "t-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
-      "img": "assets/products/shop/f62cd2c61ecf32950687.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-daz-premium-fit-advanced-100-whey-protein-isolate-chocolate",
-      "name_es": "Proteína Daz Advanced Whey",
-      "name_en": "Daz Advanced Whey Protein",
-      "price_usd": 50.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 93,
-      "created": "2026-11-25",
-      "supplier_id": "daz-premium-fit-advanced-100-whey-protein-isolate-chocolate",
-      "fam": "premium-fit-advanced",
-      "cg": "t-daz-premium-fit-advanced-whey-protein-isolate-chocolate",
-      "img": "assets/products/shop/9187aceccd3c07cbf88a.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-pure3-100-whey-protein-isolate-daz-premium-fit-vanilla",
-      "name_es": "Proteína Pure Whey Protein",
-      "name_en": "Pure Whey Protein Protein",
-      "price_usd": 50.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 94,
-      "created": "2026-11-25",
-      "supplier_id": "pure3-100-whey-protein-isolate-daz-premium-fit-vanilla",
-      "fam": "pure3-whey-protein",
-      "cg": "t-pure3-whey-protein-isolate-daz-premium-fit-vanilla",
-      "img": "assets/products/shop/776596e6e8e9e088fd86.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-pure3-100-whey-protein-isolate-daz-premium-fitchocolate",
-      "name_es": "Proteína Pure Whey Protein",
-      "name_en": "Pure Whey Protein Protein",
-      "price_usd": 50.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 95,
-      "created": "2026-11-25",
-      "supplier_id": "pure3-100-whey-protein-isolate-daz-premium-fitchocolate",
-      "fam": "pure3-whey-protein",
-      "cg": "t-pure3-whey-protein-isolate-daz-premium-fit-chocolate",
-      "img": "assets/products/shop/dcc320944c0853a5d2f9.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-suplemento-de-electrolitos-ion-select-daz-premium-fit-225-g-7-9-oz",
-      "name_es": "Electrolitos Suplemento Electrolitos Ion · Negro",
-      "name_en": "Suplemento Electrolitos Ion Electrolytes · Black",
-      "price_usd": 34.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 96,
-      "created": "2026-11-25",
-      "supplier_id": "suplemento-de-electrolitos-ion-select-daz-premium-fit-225-g-7-9-oz",
-      "fam": "suplemento-electrolitos-ion",
-      "cg": "t-suplemento-de-electrolitos-ion-select-daz-premium-fit-g-oz",
-      "color": "Black jar + lid",
-      "img": "assets/products/shop/022e12837e3ae2cd4047.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-sudadera-con-capucha-under-armour",
-      "name_es": "Sudadera Capucha Immortal Warrior",
-      "name_en": "Capucha Immortal Warrior Sweatshirt",
-      "price_usd": 97.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 97,
-      "created": "2026-11-25",
-      "supplier_id": "sudadera-con-capucha-under-armour®",
-      "fam": "sudadera-capucha-immortal",
-      "cg": "t-sudadera-con-capucha-dpf-immortal-warrior",
-      "img": "assets/products/shop/a7ece78c77af8d1ccc2e.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-sudadera-con-capucha-under-armour-1-gris",
-      "name_es": "Sudadera Capucha Tough Bitch · Gris",
-      "name_en": "Capucha Tough Bitch Sweatshirt · Gris",
-      "price_usd": 97.99,
-      "badge": "new",
-      "categories": [
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 98,
-      "created": "2026-11-25",
-      "supplier_id": "sudadera-con-capucha-under-armour®-1-gris",
-      "fam": "sudadera-capucha-mujer",
-      "cg": "t-sudadera-con-capucha-de-mujer-dpf-tough-bitch",
-      "color": "Gris",
-      "img": "assets/products/shop/53aeceb21a8feda8cd21.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-sudadera-con-capucha-under-armour-1-negro",
-      "name_es": "Sudadera Capucha Tough Bitch · Negro",
-      "name_en": "Capucha Tough Bitch Sweatshirt · Negro",
-      "price_usd": 97.99,
-      "badge": "new",
-      "categories": [
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 99,
-      "created": "2026-11-25",
-      "supplier_id": "sudadera-con-capucha-under-armour®-1-negro",
-      "fam": "sudadera-capucha-mujer",
-      "cg": "t-sudadera-con-capucha-de-mujer-dpf-tough-bitch",
-      "color": "Negro",
-      "img": "assets/products/shop/944711869c900f76e090.jpg",
-      "page": true
-    },
-    {
-      "id": "interestprint-descarga-66-all-over-low-rise-leggings-model-l05",
-      "name_es": "Leggings Violet Star Tiro",
-      "name_en": "Violet Star Tiro Leggings",
-      "price_usd": 38.99,
-      "badge": "new",
-      "categories": [
-        "mujer/leggings"
-      ],
-      "available": true,
-      "rank": 100,
-      "created": "2026-11-25",
-      "supplier_id": "descarga-66-all-over-low-rise-leggings-model-l05",
-      "fam": "violet-star-leggings",
-      "cg": "t-dpf-violet-star-leggings-de-tiro-bajo",
-      "img": "assets/products/shop/d585e5dc0c6f41946b25.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-sudadera-corta-negro",
-      "name_es": "Sudadera Corta Tough Bitch · Negro",
-      "name_en": "Corta Tough Bitch Sweatshirt · Negro",
-      "price_usd": 63.99,
-      "badge": "new",
-      "categories": [
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 101,
-      "created": "2026-11-25",
-      "supplier_id": "sudadera-corta-negro",
-      "fam": "sudadera-corta-mujer",
-      "cg": "t-sudadera-corta-de-mujer-dpf-tough-bitch-con-capucha",
-      "color": "Negro",
-      "img": "assets/products/shop/4be350d18f723d452853.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-sudadera-corta-verde-militar",
-      "name_es": "Sudadera Corta Tough Bitch · Verde Militar",
-      "name_en": "Corta Tough Bitch Sweatshirt · Verde Militar",
-      "price_usd": 63.99,
-      "badge": "new",
-      "categories": [
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 102,
-      "created": "2026-11-25",
-      "supplier_id": "sudadera-corta-verde-militar",
-      "fam": "sudadera-corta-mujer",
-      "cg": "t-sudadera-corta-de-mujer-dpf-tough-bitch-con-capucha",
-      "color": "Verde militar",
-      "img": "assets/products/shop/fab36ec4523c3c158b81.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-botella-de-agua-de-acero-inoxidable-daz-premium-fit-con-pajita-20oz",
-      "name_es": "Termo Botella Agua Acero · Plata",
-      "name_en": "Botella Agua Acero Bottle · Silver",
-      "price_usd": 38.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 103,
-      "created": "2026-11-25",
-      "supplier_id": "botella-de-agua-de-acero-inoxidable-daz-premium-fit-con-pajita-20oz",
-      "fam": "botella-agua-acero",
-      "cg": "t-botella-de-agua-de-acero-inoxidable-daz-premium-fit-con-pajita-20oz",
-      "color": "Silver",
-      "img": "assets/products/shop/b626e7d6b24ea1c15ef6.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-correa-de-reloj-apple-watch-daz-1-black-matte",
-      "name_es": "Reloj Correa Reloj Apple · Black Matte",
-      "name_en": "Correa Reloj Apple Watch · Black Matte",
-      "price_usd": 49.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 104,
-      "created": "2026-11-25",
-      "supplier_id": "correa-de-reloj-apple-watch-daz-1-black-matte",
-      "fam": "correa-reloj-apple",
-      "cg": "t-correa-de-reloj-apple-watch-daz",
-      "color": "Black Matte",
-      "img": "assets/products/shop/9fd08e9c3d5eae76290b.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-correa-de-reloj-apple-watch-daz-1-gold-matte",
-      "name_es": "Reloj Correa Reloj Apple · Gold Matte",
-      "name_en": "Correa Reloj Apple Watch · Gold Matte",
-      "price_usd": 49.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 105,
-      "created": "2026-11-25",
-      "supplier_id": "correa-de-reloj-apple-watch-daz-1-gold-matte",
-      "fam": "correa-reloj-apple",
-      "cg": "t-correa-de-reloj-apple-watch-daz",
-      "color": "Gold Matte",
-      "img": "assets/products/shop/2f09fcfa0a4cd45c3f0e.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-correa-de-reloj-apple-watch-daz-1-rose-gold-matte",
-      "name_es": "Reloj Correa Reloj Apple · Rose Gold Matte",
-      "name_en": "Correa Reloj Apple Watch · Rose Gold Matte",
-      "price_usd": 49.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 106,
-      "created": "2026-11-25",
-      "supplier_id": "correa-de-reloj-apple-watch-daz-1-rose-gold-matte",
-      "fam": "correa-reloj-apple",
-      "cg": "t-correa-de-reloj-apple-watch-daz",
-      "color": "Rose Gold Matte",
-      "img": "assets/products/shop/8704e59567b02d5a17c7.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-correa-de-reloj-apple-watch-daz-1-silver-matte",
-      "name_es": "Reloj Correa Reloj Apple · Silver Matte",
-      "name_en": "Correa Reloj Apple Watch · Silver Matte",
-      "price_usd": 49.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 107,
-      "created": "2026-11-25",
-      "supplier_id": "correa-de-reloj-apple-watch-daz-1-silver-matte",
-      "fam": "correa-reloj-apple",
-      "cg": "t-correa-de-reloj-apple-watch-daz",
-      "color": "Silver Matte",
-      "img": "assets/products/shop/630d0d5168168ca00a95.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-correa-de-reloj-apple-watch-daz-black-matte",
-      "name_es": "Reloj Correa Reloj Apple · Black Matte",
-      "name_en": "Correa Reloj Apple Watch · Black Matte",
-      "price_usd": 49.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 108,
-      "created": "2026-11-25",
-      "supplier_id": "correa-de-reloj-apple-watch-daz-black-matte",
-      "fam": "correa-reloj-apple",
-      "cg": "t-correa-de-reloj-apple-watch-daz",
-      "color": "Black Matte",
-      "img": "assets/products/shop/f2784a795449e79d223b.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-correa-de-reloj-apple-watch-daz-gold-matte",
-      "name_es": "Reloj Correa Reloj Apple · Gold Matte",
-      "name_en": "Correa Reloj Apple Watch · Gold Matte",
-      "price_usd": 49.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 109,
-      "created": "2026-11-25",
-      "supplier_id": "correa-de-reloj-apple-watch-daz-gold-matte",
-      "fam": "correa-reloj-apple",
-      "cg": "t-correa-de-reloj-apple-watch-daz",
-      "color": "Gold Matte",
-      "img": "assets/products/shop/10eae22b31e4d12367d8.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-correa-de-reloj-apple-watch-daz-rose-gold-matte",
-      "name_es": "Reloj Correa Reloj Apple · Rose Gold Matte",
-      "name_en": "Correa Reloj Apple Watch · Rose Gold Matte",
-      "price_usd": 49.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 110,
-      "created": "2026-11-25",
-      "supplier_id": "correa-de-reloj-apple-watch-daz-rose-gold-matte",
-      "fam": "correa-reloj-apple",
-      "cg": "t-correa-de-reloj-apple-watch-daz",
-      "color": "Rose Gold Matte",
-      "img": "assets/products/shop/4ccbfd0e68c2b8905aa9.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-correa-de-reloj-apple-watch-daz-silver-matte",
-      "name_es": "Reloj Correa Reloj Apple · Silver Matte",
-      "name_en": "Correa Reloj Apple Watch · Silver Matte",
-      "price_usd": 49.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 111,
-      "created": "2026-11-25",
-      "supplier_id": "correa-de-reloj-apple-watch-daz-silver-matte",
-      "fam": "correa-reloj-apple",
-      "cg": "t-correa-de-reloj-apple-watch-daz",
-      "color": "Silver Matte",
-      "img": "assets/products/shop/5419e849d0d7d3345205.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-bcaa-post-workout-powder-honeydew-watermelon",
-      "name_es": "Aminoácidos Bcaa Polvo Después",
-      "name_en": "Bcaa Polvo Después Amino Acids",
-      "price_usd": 34.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 112,
-      "created": "2026-11-25",
-      "supplier_id": "bcaa-post-workout-powder-honeydew-watermelon",
-      "fam": "bcaa-en-polvo",
-      "cg": "t-bcaa-en-polvo-para-despues-del-entrenamiento-melaza-sandia",
-      "img": "assets/products/shop/337ba269745ec5705c9c.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
-      "name_es": "Colágeno Polvo Péptidos Colágeno",
-      "name_en": "Polvo Péptidos Colágeno Collagen",
-      "price_usd": 34.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 113,
-      "created": "2026-11-25",
-      "supplier_id": "polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
-      "fam": "polvo-peptidos-colageno",
-      "cg": "t-polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
-      "img": "assets/products/shop/d91ed872bc0e371daa61.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-pre-workout-de-choque-nitrico-ponche-de-frutas",
-      "name_es": "Pre-entreno Pre Entrenamiento Choque",
-      "name_en": "Pre Entrenamiento Choque Pre-Workout",
-      "price_usd": 36.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 114,
-      "created": "2026-11-25",
-      "supplier_id": "pre-workout-de-choque-nitrico-ponche-de-frutas",
-      "fam": "pre-entrenamiento-choque",
-      "cg": "t-pre-entrenamiento-de-choque-nitrico-daz-premium-fit-ponche-de-frutas",
-      "img": "assets/products/shop/ad23b35ce15d0ffdba3a.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-sculpted-heavyweight-zip-up-hoodie-negro",
-      "name_es": "Sudadera Corta Tough Bitch · Negro",
-      "name_en": "Corta Tough Bitch Sweatshirt · Negro",
-      "price_usd": 94.99,
-      "badge": "new",
-      "categories": [
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 115,
-      "created": "2026-11-25",
-      "supplier_id": "sculpted-heavyweight-zip-up-hoodie-negro",
-      "fam": "chaqueta-corta-mujer",
-      "cg": "t-chaqueta-corta-de-mujer-dpf-tough-bitch-con-cremallera",
-      "color": "Negro",
-      "img": "assets/products/shop/39e3af09e14444c50057.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-sculpted-heavyweight-zip-up-hoodie-piedra",
-      "name_es": "Sudadera Corta Tough Bitch · Piedra",
-      "name_en": "Corta Tough Bitch Sweatshirt · Piedra",
-      "price_usd": 94.99,
-      "badge": "new",
-      "categories": [
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 116,
-      "created": "2026-11-25",
-      "supplier_id": "sculpted-heavyweight-zip-up-hoodie-piedra",
-      "fam": "chaqueta-corta-mujer",
-      "cg": "t-chaqueta-corta-de-mujer-dpf-tough-bitch-con-cremallera",
-      "color": "Piedra",
-      "img": "assets/products/shop/a361720c95edd2375f44.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-dark-gray",
-      "name_es": "Taza Elegante Taza Viaje · Dark Gray",
-      "name_en": "Elegante Taza Viaje Mug · Dark Gray",
-      "price_usd": 64.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 117,
-      "created": "2026-11-25",
-      "supplier_id": "elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-dark-gray",
-      "fam": "elegante-taza-viaje",
-      "cg": "t-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-oz",
-      "color": "Dark Gray",
-      "img": "assets/products/shop/10001246f93b535dcc88.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-teal",
-      "name_es": "Taza Elegante Taza Viaje · Teal",
-      "name_en": "Elegante Taza Viaje Mug · Teal",
-      "price_usd": 64.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 118,
-      "created": "2026-11-25",
-      "supplier_id": "elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-teal",
-      "fam": "elegante-taza-viaje",
-      "cg": "t-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-oz",
-      "color": "Teal",
-      "img": "assets/products/shop/ab755757bac6e3e9df2e.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-white",
-      "name_es": "Taza Elegante Taza Viaje · Blanco",
-      "name_en": "Elegante Taza Viaje Mug · White",
-      "price_usd": 64.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 119,
-      "created": "2026-11-25",
-      "supplier_id": "elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-white",
-      "fam": "elegante-taza-viaje",
-      "cg": "t-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-oz",
-      "color": "White",
-      "img": "assets/products/shop/41a786e2f931150ef96a.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para-hidratarse-en-movimiento",
-      "name_es": "Termo Botella Agua Delgada · Blanco",
-      "name_en": "Botella Agua Delgada Bottle · White",
-      "price_usd": 35.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 120,
-      "created": "2026-11-25",
-      "supplier_id": "botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para-hidratarse-en-movimiento",
-      "fam": "botella-agua-delgada",
-      "cg": "t-botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para",
-      "color": "White",
-      "img": "assets/products/shop/35841ec6cf6cf1d430d2.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-pebble-blue",
-      "name_es": "Termo Elegante Botella Cobre · Pebble Blue",
-      "name_en": "Elegante Botella Cobre Bottle · Pebble Blue",
-      "price_usd": 43.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 121,
-      "created": "2026-11-25",
-      "supplier_id": "elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-pebble-blue",
-      "fam": "elegante-botella-cobre",
-      "cg": "t-elegante-botella-de-cobre-de-oz-con-aislamiento-al-vacio-diseno-de",
-      "color": "Pebble Blue",
-      "img": "assets/products/shop/ea3e6633eac8bd5a06a0.jpg",
-      "page": true
-    },
-    {
-      "id": "printify-elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-white",
-      "name_es": "Termo Elegante Botella Cobre · Blanco",
-      "name_en": "Elegante Botella Cobre Bottle · White",
-      "price_usd": 43.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 122,
-      "created": "2026-11-25",
-      "supplier_id": "elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-white",
-      "fam": "elegante-botella-cobre",
-      "cg": "t-elegante-botella-de-cobre-de-oz-con-aislamiento-al-vacio-diseno-de",
-      "color": "White",
-      "img": "assets/products/shop/4fb4319d18f7940c4067.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-shorts-vellon-hombre-blanco",
-      "name_es": "Bermuda Immortal Vellón · Blanco",
-      "name_en": "Immortal Vellón Shorts · Blanco",
-      "price_usd": 49.99,
-      "badge": "new",
-      "categories": [
-        "hombre/pantalones-cortos"
-      ],
-      "available": true,
-      "rank": 123,
-      "created": "2026-11-25",
-      "supplier_id": "shorts-vellon-hombre-blanco",
-      "fam": "immortal-shorts-vellon",
-      "cg": "t-dpf-immortal-shorts-de-vellon-para-hombre",
-      "color": "Blanco",
-      "img": "assets/products/shop/2f751eb28f8702468760.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-shorts-vellon-hombre-gris-jaspeado",
-      "name_es": "Bermuda Immortal Vellón · Gris Jaspeado",
-      "name_en": "Immortal Vellón Shorts · Gris Jaspeado",
-      "price_usd": 49.99,
-      "badge": "new",
-      "categories": [
-        "hombre/pantalones-cortos"
-      ],
-      "available": true,
-      "rank": 124,
-      "created": "2026-11-25",
-      "supplier_id": "shorts-vellon-hombre-gris-jaspeado",
-      "fam": "immortal-shorts-vellon",
-      "cg": "t-dpf-immortal-shorts-de-vellon-para-hombre",
-      "color": "Gris jaspeado",
-      "img": "assets/products/shop/d001331e0136665bf107.jpg",
-      "page": true
-    },
-    {
-      "id": "printful-shorts-vellon-hombre-negro",
-      "name_es": "Bermuda Immortal Vellón · Negro",
-      "name_en": "Immortal Vellón Shorts · Negro",
-      "price_usd": 49.99,
-      "badge": "new",
-      "categories": [
-        "hombre/pantalones-cortos"
-      ],
-      "available": true,
-      "rank": 125,
-      "created": "2026-11-25",
-      "supplier_id": "shorts-vellon-hombre-negro",
-      "fam": "immortal-shorts-vellon",
-      "cg": "t-dpf-immortal-shorts-de-vellon-para-hombre",
-      "color": "Negro",
-      "img": "assets/products/shop/753181820818169d6a24.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-advanced-whey-protein-chocolate",
-      "name_es": "Proteína Advanced Whey Protein",
-      "name_en": "Advanced Whey Protein Protein",
-      "price_usd": 22.9,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 126,
-      "created": "2026-11-25",
-      "supplier_id": "advanced-whey-protein-chocolate",
-      "fam": "advanced-whey-protein",
-      "cg": "t-advanced-whey-protein-chocolate",
-      "img": "assets/products/shop/9f0aaffd25ee9e0b68a7.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-champu-sin-agua-para-perros-daz-premium-fit",
-      "name_es": "Champú Sin Agua para Perros",
-      "name_en": "Dog Waterless Shampoo",
-      "price_usd": 25.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 147,
-      "created": "2026-11-25",
-      "supplier_id": "champu-sin-agua-para-perros-daz-premium-fit",
-      "fam": "champu-sin-agua",
-      "cg": "t-champu-sin-agua-para-perros-daz-premium-fit",
-      "art_score": 8,
-      "img": "assets/products/shop/8e0145282279f29d3708.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-jabon-de-sueno-daz-premium-fit",
-      "name_es": "Jabón Corporal Slumber",
-      "name_en": "Slumber Body Soap",
-      "price_usd": 23.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 158,
-      "created": "2026-11-25",
-      "supplier_id": "jabon-de-sueno-daz-premium-fit",
-      "fam": "jabon-sueno-premium",
-      "cg": "t-jabon-de-sueno-daz-premium-fit",
-      "art_score": 5,
-      "img": "assets/products/shop/736b51b424f5aa70eaab.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-moringa-pure-daz-premium-fit",
-      "name_es": "Moringa Pura Premium Fit",
-      "name_en": "Moringa Pure Premium Fit",
-      "price_usd": 24.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 175,
-      "created": "2026-11-25",
-      "supplier_id": "moringa-pure-daz-premium-fit",
-      "fam": "moringa-pure-premium",
-      "cg": "t-moringa-pure-daz-premium-fit",
-      "art_score": 5,
-      "img": "assets/products/shop/0d3221664bbdd3ab449c.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-aceite-facial-nutritivo-de-jojoba-daz-premium-fit",
-      "name_es": "Aceite Facial Nutritivo de Jojoba",
-      "name_en": "Nourishing Jojoba Face Oil",
-      "price_usd": 27.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 219,
-      "created": "2026-11-25",
-      "supplier_id": "aceite-facial-nutritivo-de-jojoba-daz-premium-fit",
-      "fam": "aceite-facial-nutritivo",
-      "cg": "t-aceite-facial-nutritivo-de-jojoba-daz-premium-fit",
-      "art_score": 6,
-      "img": "assets/products/shop/30165f73103b0c129085.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-toallitas-dentales-para-perros-daz-premium-fit",
-      "name_es": "Toallitas Dentales para Perros",
-      "name_en": "Dog Dental Wipes",
-      "price_usd": 25.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 221,
-      "created": "2026-11-25",
-      "supplier_id": "toallitas-dentales-para-perros-daz-premium-fit",
-      "fam": "toallitas-dentales-perros",
-      "cg": "t-toallitas-dentales-para-perros-daz-premium-fit",
-      "art_score": 4,
-      "img": "assets/products/shop/76c43b5bd359f96f92c2.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-toallitas-para-ojos-de-perro-daz-premium-fit",
-      "name_es": "Toallitas para Ojos DAZ",
-      "name_en": "DAZ Dog Eye Wipes",
-      "price_usd": 25.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 223,
-      "created": "2026-11-25",
-      "supplier_id": "toallitas-para-ojos-de-perro-daz-premium-fit",
-      "fam": "toallitas-ojos-perro",
-      "cg": "t-toallitas-para-ojos-de-perro-daz-premium-fit",
-      "art_score": 5,
-      "img": "assets/products/shop/40489fe2871f8117f10a.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-suero-iluminador-pdrn-daz-premium-fit",
-      "name_es": "Suero Iluminador PDRN DAZ",
-      "name_en": "DAZ PDRN Brightening Serum",
-      "price_usd": 28.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 241,
-      "created": "2026-11-25",
-      "supplier_id": "suero-iluminador-pdrn-daz-premium-fit",
-      "fam": "suero-iluminador-pdrn",
-      "cg": "t-suero-iluminador-pdrn-daz-premium-fit",
-      "art_score": 5,
-      "img": "assets/products/shop/261a2520e5bcecee41ad.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-suero-antioxidante-de-te-verde-daz-premium-fit",
-      "name_es": "Suero Antioxidante de Té Verde",
-      "name_en": "Green Tea Antioxidant Serum",
-      "price_usd": 27.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 247,
-      "created": "2026-11-25",
-      "supplier_id": "suero-antioxidante-de-te-verde-daz-premium-fit",
-      "fam": "suero-antioxidante-te",
-      "cg": "t-suero-antioxidante-de-te-daz-premium-fit",
-      "art_score": 6,
-      "img": "assets/products/shop/67d752a7663f84da5f1e.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-suero-daz-premium-fit-de-niacinamida-al-10",
-      "name_es": "Suero Facial de Niacinamida",
-      "name_en": "Niacinamide Facial Serum",
-      "price_usd": 27.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 248,
-      "created": "2026-11-25",
-      "supplier_id": "suero-daz-premium-fit-de-niacinamida-al-10",
-      "fam": "suero-premium-fit",
-      "cg": "t-suero-daz-premium-fit-de-niacinamida-al",
-      "art_score": 6,
-      "img": "assets/products/shop/17d2052a477898a77739.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-tonico-perfeccionador-de-poros-con-hamamelis-daz-premium-fit",
-      "name_es": "Tónico Perfeccionador de Poros",
-      "name_en": "Pore Perfecting Toner",
-      "price_usd": 29.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 252,
-      "created": "2026-11-25",
-      "supplier_id": "tonico-perfeccionador-de-poros-con-hamamelis-daz-premium-fit",
-      "fam": "tonico-perfeccionador-poros",
-      "cg": "t-tonico-perfeccionador-de-poros-con-hamamelis-daz-premium-fit",
-      "art_score": 6,
-      "img": "assets/products/shop/8a7846d04bd6560fcbae.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-barro-del-mar-muerto-daz-premium-fit",
-      "name_es": "Barro del Mar Muerto DAZ",
-      "name_en": "DAZ Dead Sea Mud",
-      "price_usd": 29.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 270,
-      "created": "2026-11-25",
-      "supplier_id": "barro-del-mar-muerto-daz-premium-fit",
-      "fam": "barro-del-mar",
-      "cg": "t-barro-del-mar-muerto-daz-premium-fit",
-      "art_score": 5,
-      "img": "assets/products/shop/12dc9073aa23ea5335d9.jpg",
-      "page": true
-    },
-    {
-      "id": "productifi-hongo-reishi-daz-premium-fit",
-      "name_es": "Extracto Reishi Premium DAZ",
-      "name_en": "DAZ Premium Reishi Extract",
-      "price_usd": 30.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 271,
-      "created": "2026-11-25",
-      "supplier_id": "hongo-reishi-daz-premium-fit",
-      "fam": "hongo-reishi-premium",
-      "cg": "t-hongo-reishi-daz-premium-fit",
-      "art_score": 6,
-      "img": "assets/products/shop/0571bbccb7c7d8269015.jpg",
-      "page": true
+      "img": "assets/products/shop/1e1e70f80e0245d59ab2.jpg"
     },
     {
       "id": "productifi-colombia-single-origin-coffee-light-medium-roast",
@@ -2563,14 +2007,106 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 285,
+      "rank": 108,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "colombia-single-origin-coffee-light-medium-roast",
       "fam": "cafe-colombia-origen",
       "cg": "t-cafe-daz-colombia-de-origen-unico-tostado-ligero-medio",
+      "color": "Marrón",
       "art_score": 6,
-      "img": "assets/products/shop/13382b822f9214c50338.jpg",
-      "page": true
+      "img": "assets/products/shop/13382b822f9214c50338.jpg"
+    },
+    {
+      "id": "productifi-crema-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
+      "name_es": "Colágeno Colágeno Daz Vacas",
+      "name_en": "Colágeno Daz Vacas Collagen",
+      "price_usd": 36.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 109,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "crema-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
+      "fam": "crema-colageno-premium",
+      "cg": "t-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
+      "img": "assets/products/shop/f62cd2c61ecf32950687.jpg"
+    },
+    {
+      "id": "productifi-daz-premium-fit-advanced-100-whey-protein-isolate-chocolate",
+      "name_es": "Proteína Daz Advanced Whey",
+      "name_en": "Daz Advanced Whey Protein",
+      "price_usd": 50.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 110,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "daz-premium-fit-advanced-100-whey-protein-isolate-chocolate",
+      "fam": "premium-fit-advanced",
+      "cg": "t-daz-premium-fit-advanced-whey-protein-isolate-chocolate",
+      "img": "assets/products/shop/9187aceccd3c07cbf88a.jpg"
+    },
+    {
+      "id": "productifi-pure3-100-whey-protein-isolate-daz-premium-fit-vanilla",
+      "name_es": "Proteína Pure Whey Protein",
+      "name_en": "Pure Whey Protein Protein",
+      "price_usd": 50.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 111,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "pure3-100-whey-protein-isolate-daz-premium-fit-vanilla",
+      "fam": "pure3-whey-protein",
+      "cg": "t-pure3-whey-protein-isolate-daz-premium-fit-vanilla",
+      "img": "assets/products/shop/776596e6e8e9e088fd86.jpg"
+    },
+    {
+      "id": "productifi-pure3-100-whey-protein-isolate-daz-premium-fitchocolate",
+      "name_es": "Proteína Pure Whey Protein",
+      "name_en": "Pure Whey Protein Protein",
+      "price_usd": 50.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 112,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "pure3-100-whey-protein-isolate-daz-premium-fitchocolate",
+      "fam": "pure3-whey-protein",
+      "cg": "t-pure3-whey-protein-isolate-daz-premium-fit-chocolate",
+      "img": "assets/products/shop/dcc320944c0853a5d2f9.jpg"
+    },
+    {
+      "id": "productifi-suplemento-de-electrolitos-ion-select-daz-premium-fit-225-g-7-9-oz",
+      "name_es": "Electrolitos Suplemento Electrolitos Ion · Negro",
+      "name_en": "Suplemento Electrolitos Ion Electrolytes · Black",
+      "price_usd": 34.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 113,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "suplemento-de-electrolitos-ion-select-daz-premium-fit-225-g-7-9-oz",
+      "fam": "suplemento-electrolitos-ion",
+      "cg": "t-suplemento-de-electrolitos-ion-select-daz-premium-fit-g-oz",
+      "color": "Black jar + lid",
+      "img": "assets/products/shop/022e12837e3ae2cd4047.jpg"
     },
     {
       "id": "productifi-crema-recuperadora-daz-premium-fit",
@@ -2582,14 +2118,52 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 290,
+      "rank": 114,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "crema-recuperadora-daz-premium-fit",
       "fam": "crema-recuperadora-premium",
       "cg": "t-recuperadora-daz-premium-fit",
+      "color": "white",
       "art_score": 8,
-      "img": "assets/products/shop/bd093da871a3d62b258b.jpg",
-      "page": true
+      "img": "assets/products/shop/bd093da871a3d62b258b.jpg"
+    },
+    {
+      "id": "interestprint-descarga-66-all-over-low-rise-leggings-model-l05",
+      "name_es": "Leggings Violet Star Tiro",
+      "name_en": "Violet Star Tiro Leggings",
+      "price_usd": 38.99,
+      "badge": "new",
+      "categories": [
+        "mujer/leggings"
+      ],
+      "available": true,
+      "rank": 115,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "descarga-66-all-over-low-rise-leggings-model-l05",
+      "fam": "violet-star-leggings",
+      "cg": "t-dpf-violet-star-leggings-de-tiro-bajo",
+      "img": "assets/products/shop/d585e5dc0c6f41946b25.jpg"
+    },
+    {
+      "id": "printify-botella-de-agua-de-acero-inoxidable-daz-premium-fit-con-pajita-20oz",
+      "name_es": "Termo Botella Agua Acero · Plata",
+      "name_en": "Botella Agua Acero Bottle · Silver",
+      "price_usd": 38.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 116,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "botella-de-agua-de-acero-inoxidable-daz-premium-fit-con-pajita-20oz",
+      "fam": "botella-agua-acero",
+      "cg": "t-botella-de-agua-de-acero-inoxidable-daz-premium-fit-con-pajita-20oz",
+      "color": "Silver",
+      "img": "assets/products/shop/b626e7d6b24ea1c15ef6.jpg"
     },
     {
       "id": "productifi-cafe-mezcla-brasilena-16oz",
@@ -2602,13 +2176,450 @@
         "mujer/bolsos-carteras"
       ],
       "available": true,
-      "rank": 292,
+      "rank": 117,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "cafe-mezcla-brasilena-16oz",
       "fam": "cafe-mezcla-brasilena",
       "cg": "t-cafe-mezcla-brasilena-16oz-daz-premium-fit",
+      "color": "brown",
       "art_score": 6,
-      "img": "assets/products/shop/a727d19df11090523b82.jpg",
+      "img": "assets/products/shop/a727d19df11090523b82.jpg"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-1-black-matte",
+      "name_es": "Reloj Correa Reloj Apple · Black Matte",
+      "name_en": "Correa Reloj Apple Watch · Black Matte",
+      "price_usd": 49.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 118,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "correa-de-reloj-apple-watch-daz-1-black-matte",
+      "fam": "correa-reloj-apple",
+      "cg": "t-correa-de-reloj-apple-watch-daz",
+      "color": "Black Matte",
+      "img": "assets/products/shop/9fd08e9c3d5eae76290b.jpg"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-1-gold-matte",
+      "name_es": "Reloj Correa Reloj Apple · Gold Matte",
+      "name_en": "Correa Reloj Apple Watch · Gold Matte",
+      "price_usd": 49.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 119,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "correa-de-reloj-apple-watch-daz-1-gold-matte",
+      "fam": "correa-reloj-apple",
+      "cg": "t-correa-de-reloj-apple-watch-daz",
+      "color": "Gold Matte",
+      "img": "assets/products/shop/2f09fcfa0a4cd45c3f0e.jpg"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-1-rose-gold-matte",
+      "name_es": "Reloj Correa Reloj Apple · Rose Gold Matte",
+      "name_en": "Correa Reloj Apple Watch · Rose Gold Matte",
+      "price_usd": 49.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 120,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "correa-de-reloj-apple-watch-daz-1-rose-gold-matte",
+      "fam": "correa-reloj-apple",
+      "cg": "t-correa-de-reloj-apple-watch-daz",
+      "color": "Rose Gold Matte",
+      "img": "assets/products/shop/8704e59567b02d5a17c7.jpg"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-1-silver-matte",
+      "name_es": "Reloj Correa Reloj Apple · Silver Matte",
+      "name_en": "Correa Reloj Apple Watch · Silver Matte",
+      "price_usd": 49.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 121,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "correa-de-reloj-apple-watch-daz-1-silver-matte",
+      "fam": "correa-reloj-apple",
+      "cg": "t-correa-de-reloj-apple-watch-daz",
+      "color": "Silver Matte",
+      "img": "assets/products/shop/630d0d5168168ca00a95.jpg"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-black-matte",
+      "name_es": "Reloj Correa Reloj Apple · Black Matte",
+      "name_en": "Correa Reloj Apple Watch · Black Matte",
+      "price_usd": 49.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 122,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "correa-de-reloj-apple-watch-daz-black-matte",
+      "fam": "correa-reloj-apple",
+      "cg": "t-correa-de-reloj-apple-watch-daz",
+      "color": "Black Matte",
+      "img": "assets/products/shop/f2784a795449e79d223b.jpg"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-gold-matte",
+      "name_es": "Reloj Correa Reloj Apple · Gold Matte",
+      "name_en": "Correa Reloj Apple Watch · Gold Matte",
+      "price_usd": 49.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 123,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "correa-de-reloj-apple-watch-daz-gold-matte",
+      "fam": "correa-reloj-apple",
+      "cg": "t-correa-de-reloj-apple-watch-daz",
+      "color": "Gold Matte",
+      "img": "assets/products/shop/10eae22b31e4d12367d8.jpg"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-rose-gold-matte",
+      "name_es": "Reloj Correa Reloj Apple · Rose Gold Matte",
+      "name_en": "Correa Reloj Apple Watch · Rose Gold Matte",
+      "price_usd": 49.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 124,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "correa-de-reloj-apple-watch-daz-rose-gold-matte",
+      "fam": "correa-reloj-apple",
+      "cg": "t-correa-de-reloj-apple-watch-daz",
+      "color": "Rose Gold Matte",
+      "img": "assets/products/shop/4ccbfd0e68c2b8905aa9.jpg"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-silver-matte",
+      "name_es": "Reloj Correa Reloj Apple · Silver Matte",
+      "name_en": "Correa Reloj Apple Watch · Silver Matte",
+      "price_usd": 49.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 125,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "correa-de-reloj-apple-watch-daz-silver-matte",
+      "fam": "correa-reloj-apple",
+      "cg": "t-correa-de-reloj-apple-watch-daz",
+      "color": "Silver Matte",
+      "img": "assets/products/shop/5419e849d0d7d3345205.jpg"
+    },
+    {
+      "id": "productifi-bcaa-post-workout-powder-honeydew-watermelon",
+      "name_es": "Aminoácidos Bcaa Polvo Después",
+      "name_en": "Bcaa Polvo Después Amino Acids",
+      "price_usd": 34.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 126,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "bcaa-post-workout-powder-honeydew-watermelon",
+      "fam": "bcaa-en-polvo",
+      "cg": "t-bcaa-en-polvo-para-despues-del-entrenamiento-melaza-sandia",
+      "img": "assets/products/shop/337ba269745ec5705c9c.jpg"
+    },
+    {
+      "id": "productifi-polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
+      "name_es": "Colágeno Polvo Péptidos Colágeno",
+      "name_en": "Polvo Péptidos Colágeno Collagen",
+      "price_usd": 34.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 127,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
+      "fam": "polvo-peptidos-colageno",
+      "cg": "t-polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
+      "img": "assets/products/shop/d91ed872bc0e371daa61.jpg"
+    },
+    {
+      "id": "productifi-pre-workout-de-choque-nitrico-ponche-de-frutas",
+      "name_es": "Pre-entreno Pre Entrenamiento Choque",
+      "name_en": "Pre Entrenamiento Choque Pre-Workout",
+      "price_usd": 36.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 128,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "pre-workout-de-choque-nitrico-ponche-de-frutas",
+      "fam": "pre-entrenamiento-choque",
+      "cg": "t-pre-entrenamiento-de-choque-nitrico-daz-premium-fit-ponche-de-frutas",
+      "img": "assets/products/shop/ad23b35ce15d0ffdba3a.jpg"
+    },
+    {
+      "id": "printful-484206291-black",
+      "name_es": "Sudadera Capucha Tough Bitch · Negro",
+      "name_en": "Capucha Tough Bitch Sweatshirt · Black",
+      "price_usd": 90.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 129,
+      "created": "2026-11-25",
+      "supplier_id": "484206291-black",
+      "fam": "sudadera-capucha-mujer",
+      "cg": "printful-484206291",
+      "color": "Black",
+      "img": "https://files.cdn.printful.com/files/daa/daae308633f15b4847cb974f8fbf5ac4_preview.png",
+      "page": true
+    },
+    {
+      "id": "printful-484206291-grey",
+      "name_es": "Sudadera Capucha Tough Bitch · Gris",
+      "name_en": "Capucha Tough Bitch Sweatshirt · Grey",
+      "price_usd": 90.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 130,
+      "created": "2026-11-25",
+      "supplier_id": "484206291-grey",
+      "fam": "sudadera-capucha-mujer",
+      "cg": "printful-484206291",
+      "color": "Grey",
+      "img": "https://files.cdn.printful.com/files/bc8/bc8b6de1fd173109b81bf68255ccf287_preview.png",
+      "page": true
+    },
+    {
+      "id": "printify-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-dark-gray",
+      "name_es": "Taza Elegante Taza Viaje · Dark Gray",
+      "name_en": "Elegante Taza Viaje Mug · Dark Gray",
+      "price_usd": 64.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 131,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-dark-gray",
+      "fam": "elegante-taza-viaje",
+      "cg": "t-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-oz",
+      "color": "Dark Gray",
+      "img": "assets/products/shop/10001246f93b535dcc88.jpg"
+    },
+    {
+      "id": "printify-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-teal",
+      "name_es": "Taza Elegante Taza Viaje · Teal",
+      "name_en": "Elegante Taza Viaje Mug · Teal",
+      "price_usd": 64.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 132,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-teal",
+      "fam": "elegante-taza-viaje",
+      "cg": "t-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-oz",
+      "color": "Teal",
+      "img": "assets/products/shop/ab755757bac6e3e9df2e.jpg"
+    },
+    {
+      "id": "printify-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-white",
+      "name_es": "Taza Elegante Taza Viaje · Blanco",
+      "name_en": "Elegante Taza Viaje Mug · White",
+      "price_usd": 64.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 133,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-white",
+      "fam": "elegante-taza-viaje",
+      "cg": "t-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-oz",
+      "color": "White",
+      "img": "assets/products/shop/41a786e2f931150ef96a.jpg"
+    },
+    {
+      "id": "printful-484200714-black",
+      "name_es": "Chaqueta Corta Tough Bitch · Negro",
+      "name_en": "Corta Tough Bitch Jacket · Black",
+      "price_usd": 86.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 134,
+      "created": "2026-11-25",
+      "supplier_id": "484200714-black",
+      "fam": "chaqueta-corta-mujer",
+      "cg": "printful-484200714",
+      "color": "Black",
+      "img": "https://files.cdn.printful.com/files/8ac/8acbaffae3e14c80e5a6f003ada507f7_preview.png",
+      "page": true
+    },
+    {
+      "id": "printful-484200714-stone",
+      "name_es": "Chaqueta Corta Tough Bitch · Stone",
+      "name_en": "Corta Tough Bitch Jacket · Stone",
+      "price_usd": 86.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 135,
+      "created": "2026-11-25",
+      "supplier_id": "484200714-stone",
+      "fam": "chaqueta-corta-mujer",
+      "cg": "printful-484200714",
+      "color": "Stone",
+      "img": "https://files.cdn.printful.com/files/677/6774ca2b8462578e557461d5cb10bbe0_preview.png",
+      "page": true
+    },
+    {
+      "id": "printify-botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para-hidratarse-en-movimiento",
+      "name_es": "Termo Botella Agua Delgada · Blanco",
+      "name_en": "Botella Agua Delgada Bottle · White",
+      "price_usd": 35.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 136,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para-hidratarse-en-movimiento",
+      "fam": "botella-agua-delgada",
+      "cg": "t-botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para",
+      "color": "White",
+      "img": "assets/products/shop/35841ec6cf6cf1d430d2.jpg"
+    },
+    {
+      "id": "printify-elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-pebble-blue",
+      "name_es": "Termo Elegante Botella Cobre · Pebble Blue",
+      "name_en": "Elegante Botella Cobre Bottle · Pebble Blue",
+      "price_usd": 43.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 137,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-pebble-blue",
+      "fam": "elegante-botella-cobre",
+      "cg": "t-elegante-botella-de-cobre-de-oz-con-aislamiento-al-vacio-diseno-de",
+      "color": "Pebble Blue",
+      "img": "assets/products/shop/ea3e6633eac8bd5a06a0.jpg"
+    },
+    {
+      "id": "printify-elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-white",
+      "name_es": "Termo Elegante Botella Cobre · Blanco",
+      "name_en": "Elegante Botella Cobre Bottle · White",
+      "price_usd": 43.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 138,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-white",
+      "fam": "elegante-botella-cobre",
+      "cg": "t-elegante-botella-de-cobre-de-oz-con-aislamiento-al-vacio-diseno-de",
+      "color": "White",
+      "img": "assets/products/shop/4fb4319d18f7940c4067.jpg"
+    },
+    {
+      "id": "printful-484188638-black-camo",
+      "name_es": "Sudadera Capucha Immortal Warrior · Black Camo",
+      "name_en": "Capucha Immortal Warrior Sweatshirt · Black Camo",
+      "price_usd": 54.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 139,
+      "created": "2026-11-25",
+      "supplier_id": "484188638-black-camo",
+      "fam": "sudadera-capucha-immortal",
+      "cg": "printful-484188638",
+      "color": "Black Camo",
+      "img": "https://files.cdn.printful.com/files/0fa/0fa1b5b4835bc40ec9f0fb44e10755e5_preview.png",
+      "page": true
+    },
+    {
+      "id": "printful-484188638-forest-camo",
+      "name_es": "Sudadera Capucha Immortal Warrior · Forest Camo",
+      "name_en": "Capucha Immortal Warrior Sweatshirt · Forest Camo",
+      "price_usd": 54.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 140,
+      "created": "2026-11-25",
+      "supplier_id": "484188638-forest-camo",
+      "fam": "sudadera-capucha-immortal",
+      "cg": "printful-484188638",
+      "color": "Forest Camo",
+      "img": "https://files.cdn.printful.com/files/8a0/8a0b1f8e69df7dbd2bcc44992545f66e_preview.png",
       "page": true
     },
     {
@@ -2621,14 +2632,1198 @@
         "decor"
       ],
       "available": true,
-      "rank": 297,
+      "rank": 141,
       "created": "2026-11-25",
+      "page": true,
       "supplier_id": "polvo-de-perla-de-abeja-daz-premium-fit",
       "fam": "polvo-perla-abeja",
       "cg": "t-polvo-de-perla-de-abeja-daz-premium-fit",
+      "color": "white",
       "art_score": 5,
-      "img": "assets/products/shop/6d77d12b98da0c2e73a6.jpg",
-      "page": true
+      "img": "assets/products/shop/6d77d12b98da0c2e73a6.jpg"
+    },
+    {
+      "id": "productifi-advanced-whey-protein-chocolate",
+      "name_es": "Proteína Advanced Whey Protein",
+      "name_en": "Advanced Whey Protein Protein",
+      "price_usd": 22.9,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 142,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "advanced-whey-protein-chocolate",
+      "fam": "advanced-whey-protein",
+      "cg": "t-advanced-whey-protein-chocolate",
+      "img": "assets/products/shop/9f0aaffd25ee9e0b68a7.jpg"
+    },
+    {
+      "id": "interestprint-design-yoga-top-a6k",
+      "name_es": "Top de Yoga Estampado",
+      "name_en": "Printed Yoga Crop Top",
+      "price_usd": 20.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 149,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "design-yoga-top-a6k",
+      "fam": "yoga-top-a6k",
+      "cg": "t-design-yoga-top-a6k",
+      "color": "white",
+      "art_score": 4,
+      "img": "assets/products/shop/68e55d63cdd62a8522dd.jpg"
+    },
+    {
+      "id": "interestprint-a-picture-from-kefir-https-kefirapp-com-w-2201121-racerback-active-tank-tops",
+      "name_es": "Top Deportivo de Tirantes Racerback",
+      "name_en": "Racerback Active Tank Top",
+      "price_usd": 22.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 150,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "a-picture-from-kefir_-https___kefirapp_com_w_2201121-racerback-active-tank-tops",
+      "fam": "a-picture-from",
+      "cg": "t-a-picture-from-kefir-https-kefirapp-com-w-racerback-active-tank-tops",
+      "art_score": 4,
+      "img": "assets/products/shop/1e84132b365ef1c30e0c.jpg"
+    },
+    {
+      "id": "productifi-hyaluronic-acid-serum",
+      "name_es": "Suero de Ácido Hialurónico",
+      "name_en": "Hyaluronic Acid Serum",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 152,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "hyaluronic-acid-serum",
+      "fam": "suero-acido-hialuronico",
+      "cg": "t-suero-de-acido-hialuronico-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/bf7f99e4d92ad11d006f.jpg"
+    },
+    {
+      "id": "productifi-exfoliante-de-cafe-y-menta-daz-premium-fit",
+      "name_es": "Exfoliante de Café y Menta",
+      "name_en": "Peppermint Coffee Body Scrub",
+      "price_usd": 24.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 154,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "exfoliante-de-cafe-y-menta-daz-premium-fit",
+      "fam": "exfoliante-cafe-menta",
+      "cg": "t-exfoliante-de-cafe-y-menta-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/45f327df233c2bf2a366.jpg"
+    },
+    {
+      "id": "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+      "name_es": "Gel Refrescante Polar Flex",
+      "name_en": "Polar Flex Cooling Gel",
+      "price_usd": 24.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 159,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "gel-refrescante-polar-flex-daz-premium-fit",
+      "fam": "gel-refrescante-polar",
+      "cg": "t-gel-refrescante-polar-flex-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/38d9a434d739a2be2c26.jpg"
+    },
+    {
+      "id": "productifi-limpiador-facial-de-carbon-daz-premium-fit",
+      "name_es": "Limpiador Facial de Carbón Activo",
+      "name_en": "Activated Charcoal Facial Cleanser",
+      "price_usd": 24.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 161,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "limpiador-facial-de-carbon-daz-premium-fit",
+      "fam": "limpiador-facial-carbon",
+      "cg": "t-limpiador-facial-de-carbon-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/99d2b894b474dcb57d5c.jpg"
+    },
+    {
+      "id": "interestprint-design-yoga-top-xg005kn07",
+      "name_es": "Top Deportivo X-Back Diamond",
+      "name_en": "Diamond X-Back Yoga Top",
+      "price_usd": 22.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 165,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "design-yoga-top-xg005kn07",
+      "fam": "yoga-top-xg005kn07",
+      "cg": "t-design-yoga-top-xg005kn07",
+      "color": "white",
+      "art_score": 4,
+      "img": "assets/products/shop/1e52a4d8b453a71807bc.jpg"
+    },
+    {
+      "id": "productifi-aceite-facial-gua-sha-daz-premium-fit",
+      "name_es": "Aceite Facial Gua Sha",
+      "name_en": "Gua Sha Face Oil",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 166,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "aceite-facial-gua-sha-daz-premium-fit",
+      "fam": "aceite-facial-gua",
+      "cg": "t-aceite-facial-gua-sha-daz-premium-fit",
+      "art_score": 9,
+      "img": "assets/products/shop/8f2152c7b9775c7ae85f.jpg"
+    },
+    {
+      "id": "productifi-aloe-cool-cucumber-soap",
+      "name_es": "Jabón de Aloe y Pepino",
+      "name_en": "Aloe and Cucumber Soap",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 167,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "aloe-cool-cucumber-soap",
+      "fam": "jabon-aloe-pepino",
+      "cg": "t-jabon-de-aloe-y-pepino-fresco-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/cf6132a1af0214539c59.jpg"
+    },
+    {
+      "id": "productifi-jabon-calmante-de-lavanda-daz-premium-fit",
+      "name_es": "Jabón Calmante de Lavanda",
+      "name_en": "Calming Lavender Soap Bar",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 169,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "jabon-calmante-de-lavanda-daz-premium-fit",
+      "fam": "jabon-calmante-lavanda",
+      "cg": "t-jabon-calmante-de-lavanda-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/31c352d9aecac0e56d0a.jpg"
+    },
+    {
+      "id": "productifi-jabon-de-carbon-daz-premium-fit",
+      "name_es": "Jabón Purificante de Carbón",
+      "name_en": "Charcoal Purifying Soap",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 170,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "jabon-de-carbon-daz-premium-fit",
+      "fam": "jabon-carbon-premium",
+      "cg": "t-jabon-de-carbon-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/ec09e61488ddf6dd6bc6.jpg"
+    },
+    {
+      "id": "productifi-jabon-de-limoncillo-y-salvia-daz-premium-fit",
+      "name_es": "Jabón de Limoncillo y Salvia",
+      "name_en": "Lemongrass and Sage Soap",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 171,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "jabon-de-limoncillo-y-salvia-daz-premium-fit",
+      "fam": "jabon-limoncillo-salvia",
+      "cg": "t-jabon-de-limoncillo-y-salvia-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/c879402ac5e68ca24cac.jpg"
+    },
+    {
+      "id": "productifi-jabon-de-miel-con-leche-de-avena-daz-premium-fit",
+      "name_es": "Jabón de Avena y Miel",
+      "name_en": "Oatmeal and Honey Soap",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 172,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "jabon-de-miel-con-leche-de-avena-daz-premium-fit",
+      "fam": "jabon-miel-leche",
+      "cg": "t-jabon-de-miel-con-leche-de-avena-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/6d1367a82c5e992aa15e.jpg"
+    },
+    {
+      "id": "productifi-jabon-de-playa-de-coco-daz-premium-fit",
+      "name_es": "Jabón de Playa de Coco",
+      "name_en": "Coconut Beach Soap",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 173,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "jabon-de-playa-de-coco-daz-premium-fit",
+      "fam": "jabon-playa-coco",
+      "cg": "t-jabon-de-playa-de-coco-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/bbb5132d93ad1f0510cf.jpg"
+    },
+    {
+      "id": "interestprint-design-yoga-top-yj053",
+      "name_es": "Top de Yoga Estampado",
+      "name_en": "Printed Yoga Top",
+      "price_usd": 22.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 177,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "design-yoga-top-yj053",
+      "fam": "yoga-top-yj053",
+      "cg": "t-design-yoga-top-yj053",
+      "color": "white",
+      "art_score": 6,
+      "img": "assets/products/shop/c1f359ffcb6d78db19ac.jpg"
+    },
+    {
+      "id": "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+      "name_es": "Café Fruity Bloom Tueste Ligero",
+      "name_en": "Fruity Bloom Light Roast Coffee",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 179,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+      "fam": "cafe-fruity-bloom",
+      "cg": "t-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+      "art_score": 9,
+      "img": "assets/products/shop/1da030026ae006d05e53.jpg"
+    },
+    {
+      "id": "productifi-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-4oz",
+      "name_es": "Mezcla de Café de Cáñamo",
+      "name_en": "Hemp Coffee Blend",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 182,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-4oz",
+      "fam": "mezcla-cafe-canamo",
+      "cg": "t-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-4oz",
+      "art_score": 6,
+      "img": "assets/products/shop/fa667e1bc70f6a318708.jpg"
+    },
+    {
+      "id": "productifi-barra-exfoliante-luffa-daz-premium-fit",
+      "name_es": "Barra Exfoliante Luffa DAZ",
+      "name_en": "DAZ Luffa Exfoliating Bar",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 183,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "barra-exfoliante-luffa-daz-premium-fit",
+      "fam": "barra-exfoliante-luffa",
+      "cg": "t-barra-exfoliante-luffa-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/dbbfe6cbf11b84aa20ce.jpg"
+    },
+    {
+      "id": "productifi-suero-para-manchas-oscuras-para-pieles-normales-daz-premium-fit",
+      "name_es": "Suero para Manchas Oscuras",
+      "name_en": "Dark Spot Serum",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 184,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "suero-para-manchas-oscuras-para-pieles-normales-daz-premium-fit",
+      "fam": "suero-manchas-oscuras",
+      "cg": "t-suero-para-manchas-oscuras-para-pieles-normales-daz-premium-fit",
+      "art_score": 7,
+      "img": "assets/products/shop/f6df6475995c9e585fe8.jpg"
+    },
+    {
+      "id": "productifi-suero-para-manchas-oscuras-para-pieles-sensibles-daz-premium-fit",
+      "name_es": "Sérum para Manchas Oscuras",
+      "name_en": "Dark Spot Serum",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 185,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "suero-para-manchas-oscuras-para-pieles-sensibles-daz-premium-fit",
+      "fam": "suero-manchas-oscuras",
+      "cg": "t-suero-para-manchas-oscuras-para-pieles-sensibles-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/941f55487a67384db644.jpg"
+    },
+    {
+      "id": "productifi-complejo-de-hongos-10x-daz-premium-fit",
+      "name_es": "Complejo de Hongos 10X",
+      "name_en": "Mushroom 10X Complex",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 187,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "complejo-de-hongos-10x-daz-premium-fit",
+      "fam": "complejo-hongos-10x",
+      "cg": "t-complejo-de-hongos-10x-daz-premium-fit",
+      "art_score": 7,
+      "img": "assets/products/shop/95df16035027620d083f.jpg"
+    },
+    {
+      "id": "productifi-aceite-capilar-hidratante-y-fortalecedor",
+      "name_es": "Aceite Capilar Hidratante y Fortalecedor",
+      "name_en": "Moisturizing and Strengthening Hair Oil",
+      "price_usd": 24.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 190,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "aceite-capilar-hidratante-y-fortalecedor",
+      "fam": "aceite-capilar-hidratante",
+      "cg": "t-aceite-capilar-hidratante-y-fortalecedor-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/ae4c0c764d165ebd5c73.jpg"
+    },
+    {
+      "id": "productifi-gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit",
+      "name_es": "Gel Iluminador Aloe y Árbol de Té",
+      "name_en": "Aloe and Tea Tree Radiance Gel",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 192,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit",
+      "fam": "gel-iluminador-aloe",
+      "cg": "t-gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/2c9409e7eed611d1c3c1.jpg"
+    },
+    {
+      "id": "interestprint-design-yoga-zipper-vest",
+      "name_es": "Top Deportivo con Cremallera",
+      "name_en": "Zipper Athletic Vest",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 196,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "design-yoga-zipper-vest",
+      "fam": "yoga-zipper-vest",
+      "cg": "t-design-yoga-zipper-vest",
+      "color": "white",
+      "art_score": 4,
+      "img": "assets/products/shop/3af7eef43b6b98422084.jpg"
+    },
+    {
+      "id": "productifi-balsamo-para-patas-de-perro-daz-premium-fit",
+      "name_es": "Bálsamo para Patas de Perro",
+      "name_en": "Dog Paw Balm",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 199,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "balsamo-para-patas-de-perro-daz-premium-fit",
+      "fam": "balsamo-patas-perro",
+      "cg": "t-balsamo-para-patas-de-perro-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/b3e813f1403efdd7aa68.jpg"
+    },
+    {
+      "id": "productifi-manteca-de-karite-cruda-daz-premium-fit",
+      "name_es": "Manteca de Karité Cruda",
+      "name_en": "Raw Shea Butter",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 201,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "manteca-de-karite-cruda-daz-premium-fit",
+      "fam": "manteca-karite-cruda",
+      "cg": "t-manteca-de-karite-cruda-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/4a05081e211ac2707b41.jpg"
+    },
+    {
+      "id": "interestprint-top-dpf",
+      "name_es": "Top Deportivo Con Espalda Nudillo",
+      "name_en": "Knotted Back Cutout Sports Bra",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 213,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "top-dpf",
+      "fam": "top",
+      "cg": "t-top-dpf",
+      "art_score": 3,
+      "img": "assets/products/shop/48bf5428ceb50f1ca674.jpg"
+    },
+    {
+      "id": "productifi-apoyo-conjunto-daz-premium-fit",
+      "name_es": "DAZ Joint Support Capsules",
+      "name_en": "DAZ Joint Support Capsules",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "hombre/conjuntos",
+        "mujer/conjuntos"
+      ],
+      "available": true,
+      "rank": 216,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "apoyo-conjunto-daz-premium-fit",
+      "fam": "apoyo-conjunto-premium",
+      "cg": "t-apoyo-conjunto-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/3fafcd06c8026514e266.jpg"
+    },
+    {
+      "id": "productifi-balsamo-corporal-elevador-daz-premium-fit",
+      "name_es": "Bálsamo Corporal Hidratante Uplift",
+      "name_en": "Uplift Hydrating Body Balm",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "mujer/bodies"
+      ],
+      "available": true,
+      "rank": 217,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "balsamo-corporal-elevador-daz-premium-fit",
+      "fam": "balsamo-corporal-elevador",
+      "cg": "t-balsamo-corporal-elevador-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/c92ad5206054fa267b76.jpg"
+    },
+    {
+      "id": "productifi-balsamo-corporal-energetico-daz-premium-fit",
+      "name_es": "Bálsamo Corporal Energético",
+      "name_en": "Energy Body Balm",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "mujer/bodies"
+      ],
+      "available": true,
+      "rank": 218,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "balsamo-corporal-energetico-daz-premium-fit",
+      "fam": "balsamo-corporal-energetico",
+      "cg": "t-balsamo-corporal-energetico-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/1a6ba37407b6a6c29c3f.jpg"
+    },
+    {
+      "id": "productifi-balsamo-corporal-para-dormir-daz-premium-fit",
+      "name_es": "Bálsamo Corporal de Noche",
+      "name_en": "Night Body Balm",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "mujer/bodies"
+      ],
+      "available": true,
+      "rank": 219,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "balsamo-corporal-para-dormir-daz-premium-fit",
+      "fam": "balsamo-corporal-dormir",
+      "cg": "t-balsamo-corporal-para-dormir-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/bd8db220ea2cd9f1488f.jpg"
+    },
+    {
+      "id": "productifi-balsamo-corporal-relajante-daz-premium-fit",
+      "name_es": "Bálsamo Corporal Relajante",
+      "name_en": "Relax Body Balm",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "mujer/bodies"
+      ],
+      "available": true,
+      "rank": 220,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "balsamo-corporal-relajante-daz-premium-fit",
+      "fam": "balsamo-corporal-relajante",
+      "cg": "t-balsamo-corporal-relajante-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/28c7d8645e46dc5f392b.jpg"
+    },
+    {
+      "id": "productifi-balsamo-corporal-sin-perfume-daz-premium-fit",
+      "name_es": "Bálsamo Corporal Sin Perfume",
+      "name_en": "Unscented Body Balm",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "mujer/bodies"
+      ],
+      "available": true,
+      "rank": 221,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "balsamo-corporal-sin-perfume-daz-premium-fit",
+      "fam": "balsamo-corporal-sin",
+      "cg": "t-balsamo-corporal-sin-perfume-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/c72adc5244d05e101505.jpg"
+    },
+    {
+      "id": "productifi-cafe-con-miel-de-manuka-daz-premium-fit-4oz",
+      "name_es": "Café Con Miel De Manuka",
+      "name_en": "Manuka Honey Infused Coffee",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 224,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "cafe-con-miel-de-manuka-daz-premium-fit-4oz",
+      "fam": "cafe-miel-manuka",
+      "cg": "t-cafe-con-miel-de-manuka-daz-premium-fit-4oz",
+      "art_score": 6,
+      "img": "assets/products/shop/881b29a934e8fc78f8fc.jpg"
+    },
+    {
+      "id": "productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-4oz",
+      "name_es": "Café con Hongos Melena y Chaga",
+      "name_en": "Mushroom Coffee Lion Mane Chaga",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 226,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-4oz",
+      "fam": "fusion-cafe-champinones",
+      "cg": "t-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium",
+      "art_score": 8,
+      "img": "assets/products/shop/0dc582d2cac28e85991c.jpg"
+    },
+    {
+      "id": "productifi-toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
+      "name_es": "Toallitas Limpiadoras de Oídos",
+      "name_en": "Dog Ear Cleaner Wipes",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 234,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
+      "fam": "toallitas-limpiadoras-oidos",
+      "cg": "t-toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/a282e7b22473826c652b.jpg"
+    },
+    {
+      "id": "productifi-gel-crema-hidro-equilibrante-daz-premium-fit",
+      "name_es": "Crema Gel Hidroequilibrante Premium",
+      "name_en": "Premium Hydro Balancing Gel Cream",
+      "price_usd": 29.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 236,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "gel-crema-hidro-equilibrante-daz-premium-fit",
+      "fam": "gel-crema-hidro",
+      "cg": "t-gel-hidro-equilibrante-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/8b525a371ed1529b3253.jpg"
+    },
+    {
+      "id": "productifi-hidratante-de-sandia-daz-premium-fit",
+      "name_es": "Humectante Hidratante de Sandía",
+      "name_en": "Watermelon Hydration Moisturizer",
+      "price_usd": 29.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 237,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "hidratante-de-sandia-daz-premium-fit",
+      "fam": "hidratante-sandia-premium",
+      "cg": "t-hidratante-de-sandia-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/cbe9ed9275e6453447f0.jpg"
+    },
+    {
+      "id": "productifi-crema-calmante-para-la-piel-del-perro-daz-premium-fit",
+      "name_es": "Crema Calmante para Piel Canina",
+      "name_en": "Canine Skin Soothing Cream",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 238,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "crema-calmante-para-la-piel-del-perro-daz-premium-fit",
+      "fam": "crema-calmante-la",
+      "cg": "t-calmante-para-la-piel-del-perro-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/9536554439c18c90b436.jpg"
+    },
+    {
+      "id": "productifi-cafe-mezcla-brasilena-4oz-daz-premium-fit",
+      "name_es": "Café Mezcla Brasileña 4oz",
+      "name_en": "Brazilian Blend Coffee 4oz",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 241,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "cafe-mezcla-brasilena-4oz-daz-premium-fit",
+      "fam": "cafe-mezcla-brasilena",
+      "cg": "t-cafe-mezcla-brasilena-4oz-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/271c5e97847c4aa3594d.jpg"
+    },
+    {
+      "id": "productifi-hidratante-antienvejecimiento-para-piel-normal-daz-premium-fit",
+      "name_es": "Hidratante Antienvejecimiento Piel Normal",
+      "name_en": "Anti Aging Moisturizer Normal Skin",
+      "price_usd": 29.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 248,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "hidratante-antienvejecimiento-para-piel-normal-daz-premium-fit",
+      "fam": "hidratante-antienvejecimiento-piel",
+      "cg": "t-hidratante-antienvejecimiento-para-piel-normal-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/811a889150dfd6b50f2b.jpg"
+    },
+    {
+      "id": "productifi-hidratante-antienvejecimiento-para-pieles-sensibles-daz-premium-fit",
+      "name_es": "Crema Antienvejecimiento Piel Sensible",
+      "name_en": "Anti Aging Moisturizer Sensitive Skin",
+      "price_usd": 29.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 249,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "hidratante-antienvejecimiento-para-pieles-sensibles-daz-premium-fit",
+      "fam": "hidratante-antienvejecimiento-pieles",
+      "cg": "t-hidratante-antienvejecimiento-para-pieles-sensibles-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/1a55a236c667370b68d2.jpg"
+    },
+    {
+      "id": "productifi-perla-de-abeja-daz-premium-fit",
+      "name_es": "Bee Pearl Concentrated Bee Bread",
+      "name_en": "Bee Pearl Concentrated Bee Bread",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 250,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "perla-de-abeja-daz-premium-fit",
+      "fam": "perla-abeja-premium",
+      "cg": "t-perla-de-abeja-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/b9390a798750102f3a68.jpg"
+    },
+    {
+      "id": "productifi-hidratante-con-peptidos-daz-premium-fit",
+      "name_es": "Humectante Facial con Péptidos",
+      "name_en": "Peptide Facial Moisturizer",
+      "price_usd": 30.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 251,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "hidratante-con-peptidos-daz-premium-fit",
+      "fam": "hidratante-peptidos-premium",
+      "cg": "t-hidratante-con-peptidos-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/a1b5fab746adbc95f366.jpg"
+    },
+    {
+      "id": "productifi-crema-de-sebo-limoncillo-y-lavanda-daz-premium-fit",
+      "name_es": "Crema de Sebo Limoncillo y Lavanda",
+      "name_en": "Lemongrass and Lavender Tallow Cream",
+      "price_usd": 31.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 253,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "crema-de-sebo-limoncillo-y-lavanda-daz-premium-fit",
+      "fam": "crema-sebo-limoncillo",
+      "cg": "t-de-sebo-limoncillo-y-lavanda-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/5aee019315e307b41d71.jpg"
+    },
+    {
+      "id": "productifi-crema-de-sebo-noche-tranquila-daz-premium-fit",
+      "name_es": "Crema de Sebo Peaceful Night",
+      "name_en": "Peaceful Night Tallow Cream",
+      "price_usd": 31.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 254,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "crema-de-sebo-noche-tranquila-daz-premium-fit",
+      "fam": "crema-sebo-noche",
+      "cg": "t-de-sebo-noche-tranquila-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/f71a0c46a875136634a6.jpg"
+    },
+    {
+      "id": "productifi-gel-limpiador-suave-daz-premium-fit",
+      "name_es": "Gel Limpiador Suave",
+      "name_en": "Gentle Cleansing Gel",
+      "price_usd": 28.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 255,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "gel-limpiador-suave-daz-premium-fit",
+      "fam": "gel-limpiador-suave",
+      "cg": "t-gel-limpiador-suave-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/f498bb4c88064cd1e2de.jpg"
+    },
+    {
+      "id": "productifi-suero-de-niacinamida-al-10-daz-premium-fit",
+      "name_es": "Suero Niacinamida Diez Por Ciento",
+      "name_en": "Ten Percent Niacinamide Serum",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 257,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "suero-de-niacinamida-al-10-daz-premium-fit",
+      "fam": "suero-niacinamida-al",
+      "cg": "t-suero-de-niacinamida-al-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/2c6d046b3c03765c9950.jpg"
+    },
+    {
+      "id": "productifi-tonico-equilibrante-suave-daz-premium-fit",
+      "name_es": "Tónico equilibrante suave",
+      "name_en": "Gentle balancing toner",
+      "price_usd": 29.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 259,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "tonico-equilibrante-suave-daz-premium-fit",
+      "fam": "tonico-equilibrante-suave",
+      "cg": "t-tonico-equilibrante-suave-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/467f2424ff0b7e7f0f3d.jpg"
+    },
+    {
+      "id": "productifi-crema-de-hidratacion-de-la-piel-daz-premium-fit",
+      "name_es": "Crema Hidratante Facial y Corporal",
+      "name_en": "Facial and Body Hydrating Cream",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 261,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "crema-de-hidratacion-de-la-piel-daz-premium-fit",
+      "fam": "crema-hidratacion-la",
+      "cg": "t-de-hidratacion-de-la-piel-daz-premium-fit",
+      "art_score": 3,
+      "img": "assets/products/shop/ece491f010820ecdef78.jpg"
+    },
+    {
+      "id": "productifi-suero-botanico-para-el-crecimiento-del-cabello-daz-premium-fit",
+      "name_es": "Suero Botánico Capilar",
+      "name_en": "Botanical Hair Growth Serum",
+      "price_usd": 30.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 263,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "suero-botanico-para-el-crecimiento-del-cabello-daz-premium-fit",
+      "fam": "suero-botanico-el",
+      "cg": "t-suero-botanico-para-el-crecimiento-del-cabello-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/ff8f8852de203aa89b4c.jpg"
+    },
+    {
+      "id": "productifi-crema-para-ojos-con-peptidos-daz-premium-fit",
+      "name_es": "Crema de Ojos con Péptidos",
+      "name_en": "Peptide Eye Cream",
+      "price_usd": 34.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 266,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "crema-para-ojos-con-peptidos-daz-premium-fit",
+      "fam": "crema-ojos-peptidos",
+      "cg": "t-para-ojos-con-peptidos-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/a57ce18104fc4f76b8b4.jpg"
+    },
+    {
+      "id": "productifi-polvo-de-matcha-ceremonial-daz-premium-fit",
+      "name_es": "Polvo de Matcha Ceremonial DAZ",
+      "name_en": "DAZ Ceremonial Matcha Powder",
+      "price_usd": 34.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 270,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "polvo-de-matcha-ceremonial-daz-premium-fit",
+      "fam": "polvo-matcha-ceremonial",
+      "cg": "t-polvo-de-matcha-ceremonial-daz-premium-fit",
+      "art_score": 9,
+      "img": "assets/products/shop/d29904c1bc29bb3fc3da.jpg"
+    },
+    {
+      "id": "productifi-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz",
+      "name_es": "Café de Cáñamo Tostado Medio",
+      "name_en": "Medium Roast Hemp Coffee",
+      "price_usd": 36.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 272,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz",
+      "fam": "mezcla-cafe-canamo",
+      "cg": "t-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz",
+      "art_score": 6,
+      "img": "assets/products/shop/a3aea3a4943060ddc022.jpg"
+    },
+    {
+      "id": "productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-16oz",
+      "name_es": "Café con Hongos Melena y Chaga",
+      "name_en": "Mushroom Coffee Lion Mane Chaga",
+      "price_usd": 40.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 282,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-16oz",
+      "fam": "fusion-cafe-champinones",
+      "cg": "t-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium",
+      "art_score": 8,
+      "img": "assets/products/shop/1505cde8869d992b1a5b.jpg"
+    },
+    {
+      "id": "productifi-crema-reafirmante-de-la-piel-daz-premium-fit",
+      "name_es": "Crema Reafirmante Facial",
+      "name_en": "Skin Firming Cream",
+      "price_usd": 30.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 283,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "crema-reafirmante-de-la-piel-daz-premium-fit",
+      "fam": "crema-reafirmante-la",
+      "cg": "t-reafirmante-de-la-piel-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/f5e17f2f7eabf3ad31b6.jpg"
+    },
+    {
+      "id": "productifi-hongo-cordyceps-daz-premium-fit",
+      "name_es": "Cordyceps Mushroom Premium Extract",
+      "name_en": "Cordyceps Mushroom Premium Extract",
+      "price_usd": 30.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 290,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "hongo-cordyceps-daz-premium-fit",
+      "fam": "hongo-cordyceps-premium",
+      "cg": "t-hongo-cordyceps-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/364f2d87cd632a03dd42.jpg"
+    },
+    {
+      "id": "productifi-cafe-con-miel-de-manuka-daz-premium-fit-16oz",
+      "name_es": "Café Miel de Manuka",
+      "name_en": "Manuka Honey Coffee",
+      "price_usd": 43.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 294,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "cafe-con-miel-de-manuka-daz-premium-fit-16oz",
+      "fam": "cafe-miel-manuka",
+      "cg": "t-cafe-con-miel-de-manuka-daz-premium-fit-16oz",
+      "art_score": 6,
+      "img": "assets/products/shop/c7cf4be404084bc582b5.jpg"
+    },
+    {
+      "id": "productifi-hongo-melena-de-leon-daz-premium-fit",
+      "name_es": "Hongo Melena de León Premium",
+      "name_en": "Premium Lion's Mane Mushroom",
+      "price_usd": 32.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 295,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "hongo-melena-de-leon-daz-premium-fit",
+      "fam": "hongo-melena-leon",
+      "cg": "t-hongo-melena-de-leon-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/1b18c481abfec525bb45.jpg"
+    },
+    {
+      "id": "productifi-plan-basico-de-20-mes",
+      "name_es": "The Blueprint Series Nutritional Foundation",
+      "name_en": "The Blueprint Series Nutritional Foundation",
+      "price_usd": 95.0,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 298,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "plan-basico-de-20-mes",
+      "fam": "blueprint-series-nutritional",
+      "cg": "t-the-blueprint-series-nutritional-foundation",
+      "art_score": 9,
+      "img": "assets/products/shop/5aa8df3f54a26e26e81b.jpg"
+    },
+    {
+      "id": "productifi-plan-premium-de-50-mes",
+      "name_es": "The Prestige Protocol Biometric Mastery",
+      "name_en": "The Prestige Protocol Biometric Mastery",
+      "price_usd": 245.0,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta"
+      ],
+      "available": true,
+      "rank": 299,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "plan-premium-de-50-mes",
+      "fam": "prestige-protocol-biometric",
+      "cg": "t-the-prestige-protocol-biometric-mastery",
+      "art_score": 8,
+      "img": "assets/products/shop/5261ee6f01aa707b7440.jpg"
     }
   ]
 }

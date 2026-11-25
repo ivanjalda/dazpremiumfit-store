@@ -1,0 +1,59 @@
+{
+ "ai_priority": true,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printful-484188638",
+ "color": "Black Camo",
+ "created": "2026-11-25",
+ "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "https://files.cdn.printful.com/files/0fa/0fa1b5b4835bc40ec9f0fb44e10755e5_preview.png"
+ ],
+ "draft": false,
+ "fam": "sudadera-capucha-immortal",
+ "hidden": false,
+ "id": "printful-484188638-black-camo",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-washed-drop-shoulder-t-shirt",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Capucha Immortal Warrior Sweatshirt · Black Camo",
+ "name_es": "Sudadera Capucha Immortal Warrior · Black Camo",
+ "needs_review": false,
+ "price_usd": 54.99,
+ "rank": 139,
+ "shipping_usd": 7.0,
+ "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "8446291_53772",
+  "8446291_53778",
+  "8446291_53784",
+  "8446291_53790",
+  "8446291_53796"
+ ],
+ "source_title": "Sudadera con capucha DPF Immortal Warrior de camuflaje",
+ "stripe_payment_link": "https://buy.stripe.com/5kQ28s1IMfX63Ui9uC1gV3K",
+ "supplier": "Printful",
+ "supplier_id": "484188638-black-camo",
+ "visual_verified": true
+}

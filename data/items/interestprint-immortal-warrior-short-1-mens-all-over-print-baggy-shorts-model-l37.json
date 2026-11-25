@@ -24,15 +24,17 @@
  "img_checked": "2026-11-25",
  "look": [
   "interestprint-design-washed-drop-shoulder-t-shirt",
-  "printful-pantalon-de-chandal-unisex",
-  "productifi-cafe-mezcla-brasilena-16oz"
+  "printful-484195395-black",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
  ],
  "material": "",
  "name_en": "Daz Immortal Warrior Shorts",
  "name_es": "Bermuda Daz Immortal Warrior",
  "needs_review": false,
+ "page": true,
  "price_usd": 28.99,
- "rank": 48,
+ "rank": 58,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Pantalones cortos > Pantalones cortos para correr",
@@ -47,6 +49,7 @@
   "2XL"
  ],
  "source_title": "DAZ Premium Fit Immortal Warrior | Pantalón corto de hombre",
+ "stripe_payment_link": "https://buy.stripe.com/dRm7sM3QU4eofD0gX41gV2r",
  "supplier": "InterestPrint",
  "supplier_id": "immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
  "visual_verified": true

@@ -24,13 +24,15 @@
  "id": "interestprint-design-washed-drop-shoulder-t-shirt",
  "look": [
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-pantalon-de-chandal-unisex",
-  "productifi-cafe-mezcla-brasilena-16oz"
+  "printful-484195395-black",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
  ],
  "material": "",
  "name_en": "Daz Immortal Mindset Tee",
  "name_es": "Camiseta Daz Immortal Mindset",
  "needs_review": false,
+ "page": true,
  "price_usd": 22.99,
  "rank": 4,
  "shipping_usd": 8.0,
@@ -47,6 +49,7 @@
   "2XL"
  ],
  "source_title": "DAZ Premium Fit Immortal Mindset | Camiseta de algodón efecto lavado",
+ "stripe_payment_link": "https://buy.stripe.com/fZu8wQaficKUgH40Y61gV1z",
  "supplier": "InterestPrint",
  "supplier_id": "design-washed-drop-shoulder-t-shirt",
  "visual_verified": true

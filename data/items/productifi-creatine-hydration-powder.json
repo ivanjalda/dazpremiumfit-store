@@ -32,8 +32,9 @@
  "name_en": "Creatine Hydration Powder Creatine",
  "name_es": "Creatina Creatine Hydration Powder",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
- "rank": 47,
+ "rank": 57,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Creatina",
@@ -42,6 +43,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Creatine Hydration Powder DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/dRm9AU87adOY4Ym36e1gV2q",
  "supplier": "Productifi",
  "supplier_id": "creatine-hydration-powder",
  "visual_verified": true

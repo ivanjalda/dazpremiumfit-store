@@ -1,0 +1,53 @@
+{
+ "ai_priority": true,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printful-484192500",
+ "color": "Black",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "https://files.cdn.printful.com/files/868/8685a77884f4f5813b4defe8c9652453_preview.png"
+ ],
+ "draft": false,
+ "fam": "sudadera-capucha-under",
+ "hidden": false,
+ "id": "printful-484192500",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-washed-drop-shoulder-t-shirt",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Capucha Under Armour Sweatshirt · Black",
+ "name_es": "Sudadera Capucha Under Armour · Negro",
+ "needs_review": false,
+ "price_usd": 88.99,
+ "rank": 105,
+ "shipping_usd": 7.0,
+ "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "XL"
+ ],
+ "skus": [
+  "8258205_19711",
+  "8258205_19726"
+ ],
+ "source_title": "Sudadera con capucha DPF & Under Armour Immortal Warrior 144",
+ "stripe_payment_link": "https://buy.stripe.com/4gMdRa4UY9yI0I60Y61gV3c",
+ "supplier": "Printful",
+ "supplier_id": "484192500",
+ "visual_verified": true
+}

@@ -28,8 +28,9 @@
  "name_en": "Gomitas Colágeno Daz Collagen",
  "name_es": "Colágeno Gomitas Colágeno Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 25.99,
- "rank": 23,
+ "rank": 25,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -38,6 +39,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Gomitas de Colágeno DAZ Premium Fit (adultos)",
+ "stripe_payment_link": "https://buy.stripe.com/6oUdRagDG9yI8aygX41gV1U",
  "supplier": "Productifi",
  "supplier_id": "gomitas-de-colageno-daz-premium-fit-adultos",
  "visual_verified": true

@@ -27,8 +27,9 @@
  "name_en": "Creatine Monohydrate Daz Creatine",
  "name_es": "Creatina Creatine Monohydrate Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 38.99,
- "rank": 81,
+ "rank": 100,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -37,6 +38,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Creatine Monohydrate DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/bJe4gA1IMbGQcqO8qy1gV37",
  "supplier": "Productifi",
  "supplier_id": "creatine-monohydrate-daz-premium-fit",
  "visual_verified": true

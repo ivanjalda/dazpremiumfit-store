@@ -30,8 +30,9 @@
  "name_en": "Proteína Vegetal Daz Protein",
  "name_es": "Proteína Proteína Vegetal Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 49.99,
- "rank": 72,
+ "rank": 90,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",
@@ -40,6 +41,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Proteína vegetal DAZ Premium Fit(chocolate)",
+ "stripe_payment_link": "https://buy.stripe.com/eVq4gAevy26gbmKayG1gV2X",
  "supplier": "Productifi",
  "supplier_id": "proteina-vegetal-daz-premium-fitchocolate",
  "visual_verified": true

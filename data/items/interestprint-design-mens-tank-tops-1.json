@@ -21,13 +21,15 @@
  "id": "interestprint-design-mens-tank-tops-1",
  "look": [
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-pantalon-de-chandal-unisex",
-  "productifi-cafe-mezcla-brasilena-16oz"
+  "printful-484195395-black",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
  ],
  "material": "",
- "name_en": "Daz Immortal Warrior Tee · Blanco",
- "name_es": "Camiseta Daz Immortal Warrior · Blanco",
+ "name_en": "Immortal Warrior Tank Top · Blanco",
+ "name_es": "Camiseta de Tirantes Immortal Warrior · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 21.99,
  "rank": 9,
  "shipping_usd": 8.0,
@@ -46,6 +48,7 @@
   "4XL"
  ],
  "source_title": "DAZ Premium Fit Immortal Warrior | Camiseta de tirantes blanca de hombre",
+ "stripe_payment_link": "https://buy.stripe.com/eVq5kEbjmfX64YmayG1gV1E",
  "supplier": "InterestPrint",
  "supplier_id": "design-mens-tank-tops-1",
  "visual_verified": true

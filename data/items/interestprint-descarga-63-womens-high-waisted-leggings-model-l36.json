@@ -30,8 +30,9 @@
  "name_en": "Wire Cintura Alta Leggings · Red",
  "name_es": "Leggings Wire Cintura Alta · Rojo",
  "needs_review": false,
+ "page": true,
  "price_usd": 40.99,
- "rank": 55,
+ "rank": 67,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
@@ -46,6 +47,7 @@
   "2XL"
  ],
  "source_title": "DPF Red Wire | Leggings de cintura alta",
+ "stripe_payment_link": "https://buy.stripe.com/28E28scnqdOYeyW9uC1gV2A",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-63-womens-high-waisted-leggings-model-l36",
  "visual_verified": true

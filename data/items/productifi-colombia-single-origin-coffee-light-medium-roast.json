@@ -15,7 +15,7 @@
   "hombre/camiseta"
  ],
  "cg": "t-cafe-daz-colombia-de-origen-unico-tostado-ligero-medio",
- "color": "",
+ "color": "Marrón",
  "created": "2026-11-25",
  "desc_en": "Discover the quintessence of single-origin Colombian coffee. This light to medium roast delivers a smooth yet complex experience, defined by a crisp acidity and subtle sweetness. Tasting notes evoke nuances of cooked molasses, cocoa, citrus, and melon. Crafted to elevate your morning ritual, each batch is roasted in the USA to ensure exceptional freshness in every cup. Available in whole bean or ground.",
  "desc_es": "Descubra la quintaesencia del origen único de Colombia. Este tueste ligero a medio revela una experiencia suave pero compleja, caracterizada por una acidez crujiente y un sutil dulzor. Sus notas de cata evocan matices de melaza cocida, cacao, cítricos y melón. Diseñado para elevar su ritual matutino, cada paquete es tostado en los Estados Unidos para garantizar una frescura excepcional en cada taza. Disponible en grano entero o molido.",
@@ -28,20 +28,23 @@
  ],
  "draft": true,
  "fam": "cafe-colombia-origen",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-colombia-single-origin-coffee-light-medium-roast",
  "look": [
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
-  "printful-pantalon-de-chandal-unisex",
-  "productifi-cafe-mezcla-brasilena-16oz"
+  "printful-484195395-black",
+  "productifi-cafe-mezcla-brasilena-16oz",
+  "productifi-apoyo-conjunto-daz-premium-fit"
  ],
- "material": "",
+ "material": "Café de origen único",
  "name_en": "Colombia Single Origin Coffee",
  "name_es": "Café Origen Único Colombia",
  "needs_review": true,
  "needs_studio": true,
+ "page": true,
  "price_usd": 34.99,
- "rank": 285,
+ "rank": 108,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Alimentación, bebida y tabaco > Bebidas > Café",
@@ -52,6 +55,7 @@
   "12oz"
  ],
  "source_title": "Café DAZ Colombia de Origen Único (Tostado Ligero-Medio)",
+ "stripe_payment_link": "https://buy.stripe.com/fZufZigDGh1aeyWfT01gV3f",
  "supplier": "Productifi",
  "supplier_id": "colombia-single-origin-coffee-light-medium-roast",
  "visual_verified": true

@@ -27,8 +27,9 @@
  "name_en": "Polvo Péptidos Colágeno Collagen",
  "name_es": "Colágeno Polvo Péptidos Colágeno",
  "needs_review": false,
+ "page": true,
  "price_usd": 34.99,
- "rank": 113,
+ "rank": 127,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -37,6 +38,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Polvo de péptidos de colágeno DAZ Premium Fit alimentados con pasto (chocolate)",
+ "stripe_payment_link": "https://buy.stripe.com/00w8wQevy26g9eCeOW1gV3y",
  "supplier": "Productifi",
  "supplier_id": "polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
  "visual_verified": true

@@ -26,11 +26,14 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
+ "missing_days": 1,
+ "missing_last": "2026-11-25",
  "name_en": "Botella Deportiva Oregon Bottle · White",
  "name_es": "Termo Botella Deportiva Oregon · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 30.99,
- "rank": 44,
+ "rank": 53,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Cocina y comedor > Objetos para llevar comida y bebida > Botellas de agua",
@@ -41,6 +44,7 @@
   "13.5oz"
  ],
  "source_title": "Botella deportiva Oregon DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/fZudRa5Z212c2QeeOW1gV2m",
  "supplier": "Printify",
  "supplier_id": "botella-deportiva-oregon-daz-premium-fit",
  "visual_verified": true

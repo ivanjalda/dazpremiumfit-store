@@ -27,8 +27,9 @@
  "name_en": "Daz Advanced Whey Protein",
  "name_es": "Proteína Daz Advanced Whey",
  "needs_review": false,
+ "page": true,
  "price_usd": 50.99,
- "rank": 91,
+ "rank": 107,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",
@@ -37,6 +38,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "DAZ Premium Fit Advanced 100% Whey Protein Isolate (Vanilla)",
+ "stripe_payment_link": "https://buy.stripe.com/aFa7sMevy5isbmK22a1gV3e",
  "supplier": "Productifi",
  "supplier_id": "advanced-100-whey-protein-isolate-vanilla",
  "visual_verified": true

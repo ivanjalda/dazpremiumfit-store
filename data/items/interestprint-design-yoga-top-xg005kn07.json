@@ -1,0 +1,121 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester Spandex Double Fabric",
+ "ai_priority": true,
+ "ai_type": "Tank Top",
+ "ai_ver": 2,
+ "art_note": "Model shots look heavily composited with artificial lighting and awkward expressions, typical of marketplace dropshipping.",
+ "art_score": 4,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "t-design-yoga-top-xg005kn07",
+ "color": "white",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your practice with support engineered for continuous movement. This yoga top features an X-shaped back design that guards against impact and secures the fit. Crafted from double polyester spandex fabric, it delivers tight elasticity with sweat-absorbent and breathable properties. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Eleve su práctica con un soporte diseñado para el movimiento continuo. Este top de yoga presenta un diseño de espalda en forma de X que protege contra el impacto y asegura el ajuste. Confeccionado en tejido doble de poliéster y elastano, ofrece una elasticidad contenida con propiedades absorbentes y transpirables. Cada pieza se confecciona bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Polyester spandex double fabric\n· X-shaped back design\n· Hand wash in cold water\n· Made-to-order piece",
+ "details_es": "· Tejido doble de poliéster y elastano\n· Diseño de espalda en X\n· Lavar a mano en agua fría\n· Pieza hecha a pedido",
+ "display_images": [
+  "assets/products/shop/1e52a4d8b453a71807bc.jpg",
+  "assets/products/shop/c9dca70c734a08d258d6.jpg",
+  "assets/products/shop/b02f3c0eb1065ee6f16e.jpg",
+  "assets/products/shop/72c417f9b5738f6a2476.jpg",
+  "assets/products/shop/562f2dc4947e0c0cee3d.jpg"
+ ],
+ "draft": true,
+ "fam": "yoga-top-xg005kn07",
+ "hidden": false,
+ "id": "interestprint-design-yoga-top-xg005kn07",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Diamond X-Back Yoga Top",
+ "name_es": "Top Deportivo X-Back Diamond",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 22.99,
+ "rank": 165,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "1/2 Bust",
+   "1/2 Bottom Hem"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "1/2 Busto",
+   "1/2 Dobladillo Inferior"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "La medición manual puede tener una diferencia de 1-2 cm. ¡Por favor revise y compare la talla cuidadosamente antes de comprar!",
+  "rows": [
+   [
+    "S",
+    "32cm / 12.6in",
+    "36cm / 14.2in",
+    "31.5cm / 12.4in"
+   ],
+   [
+    "M",
+    "33cm / 13in",
+    "38.5cm / 15.2in",
+    "34cm / 13.4in"
+   ],
+   [
+    "L",
+    "34cm / 13.4in",
+    "41cm / 16.1in",
+    "36.5cm / 14.4in"
+   ],
+   [
+    "XL",
+    "35cm / 13.8in",
+    "43.5cm / 17.1in",
+    "39cm / 15.4in"
+   ],
+   [
+    "XXL",
+    "36cm / 14.2in",
+    "46cm / 18.1in",
+    "41.5cm / 16.3in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/41016446b07bee7134bf.jpg",
+  "http://ipimg.interestprint.com/data/product/3585/info/image/20240703/F32329E07E1C48E7519075ED95FCDE29.jpg"
+ ],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "source_title": "Design Yoga Top (XG005KN07)",
+ "stripe_payment_link": "https://buy.stripe.com/8x2aEY3QUcKU2Qe8qy1gW02",
+ "supplier": "InterestPrint",
+ "supplier_id": "design-yoga-top-xg005kn07",
+ "visual_verified": true
+}

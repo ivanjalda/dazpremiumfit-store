@@ -1,0 +1,57 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printful-484200714",
+ "color": "Stone",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "https://files.cdn.printful.com/files/677/6774ca2b8462578e557461d5cb10bbe0_preview.png"
+ ],
+ "draft": false,
+ "fam": "chaqueta-corta-mujer",
+ "hidden": false,
+ "id": "printful-484200714-stone",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Corta Tough Bitch Jacket · Stone",
+ "name_es": "Chaqueta Corta Tough Bitch · Stone",
+ "needs_review": false,
+ "price_usd": 86.99,
+ "rank": 135,
+ "shipping_usd": 7.0,
+ "shipping_worst_usd": 7.29,
+ "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sudaderas con capucha",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "7031908_52901",
+  "7031908_52903",
+  "7031908_52905",
+  "7031908_52907",
+  "7031908_52909"
+ ],
+ "source_title": "Chaqueta corta de mujer DPF Tough Bitch con cremallera",
+ "stripe_payment_link": "https://buy.stripe.com/bJefZigDGcKU2Qe9uC1gV3G",
+ "supplier": "Printful",
+ "supplier_id": "484200714-stone",
+ "visual_verified": true
+}

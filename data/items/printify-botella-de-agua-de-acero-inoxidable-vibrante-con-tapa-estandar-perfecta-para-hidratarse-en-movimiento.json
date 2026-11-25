@@ -33,11 +33,14 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
+ "missing_days": 1,
+ "missing_last": "2026-11-25",
  "name_en": "Botella Agua Acero Bottle · White",
  "name_es": "Termo Botella Agua Acero · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 41.99,
- "rank": 60,
+ "rank": 76,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Cocina y comedor > Accesorios para aparatos de cocina > Accesorios para generadores de agua carbonatada > Botellas",
@@ -50,6 +53,7 @@
   "32oz"
  ],
  "source_title": "Botella de agua de acero inoxidable vibrante con tapa estándar: perfecta para hidratarse en movimiento",
+ "stripe_payment_link": "https://buy.stripe.com/8x2cN63QUaCMfD04ai1gV2J",
  "supplier": "Printify",
  "supplier_id": "botella-de-agua-de-acero-inoxidable-vibrante-con-tapa-estandar-perfecta-para-hidratarse-en-movimiento",
  "visual_verified": true

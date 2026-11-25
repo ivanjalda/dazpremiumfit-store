@@ -17,7 +17,7 @@
   "decor"
  ],
  "cg": "t-polvo-de-perla-de-abeja-daz-premium-fit",
- "color": "",
+ "color": "white",
  "created": "2026-11-25",
  "desc_en": "Bee Pearl Powder is a smoothie additive composed of concentrated bee bread, propolis, and royal jelly. Each box contains 30 easy-to-use sachets designed to complement your daily routine. Bee bread offers a blend of pollen, nectar, and enzymes. Royal jelly contains vitamins and minerals, including unique glycoproteins. Add the powder to yogurt, smoothies, or cereals. One sachet daily provides vitamins, microelements, unsaturated fatty acids, polyphenols, and antioxidants. Available for worldwide shipping with made-to-order pieces.",
  "desc_es": "Bee Pearl Powder es un aditivo para batidos compuesto por pan de abeja concentrado, propóleo y jalea real. Cada caja contiene 30 sobres fáciles de usar diseñados para complementar su rutina diaria. El pan de abeja ofrece una mezcla de polen, néctar y enzimas. La jalea real contiene vitaminas y minerales, incluyendo glicoproteínas únicas. Agregue el polvo al yogur, batidos o cereales. Un sobre al día proporciona vitaminas, microelementos, ácidos grasos insaturados, polifenoles y antioxidantes. Disponible para envío a todo el mundo con pedidos hechos a medida.",
@@ -29,6 +29,7 @@
  ],
  "draft": true,
  "fam": "polvo-perla-abeja",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-polvo-de-perla-de-abeja-daz-premium-fit",
  "look": [
@@ -39,8 +40,9 @@
  "name_es": "Polvo de Perla de Abeja",
  "needs_review": false,
  "needs_studio": true,
+ "page": true,
  "price_usd": 34.99,
- "rank": 297,
+ "rank": 141,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Sin categoría",
@@ -49,6 +51,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Polvo de perla de abeja DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/bJe14o3QU4eofD0ayG1gV3M",
  "supplier": "Productifi",
  "supplier_id": "polvo-de-perla-de-abeja-daz-premium-fit",
  "visual_verified": true

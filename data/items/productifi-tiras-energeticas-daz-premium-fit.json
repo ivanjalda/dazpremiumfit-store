@@ -35,8 +35,9 @@
  "name_en": "Tiras Energéticas Daz Vitamins",
  "name_es": "Vitaminas Tiras Energéticas Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
- "rank": 28,
+ "rank": 31,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Sin categoría",
@@ -45,6 +46,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Tiras energéticas DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/5kQdRa87afX69eC5em1gV20",
  "supplier": "Productifi",
  "supplier_id": "tiras-energeticas-daz-premium-fit",
  "visual_verified": true

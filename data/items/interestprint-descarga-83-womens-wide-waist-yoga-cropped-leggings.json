@@ -31,8 +31,9 @@
  "name_en": "Amethyst Yoga Cintura Leggings",
  "name_es": "Leggings Amethyst Yoga Cintura",
  "needs_review": false,
+ "page": true,
  "price_usd": 26.99,
- "rank": 21,
+ "rank": 23,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
@@ -51,6 +52,7 @@
   "5XL"
  ],
  "source_title": "DPF Amethyst | Leggings de yoga de cintura alta",
+ "stripe_payment_link": "https://buy.stripe.com/6oU28sbjm3akfD0bCK1gV1S",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-83-womens-wide-waist-yoga-cropped-leggings",
  "visual_verified": true

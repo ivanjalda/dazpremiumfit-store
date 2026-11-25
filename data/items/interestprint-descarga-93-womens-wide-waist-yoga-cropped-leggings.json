@@ -32,8 +32,9 @@
  "name_en": "Kaleido Yoga Cintura Leggings",
  "name_es": "Leggings Kaleido Yoga Cintura",
  "needs_review": false,
+ "page": true,
  "price_usd": 26.99,
- "rank": 22,
+ "rank": 24,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
@@ -52,6 +53,7 @@
   "5XL"
  ],
  "source_title": "DPF Kaleido | Leggings de yoga de cintura alta",
+ "stripe_payment_link": "https://buy.stripe.com/5kQ5kE9befX6eyW8qy1gV1T",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-93-womens-wide-waist-yoga-cropped-leggings",
  "visual_verified": true

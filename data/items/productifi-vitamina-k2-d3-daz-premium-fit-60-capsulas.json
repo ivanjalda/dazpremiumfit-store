@@ -27,8 +27,9 @@
  "name_en": "Vitamina Daz Cápsulas Vitamins · White",
  "name_es": "Vitaminas Vitamina Daz Cápsulas · Blanco",
  "needs_review": false,
+ "page": true,
  "price_usd": 26.99,
- "rank": 40,
+ "rank": 43,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",
@@ -39,6 +40,7 @@
   "60 Vegetable capsules"
  ],
  "source_title": "Vitamina K2 + D3 DAZ Premium Fit (60 cápsulas)",
+ "stripe_payment_link": "https://buy.stripe.com/7sY14oevyeT262q6iq1gV2c",
  "supplier": "Productifi",
  "supplier_id": "vitamina-k2-d3-daz-premium-fit-60-capsulas",
  "visual_verified": true

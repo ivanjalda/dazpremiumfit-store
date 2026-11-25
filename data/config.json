@@ -229,7 +229,8 @@
       "name": "Club DPF 10%",
       "percent_off": 10,
       "first_order_only": true,
-      "for": "subscribers"
+      "for": "subscribers",
+      "created": true
     }
   ],
   "analytics": {

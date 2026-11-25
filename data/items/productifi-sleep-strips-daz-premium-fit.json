@@ -35,8 +35,9 @@
  "name_en": "Sleep Strips Daz Vitamins",
  "name_es": "Vitaminas Sleep Strips Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 27.99,
- "rank": 27,
+ "rank": 30,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Sin categoría",
@@ -45,6 +46,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Sleep Strips DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/7sY14o73626geyW0Y61gV1Z",
  "supplier": "Productifi",
  "supplier_id": "sleep-strips-daz-premium-fit",
  "visual_verified": true

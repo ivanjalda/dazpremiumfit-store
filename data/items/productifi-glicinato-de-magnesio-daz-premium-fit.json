@@ -35,8 +35,9 @@
  "name_en": "Glicinato Magnesio Daz Supplement",
  "name_es": "Suplemento Glicinato Magnesio Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 26.99,
- "rank": 26,
+ "rank": 29,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Sin categoría",
@@ -45,6 +46,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Glicinato de Magnesio DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/fZu3cwafiaCMgH4fT01gV1Y",
  "supplier": "Productifi",
  "supplier_id": "glicinato-de-magnesio-daz-premium-fit",
  "visual_verified": true

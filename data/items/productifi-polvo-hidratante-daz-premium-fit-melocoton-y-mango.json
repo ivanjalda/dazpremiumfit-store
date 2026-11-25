@@ -34,8 +34,9 @@
  "name_en": "Polvo Hidratante Daz Vitamins",
  "name_es": "Vitaminas Polvo Hidratante Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 33.99,
- "rank": 53,
+ "rank": 63,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -44,6 +45,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Polvo hidratante DAZ Premium Fit (Melocotón y mango)",
+ "stripe_payment_link": "https://buy.stripe.com/aFa28s3QU7qAcqOeOW1gV2w",
  "supplier": "Productifi",
  "supplier_id": "polvo-hidratante-daz-premium-fit-melocoton-y-mango",
  "visual_verified": true

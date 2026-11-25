@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "Citron",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster y 5% elastano",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "Mockup images with flat graphics pasted on models, lacking true high-end campaign standards.",
+ "art_score": 3,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +20,10 @@
  "cg": "t-dpf-citron-leggings-de-cintura-alta",
  "color": "Verde",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Elevate your presence with a vibrant and resolute tone. These high-waist leggings combine a smooth finish with a design meant to stand out effortlessly. Their lightweight and soft fabric offers controlled flexibility that accompanies every movement with precision. Ideal for training or a contemporary urban aesthetic, they adapt to your rhythm with impeccable elegance. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "Eleva tu presencia con un tono vibrante y decidido. Estos leggings de cintura alta combinan un acabado liso con un diseño pensado para destacar sin artificios. Su tejido ligero y suave ofrece una flexibilidad controlada que acompaña cada movimiento con precisión. Ideales para el entrenamiento o para una estética urbana contemporánea, se adaptan a tu ritmo con una elegancia impecable. Cada pieza se confecciona bajo demanda y cuenta con envíos a todo el mundo.",
+ "details_en": "· Composition: 95% polyester and 5% elastane.\n· Lightweight, soft, smooth, and slightly stretchy fabric.\n· High and elastic waist.\n· Fitted cut and ankle length.\n· Hand or machine wash with water at a maximum of 45 °C.\n· Do not soak for prolonged periods or use bleach.\n· Made to order and worldwide shipping.",
+ "details_es": "· Composición: 95 % poliéster y 5 % elastano.\n· Tejido ligero, suave, liso y ligeramente elástico.\n· Cintura alta y elástica.\n· Corte ceñido y largo hasta el tobillo.\n· Lavar a mano o a máquina con agua a un máximo de 45 °C.\n· No dejar en remojo durante periodos prolongados ni utilizar lejía.\n· Confección bajo demanda y envíos a todo el mundo.",
  "display_images": [
   "assets/products/shop/5412e77dd6bbb0074eb3.jpg",
   "assets/products/shop/48a565bccba864387933.jpg",
@@ -26,16 +41,66 @@
   "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
  ],
  "material": "",
- "name_en": "Citron Cintura Alta Leggings",
- "name_es": "Leggings Citron Cintura Alta",
+ "name_en": "DPF Citron High-Waist Leggings",
+ "name_es": "Leggings de cintura alta DPF Citron",
  "needs_review": false,
+ "needs_studio": true,
+ "page": true,
  "price_usd": 21.99,
  "rank": 3,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (cm)",
+   "Waist Width (cm)",
+   "Hip Width (cm)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (cm)",
+   "Ancho de cintura (cm)",
+   "Ancho de cadera (cm)"
+  ],
+  "notes_en": "Garment measurements laid flat. Waist and hip widths correspond to half the circumference.",
+  "notes_es": "Medidas de la prenda en plano. Los anchos de cintura y cadera corresponden a la mitad del contorno.",
+  "rows": [
+   [
+    "S",
+    "95",
+    "33",
+    "39"
+   ],
+   [
+    "M",
+    "98",
+    "35,5",
+    "41,5"
+   ],
+   [
+    "L",
+    "101",
+    "38",
+    "44"
+   ],
+   [
+    "XL",
+    "104",
+    "40,5",
+    "46,5"
+   ],
+   [
+    "2XL",
+    "107",
+    "43",
+    "49"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "S",
@@ -45,6 +110,7 @@
   "2XL"
  ],
  "source_title": "DPF Citron | Leggings de cintura alta",
+ "stripe_payment_link": "https://buy.stripe.com/fZueVegDG6mw62qbCK1gV1y",
  "supplier": "InterestPrint",
  "supplier_id": "design-custom-womens-high-waist-legging-1",
  "visual_verified": true

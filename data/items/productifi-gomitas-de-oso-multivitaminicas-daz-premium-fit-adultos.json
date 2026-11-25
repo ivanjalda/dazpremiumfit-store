@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Rojo",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Gomitas multivitamínicas",
+ "ai_type": "Suplemento",
+ "ai_ver": 2,
+ "art_note": "Clean product studio shot but lacks high-end campaign atmosphere.",
+ "art_score": 6,
+ "audited": "2026-11-25",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +20,13 @@
  "cg": "t-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Elevate your daily routine with these multivitamin gummies formulated to support overall wellness. Each serving delivers an essential blend of vitamins and minerals designed to accompany your active lifestyle. Enjoy a convenient and pleasant format that integrates seamlessly into your daily health objectives. Crafted under strict quality standards in the United States. Available with worldwide shipping and made to order.",
+ "desc_es": "Eleva tu rutina diaria con estas gomitas multivitamínicas formuladas para apoyar el bienestar general. Cada porción aporta una combinación esencial de vitaminas y minerales diseñados para acompañar tu estilo de vida activo. Disfruta de un formato cómodo y agradable que se integra perfectamente en tus objetivos diarios de salud. Elaboradas bajo estrictos estándares de calidad en los Estados Unidos. Disponibles con envíos a todo el mundo y producción bajo demanda.",
+ "details_en": "· Natural strawberry flavor\n· Content: 60 gummies\n· Suggested use: take two capsules once daily\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Sabor natural a fresa\n· Contenido: 60 gomitas\n· Uso sugerido: tomar dos cápsulas una vez al día\n· Made to order\n· Worldwide shipping",
  "display_images": [
   "assets/products/shop/2a494be740efed8f4ac0.jpg",
-  "assets/products/shop/ec19983f1f0cccd84c92.jpg",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206095601-allergen-free-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206100059-antibiotic-free-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png"
+  "assets/products/shop/ec19983f1f0cccd84c92.jpg"
  ],
  "draft": false,
  "fam": "gomitas-oso-multivitaminicas",
@@ -26,9 +37,11 @@
   "productifi-combinacion-de-l-citrulina-y-l-arginina-daz-premium-fit"
  ],
  "material": "",
- "name_en": "Gomitas Oso Multivitamínicas Vitamins",
- "name_es": "Vitaminas Gomitas Oso Multivitamínicas",
+ "name_en": "Premium Multivitamin Gummies",
+ "name_es": "Gomitas Multivitamínicas Premium",
  "needs_review": false,
+ "needs_studio": true,
+ "page": true,
  "price_usd": 24.99,
  "rank": 15,
  "shipping_usd": 8.0,
@@ -39,6 +52,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Gomitas de oso Multivitamínicas DAZ Premium Fit (adultos)",
+ "stripe_payment_link": "https://buy.stripe.com/7sY4gAafi8uE2QegX41gV1K",
  "supplier": "Productifi",
  "supplier_id": "gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos",
  "visual_verified": true

@@ -30,8 +30,9 @@
  "name_en": "Rebel Hearts Bolsillos Leggings",
  "name_es": "Leggings Rebel Hearts Bolsillos",
  "needs_review": false,
+ "page": true,
  "price_usd": 26.99,
- "rank": 24,
+ "rank": 27,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
@@ -50,6 +51,7 @@
   "5XL"
  ],
  "source_title": "DPF Rebel Hearts | Leggings con bolsillos",
+ "stripe_payment_link": "https://buy.stripe.com/4gM6oI5Z212c62qbCK1gV1W",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-55-womens-high-waist-pockets-yoga-leggings",
  "visual_verified": true

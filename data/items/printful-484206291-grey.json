@@ -1,0 +1,53 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printful-484206291",
+ "color": "Grey",
+ "created": "2026-11-25",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "https://files.cdn.printful.com/files/bc8/bc8b6de1fd173109b81bf68255ccf287_preview.png"
+ ],
+ "draft": false,
+ "fam": "sudadera-capucha-mujer",
+ "hidden": false,
+ "id": "printful-484206291-grey",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra",
+  "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03"
+ ],
+ "material": "",
+ "name_en": "Capucha Tough Bitch Sweatshirt · Grey",
+ "name_es": "Sudadera Capucha Tough Bitch · Gris",
+ "needs_review": false,
+ "price_usd": 90.99,
+ "rank": 130,
+ "shipping_usd": 7.0,
+ "shipping_worst_usd": 7.29,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "3510565_19712",
+  "3510565_19727",
+  "3510565_19732"
+ ],
+ "source_title": "Sudadera con capucha de mujer DPF Tough Bitch & Under Armour",
+ "stripe_payment_link": "https://buy.stripe.com/5kQfZi2MQ8uEeyW0Y61gV3B",
+ "supplier": "Printful",
+ "supplier_id": "484206291-grey",
+ "visual_verified": true
+}

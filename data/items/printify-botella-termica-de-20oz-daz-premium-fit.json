@@ -23,11 +23,14 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
+ "missing_days": 1,
+ "missing_last": "2026-11-25",
  "name_en": "Botella Térmica Daz Bottle",
  "name_es": "Termo Botella Térmica Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 38.99,
- "rank": 79,
+ "rank": 98,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Cocina y comedor > Objetos para llevar comida y bebida > Botellas de agua",
@@ -38,6 +41,7 @@
   "20oz"
  ],
  "source_title": "Botella térmica de 20oz DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/8x2eVe736aCM4YmayG1gV35",
  "supplier": "Printify",
  "supplier_id": "botella-termica-de-20oz-daz-premium-fit",
  "visual_verified": true

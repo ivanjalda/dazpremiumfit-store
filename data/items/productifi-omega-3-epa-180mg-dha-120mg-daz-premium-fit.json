@@ -36,8 +36,9 @@
  "name_en": "Omega Epa Dha Omega 3",
  "name_es": "Omega 3 Omega Epa Dha",
  "needs_review": false,
+ "page": true,
  "price_usd": 28.99,
- "rank": 41,
+ "rank": 47,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Jardín > Jardinería > Hidropónicos > Nutrientes y suplementos > Suplementos",
@@ -46,6 +47,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Omega-3 EPA 180mg + DHA 120mg DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/aFa00kafi26g2QecGO1gV2g",
  "supplier": "Productifi",
  "supplier_id": "omega-3-epa-180mg-dha-120mg-daz-premium-fit",
  "visual_verified": true

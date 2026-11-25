@@ -33,8 +33,9 @@
  "name_en": "Daz Tough Plaid Leggings",
  "name_es": "Leggings Daz Tough Plaid",
  "needs_review": false,
+ "page": true,
  "price_usd": 45.99,
- "rank": 78,
+ "rank": 97,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
@@ -48,6 +49,7 @@
   "2XL"
  ],
  "source_title": "DAZ Premium Fit Tough Plaid | Leggings de cintura alta a cuadros",
+ "stripe_payment_link": "https://buy.stripe.com/8x23cw2MQ6mwgH4ayG1gV34",
  "supplier": "InterestPrint",
  "supplier_id": "descarga-52-womens-high-waist-leggingsmodell44plus-size",
  "visual_verified": true

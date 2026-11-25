@@ -32,8 +32,9 @@
  "name_en": "Multivitamínico Completo Daz Vitamins",
  "name_es": "Vitaminas Multivitamínico Completo Daz",
  "needs_review": false,
+ "page": true,
  "price_usd": 25.99,
- "rank": 30,
+ "rank": 33,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
@@ -42,6 +43,7 @@
  "size_guide": [],
  "sizes": [],
  "source_title": "Multivitamínico completo DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/9B614o87a6mweyW0Y61gV22",
  "supplier": "Productifi",
  "supplier_id": "complete-multivitamin",
  "visual_verified": true
