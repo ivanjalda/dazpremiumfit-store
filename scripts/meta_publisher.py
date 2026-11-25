@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-DPF — Publicación automática en Instagram (@dazmondco) y en la página de Facebook.
+DAZMOND — Publicación automática en Instagram (@dazmondco) y en la página de Facebook.
 
 Se ejecuta cada hora junto a la tienda, pero solo publica en las horas elegidas
 (por defecto 2 veces al día, a mediodía y por la noche de Estados Unidos).
 En cada turno:
   - Instagram: un carrusel con 3 productos distintos (o una foto si solo hay una).
-  - Facebook: una publicación con la foto y el enlace directo al producto en dazpremiumfit.com.
+  - Facebook: una publicación con la foto y el enlace directo al producto en dazmond.com.
 Rota los productos para no repetir y prioriza novedades y diseños propios.
 
 Necesita el secreto META_PAGE_TOKEN (token permanente de la página). Sin él no hace nada.
@@ -33,7 +33,8 @@ DEFAULTS = {
     "slots_utc": [17, 1],          # 12:00 y 20:00 en Nueva York (invierno)
     "products_per_post": 3,
 }
-TAGS = "#DAZPremiumFit #DPF #GymWear #Bodybuilding #Fitness #CrossFit #ImmortalWarrior #ToughBitch"
+TAGS = "#DAZPremiumFit #GymWear #Bodybuilding #CrossFit"
+BRAND = "dpf"   # estilo de las piezas: dazmond (lujo) · dpf (deporte)
 
 
 def log(m):
@@ -93,16 +94,135 @@ def pick(products, state, n, rng):
 
 
 def caption(items, site):
-    lines = ["New from DAZ Premium Fit 🔥", ""]
+    """Texto sobrio, como las grandes casas: el nombre, la firma y la web. Sin precios ni emojis."""
+    names = [p.get("name_en") or "DAZMOND" for p in items]
+    head = names[0] if len(names) == 1 else " · ".join(names[:3])
+    if BRAND == "dpf":
+        return f"{head}\n\nBuilt to train. DAZ Premium Fit.\n{site.replace('https://', '')}\n\n{TAGS}"
+    return f"{head}\n\nDAZMOND — American Luxury House.\nMade to order · {site.replace('https://', '')}\n\n{TAGS}"
+
+
+def _multipart(fields, file_field, filename, data, ctype="image/jpeg"):
+    b = "----dz" + str(random.randint(10**9, 10**10))
+    out = []
+    for k, v in fields.items():
+        out.append(f"--{b}\r\nContent-Disposition: form-data; name=\"{k}\"\r\n\r\n{v}\r\n".encode())
+    out.append(f"--{b}\r\nContent-Disposition: form-data; name=\"{file_field}\"; filename=\"{filename}\"\r\n"
+               f"Content-Type: {ctype}\r\n\r\n".encode() + data + b"\r\n")
+    out.append(f"--{b}--\r\n".encode())
+    return b"".join(out), f"multipart/form-data; boundary={b}"
+
+
+def upload_photo(page, ptoken, jpg_bytes, published=False, message=""):
+    fields = {"access_token": ptoken, "published": "true" if published else "false"}
+    if message:
+        fields["message"] = message
+    if not published:
+        fields["temporary"] = "true"
+    body, ctype = _multipart(fields, "source", "dz.jpg", jpg_bytes)
+    req = urllib.request.Request(f"{GRAPH}/{page}/photos", data=body, method="POST",
+                                 headers={"Content-Type": ctype})
+    try:
+        with urllib.request.urlopen(req, timeout=120) as r:
+            return json.loads(r.read().decode())
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(e.read().decode()[:400])
+
+
+def campaign_cards(items, site):
+    """Convierte la foto de cada producto en una pieza de campaña (estilo de la marca)."""
+    import io
+    from social_studio import card
+    out = []
     for p in items:
-        lines.append(f"• {p.get('name_en', 'DPF piece')} — ${round(p.get('price_usd', 0))}")
-    lines += ["", "Made to order. Free shipping worldwide.", f"Shop now: link in bio · {site.replace('https://', '')}",
-              "", TAGS]
-    return "\n".join(lines)
+        u = image_url(p, site, ig=True) or image_url(p, site)
+        if not u:
+            continue
+        try:
+            req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                raw = r.read()
+            from PIL import Image
+            img = Image.open(io.BytesIO(raw))
+            kicker = "NEW IN" if BRAND != "dpf" else (p.get("line") or "IMMORTAL WARRIOR")
+            pic = card(BRAND, img, p.get("name_en") or "", kicker)
+            buf = io.BytesIO()
+            pic.save(buf, "JPEG", quality=92)
+            out.append((p, buf.getvalue()))
+        except Exception as e:
+            log(f"No pude preparar la pieza de {p.get('id')}: {str(e)[:120]}")
+    return out
 
 
-def publish_instagram(ig, token, items, site):
-    urls = [u for u in (image_url(p, site, ig=True) for p in items) if u]
+def fetch_image(p, site):
+    import io
+    from PIL import Image
+    u = image_url(p, site, ig=True) or image_url(p, site)
+    req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return Image.open(io.BytesIO(r.read()))
+
+
+def publish_reel(page, ig, token, ptoken, items, site, seed):
+    """Vídeo de marca (stock + productos + logo). Se sube a Facebook y desde ahí a Instagram Reels."""
+    import tempfile
+    from brand_reel import make_reel
+    prods = []
+    for p in items[:2]:
+        try:
+            prods.append((fetch_image(p, site), p.get("name_en") or ""))
+        except Exception as e:
+            log(f"Sin foto para el vídeo ({p.get('id')}): {str(e)[:80]}")
+    out = os.path.join(tempfile.mkdtemp(), "reel.mp4")
+    make_reel(BRAND, prods, out, seed=seed)
+    data = open(out, "rb").read()
+    cap = caption(items[:2], site)
+    body, ctype = _multipart({"access_token": ptoken, "description": cap, "published": "true"},
+                             "source", "reel.mp4", data, "video/mp4")
+    req = urllib.request.Request(f"https://graph-video.facebook.com/v23.0/{page}/videos", data=body,
+                                 method="POST", headers={"Content-Type": ctype})
+    try:
+        with urllib.request.urlopen(req, timeout=300) as r:
+            vid = json.loads(r.read().decode())["id"]
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(e.read().decode()[:400])
+    res = {"facebook_video": vid}
+    src = None
+    for _ in range(36):  # hasta 6 minutos a que Facebook procese el vídeo
+        info = api(vid, {"fields": "source,status", "access_token": ptoken}, "GET")
+        src = info.get("source")
+        if src and (info.get("status") or {}).get("video_status") in (None, "ready"):
+            break
+        time.sleep(10)
+    if not src:
+        raise RuntimeError("Facebook no devolvió la dirección del vídeo a tiempo")
+    c = api(f"{ig}/media", {"media_type": "REELS", "video_url": src, "caption": cap, "share_to_feed": "true",
+                            "access_token": token})
+    for _ in range(40):
+        st = api(c["id"], {"fields": "status_code", "access_token": token}, "GET").get("status_code")
+        if st == "FINISHED":
+            break
+        if st == "ERROR":
+            raise RuntimeError("Instagram no pudo procesar el vídeo")
+        time.sleep(10)
+    res["instagram"] = api(f"{ig}/media_publish", {"creation_id": c["id"], "access_token": token}).get("id")
+    return res
+
+
+def card_urls(page, ptoken, cards):
+    """Sube las piezas a Facebook sin publicarlas y devuelve sus direcciones (Instagram las lee de ahí)."""
+    urls = []
+    for _, jpg in cards:
+        r = upload_photo(page, ptoken, jpg, published=False)
+        info = api(r["id"], {"fields": "images", "access_token": ptoken}, "GET")
+        imgs = sorted(info.get("images", []), key=lambda x: -x.get("width", 0))
+        if imgs:
+            urls.append(imgs[0]["source"])
+    return urls
+
+
+def publish_instagram(ig, token, items, site, urls=None):
+    urls = urls or [u for u in (image_url(p, site, ig=True) for p in items) if u]
     if not urls:
         raise RuntimeError("ningún producto tiene foto pública")
     cap = caption(items, site)
@@ -144,12 +264,16 @@ def page_token(page, token):
     return token
 
 
-def publish_facebook(page, token, p, site):
+def publish_facebook(page, token, p, site, card_jpg=None):
     token = page_token(page, token)
-    url = image_url(p, site)
     link = f"{site}/p/{p['id']}/?lang=en&cur=USD"
-    msg = (f"{p.get('name_en', 'DPF')} — ${round(p.get('price_usd', 0))}\n"
-           f"Made to order · Free shipping worldwide\n\nShop: {link}\n\n{TAGS}")
+    name = p.get("name_en", "DAZMOND")
+    sign = "DAZ Premium Fit" if BRAND == "dpf" else "DAZMOND — American Luxury House"
+    msg = f"{name}\n\n{sign}\n{link}"
+    if card_jpg:
+        r = upload_photo(page, token, card_jpg, published=True, message=msg)
+        return r.get("post_id") or r.get("id")
+    url = image_url(p, site)
     if url:
         r = api(f"{page}/photos", {"url": url, "message": msg, "access_token": token})
     else:
@@ -194,18 +318,39 @@ def main():
         log("No hay productos con foto para publicar.")
         return 0
     result = {"slot": slot, "ids": [p["id"] for p in items]}
+    ptoken = page_token(conf["page_id"], token)
+    if passed[-1] == conf.get("reel_slot_utc", 1) and conf.get("reels", True):
+        try:
+            r = publish_reel(conf["page_id"], conf["ig_user_id"], token, ptoken, items, site, slot)
+            result.update({"reel": True, "instagram": r.get("instagram"), "facebook": r.get("facebook_video")})
+            log(f"Vídeo publicado: {r}")
+            return finish(state, slot, result, items)
+        except Exception as e:
+            log(f"El vídeo falló, publico fotos en su lugar: {str(e)[:200]}")
+            result["reel_error"] = str(e)[:200]
+    cards, urls = [], None
     try:
-        result["instagram"] = publish_instagram(conf["ig_user_id"], token, items, site)
+        cards = campaign_cards(items, site)
+        urls = card_urls(conf["page_id"], ptoken, cards) if cards else None
+    except Exception as e:
+        log(f"Piezas de campaña no disponibles, uso las fotos normales: {str(e)[:150]}")
+    try:
+        result["instagram"] = publish_instagram(conf["ig_user_id"], token, items, site, urls)
         log(f"Instagram publicado: {result['instagram']}")
     except Exception as e:
         result["instagram_error"] = str(e)[:300]
         log(f"Instagram falló: {e}")
     try:
-        result["facebook"] = publish_facebook(conf["page_id"], token, items[0], site)
+        result["facebook"] = publish_facebook(conf["page_id"], token, items[0], site,
+                                              cards[0][1] if cards else None)
         log(f"Facebook publicado: {result['facebook']}")
     except Exception as e:
         result["facebook_error"] = str(e)[:300]
         log(f"Facebook falló: {e}")
+    return finish(state, slot, result, items)
+
+
+def finish(state, slot, result, items):
     state["done"] = (state["done"] + [slot])[-200:]
     state["last_ts"] = time.time()
     state["used"] = (state.get("used", []) + result["ids"])[-600:]
@@ -221,7 +366,8 @@ def main():
     else:
         state["last_err"] = ""
         save_json("meta_publisher.json", state)
-        notify(f"✦ Publicado en Instagram y Facebook: {', '.join(p.get('name_es', p['id']) for p in items)}")
+        kind = "vídeo" if result.get("reel") else "fotos"
+        notify(f"✦ Publicado ({kind}) en Instagram y Facebook: {', '.join(p.get('name_es', p['id']) for p in items)}")
     return 0
 
 

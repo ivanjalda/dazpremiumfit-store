@@ -159,8 +159,12 @@ def main():
         return 0
     me = str(env("TELEGRAM_CHAT_ID"))
     state = load_json("telegram_state.json", {"offset": 0})
-    updates = telegram("getUpdates", {"offset": state.get("offset", 0), "timeout": 0,
-                                      "allowed_updates": '["message"]'}).get("result", [])
+    try:
+        updates = telegram("getUpdates", {"offset": state.get("offset", 0), "timeout": 0,
+                                          "allowed_updates": '["message"]'}).get("result", [])
+    except Exception as e:  # p. ej. el bot lo usa otra web con "webhook": entonces el buzón se apaga y sigue todo
+        log(f"El buzón de Telegram no está disponible ({str(e)[:80]}); sigo sin él.")
+        return 0
     if not updates:
         log("No hay mensajes nuevos.")
         return 0
