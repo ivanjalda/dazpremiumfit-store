@@ -86,12 +86,15 @@ NOT_SPORT = (r"\bpolos?\b|pijama|pyjama|pajama|albornoz|\bbatas?\b|\brobe\b|blaz
              r"\bcaf[eé]\b|coffee|\bperros?\b|\bdogs?\b|mascota|\bpet\b|s[eé]rum|suero|\bcrema\b|t[oó]nico|bálsamo|"
              r"b[aá]lsamo|aceite (facial|capilar)|hidratante|\breloj(es)?\b(?! ?(band|strap|correa))|zuecos|"
              r"zapatos elegantes|\bbotas?\b|botines|chanclas|sandalias|zapatillas (de|para) casa|slippers|"
-             r"ropa interior|lencer[ií]a|lingerie|bañador|bikini|cinturón|cartera|wallet")
+             r"ropa interior|lencer[ií]a|lingerie|bañador|bikini|cinturón|cartera|wallet|\btarro|\bjars?\b|mason")
 SUPPLEMENT_WORDS = (r"supplement|suplement|prote[ií]na|protein|whey|creatin|pre[- ]?entren|pre[- ]?workout|"
                     r"c[aá]psulas?|capsules?|gomitas|gummies|gotas|drops|vitamin|col[aá]geno|collagen|"
                     r"electrolit|amino|bcaa|glutamin|omega|probi[oó]tic|ashwagandha|berberin|superalimento|"
                     r"superfood|spirulina|keto|energy powder|tiras|strips|arginin|citrulin|colostr|óxido nítrico|"
                     r"nitric oxide|melena de le[oó]n|chaga|perla de abeja|bee (pearl|bread)|remolacha|beet")
+
+SUPP_NAMES = [(r"advanced whey protein chocolate", "Proteína Whey Advanced · Chocolate (877 g)",
+               "Advanced Whey Protein · Chocolate (877 g)")]
 
 
 def store_rules(cfg, products, hide):
@@ -109,6 +112,11 @@ def store_rules(cfg, products, hide):
         if is_supp:
             if not any(a in name for a in allowed):
                 hide(p, "suplemento que no es del proveedor autorizado")
+            else:
+                for pat, es, en in SUPP_NAMES:
+                    if re.search(pat, name):
+                        p["name_es"], p["name_en"] = es, en
+                        break
             continue
         if re.search(NOT_SPORT, name) or (extra_block and re.search(extra_block, name)):
             hide(p, "no es de tienda deportiva")
