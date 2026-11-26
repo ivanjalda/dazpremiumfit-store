@@ -269,7 +269,8 @@
     "ai_audit_per_run": 20
   },
   "design_studio": {
-    "designs_per_day": 0
+    "designs_per_day": 2,
+    "enabled": true
   },
   "meta_publisher": {
     "enabled": false
@@ -291,5 +292,5 @@
     ],
     "nota": "Suplementos: SOLO los de Productifi (wish4.com). Supliful es de pago y no se usa."
   },
-  "dpf_settings_version": 2
+  "dpf_settings_version": 3
 }

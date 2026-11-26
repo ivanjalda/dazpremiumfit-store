@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:23:05Z",
+  "updated": "2026-11-26T20:35:51Z",
   "products": [
     {
       "id": "printful-359535579",
@@ -19026,7 +19026,8 @@
       "stripe_price_cents": 2699,
       "stripe_site": "https://dazpremiumfit.com",
       "gender": "unisex",
-      "img_checked": "2026-11-25"
+      "img_checked": "2026-11-25",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-colostrum-powder-daz-premium-fit",
@@ -19139,7 +19140,8 @@
       "details_en": "· 2300 mg of bovine colostrum standardized to 25% immunoglobulin G per serving\n· 575 mg of immunoglobulins IgG\n· Contains milk\n· Net quantity 69 g\n· Made-to-order piece\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-esenciales-para-cabello-piel-y-unas",
@@ -19250,7 +19252,8 @@
       "details_en": "· 60 capsules\n· Contains soy\n· Made in USA",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-4oz",
@@ -19376,7 +19379,8 @@
       "stripe_link_id": "plink_1Ufq1kLJVU4oTPuXRw4JDdz7",
       "stripe_price_cents": 2699,
       "stripe_site": "https://dazpremiumfit.com",
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-ginkgo-biloba-ginseng-daz-premium-fit",
@@ -19496,7 +19500,8 @@
       "details_en": "· 60 capsules per container\n· Made in USA\n· Made to order with worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-musgo-marino-daz-premium-fit",
@@ -19611,7 +19616,8 @@
       "details_en": "· 60 capsules per container\n· Made in USA\n· Ingredients: organic irish moss, organic bladderwrack, organic burdock, BioPerine, pullulan capsules",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-super-quemador-de-grasa-con-mct-daz-premium-fit",
@@ -19712,7 +19718,8 @@
       "details_en": "· 90 capsules per bottle\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-apoyo-a-la-prostata-daz-premium-fit",
@@ -19817,7 +19824,8 @@
       "details_en": "· 60 capsules per container\n· Two capsules daily with water\n· Ingredients: Vitamin E, Vitamin B6, Saw Palmetto Extract, Pygeum africanum Extract, Grape Seed Extract, Pumpkin Seed Extract, Nettle Extract, Boron, Lycopene\n· Other ingredients: Gelatin (capsule), Brown Rice Flour\n· Made in USA",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "men"
+      "gender": "men",
+      "audited": "2026-11-26"
     },
     {
       "id": "interestprint-descarga-81-deep-v-neck-racerback-cutout-active-crop-tops",
@@ -20022,7 +20030,8 @@
       "details_en": "· 80% polyester, 20% spandex\n· Double-layer design with deep V-neck\n· Racerback with cutout detail\n· Hand or machine wash at temperatures <=45C\n· Made to order\n· Worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-5-htp",
@@ -20136,7 +20145,8 @@
       "details_en": "· 60 capsules\n· Made to order\n· Worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-vitamina-k2-d3-daz-premium-fit-60-capsulas",
@@ -20263,7 +20273,8 @@
       "details_en": "· Vitamin D3 (cholecalciferol), vitamin K2 (mk-7), calcium, BioPerine\n· 60 vegetable capsules\n· Corn-free and lactose-free\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-aceite-facial-nutritivo-de-jojoba-daz-premium-fit",
@@ -20530,7 +20541,8 @@
       "details_en": "· 100% Spirulina Powder (Arthrospira platensis)\n· Net weight: 0.26 lb (120 g)\n· Made in USA\n· Made to order with worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-toallitas-dentales-para-perros-daz-premium-fit",
@@ -20773,7 +20785,8 @@
       "stripe_link_id": "plink_1Ufq1mLJVU4oTPuX5j7dVTPG",
       "stripe_price_cents": 2599,
       "stripe_site": "https://dazpremiumfit.com",
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-toallitas-para-ojos-de-perro-daz-premium-fit",
@@ -20997,7 +21010,8 @@
       "details_en": "· Flavor: Raspberry\n· Quantity: 60 gummies\n· Key ingredients: Glucosamine Sulfate, Vitamin E, Sodium\n· Country of origin: USA\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-gel-crema-hidro-equilibrante-daz-premium-fit",
@@ -21145,7 +21159,8 @@
       "stripe_price_cents": 2999,
       "stripe_site": "https://dazpremiumfit.com",
       "gender": "unisex",
-      "img_checked": "2026-11-25"
+      "img_checked": "2026-11-25",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-hidratante-de-sandia-daz-premium-fit",
@@ -21293,7 +21308,8 @@
       "stripe_price_cents": 2999,
       "stripe_site": "https://dazpremiumfit.com",
       "gender": "unisex",
-      "img_checked": "2026-11-25"
+      "img_checked": "2026-11-25",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-crema-calmante-para-la-piel-del-perro-daz-premium-fit",
@@ -21402,7 +21418,8 @@
       "stripe_link_id": "plink_1Ufq1pLJVU4oTPuXV6l84SRQ",
       "stripe_price_cents": 2699,
       "stripe_site": "https://dazpremiumfit.com",
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-resveratrol-50-600mg-daz-premium-fit",
@@ -21518,7 +21535,8 @@
       "details_en": "· 60 vegetable capsules\n· Resveratrol (Polygonum cuspidatum) (root) Complex Containing 50% Trans-Resveratrol\n· Vegetable capsule (cellulose) and microcrystalline cellulose\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-ayurvedic-complex",
@@ -21643,7 +21661,8 @@
       "details_en": "· 60 capsules per container\n· Key ingredients: Ashwagandha Root, Turmeric Root, Cinnamon Bark Powder, Holy Basil Leaf\n· Made to order\n· Worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-cafe-mezcla-brasilena-4oz-daz-premium-fit",
@@ -21762,7 +21781,8 @@
       "stripe_link_id": "plink_1Ufq1pLJVU4oTPuXoqEl2xyB",
       "stripe_price_cents": 2699,
       "stripe_site": "https://dazpremiumfit.com",
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-polvo-de-remolacha-daz-premium-fit",
@@ -43775,7 +43795,7 @@
         "notes_en": "Please note that size chart measurements may vary by ±1.0 in (2.5 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.0 in (2.5 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Immortal Warrior White Edition White Tank Top White DAZ Premium Fit — Immortal Warrior White Edition. Made to order.",
+      "source_text": "Immortal Warrior White Edition White Tank Top Tank Top White DAZ Premium Fit — Immortal Warrior White Edition. Made to order.",
       "name_es": "Camiseta sin mangas Immortal Warrior White",
       "name_en": "Immortal Warrior White Tank Top",
       "desc_es": "Diseñada para el rendimiento absoluto. Esta prenda combina líneas depuradas con una estética imponente. Su silueta estructurada acompaña cada movimiento con precisión milimétrica. La pureza del tono blanco aporta una presencia limpia y sofisticada en cualquier entorno de entrenamiento. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad. Disponible con envío a todo el mundo.",
@@ -43853,7 +43873,8 @@
       "stripe_link_id": "plink_1Ug9GELJVU4oTPuX8xVXPsPn",
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b089504d4c50971c2032992",
@@ -43902,7 +43923,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Tough Bitch Classic Racerback Tank Black DAZ Premium Fit — Tough Bitch Classic. Made to order.",
+      "source_text": "Tough Bitch Classic Racerback Tank Tank Black DAZ Premium Fit — Tough Bitch Classic. Made to order.",
       "name_es": "Camiseta de Tirantes Classic",
       "name_en": "Classic Racerback Tank",
       "desc_es": "Diseñada para la exigencia del entrenamiento diario. Esta silueta de espalda nadadora ofrece libertad de movimiento total y un ajuste preciso. Su estética depurada combina rendimiento técnico con una presencia imponente. Cada pieza es elaborada bajo pedido para garantizar los más altos estándares de calidad. Disponible para envío a todo el mundo.",
@@ -43980,7 +44001,8 @@
       "stripe_link_id": "plink_1Ug9GFLJVU4oTPuXYAJvOiZa",
       "stripe_price_cents": 3499,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "printify-6b089514edc552ae3508711c",
@@ -44029,7 +44051,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Tough Bitch Elite Racerback Tank Black DAZ Premium Fit — Tough Bitch Elite. Made to order.",
+      "source_text": "Tough Bitch Elite Racerback Tank Tank Top Black DAZ Premium Fit — Tough Bitch Elite. Made to order.",
       "name_es": "Camiseta de tirantes Tough Elite",
       "name_en": "Tough Elite Racerback Tank",
       "desc_es": "Diseñada para la exigencia del entrenamiento contemporáneo. Esta camiseta de tirantes combina una silueta técnica con una estética audaz y depurada. Su corte racerback favorece la libertad de movimiento absoluta durante cada sesión de alta intensidad. Una prenda esencial concebida para quienes buscan rendimiento sin concesiones. Cada pieza se elabora bajo pedido especial para garantizar un acabado impecable. Disponible con envío a todo el mundo.",
@@ -44107,7 +44129,8 @@
       "stripe_link_id": "plink_1Ug9GGLJVU4oTPuXnigB0LnS",
       "stripe_price_cents": 3499,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "printify-6b08951c155f8bb8d107fbe2",
@@ -44156,7 +44179,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Tough Bitch Gold Racerback Tank Black DAZ Premium Fit — Tough Bitch Gold. Made to order.",
+      "source_text": "Tough Bitch Gold Racerback Tank racerback tank Black DAZ Premium Fit — Tough Bitch Gold. Made to order.",
       "name_es": "Camiseta Deportiva Tough Bitch Gold",
       "name_en": "Tough Bitch Gold Racerback Tank",
       "desc_es": "Diseñada para la exigencia del entrenamiento contemporáneo. Esta silueta ofrece una presencia imponente con un acabado impecable en negro profundo. Cada pieza se elabora meticulosamente bajo pedido para garantizar la máxima exclusividad en tu equipamiento deportivo. Disponible para envío a todo el mundo, redefine tus estándares de rendimiento con un diseño que equilibra fuerza y sofisticación.",
@@ -44234,7 +44257,8 @@
       "stripe_link_id": "plink_1Ug9GHLJVU4oTPuX8Kvoto1g",
       "stripe_price_cents": 3499,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "printify-6b089524155f8bb8d107fbee",
@@ -44286,7 +44310,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Tough Bitch White Edition White Racerback Tank White DAZ Premium Fit — Tough Bitch White Edition. Made to order.",
+      "source_text": "Tough Bitch White Edition White Racerback Tank Tank Top White DAZ Premium Fit — Tough Bitch White Edition. Made to order.",
       "name_es": "Camiseta sin mangas Tough Bitch",
       "name_en": "Tough Bitch Racerback Tank",
       "desc_es": "Esta camiseta sin mangas combina un diseño audaz con una silueta atlética esencial. Su corte deportivo está pensado para ofrecer total libertad de movimiento en cada entrenamiento. La pieza presenta un gráfico frontal distintivo que aporta carácter y actitud a tu indumentaria de rendimiento. Cada prenda se elabora bajo pedido y cuenta con envío a todo el mundo para garantizar la máxima exclusividad y calidad en cada entrega.",
@@ -44365,7 +44389,8 @@
       "stripe_link_id": "plink_1Ug9GILJVU4oTPuXRmt3zwXI",
       "stripe_price_cents": 3899,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "printify-6b0892336a219864bc0f11ce",
@@ -45559,7 +45584,7 @@
         "notes_en": "Please note that size chart measurements may vary by +/-1.5 in (3.8 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +/-1.5 in (3.8 cm) debido a las tolerancias de fabricación."
       },
-      "source_text": "Tough Bitch White Edition Women's White Tee White DAZ Premium Fit — Tough Bitch White Edition. Made to order.",
+      "source_text": "Tough Bitch White Edition Women's White Tee Tee White DAZ Premium Fit — Tough Bitch White Edition. Made to order.",
       "name_es": "Camiseta Blanca Tough Bitch",
       "name_en": "Tough Bitch White Tee",
       "desc_es": "Una silueta depurada diseñada para la exigencia diaria. Esta pieza esencial combina un tono blanco luminoso con un diseño frontal de gran carácter. La confección prioriza la estructura limpia y la comodidad sin distracciones. Pensada para acompañar cada movimiento con absoluta seguridad. Disponible bajo demanda con envíos a todo el mundo.",
@@ -45653,7 +45678,8 @@
       "stripe_link_id": "plink_1Ug9GJLJVU4oTPuXfDJZPTlC",
       "stripe_price_cents": 4599,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "printify-6b0894f655d595d88e09fb97",
@@ -45780,7 +45806,7 @@
         "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Immortal Warrior Gold Crewneck Black DAZ Premium Fit — Immortal Warrior Gold. Made to order.",
+      "source_text": "Immortal Warrior Gold Crewneck crewneck Black DAZ Premium Fit — Immortal Warrior Gold. Made to order.",
       "name_es": "Sudadera Immortal Warrior Gold",
       "name_en": "Immortal Warrior Gold Crewneck",
       "desc_es": "Diseñada para la intensidad absoluta. Esta silueta combina presencia imponente y rendimiento superior. Su estructura impecable ofrece comodidad inquebrantable durante el entrenamiento o el descanso. El detalle frontal define una estética audaz y decidida. Una pieza esencial creada bajo demanda con envíos a todo el mundo.",
@@ -45867,7 +45893,8 @@
       "stripe_link_id": "plink_1Ug9GKLJVU4oTPuXbvxSpCxx",
       "stripe_price_cents": 4599,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b08950ad4c50971c2032998",
@@ -45917,7 +45944,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Tough Bitch Classic Cropped Hoodie Black DAZ Premium Fit — Tough Bitch Classic. Made to order.",
+      "source_text": "Tough Bitch Classic Cropped Hoodie hoodie Black DAZ Premium Fit — Tough Bitch Classic. Made to order.",
       "name_es": "Sudadera Cropped Clásica",
       "name_en": "Classic Cropped Hoodie",
       "desc_es": "Eleva tu fondo de armario con esta sudadera cropped clásica diseñada para ofrecer un equilibrio perfecto entre comodidad relajada y sofisticación urbana. Su silueta recortada define la figura con modernidad, mientras que su tono negro profundo aporta una elegancia atemporal y versátil. Creada para acompañar tus movimientos con total fluidez, se posiciona como una pieza esencial para quienes valoran el diseño depurado y la funcionalidad sin concesiones. Una prenda de carácter sobrio que redefine los códigos del estilo contemporáneo.",
@@ -45928,7 +45955,8 @@
       "shipping_worst_usd": 8.79,
       "images_original": [
         "https://images.printify.com/mockup/6b08950ad4c50971c2032998/72716/16566/tough-bitch-classic-cropped-hoodie.jpg?camera_label=front",
-        "https://images.printify.com/mockup/6b08950ad4c50971c2032998/72716/16575/tough-bitch-classic-cropped-hoodie.jpg?camera_label=back"
+        "https://images.printify.com/mockup/6b08950ad4c50971c2032998/72716/16575/tough-bitch-classic-cropped-hoodie.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b08950ad4c50971c2032998/72716/16690/tough-bitch-classic-cropped-hoodie.jpg?camera_label=on-person"
       ],
       "images_model": [
         "https://images.printify.com/mockup/6b08950ad4c50971c2032998/72716/16690/tough-bitch-classic-cropped-hoodie.jpg?camera_label=on-person"
@@ -46002,7 +46030,8 @@
       "stripe_link_id": "plink_1Ug9GKLJVU4oTPuX3iPhCZvU",
       "stripe_price_cents": 6199,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "printify-6b089511a6afac34150de014",
@@ -46052,7 +46081,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Tough Bitch Elite Cropped Hoodie Black DAZ Premium Fit — Tough Bitch Elite. Made to order.",
+      "source_text": "Tough Bitch Elite Cropped Hoodie hoodie Black DAZ Premium Fit — Tough Bitch Elite. Made to order.",
       "name_es": "Sudadera con Capucha Elite",
       "name_en": "Elite Cropped Hoodie",
       "desc_es": "Diseñada para un rendimiento sin concesiones. Esta sudadera corta combina proporciones refinadas con una estética depurada y funcional. Su silueta estructurada ofrece libertad de movimiento sin sacrificar la elegancia. Una prenda esencial para quienes exigen excelencia en cada entrenamiento y en su día a día. Disponible bajo pedido con envíos a todo el mundo.",
@@ -46063,7 +46092,8 @@
       "shipping_worst_usd": 8.79,
       "images_original": [
         "https://images.printify.com/mockup/6b089511a6afac34150de014/72716/16566/tough-bitch-elite-cropped-hoodie.jpg?camera_label=front",
-        "https://images.printify.com/mockup/6b089511a6afac34150de014/72716/16575/tough-bitch-elite-cropped-hoodie.jpg?camera_label=back"
+        "https://images.printify.com/mockup/6b089511a6afac34150de014/72716/16575/tough-bitch-elite-cropped-hoodie.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b089511a6afac34150de014/72716/16690/tough-bitch-elite-cropped-hoodie.jpg?camera_label=on-person"
       ],
       "images_model": [
         "https://images.printify.com/mockup/6b089511a6afac34150de014/72716/16690/tough-bitch-elite-cropped-hoodie.jpg?camera_label=on-person"
@@ -46137,7 +46167,8 @@
       "stripe_link_id": "plink_1Ug9GLLJVU4oTPuXBdFyleT3",
       "stripe_price_cents": 6199,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "printify-6b08922d75d150be77030196",
@@ -47502,7 +47533,7 @@
         "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Immortal Warrior White Edition White Tee White DAZ Premium Fit — Immortal Warrior White Edition. Made to order.",
+      "source_text": "Immortal Warrior White Edition White Tee Tee White DAZ Premium Fit — Immortal Warrior White Edition. Made to order.",
       "name_es": "Camiseta Immortal Warrior White Edition",
       "name_en": "Immortal Warrior White Edition Tee",
       "desc_es": "Una silueta depurada diseñada para la exigencia del movimiento diario. La camiseta Immortal Warrior White Edition fusiona una estética minimalista con una presencia imponente. El tono blanco puro actúa como lienzo para una gráfica frontal de carácter definitorio. Cada pieza se elabora meticulosamente bajo pedido para garantizar la máxima exclusividad. El diseño prioriza la funcionalidad sin comprometer una línea visual sofisticada. Disponible con envío a todo el mundo.",
@@ -47598,7 +47629,8 @@
       "stripe_link_id": "plink_1Ug9GMLJVU4oTPuXN2A77Xw2",
       "stripe_price_cents": 2899,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b0895076a219864bc0f1429",
@@ -47715,7 +47747,7 @@
         "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Tough Bitch Classic Women's Tee Black DAZ Premium Fit — Tough Bitch Classic. Made to order.",
+      "source_text": "Tough Bitch Classic Women's Tee Tee Black DAZ Premium Fit — Tough Bitch Classic. Made to order.",
       "name_es": "Camiseta clásica Tough Bitch",
       "name_en": "Tough Bitch Classic Tee",
       "desc_es": "La silueta definitiva para el entrenamiento diario. Esta prenda combina líneas depuradas con una actitud inquebrantable. Su diseño está pensado para acompañar cada movimiento con precisión milimétrica. La estética minimalista se une al rendimiento puro. Cada pieza se confecciona bajo demanda para garantizar exclusividad absoluta. Disponible con envío a todo el mundo.",
@@ -47809,7 +47841,8 @@
       "stripe_link_id": "plink_1Ug9GNLJVU4oTPuX4Fs57V8b",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "printify-6b08951fedc552ae35087130",
@@ -47926,7 +47959,7 @@
         "notes_en": "Please note that size chart measurements may vary by +-1.5 in (3.8 cm) due to manufacturing tolerances",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +-1.5 in (3.8 cm) debido a tolerancias de fabricación"
       },
-      "source_text": "Tough Bitch Gold Women's Tee Black DAZ Premium Fit — Tough Bitch Gold. Made to order.",
+      "source_text": "Tough Bitch Gold Women's Tee Tee Black DAZ Premium Fit — Tough Bitch Gold. Made to order.",
       "name_es": "Camiseta Tough Bitch Gold",
       "name_en": "Tough Bitch Gold Tee",
       "desc_es": "Diseñada para la disciplina diaria. Esta silueta ofrece un equilibrio impecable entre forma y funcionalidad. Líneas limpias y una presencia dominante que definen el estándar moderno del rendimiento femenino. Confección bajo demanda con envíos a todo el mundo.",
@@ -48018,7 +48051,8 @@
       "stripe_link_id": "plink_1Ug9GOLJVU4oTPuXn2nveASA",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "productifi-advanced-whey-protein-chocolate",
