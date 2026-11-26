@@ -6,7 +6,8 @@ Cada día crea diseños ORIGINALES de la marca y los deja en la carpeta disenos/
 Después, design_factory.py los convierte en productos de Printify (camiseta, tirantes,
 sudadera...) y el motor de la tienda los publica en dazpremiumfit.com.
 
-Estilo de la marca: deportivo y llamativo, para prendas negras.
+Estilo de marca (como Gymshark, Nike o YoungLA): el diseño va en la ESPALDA y delante solo el logo DPF pequeño
+(lo pone design_factory.py). Tonos sobrios: blanco, oro, gris y rojo DPF.
   - Bloque:     frase gigante en dos líneas (blanco + color neón) con barra y emblema.
   - Velocidad:  frase inclinada con raya de velocidad, como "Tough Bitch".
   - Eco:        frase repetida maciza + contorno (estilo marcas de gym actuales).
@@ -38,13 +39,12 @@ EMBLEM = os.path.join(ROOT, "assets", "brand", "dpf-hex.png")
 
 W, H = 3600, 4320
 WHITE = (255, 255, 255)
-PALETTES = [  # (color principal, color de acento)
-    (WHITE, (228, 0, 43)),      # rojo neón
-    (WHITE, (0, 132, 255)),     # azul eléctrico
-    (WHITE, (170, 255, 0)),     # lima
-    (WHITE, (255, 106, 0)),     # naranja
-    ("gold", WHITE),            # oro
-    ((228, 0, 43), WHITE),      # rojo + blanco
+PALETTES = [  # (color principal, color de acento) — tonos de marca, sobrios (nada de neón de feria)
+    (WHITE, (228, 0, 43)),          # blanco + rojo DPF
+    ("gold", WHITE),                # oro + blanco
+    (WHITE, (150, 150, 150)),       # blanco + gris
+    ((210, 210, 210), (228, 0, 43)),  # gris claro + rojo
+    ("gold", (228, 0, 43)),         # oro + rojo
 ]
 GOLD_A, GOLD_B = (246, 214, 120), (176, 128, 40)
 
@@ -58,7 +58,7 @@ TAGS = ["DAZ PREMIUM FIT", "BORN TO FIGHT · BUILT TO LAST", "TRAINING DEPT.", "
 # Productos que se crean (claves de data/plantillas.json)
 TEMPLATES = {"men": "camiseta-tirantes-hombre-sudadera-capucha",
              "women": "tirantes-mujer-camiseta-mujer-sudadera-mujer"}
-STYLES = ["bloque", "velocidad", "eco", "atletico", "escudo"]
+STYLES = ["marca", "escudo", "marca", "bloque", "atletico"]  # sobrio primero: es la espalda de una prenda de marca
 
 
 def font(path, size):
@@ -279,6 +279,30 @@ def style_escudo(rng, slogan, pal):
     return c
 
 
+def style_marca(rng, slogan, pal):
+    """Diseño de marca para la espalda: emblema, nombre de la colección espaciado, línea fina y frase pequeña."""
+    c = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    main, acc = pal
+    y = 200
+    e = emblem(820)
+    if e:
+        c.alpha_composite(e, ((W - e.width) // 2, y))
+        y += e.height + 150
+    coll = "TOUGH BITCH" if slogan in WOMEN else "IMMORTAL WARRIOR"
+    m = mask_text(coll, fit(coll, F_BIG, int(W * 0.80), 520), spacing=40)
+    if m.width > int(W * 0.84):  # el espaciado nunca hace que se corte
+        m = m.resize((int(W * 0.84), int(m.height * W * 0.84 / m.width)), Image.LANCZOS)
+    paint(c, m, main, (W - m.width) / 2, y)
+    y += m.height + 90
+    line_w = int(W * 0.5)
+    paint(c, Image.new("L", (line_w, 14), 255), acc if acc != WHITE else (228, 0, 43), (W - line_w) / 2, y)
+    y += 14 + 90
+    if slogan.upper() != coll:
+        y = small_tag(c, slogan, y, acc if acc != (150, 150, 150) else WHITE, 150, 46) + 60
+    small_tag(c, "DAZ PREMIUM FIT · EST. 2023 · USA", y, (160, 160, 160), 96, 34)
+    return c
+
+
 COLLECTIONS = {"men": "Immortal Warrior", "women": "Tough Bitch", "emblem": "DPF Emblem"}
 
 
@@ -289,14 +313,11 @@ def make(rng, n, used):
     slogan = rng.choice(free)
     style = STYLES[(n // 2) % len(STYLES)]
     pal = rng.choice(PALETTES)
-    art = {"bloque": style_bloque, "velocidad": style_velocidad, "eco": style_eco,
+    art = {"bloque": style_bloque, "velocidad": style_velocidad, "eco": style_eco, "marca": style_marca,
            "atletico": style_atletico, "escudo": style_escudo}[style](rng, slogan, pal)
     bb = art.getbbox()
-    if bb:  # deja el diseño arriba y centrado (zona del pecho)
-        art = art.crop((0, 0, W, min(H, bb[3] + 120)))
-        canvas = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-        canvas.alpha_composite(art, (0, 0))
-        art = canvas
+    if bb:  # recorte justo: la fábrica lo coloca en la espalda sin salirse del área
+        art = art.crop((max(0, bb[0] - 60), max(0, bb[1] - 60), min(W, bb[2] + 60), min(H, bb[3] + 60)))
     return slogan, style, gender, art
 
 

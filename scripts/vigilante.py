@@ -232,6 +232,12 @@ def main():
                 hide(p, f"repetido de {seen[key]}")
                 continue
             seen[key] = p["id"]
+        twin = ("nombre", (p.get("name_es") or "").strip().lower(), ((p.get("categories") or [""])[0]))
+        if twin[1]:
+            if twin in seen:  # mismo nombre en la misma sección: es la misma prenda dos veces
+                hide(p, f"repetido de {seen[twin]}")
+                continue
+            seen[twin] = p["id"]
 
     # 2) Fotos rotas: revisa una tanda cada hora, rotando por todo el catálogo
     visible = [p for p in products if not p.get("hidden")]

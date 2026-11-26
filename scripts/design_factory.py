@@ -35,7 +35,7 @@ def log(msg):
 
 def resolve_template(key, tpl, cache, catalog):
     """Encuentra en el catálogo de Printify el producto base, el taller y las variantes del color."""
-    if key in cache:
+    if key in cache and cache[key].get("v") == 2:
         return cache[key]
     want = tpl["buscar"].lower()
     matches = [b for b in catalog if want in b.get("title", "").lower()]
@@ -52,16 +52,134 @@ def resolve_template(key, tpl, cache, catalog):
     color = (tpl.get("color") or "").lower()
     chosen = [v for v in vs if not color or (v.get("options", {}).get("color", "").lower() == color)] or vs
     chosen = chosen[:100]
-    positions = []
+    positions, areas = [], {}
     for v in chosen:
         for ph in v.get("placeholders", []):
-            if ph.get("position") not in positions:
-                positions.append(ph.get("position"))
+            pos = ph.get("position")
+            if pos not in positions:
+                positions.append(pos)
+            if pos and pos not in areas and ph.get("width") and ph.get("height"):
+                areas[pos] = [ph["width"], ph["height"]]
     position = "front" if "front" in positions else (positions[0] if positions else "front")
     cache[key] = {"blueprint_id": bp["id"], "blueprint": bp["title"], "provider_id": prov["id"],
-                  "provider": prov.get("title", ""), "variant_ids": [v["id"] for v in chosen], "position": position}
+                  "provider": prov.get("title", ""), "variant_ids": [v["id"] for v in chosen], "position": position,
+                  "positions": positions, "areas": areas, "v": 2}
     log(f"Plantilla '{key}' → {bp['title']} · {prov.get('title', '')} · {len(chosen)} variantes")
     return cache[key]
+
+
+# ------------------------------------------------ colocación de marca (como Gymshark, Nike, YoungLA…)
+# Delante: logo DPF pequeño en el pecho (~9 cm). Detrás: el diseño grande, siempre dentro del área.
+CHEST = {"light": os.path.join(ROOT, "assets", "brand", "dpf-chest-light.png"),
+         "dark": os.path.join(ROOT, "assets", "brand", "dpf-chest-dark.png")}
+LAYOUT_V = 2
+
+
+def aspect_of(path, default=0.85):
+    try:
+        from PIL import Image
+        with Image.open(path) as im:
+            return im.width / im.height
+    except Exception:
+        return default
+
+
+def place(aspect, area, max_w, max_h, top, x=0.5):
+    """Escala y posición (Printify: scale = ancho del dibujo / ancho del área) sin salirse nunca del área."""
+    aw, ah = (area or [4000, 4800])
+    w = min(max_w, max_h * aspect * ah / aw)
+    h = w * aw / aspect / ah
+    return {"x": x, "y": round(top + h / 2, 4), "scale": round(w, 4), "angle": 0}
+
+
+def tone(tpl):
+    return "dark" if (tpl.get("color") or "black").lower() in ("white", "solid white", "natural", "ash") else "light"
+
+
+def chest_image(registry, kind):
+    """Sube una sola vez el logo de pecho a Printify y guarda su número."""
+    ids = registry.setdefault("chest", {})
+    if not ids.get(kind):
+        with open(CHEST[kind], "rb") as fh:
+            b64 = base64.b64encode(fh.read()).decode()
+        ids[kind] = printify("/uploads/images.json", {"file_name": os.path.basename(CHEST[kind]), "contents": b64})["id"]
+        log(f"Logo de pecho subido a Printify ({kind})")
+    return ids[kind]
+
+
+def brand_print_areas(r, tpl, design_id, design_aspect, registry, variant_ids):
+    """Delante el logo de pecho; detrás el diseño grande. Sin espalda: el diseño mediano en el pecho."""
+    areas = r.get("areas") or {}
+    positions = r.get("positions") or [r.get("position", "front")]
+    front = "front" if "front" in positions else positions[0]
+    holders = []
+    if "back" in positions:
+        k = tone(tpl)
+        holders.append({"position": front, "images": [dict(id=chest_image(registry, k),
+                        **place(aspect_of(CHEST[k], 1.33), areas.get(front), 0.26, 0.18, 0.06))]})
+        holders.append({"position": "back", "images": [dict(id=design_id,
+                        **place(design_aspect, areas.get("back"), 0.80, 0.78, 0.07))]})
+    else:
+        holders.append({"position": front, "images": [dict(id=design_id,
+                        **place(design_aspect, areas.get(front), 0.45, 0.38, 0.08))]})
+    return [{"variant_ids": variant_ids, "placeholders": holders}]
+
+
+def fix_existing(registry, known, cache, catalog, shop):
+    """Una sola vez: recoloca los productos ya creados y borra los repetidos (mismo nombre)."""
+    done = 0
+    for f, e in registry.get("files", {}).items():
+        if e.get("layout") == LAYOUT_V or not e.get("image_id"):
+            continue
+        asp = aspect_of(os.path.join(DESIGNS, f))
+        ok = True
+        for key, pid in list((e.get("products") or {}).items()):
+            if key not in known or not pid:
+                continue
+            try:
+                r = resolve_template(key, known[key], cache, catalog)
+                prod = printify(f"/shops/{shop}/products/{pid}.json")
+                vids = [v["id"] for v in prod.get("variants", []) if v.get("is_enabled", True)] or r["variant_ids"]
+                printify(f"/shops/{shop}/products/{pid}.json",
+                         {"print_areas": brand_print_areas(r, known[key], e["image_id"], asp, registry, vids)}, method="PUT")
+                done += 1
+                time.sleep(1.2)
+            except Exception as ex:
+                ok = False
+                log(f"No pude recolocar {f} / {key}: {str(ex)[:160]}")
+        if ok:
+            e["layout"] = LAYOUT_V
+    # repetidos: productos DPF de Printify con el mismo nombre que no están en el registro
+    if not registry.get("dedupe_done"):
+        keep = {pid for e in registry.get("files", {}).values() for pid in (e.get("products") or {}).values()}
+        seen, removed, page = {}, 0, 1
+        try:
+            while True:
+                res = printify(f"/shops/{shop}/products.json?limit=50&page={page}")
+                for prod in res.get("data", []):
+                    if "dpf" not in [t.lower() for t in prod.get("tags", [])]:
+                        continue
+                    seen.setdefault(prod.get("title", "").strip().lower(), []).append(prod["id"])
+                if not res.get("next_page_url") or page >= 40:
+                    break
+                page += 1
+            for title, ids in seen.items():
+                if len(ids) < 2:
+                    continue
+                stay = next((i for i in ids if i in keep), ids[0])
+                for i in ids:
+                    if i != stay and i not in keep:
+                        printify(f"/shops/{shop}/products/{i}.json", method="DELETE")
+                        removed += 1
+                        log(f"Repetido borrado en Printify: {title}")
+                        time.sleep(1)
+            registry["dedupe_done"] = TODAY
+        except Exception as ex:
+            log(f"Limpieza de repetidos pendiente: {str(ex)[:160]}")
+        if removed:
+            notify(f"🧹 Diseño DPF: borré {removed} productos repetidos en Printify.")
+    if done:
+        notify(f"✦ Diseño DPF: {done} prendas recolocadas como marca (logo pequeño en el pecho y diseño en la espalda).")
 
 
 def parse_name(filename):
@@ -108,10 +226,19 @@ def main():
             return False
         return not (e.get("status") == "error" and e.get("date") == TODAY)  # un error se reintenta al día siguiente
     pending = [f for f in files if waiting(f)]
-    if not pending:
+    needs_fix = any(e.get("layout") != LAYOUT_V and e.get("image_id") for e in registry.get("files", {}).values()) \
+        or not registry.get("dedupe_done")
+    if not pending and not needs_fix:
         log("No hay diseños nuevos.")
         return 0
     catalog = printify("/catalog/blueprints.json")
+    if needs_fix:
+        try:
+            fix_existing(registry, known, cache, catalog, shop)
+        except Exception as ex:
+            log(f"Recolocación pendiente: {str(ex)[:160]}")
+        save_json("disenos.json", registry)
+        save_json("plantillas_resueltas.json", cache)
     created_total = 0
     for f in pending:
         if created_total >= limit:
@@ -144,12 +271,12 @@ def main():
                     "blueprint_id": r["blueprint_id"],
                     "print_provider_id": r["provider_id"],
                     "variants": [{"id": v, "price": 4999, "is_enabled": True} for v in r["variant_ids"]],
-                    "print_areas": [{"variant_ids": r["variant_ids"], "placeholders": [
-                        {"position": r["position"],
-                         "images": [{"id": entry["image_id"], "x": 0.5, "y": 0.5, "scale": 1, "angle": 0}]}]}],
+                    "print_areas": brand_print_areas(r, t, entry["image_id"], aspect_of(os.path.join(DESIGNS, f)),
+                                                     registry, r["variant_ids"]),
                 }
                 prod = printify(f"/shops/{shop}/products.json", body)
                 entry["products"][key] = prod.get("id")
+                entry["layout"] = LAYOUT_V
                 created_total += 1
                 log(f"Producto creado: {body['title']}")
                 time.sleep(1.5)
