@@ -490,6 +490,8 @@ def read_printify():
                         vmap["unica"] = vs[0]["id"]
                     imgs = [i["src"] for i in p.get("images", []) if vids & set(i.get("variant_ids", []))]
                     imgs = imgs or [i["src"] for i in p.get("images", [])]
+                    # primero las fotos de Printify con persona (prenda real renderizada sobre un modelo)
+                    imgs = sorted(imgs, key=lambda u: (0 if PRINTIFY_PERSON.search(u) else 1))
                     rows.append({
                         "supplier": "Printify",
                         "supplier_id": f"{p['id']}-{slug(color)}" if color and len(groups) > 1 else str(p["id"]),
@@ -499,7 +501,7 @@ def read_printify():
                         "cost_usd": str(max(v.get("cost", 0) for v in vs) / 100),
                         "shipping_usd": str(printify_shipping(p.get("blueprint_id"), p.get("print_provider_id"))[0]),
                         "shipping_worst_usd": str(printify_shipping(p.get("blueprint_id"), p.get("print_provider_id"))[1]),
-                        "sizes": "|".join(sizes[:30]), "images": "|".join(imgs[:8]),
+                        "sizes": "|".join(sizes[:30]), "images": "|".join(imgs[:10]),
                         "variant_map": vmap, "skus": [v.get("sku", "") for v in vs if v.get("sku")],
                         "description": re.sub(r"<[^>]+>", " ", p.get("description", ""))[:600],
                     })
@@ -1275,6 +1277,12 @@ def ai_enrich(plist, cfg):
 # ------------------------------------------------ fotos y verificación visual
 VERIFIED_DIR = os.path.join(ROOT, "assets", "verified")
 MODEL_HINT = re.compile(r"model|lifestyle|person|people|wearing|on-body|onbody|ai-gen|generated", re.I)
+# Fotos de Printify con persona: son la MISMA prenda con tu diseño renderizada sobre un modelo → fieles
+PRINTIFY_PERSON = re.compile(r"images-api\.printify\.com/.*camera_label=(person|lifestyle|model|context)", re.I)
+
+
+def faithful_models(urls):
+    return [u for u in urls if PRINTIFY_PERSON.search(u)]
 
 
 def verified_photos(pid):
@@ -1297,7 +1305,8 @@ def apply_ai_images(p):
     pool = ai.get("keep", [])
     if any(x.get("q") != "cheap" for x in pool):  # si hay alternativa, las fotos "baratas" no se enseñan
         pool = [x for x in pool if x.get("q") != "cheap"]
-    keep = [x["u"] for x in pool if x.get("k") != "model" or p.get("shop_verified")]
+    keep = [x["u"] for x in pool if x.get("k") != "model" or p.get("shop_verified") or PRINTIFY_PERSON.search(x["u"])]
+    keep = sorted(keep, key=lambda u: 0 if PRINTIFY_PERSON.search(u) else 1)
     p["visual_verified"] = bool(ver) or bool(p.get("shop_verified"))
     p["display_images"] = list(dict.fromkeys(ver + keep)) or ver + p.get("images_original", [])
     if ai.get("guides"):
@@ -1324,8 +1333,10 @@ def sort_images(p, row_images, row_model_images):
         p["display_images"] = ver + [u for u in row_images + row_model_images if u not in ver] or ver + p["images_original"] + p["images_model"]
         return
     p["visual_verified"] = bool(ver)
-    # Regla de fidelidad: sin foto verificada, solo se muestran las originales nítidas.
-    p["display_images"] = ver + p["images_original"] if ver else list(p["images_original"])
+    # Regla de fidelidad: sin foto verificada, solo se muestran las originales nítidas,
+    # salvo las fotos de Printify con persona (la prenda real), que van primero.
+    fm = faithful_models(row_images + row_model_images)
+    p["display_images"] = list(dict.fromkeys(ver + fm + p["images_original"]))
 
 
 # ------------------------------------------------------- estudio de fotos con IA
