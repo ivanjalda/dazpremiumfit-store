@@ -1,0 +1,189 @@
+{
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with accurate lighting, lacking lifestyle presence.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printify-6b08924a6d0e8a542403d393",
+ "color": "Black",
+ "created": "2026-11-26",
+ "desc_en": "An commanding presence for daily discipline. This piece redefines performance with a refined silhouette and clean lines. Designed to offer distinction in every movement. Made to order and available with worldwide shipping.",
+ "desc_es": "Una presencia imponente para la disciplina diaria. Esta prenda redefine el rendimiento con una silueta depurada y líneas limpias. Diseñada para ofrecer distinción en cada movimiento. Confección bajo demanda y envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b08924a6d0e8a542403d393/32920/98424/immortal-warrior-elite-hoodie.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b08924a6d0e8a542403d393/32920/98425/immortal-warrior-elite-hoodie.jpg?camera_label=back",
+  "https://images.printify.com/mockup/6b08924a6d0e8a542403d393/32920/98426/immortal-warrior-elite-hoodie.jpg?camera_label=back-2",
+  "https://images.printify.com/mockup/6b08924a6d0e8a542403d393/32920/98432/immortal-warrior-elite-hoodie.jpg?camera_label=folded"
+ ],
+ "draft": false,
+ "fam": "immortal-warrior-elite",
+ "hidden": false,
+ "id": "printify-6b08924a6d0e8a542403d393",
+ "img_checked": "2026-11-26",
+ "look": [
+  "printful-359535579",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "",
+ "name_en": "Immortal Warrior Elite Hoodie",
+ "name_es": "Sudadera Immortal Warrior Elite",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 46.99,
+ "rank": 303,
+ "shipping_usd": 8.79,
+ "shipping_worst_usd": 8.79,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Width (Imperial)",
+   "Length (Imperial)",
+   "Sleeve length (Imperial)",
+   "Width (Metric)",
+   "Length (Metric)",
+   "Sleeve length (Metric)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Ancho (Imperial)",
+   "Largo (Imperial)",
+   "Largo de manga (Imperial)",
+   "Ancho (Métrico)",
+   "Largo (Métrico)",
+   "Largo de manga (Métrico)"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by +/-1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +/-1.5 in (3.8 cm) debido a tolerancias de fabricación.",
+  "rows": [
+   [
+    "XS",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "S",
+    "20.0",
+    "27.1",
+    "33.5",
+    "51.0",
+    "69.1",
+    "85.0"
+   ],
+   [
+    "M",
+    "22.0",
+    "28.0",
+    "34.5",
+    "56.0",
+    "71.1",
+    "87.6"
+   ],
+   [
+    "L",
+    "24.0",
+    "29.1",
+    "35.5",
+    "61.0",
+    "74.0",
+    "90.2"
+   ],
+   [
+    "XL",
+    "26.0",
+    "30.0",
+    "36.5",
+    "66.0",
+    "76.0",
+    "92.7"
+   ],
+   [
+    "2XL",
+    "28.0",
+    "31.0",
+    "37.5",
+    "71.1",
+    "79.0",
+    "95.3"
+   ],
+   [
+    "3XL",
+    "30.0",
+    "32.0",
+    "38.5",
+    "76.2",
+    "81.0",
+    "98.0"
+   ],
+   [
+    "4XL",
+    "32.0",
+    "33.0",
+    "39.5",
+    "81.3",
+    "84.0",
+    "100.3"
+   ],
+   [
+    "5XL",
+    "34.0",
+    "34.0",
+    "40.5",
+    "86.0",
+    "86.0",
+    "102.9"
+   ]
+  ],
+  "unit": "inches / centimeters"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b08924a6d0e8a542403d393/32920/110151/immortal-warrior-elite-hoodie.jpg?camera_label=size-chart"
+ ],
+ "sizes": [
+  "M",
+  "L",
+  "XL",
+  "S",
+  "2XL",
+  "4XL",
+  "5XL",
+  "3XL"
+ ],
+ "skus": [
+  "19807191226427833267",
+  "28354544421631684333",
+  "91890653405927733190",
+  "27434515589669165591",
+  "25549617667521545011",
+  "19558307675459604831",
+  "26533828927826211447",
+  "23604174595560595106"
+ ],
+ "source_title": "Immortal Warrior Elite Hoodie",
+ "stripe_payment_link": "https://buy.stripe.com/cNiaEY9bebGQbmK22a1gY2Q",
+ "supplier": "Printify",
+ "supplier_id": "6b08924a6d0e8a542403d393",
+ "visual_verified": false
+}

@@ -1,0 +1,50 @@
+{
+  "camiseta": {
+    "blueprint_id": 6,
+    "blueprint": "Unisex Heavy Cotton Tee",
+    "provider_id": 99,
+    "provider": "Printify Choice",
+    "variant_ids": [
+      12124,
+      12125,
+      12126,
+      12127,
+      12128,
+      12129,
+      24039,
+      24171
+    ],
+    "position": "front"
+  },
+  "tirantes-hombre": {
+    "blueprint_id": 39,
+    "blueprint": "Unisex Jersey Tank",
+    "provider_id": 3,
+    "provider": "Marco Fine Arts",
+    "variant_ids": [
+      24639,
+      24640,
+      24641,
+      24642,
+      24643
+    ],
+    "position": "front"
+  },
+  "sudadera-capucha": {
+    "blueprint_id": 77,
+    "blueprint": "Unisex Heavy Blend™ Hooded Sweatshirt",
+    "provider_id": 99,
+    "provider": "Printify Choice",
+    "variant_ids": [
+      32918,
+      32919,
+      32920,
+      32921,
+      32922,
+      32923,
+      32924,
+      32925
+    ],
+    "position": "front"
+  }
+}

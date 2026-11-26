@@ -1,0 +1,51 @@
+{
+  "files": {
+    "dpf-emblem__camiseta-tirantes-hombre-sudadera-capucha.png": {
+      "status": "hecho",
+      "products": {
+        "camiseta": "6b08922d75d150be77030196",
+        "tirantes-hombre": "6b08923128a05af49e00a257",
+        "sudadera-capucha": "6b0892336a219864bc0f11ce"
+      },
+      "image_id": "6b08922cb5e618e9efce8ff9",
+      "date": "2026-11-26"
+    },
+    "dpf-gold-emblem__camiseta-sudadera-capucha.png": {
+      "status": "hecho",
+      "products": {
+        "camiseta": "6b08923855d595d88e09f999",
+        "sudadera-capucha": "6b08923b75d150be770301a3"
+      },
+      "image_id": "6b0892365deda8e3dad19006",
+      "date": "2026-11-26"
+    },
+    "immortal-warrior-classic__camiseta-tirantes-hombre-sudadera-capucha.png": {
+      "status": "hecho",
+      "products": {
+        "camiseta": "6b089240c9d405a582022ee0",
+        "tirantes-hombre": "6b0892436a219864bc0f11dd",
+        "sudadera-capucha": "6b08924655d595d88e09f9a9"
+      },
+      "image_id": "6b08923e9d76cc736c4594ea",
+      "date": "2026-11-26"
+    },
+    "immortal-warrior-elite__sudadera-capucha-camiseta.png": {
+      "status": "hecho",
+      "products": {
+        "sudadera-capucha": "6b08924a6d0e8a542403d393",
+        "camiseta": "6b08924d75d150be770301be"
+      },
+      "image_id": "6b089248436b5a4f1aaf78ac",
+      "date": "2026-11-26"
+    },
+    "immortal-warrior-gold__camiseta-tirantes-hombre-sudadera.png": {
+      "status": "pendiente",
+      "products": {
+        "camiseta": "6b089254ba427acd12096a99",
+        "tirantes-hombre": "6b0892576d0e8a542403d39d"
+      },
+      "image_id": "6b0892506d27d1b54294d1f7",
+      "date": "2026-11-26"
+    }
+  }
+}

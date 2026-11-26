@@ -1,0 +1,149 @@
+{
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Tee",
+ "ai_ver": 2,
+ "art_note": "Clean studio styling and lifestyle flat lays elevate the visual presentation.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b08924d75d150be770301be",
+ "color": "Black",
+ "created": "2026-11-26",
+ "desc_en": "Pure elegance in deep black. This garment redefines everyday performance standards with an impeccable silhouette. Designed for those who demand distinction without compromising movement. Each piece is made to order to ensure ultimate exclusivity. Worldwide shipping available.",
+ "desc_es": "Pura elegancia en negro intenso. Esta prenda redefine los estándares del rendimiento diario con una silueta impecable. Diseñada para quienes exigen distinción sin renunciar al movimiento. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad. Envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b08924d75d150be770301be/12124/102005/immortal-warrior-elite-tee.jpg?camera_label=front-2",
+  "https://images.printify.com/mockup/6b08924d75d150be770301be/12124/102006/immortal-warrior-elite-tee.jpg?camera_label=back-2",
+  "https://images.printify.com/mockup/6b08924d75d150be770301be/12124/102001/immortal-warrior-elite-tee.jpg?camera_label=folded"
+ ],
+ "draft": false,
+ "fam": "immortal-warrior-elite",
+ "hidden": false,
+ "id": "printify-6b08924d75d150be770301be",
+ "img_checked": "2026-11-26",
+ "look": [
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "",
+ "name_en": "Immortal Warrior Elite Tee Black",
+ "name_es": "Camiseta Immortal Warrior Elite Black",
+ "needs_review": false,
+ "needs_studio": false,
+ "price_usd": 28.99,
+ "rank": 307,
+ "shipping_usd": 7.99,
+ "shipping_worst_usd": 7.99,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "headers_es": [
+   "Talla",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by +-1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +-1.5 in (3.8 cm) debido a tolerancias de fabricación.",
+  "rows": [
+   [
+    "Width",
+    "-",
+    "18.0",
+    "20.0",
+    "22.0",
+    "24.0",
+    "26.0",
+    "28.0",
+    "30.0",
+    "32.0"
+   ],
+   [
+    "Length",
+    "-",
+    "28.0",
+    "29.0",
+    "30.0",
+    "31.0",
+    "32.0",
+    "33.0",
+    "34.0",
+    "35.0"
+   ],
+   [
+    "Sleeve length",
+    "-",
+    "15.1",
+    "16.5",
+    "18.0",
+    "19.5",
+    "21.0",
+    "22.4",
+    "23.7",
+    "25.0"
+   ]
+  ],
+  "unit": "inches / centimeters"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b08924d75d150be770301be/12124/101998/immortal-warrior-elite-tee.jpg?camera_label=size-chart"
+ ],
+ "sizes": [
+  "M",
+  "S",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "skus": [
+  "11709003098983267958",
+  "80970298319296773771",
+  "74394788281600711031",
+  "33591121722044071984",
+  "26979158600593032262",
+  "24015927664826793340",
+  "20180373722715741537",
+  "21120762374088940693"
+ ],
+ "source_title": "Immortal Warrior Elite Tee",
+ "stripe_payment_link": "https://buy.stripe.com/00w00k2MQ4eo2Qe4ai1gY2U",
+ "supplier": "Printify",
+ "supplier_id": "6b08924d75d150be770301be",
+ "visual_verified": false
+}

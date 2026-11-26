@@ -1,0 +1,149 @@
+{
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "T-shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with well-lit flat lays, maintaining a professional e-commerce standard.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b089254ba427acd12096a99",
+ "color": "Black",
+ "created": "2026-11-26",
+ "desc_en": "Discipline meets absolute strength. This piece defines the character of those who train without compromise. Refined lines against a deep black backdrop. Gold-toned details that command presence with every movement. Crafted on demand to ensure absolute exclusivity. Engineered to withstand the demands of daily performance with impeccable elegance. Available with worldwide shipping.",
+ "desc_es": "La disciplina se encuentra con la fuerza absoluta. Esta pieza define el carácter de quien entrena sin concesiones. Líneas depuradas sobre un fondo negro profundo. Detalles en tono dorado que imponen presencia en cada movimiento. Confeccionada bajo demanda para asegurar una exclusividad absoluta. Diseñada para soportar las exigencias del rendimiento diario con una elegancia impecable. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b089254ba427acd12096a99/12124/102005/immortal-warrior-gold-tee.jpg?camera_label=front-2",
+  "https://images.printify.com/mockup/6b089254ba427acd12096a99/12124/102006/immortal-warrior-gold-tee.jpg?camera_label=back-2",
+  "https://images.printify.com/mockup/6b089254ba427acd12096a99/12124/102001/immortal-warrior-gold-tee.jpg?camera_label=folded"
+ ],
+ "draft": false,
+ "fam": "immortal-warrior-tee",
+ "hidden": false,
+ "id": "printify-6b089254ba427acd12096a99",
+ "img_checked": "2026-11-26",
+ "look": [
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "",
+ "name_en": "Immortal Warrior Gold Tee",
+ "name_es": "Camiseta Immortal Warrior Gold",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 28.99,
+ "rank": 308,
+ "shipping_usd": 7.99,
+ "shipping_worst_usd": 7.99,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "headers_es": [
+   "Talla",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by +/-1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +/-1.5 in (3.8 cm) debido a tolerancias de fabricación.",
+  "rows": [
+   [
+    "Width",
+    "-",
+    "18.0",
+    "20.0",
+    "22.0",
+    "24.0",
+    "26.0",
+    "28.0",
+    "30.0",
+    "32.0"
+   ],
+   [
+    "Length",
+    "-",
+    "28.0",
+    "29.0",
+    "30.0",
+    "31.0",
+    "32.0",
+    "33.0",
+    "34.0",
+    "35.0"
+   ],
+   [
+    "Sleeve length",
+    "-",
+    "15.1",
+    "16.5",
+    "18.0",
+    "19.5",
+    "21.0",
+    "22.4",
+    "23.7",
+    "25.0"
+   ]
+  ],
+  "unit": "inches / centimeters"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b089254ba427acd12096a99/12124/101998/immortal-warrior-gold-tee.jpg?camera_label=size-chart"
+ ],
+ "sizes": [
+  "M",
+  "S",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "skus": [
+  "74065381512909614279",
+  "20450147431086104062",
+  "99357302154215588203",
+  "29808176447268905460",
+  "30466052231978156411",
+  "99964661535378286120",
+  "20434849639636849878",
+  "28994977826348525417"
+ ],
+ "source_title": "Immortal Warrior Gold Tee",
+ "stripe_payment_link": "https://buy.stripe.com/3cIaEY1IMfX61Ma8qy1gY2V",
+ "supplier": "Printify",
+ "supplier_id": "6b089254ba427acd12096a99",
+ "visual_verified": false
+}

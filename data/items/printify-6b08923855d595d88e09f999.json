@@ -1,0 +1,149 @@
+{
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio flat-lays with consistent lighting, though standard e-commerce presentation lacks dynamic campaign storytelling.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b08923855d595d88e09f999",
+ "color": "Black",
+ "created": "2026-11-26",
+ "desc_en": "A refined silhouette engineered to transition effortlessly from training to evening cityscapes. This piece pairs a deep black canvas with the signature house gold emblem. Made to order with worldwide shipping.",
+ "desc_es": "Una silueta depurada diseñada para la transición entre el entrenamiento y la elegancia urbana. Este modelo combina un fondo negro profundo con el emblema dorado característico de la casa. Confección bajo demanda y envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b08923855d595d88e09f999/12124/102005/dpf-gold-emblem-tee.jpg?camera_label=front-2",
+  "https://images.printify.com/mockup/6b08923855d595d88e09f999/12124/102006/dpf-gold-emblem-tee.jpg?camera_label=back-2",
+  "https://images.printify.com/mockup/6b08923855d595d88e09f999/12124/102001/dpf-gold-emblem-tee.jpg?camera_label=folded"
+ ],
+ "draft": false,
+ "fam": "emblem-tee",
+ "hidden": false,
+ "id": "printify-6b08923855d595d88e09f999",
+ "img_checked": "2026-11-26",
+ "look": [
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "productifi-apoyo-conjunto-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "",
+ "name_en": "Dpf Gold Emblem Black Tee",
+ "name_es": "Camiseta Gold Emblem Dpf Negra",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 28.99,
+ "rank": 305,
+ "shipping_usd": 7.99,
+ "shipping_worst_usd": 7.99,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "XS Width",
+   "S Width",
+   "M Width",
+   "L Width",
+   "XL Width",
+   "2XL Width",
+   "3XL Width",
+   "4XL Width",
+   "5XL Width"
+  ],
+  "headers_es": [
+   "Talla",
+   "XS Ancho",
+   "S Ancho",
+   "M Ancho",
+   "L Ancho",
+   "XL Ancho",
+   "2XL Ancho",
+   "3XL Ancho",
+   "4XL Ancho",
+   "5XL Ancho"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by +/-1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +/-1.5 in (3.8 cm) debido a tolerancias de fabricación.",
+  "rows": [
+   [
+    "Width",
+    "-",
+    "18.0 / 46.0",
+    "20.0 / 50.8",
+    "22.0 / 56.0",
+    "24.0 / 61.0",
+    "26.0 / 66.0",
+    "28.0 / 71.1",
+    "30.0 / 76.2",
+    "32.0 / 81.3"
+   ],
+   [
+    "Length",
+    "-",
+    "28.0 / 71.1",
+    "29.0 / 73.7",
+    "30.0 / 76.2",
+    "31.0 / 79.0",
+    "32.0 / 81.3",
+    "33.0 / 84.0",
+    "34.0 / 86.4",
+    "35.0 / 89.0"
+   ],
+   [
+    "Sleeve length",
+    "-",
+    "15.1 / 38.4",
+    "16.5 / 42.0",
+    "18.0 / 45.7",
+    "19.5 / 49.5",
+    "21.0 / 53.3",
+    "22.4 / 57.0",
+    "23.7 / 60.2",
+    "25.0 / 63.5"
+   ]
+  ],
+  "unit": "inches / cm"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b08923855d595d88e09f999/12124/101998/dpf-gold-emblem-tee.jpg?camera_label=size-chart"
+ ],
+ "sizes": [
+  "M",
+  "S",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "skus": [
+  "74753779491111128330",
+  "21138111264406747714",
+  "21700633858731299796",
+  "14086906434592036437",
+  "45104186433360723398",
+  "10191430202338184538",
+  "21444455489492480203",
+  "32901523036603494665"
+ ],
+ "source_title": "Dpf Gold Emblem Tee",
+ "stripe_payment_link": "https://buy.stripe.com/9B6bJ21IMeT2fD05em1gY2S",
+ "supplier": "Printify",
+ "supplier_id": "6b08923855d595d88e09f999",
+ "visual_verified": false
+}

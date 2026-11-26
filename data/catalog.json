@@ -11,89 +11,19 @@
           "en": "Men · Immortal Warrior",
           "items": [
             {
-              "id": "abrigo-chaqueta-sueter",
-              "es": "Abrigo, Chaqueta y Suéter",
-              "en": "Coats, Jackets & Sweaters"
-            },
-            {
-              "id": "americana-blazer",
-              "es": "Americana y Blazer",
-              "en": "Suit Jackets & Blazers"
-            },
-            {
-              "id": "polos",
-              "es": "Polos",
-              "en": "Polo Shirts"
-            },
-            {
-              "id": "camisas",
-              "es": "Camisas",
-              "en": "Shirts"
-            },
-            {
               "id": "camiseta",
-              "es": "Camiseta",
-              "en": "T-Shirts"
-            },
-            {
-              "id": "corbatas",
-              "es": "Corbatas",
-              "en": "Ties"
-            },
-            {
-              "id": "pantalones",
-              "es": "Pantalones",
-              "en": "Trousers"
-            },
-            {
-              "id": "mallas",
-              "es": "Mallas",
-              "en": "Tights & Base Layers"
-            },
-            {
-              "id": "pantalones-cortos",
-              "es": "Pantalones cortos",
-              "en": "Shorts"
+              "es": "Camisetas y tirantes",
+              "en": "T-Shirts & Tanks"
             },
             {
               "id": "chandal-sudaderas",
-              "es": "Chándal y Sudaderas",
-              "en": "Tracksuits & Sweatshirts"
+              "es": "Sudaderas y chándal",
+              "en": "Hoodies & Tracksuits"
             },
             {
-              "id": "conjuntos",
-              "es": "Conjuntos",
-              "en": "Sets"
-            },
-            {
-              "id": "albornoz-pijama",
-              "es": "Albornoz y Pijama",
-              "en": "Robes & Pajamas"
-            },
-            {
-              "id": "ropa-interior",
-              "es": "Ropa Interior para Hombre",
-              "en": "Men's Underwear"
-            },
-            {
-              "id": "cinturon",
-              "es": "Cinturón",
-              "en": "Belts"
-            },
-            {
-              "id": "banador",
-              "es": "Bañador para Hombre",
-              "en": "Men's Swimwear"
-            },
-            {
-              "id": "bolsos-carteras",
-              "es": "Bolsos y Carteras para hombre",
-              "en": "Men's Bags & Wallets"
-            },
-            {
-              "id": "gorro-bufanda",
-              "es": "Gorro & Bufanda Hombre",
-              "en": "Men's Hats & Scarves"
+              "id": "pantalones-cortos",
+              "es": "Shorts",
+              "en": "Shorts"
             }
           ]
         }
@@ -110,64 +40,9 @@
           "en": "Women · Tough Bitch",
           "items": [
             {
-              "id": "chaqueta-sudadera-sueter",
-              "es": "Chaqueta, Sudadera y Suéter",
-              "en": "Jackets, Sweatshirts & Sweaters"
-            },
-            {
-              "id": "vestidos-monos-petos",
-              "es": "Vestidos, Monos y Petos",
-              "en": "Dresses, Jumpsuits & Dungarees"
-            },
-            {
               "id": "camisetas-blusas-tops",
-              "es": "Camisetas, Blusas y Tops",
-              "en": "T-Shirts, Blouses & Tops"
-            },
-            {
-              "id": "bodies",
-              "es": "Bodies",
-              "en": "Bodysuits"
-            },
-            {
-              "id": "polo",
-              "es": "Polo",
-              "en": "Polo Shirts"
-            },
-            {
-              "id": "camisas",
-              "es": "Camisas para mujer",
-              "en": "Women's Shirts"
-            },
-            {
-              "id": "conjuntos",
-              "es": "Conjuntos",
-              "en": "Sets"
-            },
-            {
-              "id": "batas-pijamas",
-              "es": "Batas y Pijamas",
-              "en": "Robes & Pajamas"
-            },
-            {
-              "id": "ropa-interior",
-              "es": "Ropa interior",
-              "en": "Lingerie & Underwear"
-            },
-            {
-              "id": "trajes-bano",
-              "es": "Trajes de baño",
-              "en": "Swimwear"
-            },
-            {
-              "id": "pantalones",
-              "es": "Pantalones para mujer",
-              "en": "Women's Trousers"
-            },
-            {
-              "id": "pantalones-cortos",
-              "es": "Pantalones cortos",
-              "en": "Shorts"
+              "es": "Tops y sujetadores",
+              "en": "Tops & Sports Bras"
             },
             {
               "id": "leggings",
@@ -175,95 +50,24 @@
               "en": "Leggings"
             },
             {
+              "id": "chaqueta-sudadera-sueter",
+              "es": "Sudaderas y chaquetas",
+              "en": "Hoodies & Jackets"
+            },
+            {
+              "id": "conjuntos",
+              "es": "Conjuntos",
+              "en": "Sets"
+            },
+            {
+              "id": "vestidos-monos-petos",
+              "es": "Monos deportivos",
+              "en": "Jumpsuits"
+            },
+            {
               "id": "falda",
-              "es": "Falda",
-              "en": "Skirts"
-            },
-            {
-              "id": "bolsos-carteras",
-              "es": "Bolsos y Carteras",
-              "en": "Bags & Wallets"
-            },
-            {
-              "id": "gorros-bufandas",
-              "es": "Gorros y bufandas",
-              "en": "Hats & Scarves"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "calzado",
-      "es": "Calzado",
-      "en": "Footwear",
-      "groups": [
-        {
-          "id": "calzado-mujer",
-          "es": "Mujer",
-          "en": "Women",
-          "items": [
-            {
-              "id": "botas-botines",
-              "es": "Botas y Botines",
-              "en": "Boots & Ankle Boots"
-            },
-            {
-              "id": "zapatillas",
-              "es": "Zapatillas",
-              "en": "Sneakers"
-            },
-            {
-              "id": "zuecos",
-              "es": "Zuecos",
-              "en": "Clogs"
-            },
-            {
-              "id": "sandalias-chanclas",
-              "es": "Sandalias y Chanclas",
-              "en": "Sandals & Flip-Flops"
-            },
-            {
-              "id": "zapatillas-casa",
-              "es": "Zapatillas para casa",
-              "en": "House Slippers"
-            }
-          ]
-        },
-        {
-          "id": "calzado-hombre",
-          "es": "Hombre",
-          "en": "Men",
-          "items": [
-            {
-              "id": "botas-botines-hombre",
-              "es": "Botas y Botines de hombre",
-              "en": "Men's Boots & Ankle Boots"
-            },
-            {
-              "id": "zapatos-elegantes",
-              "es": "Zapatos Elegantes",
-              "en": "Dress Shoes"
-            },
-            {
-              "id": "zapatillas-hombre",
-              "es": "Zapatillas para hombre",
-              "en": "Men's Sneakers"
-            },
-            {
-              "id": "zuecos-hombre",
-              "es": "Zuecos para hombre",
-              "en": "Men's Clogs"
-            },
-            {
-              "id": "sandalias-chanclas-hombre",
-              "es": "Sandalias y Chanclas para hombre",
-              "en": "Men's Sandals & Flip-Flops"
-            },
-            {
-              "id": "zapatillas-hogar",
-              "es": "Zapatillas para hogar",
-              "en": "Men's House Slippers"
+              "es": "Faldas deportivas",
+              "en": "Sport Skirts"
             }
           ]
         }
@@ -273,14 +77,12 @@
       "id": "decor",
       "es": "Suplementos y accesorios",
       "en": "Supplements & Gear",
-      "direct": "decor",
       "groups": []
     },
     {
       "id": "identidad",
       "es": "La marca DPF",
       "en": "The DPF Brand",
-      "page": "identidad",
       "groups": []
     }
   ]

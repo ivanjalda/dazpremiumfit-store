@@ -59,15 +59,15 @@
       "discount_pct": 25,
       "es": {
         "eyebrow": "Black Week",
-        "title": "Black Week en la Maison",
-        "text": "Una semana, piezas seleccionadas con condiciones excepcionales. Solo en piezas elegidas y hasta agotar existencias.",
-        "cta": "Ver la selección"
+        "title": "Black Week DPF",
+        "text": "Una semana para equiparte con descuento. Prendas seleccionadas hasta agotar existencias.",
+        "cta": "Ver ofertas"
       },
       "en": {
         "eyebrow": "Black Week",
-        "title": "Black Week at the Maison",
-        "text": "One week only: selected pieces on exceptional terms. Selected pieces only, while availability lasts.",
-        "cta": "View the selection"
+        "title": "DPF Black Week",
+        "text": "One week to gear up for less. Selected items while stock lasts.",
+        "cta": "Shop the deals"
       }
     },
     {
@@ -78,16 +78,16 @@
       "discount_pct": 15,
       "gifts": true,
       "es": {
-        "eyebrow": "Campaña Navideña",
-        "title": "Gala de Invierno",
-        "text": "Regalos de alta costura para quien lo merece todo. Ediciones de invierno confeccionadas para ti.",
-        "cta": "Descubrir los regalos"
+        "eyebrow": "Campaña de Navidad",
+        "title": "Regala disciplina",
+        "text": "Ropa de entreno DPF para quien no falla ni un día. El regalo perfecto para tu gente del gym.",
+        "cta": "Ver regalos"
       },
       "en": {
         "eyebrow": "Holiday Campaign",
-        "title": "The Winter Gala",
-        "text": "Couture gifts for those who deserve everything. Winter editions made for you.",
-        "cta": "Discover the gifts"
+        "title": "Gift discipline",
+        "text": "DPF training gear for those who never skip a day. The perfect gift for your gym crew.",
+        "cta": "See the gifts"
       }
     },
     {
@@ -97,16 +97,16 @@
       "priority": 3,
       "discount_pct": 20,
       "es": {
-        "eyebrow": "Temporada",
-        "title": "Las Rebajas de la Maison",
-        "text": "Piezas de temporada con condiciones especiales durante tiempo limitado.",
-        "cta": "Ver piezas"
+        "eyebrow": "Rebajas",
+        "title": "Rebajas DPF",
+        "text": "Empieza el año entrenando: prendas DPF con descuento por tiempo limitado.",
+        "cta": "Ver rebajas"
       },
       "en": {
-        "eyebrow": "Season",
-        "title": "The Maison Sale",
-        "text": "Seasonal pieces on special terms for a limited time.",
-        "cta": "View pieces"
+        "eyebrow": "Sale",
+        "title": "DPF Sale",
+        "text": "Start the year training: DPF gear on sale for a limited time.",
+        "cta": "Shop the sale"
       }
     },
     {
@@ -283,5 +283,13 @@
     "model": "gemini-2.5-flash-image",
     "blocked_on": "2026-11-26",
     "blocked_reason": "bloqueado: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://a"
-  }
+  },
+  "store_rules": {
+    "enabled": true,
+    "allowed_supplements": [
+      "advanced whey protein chocolate"
+    ],
+    "nota": "Suplementos: SOLO los de Productifi (wish4.com). Supliful es de pago y no se usa."
+  },
+  "dpf_settings_version": 2
 }
