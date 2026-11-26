@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "Violet Star",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyamide",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "High-end campaign imagery with professional gym lighting and crisp garment details.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dpf-violet-star-leggings-de-tiro-bajo",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "A fusion of darkness and light redefines daily performance. The violet star print brings visual depth to a sculpted silhouette. The low rise cut frames the figure with impeccable hold. Engineered to move with absolute precision. Each piece is made to order and shipped worldwide.",
+ "desc_es": "Una fusión de oscuridad y luz redefine el rendimiento diario. El estampado de estrellas en tonos violetas aporta profundidad visual a una silueta esculpida. El corte de tiro bajo enmarca la figura con una sujeción impecable. Confeccionados para moverse con precisión absoluta. Cada pieza se elabora bajo demanda y se envía a todo el mundo.",
+ "details_en": "· Polyamide fabric with matte finish\n· Elastic and snug fit\n· Low rise and full length cut\n· Violet star print on dark background\n· Front DPF logo\n· Made to order",
+ "details_es": "· Tejido de poliamida con acabado mate\n· Ajuste elástico y ceñido\n· Corte de tiro bajo y largo completo\n· Estampado de estrellas violetas sobre fondo oscuro\n· Logotipo DPF delantero\n· Hecho bajo demanda",
  "display_images": [
   "assets/products/shop/d585e5dc0c6f41946b25.jpg",
   "assets/products/shop/370ddbae8c0eb212cb88.jpg",
@@ -26,17 +40,108 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Violet Star Tiro Leggings",
- "name_es": "Leggings Violet Star Tiro",
+ "name_en": "Violet Star Low Rise Leggings",
+ "name_es": "Leggings Tiro Bajo Violet Star",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 38.99,
- "rank": 173,
+ "rank": 177,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length",
+   "Waist",
+   "Hip",
+   "Ankle"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo",
+   "Cintura",
+   "Cadera",
+   "Tobillo"
+  ],
+  "notes_en": "Garment measurements in centimeters, converted from inches and rounded to one decimal. Length is measured from waist to hem.",
+  "notes_es": "Medidas de referencia de la prenda en centímetros, convertidas de pulgadas y redondeadas a un decimal. El largo se mide desde la cintura hasta el bajo.",
+  "rows": [
+   [
+    "XXS",
+    "91.9",
+    "64.0",
+    "68.1",
+    "16.5"
+   ],
+   [
+    "XS",
+    "93.2",
+    "68.1",
+    "72.9",
+    "17.8"
+   ],
+   [
+    "S",
+    "94.5",
+    "72.9",
+    "78.0",
+    "19.1"
+   ],
+   [
+    "M",
+    "95.8",
+    "78.0",
+    "83.1",
+    "20.3"
+   ],
+   [
+    "L",
+    "97.0",
+    "82.0",
+    "88.1",
+    "21.6"
+   ],
+   [
+    "XL",
+    "98.6",
+    "88.1",
+    "93.0",
+    "22.9"
+   ],
+   [
+    "XXL",
+    "99.6",
+    "95.0",
+    "98.0",
+    "24.1"
+   ],
+   [
+    "XXXL",
+    "101.1",
+    "101.1",
+    "103.1",
+    "25.4"
+   ],
+   [
+    "XXXXL",
+    "102.4",
+    "102.1",
+    "108.0",
+    "26.9"
+   ],
+   [
+    "XXXXXL",
+    "103.6",
+    "106.9",
+    "113.0",
+    "28.2"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "XXS",

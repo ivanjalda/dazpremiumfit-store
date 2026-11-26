@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "Tough Gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% poliéster, 5% elastano",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "High-end fitness campaign imagery with professional lighting and confident model poses.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-daz-premium-fit-tough-leggings-de-cintura-alta-con-bolsillos",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Engineered for uncompromising performance. These leggings combine a gold mustard tone with a graphic print and distinctive branding details at the waist and front. The flexible fabric moves seamlessly with you through every training session. Featuring discreet side pockets for your essentials. A garment crafted to stand out with character in every workout.",
+ "desc_es": "Diseñados para un rendimiento sin concesiones. Estos leggings combinan un tono mostaza dorado con un estampado gráfico y detalles distintivos en la cintura y el frente. Su tejido flexible acompaña cada movimiento durante el entrenamiento. Cuentan con bolsillos laterales discretos para llevar lo esencial. Una prenda creada para destacar con carácter en cada sesión de entrenamiento.",
+ "details_en": "· Composition: 95% polyester and 5% elastane.\n· Fit: fitted, high-waisted, full length.\n· Pockets: one on each side for small essentials.\n· Design: gold mustard base with graphic print and signature branding.\n· Recommended use: fitness and yoga.\n· Care: machine wash cold max 40 °C, do not bleach, iron with protective cloth, do not tumble dry, avoid direct sunlight.\n· Made-to-order pieces.\n· Worldwide shipping.",
+ "details_es": "· Composición: 95 % poliéster y 5 % elastano.\n· Corte: ajustado, de cintura alta y largo completo.\n· Bolsillos: uno a cada lado para pequeños objetos.\n· Diseño: base mostaza dorada con estampado gráfico y detalles distintivos.\n· Uso recomendado: fitness y yoga.\n· Cuidados: lavar a máquina con agua fría a máximo 40 °C, no usar blanqueador, planchar con paño protector, no usar secadora, evitar sol directo.\n· Piezas bajo pedido.\n· Envíos a todo el mundo.",
  "display_images": [
   "assets/products/shop/57a6d2a53c2ae67b4bda.jpg",
   "assets/products/shop/ddd85b940a80169730db.jpg",
@@ -17,8 +31,7 @@
   "assets/products/shop/e7dcfce42b2dc1d8b7a0.jpg",
   "assets/products/shop/965ec97b54647f088f39.jpg",
   "assets/products/shop/7c1e2678d150bc2873c3.jpg",
-  "assets/products/shop/2f62558868dc74f82555.jpg",
-  "https://ipimg.interestprint.com/data/product/2308/info/image/20220209/4D9763386F457C9CBA34DC192093152B.jpg"
+  "assets/products/shop/2f62558868dc74f82555.jpg"
  ],
  "draft": false,
  "fam": "premium-fit-tough",
@@ -32,18 +45,69 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Daz Tough Cintura Leggings · Gold",
- "name_es": "Leggings Daz Tough Cintura · Oro",
+ "name_en": "Tough Gold Performance Leggings",
+ "name_es": "Leggings de Competición Tough Gold",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 45.99,
- "rank": 153,
+ "rank": 156,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "WAIST(B)",
+   "HIPS(C)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD (A)",
+   "CINTURA (B)",
+   "CADERA (C)"
+  ],
+  "notes_en": "Made to order pieces. Worldwide shipping.",
+  "notes_es": "Piezas bajo pedido. Envíos a todo el mundo.",
+  "rows": [
+   [
+    "S",
+    "37.40",
+    "24.80",
+    "30.71"
+   ],
+   [
+    "M",
+    "38.98",
+    "25.98",
+    "32.28"
+   ],
+   [
+    "L",
+    "40.35",
+    "27.17",
+    "33.86"
+   ],
+   [
+    "XL",
+    "41.06",
+    "28.74",
+    "35.43"
+   ],
+   [
+    "2XL",
+    "41.14",
+    "30.71",
+    "37.80"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "https://ipimg.interestprint.com/data/product/2308/info/image/20220209/4D9763386F457C9CBA34DC192093152B.jpg"
+ ],
  "sizes": [
   "S",
   "M",

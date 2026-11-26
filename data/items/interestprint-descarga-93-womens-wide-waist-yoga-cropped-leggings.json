@@ -18,7 +18,7 @@
   "mujer/leggings"
  ],
  "cg": "t-dpf-kaleido-leggings-de-yoga-de-cintura-alta",
- "color": "",
+ "color": "multicolor",
  "created": "2026-11-25",
  "desc_en": "Elevate your practice with a chromatic explosion of kaleidoscopic inspiration. These high-waisted leggings combine a vibrant design with a soft, enveloping touch that adapts to the body's natural movement. The signature logo at the front and graphic detail at the back define a bold attitude. Ideal for the training session or transitioning into the rest of the day with total elegance. Made-to-order pieces with worldwide shipping.",
  "desc_es": "Eleva tu práctica con una explosión cromática de inspiración caleidoscópica. Estos leggings de cintura alta combinan un diseño vibrante con un tacto suave y envolvente que se adapta al movimiento natural del cuerpo. El logotipo distintivo en el frontal y el gráfico en la parte posterior definen una actitud audaz. Ideales para la sesión de entrenamiento o para la transición hacia el resto del día con total elegancia. Piezas elaboradas bajo demanda con envíos a todo el mundo.",
@@ -33,6 +33,7 @@
  ],
  "draft": false,
  "fam": "kaleido-leggings-yoga",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-descarga-93-womens-wide-waist-yoga-cropped-leggings",
  "look": [
@@ -41,14 +42,14 @@
   "interestprint-design-womens-high-waist-layered-sport-skirt",
   "interestprint-descarga-81-racerback-sports-bra"
  ],
- "material": "",
+ "material": "poliéster",
  "name_en": "Kaleido Yoga Leggings",
  "name_es": "Leggings de Yoga Kaleido",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
- "rank": 41,
+ "rank": 43,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",

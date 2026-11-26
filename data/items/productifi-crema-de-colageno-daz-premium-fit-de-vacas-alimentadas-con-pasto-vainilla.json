@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Péptidos de colágeno hidrolizados",
+ "ai_sizes": "240 g",
+ "ai_type": "Suplemento",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot with professional lighting and typography.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +20,13 @@
  "cg": "t-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Daily elevation for your routine. Our collagen creamer combines grass-fed bovine hydrolyzed peptides with a subtle vanilla profile. Designed to blend seamlessly into hot or cold beverages. Contributes to the maintenance of body structure and general well-being with every serving. Crafted under strict quality standards. Available exclusively made-to-order with worldwide shipping.",
+ "desc_es": "Elevación diaria para su rutina. Nuestra crema de colágeno combina péptidos hidrolizados de bovino alimentado con pasto con un sutil perfil de vainilla. Diseñada para integrarse perfectamente en bebidas calientes o frías. Contribuye al mantenimiento de la estructura corporal y al bienestar general con cada porción. Elaborada bajo estrictos estándares de calidad. Disponible exclusivamente bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Vanilla flavor\n· Net weight 0.53 lb (240 g)\n· Contains types 1 and 3 collagen peptides\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Sabor vainilla\n· Contenido neto de 0,53 lb (240 g)\n· Contiene péptidos de colágeno tipos 1 y 3\n· Producto elaborado bajo pedido\n· Envios internacionales disponibles",
  "display_images": [
   "assets/products/shop/f62cd2c61ecf32950687.jpg",
-  "assets/products/shop/d1de5f57ca5eaedfd83e.jpg",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png"
+  "assets/products/shop/d1de5f57ca5eaedfd83e.jpg"
  ],
  "draft": false,
  "fam": "crema-colageno-premium",
@@ -24,19 +37,22 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "name_en": "Colágeno Daz Vacas Collagen",
- "name_es": "Colágeno Colágeno Daz Vacas",
+ "name_en": "Vanilla Collagen Creamer",
+ "name_es": "Crema de Colágeno Vanilla",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 36.99,
- "rank": 166,
+ "rank": 170,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
- "sizes": [],
+ "sizes": [
+  "240 g"
+ ],
  "source_title": "Crema de colágeno DAZ Premium Fit de vacas alimentadas con pasto (vainilla)",
  "stripe_payment_link": "https://buy.stripe.com/8x23cwgDG7qA8ayeOW1gW46",
  "supplier": "Productifi",

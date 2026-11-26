@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "Smoke",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "The imagery relies on composited mockups with visible digital pasting on the model, lacking true high-end campaign authenticity.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "t-dpf-smoke-leggings-estampados",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Defined by subtle contrast, these leggings feature an abstract smoked-effect print blending black, grey, and white. The form-fitting silhouette and full length accompany every movement with precision. The front logo and rear graphic detail establish distinct identity. Created to transition seamlessly from demanding training sessions to daily urban routines.",
+ "desc_es": "Definidos por un contraste sutil, estos leggings presentan un estampado abstracto de efecto ahumado que fusiona negro, gris y blanco. Su silueta de corte ceñido y largo completo acompaña cada movimiento con precisión. El logotipo delantero y el detalle gráfico trasero aportan identidad propia. Creados para acompañarte desde las exigencias del entrenamiento hasta los momentos urbanos diarios.",
+ "details_en": "· Form-fitting and elastic fit\n· Full length\n· Matte finish\n· Abstract print in black, grey, and white\n· DPF graphic details\n· Machine wash cold, maximum 40 °C\n· Do not bleach\n· Iron with a protective cloth\n· Do not tumble dry\n· Avoid direct sunlight during drying\n· Made-to-order pieces\n· Worldwide shipping",
+ "details_es": "· Ajuste ceñido y elástico\n· Largo completo\n· Acabado mate\n· Estampado abstracto en negro, gris y blanco\n· Detalles gráficos DPF\n· Lavar a máquina con agua fría a un máximo de 40 °C\n· No usar blanqueador con cloro\n· Planchar con un paño protector\n· No utilizar secadora\n· Evitar la exposición directa al sol durante el secado\n· Made-to-order pieces\n· Worldwide shipping",
  "display_images": [
   "assets/products/shop/022411077f16167d2ae7.jpg",
   "assets/products/shop/4171d6d7e71278f5570d.jpg",
@@ -26,17 +39,78 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Smoke Estampados Leggings",
- "name_es": "Leggings Smoke Estampados",
+ "name_en": "DPF Smoke Leggings",
+ "name_es": "Leggings DPF Smoke",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
- "rank": 132,
+ "rank": 135,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Hip (cm)",
+   "Thigh (cm)",
+   "Ankle (cm)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Cadera (cm)",
+   "Muslo (cm)",
+   "Tobillo (cm)"
+  ],
+  "notes_en": "Body measurements. Compare your measurements with these tables.",
+  "notes_es": "Medidas corporales. Compara tus medidas con estas tablas.",
+  "rows": [
+   [
+    "XS",
+    "83,8–86,4",
+    "48,3–53,3",
+    "20,3"
+   ],
+   [
+    "S",
+    "88,9–91,4",
+    "55,9–58,4",
+    "21,6"
+   ],
+   [
+    "M",
+    "94,0–96,5",
+    "61,0–63,5",
+    "22,9"
+   ],
+   [
+    "L",
+    "99,1–104,1",
+    "66,0–68,6",
+    "24,1"
+   ],
+   [
+    "XL",
+    "106,7–114,3",
+    "71,1–73,7",
+    "25,4"
+   ],
+   [
+    "XXL",
+    "116,8–121,9",
+    "76,2–78,7",
+    "26,7"
+   ],
+   [
+    "XXXL",
+    "124,5–132,1",
+    "78,7–81,3",
+    "27,9"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "XS",

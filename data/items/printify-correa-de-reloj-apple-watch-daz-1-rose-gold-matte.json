@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Rose Gold Matte",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% polyester synthetic leather (strap), 100% stainless steel (buckle, adapter)",
+ "ai_type": "Watch Strap",
+ "ai_ver": 2,
+ "art_note": "Clean digital mockups showing the product details clearly against a neutral background.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-correa-de-reloj-apple-watch-daz",
  "color": "Rose Gold Matte",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "A refined silhouette that redefines everyday accessories. This custom strap brings a sophisticated accent to any outfit. Crafted with selected materials for durability and comfort. Its clean-lined design complements both daily routines and evening outings. Each piece is made to order to ensure exclusivity and minimize overproduction. Worldwide shipping available.",
+ "desc_es": "Una silueta refinada que redefine los accesorios cotidianos. Esta correa personalizada aporta un acento sofisticado a cualquier atuendo. Confeccionada con materiales seleccionados para ofrecer durabilidad y comodidad. Su diseño de líneas limpias complementa tanto la rutina diaria como las salidas nocturnas. Cada pieza se confecciona bajo pedido para garantizar exclusividad y minimizar el exceso de producción. Disponible con envío a todo el mundo.",
+ "details_en": "· 100% polyester synthetic leather strap\n· 100% stainless steel buckle and adapter\n· Compatible with Apple Watch Series 1, 2, 3, 4, 5, 6, 7, 8, 9 Ultra and SE\n· Single-sided print\n· Made to order with worldwide shipping",
+ "details_es": "· 100 % cuero sintético de poliéster en la correa\n· 100 % acero inoxidable en la hebilla y el adaptador\n· Adecuada para dispositivos Apple Watch Series 1, 2, 3, 4, 5, 6, 7, 8, 9 Ultra y SE\n· Estampado por un lado\n· Producto confeccionado bajo pedido con envío a todo el mundo",
  "display_images": [
   "assets/products/shop/8704e59567b02d5a17c7.jpg",
   "assets/products/shop/a31b9771726eb907ccd8.jpg",
@@ -19,11 +33,7 @@
   "assets/products/shop/2f09fcfa0a4cd45c3f0e.jpg",
   "assets/products/shop/56b37e1981faf9e5a599.jpg",
   "assets/products/shop/8d64815147820048911f.jpg",
-  "assets/products/shop/5fba2bca8bd775276c8f.jpg",
-  "assets/products/shop/79ff3c8756cce99d2870.jpg",
-  "assets/products/shop/5ba1d5e79f6cc2e26f1a.jpg",
-  "assets/products/shop/84601ec80ec9bce17cb9.jpg",
-  "assets/products/shop/8f536ac3018ffdd389a4.jpg"
+  "assets/products/shop/5fba2bca8bd775276c8f.jpg"
  ],
  "draft": false,
  "fam": "correa-reloj-apple",
@@ -33,19 +43,50 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "missing_days": 1,
- "missing_last": "2026-11-25",
- "name_en": "Correa Reloj Apple Watch · Rose Gold Matte",
- "name_es": "Reloj Correa Reloj Apple · Rose Gold Matte",
+ "missing_days": 2,
+ "missing_last": "2026-11-26",
+ "name_en": "Matte Regale Watch Strap · Rose Gold Matte",
+ "name_es": "Correa de Reloj Matte Regale · Rose Gold Matte",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
- "rank": 178,
+ "rank": 182,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Joyería > Accesorios para reloj > Correas de reloj",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Band Size",
+   "Band Width",
+   "Band Thickness",
+   "Band Length"
+  ],
+  "headers_es": [
+   "Tamaño de correa",
+   "Ancho de banda",
+   "Espesor de la banda",
+   "Longitud de la correa"
+  ],
+  "notes_en": "Compatible with Apple Watch Series 1, 2, 3, 4, 5, 6, 7, 8, 9 Ultra and SE.",
+  "notes_es": "Compatible con Apple Watch Series 1, 2, 3, 4, 5, 6, 7, 8, 9 Ultra y SE.",
+  "rows": [
+   [
+    "38 - 41 mm",
+    "0.83",
+    "0.08",
+    "6.30 - 8.86"
+   ],
+   [
+    "42 - 45 mm",
+    "0.94",
+    "0.08",
+    "6.30 - 8.86"
+   ]
+  ],
+  "unit": "in"
+ },
  "size_guide": [],
  "sizes": [
   "38 - 41 mm",

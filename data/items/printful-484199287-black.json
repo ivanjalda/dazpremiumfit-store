@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-484199287",
  "color": "Black",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Contemporary cropped silhouette. Design engineered for movement and daily presence. Made-to-order construction with worldwide shipping. Clean lines defining a resolute aesthetic. Neutral presence with a contrast touch at the chest. Uncompromising comfort. An essential addition to the collection.",
+ "desc_es": "Silueta recortada y contemporánea. Diseño pensado para el movimiento y la presencia diaria. Confección bajo demanda con envíos a todo el mundo. Líneas limpias que definen una estética decidida. Presencia neutra con un toque de contraste en el pecho. Comodidad sin concesiones. Una prenda esencial para la colección.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Disponible con envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/92d/92de38c429ea6a2559c4242a9f0be43c_preview.png"
  ],
@@ -24,12 +37,13 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Corta Tough Bitch Sweatshirt · Black",
- "name_es": "Sudadera Corta Tough Bitch · Negro",
+ "name_en": "DPF Tough Crop Hoodie · Black",
+ "name_es": "Sudadera corta DPF Tough · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 57.99,
- "rank": 129,
+ "rank": 132,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",

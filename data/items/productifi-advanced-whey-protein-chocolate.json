@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Whey Protein Isolate",
+ "ai_sizes": "30.94 oz",
+ "ai_type": "Protein Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean 3D render of a supplement container, but lacks high-end editorial lighting and lifestyle context.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +20,12 @@
  "cg": "t-advanced-whey-protein-chocolate",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Advanced high-quality protein formula designed to support muscle recovery, strength, and everyday performance. Made with premium whey protein and a smooth chocolate flavor, this blend helps fuel workouts and promote lean muscle growth. Available with worldwide shipping and made to order.",
+ "desc_es": "Forma avanzada de proteína diseñada para apoyar la recuperación muscular y el rendimiento diario. Elaborada con proteína de suero de alta calidad y un suave perfil de chocolate, esta mezcla nutre estilos de vida activos. Disponible con envíos a todo el mundo y fabricada bajo demanda.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
-  "assets/products/shop/9f0aaffd25ee9e0b68a7.jpg",
-  "assets/products/shop/25b5eada2f609222b2c4.jpg",
-  "assets/products/shop/a9e0cef8f147c84a4b01.jpg",
-  "assets/products/shop/c06a5366c6e434c4a600.jpg"
+  "assets/products/shop/9f0aaffd25ee9e0b68a7.jpg"
  ],
  "draft": false,
  "fam": "advanced-whey-protein",
@@ -24,17 +36,20 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "name_en": "Advanced Whey Protein Protein",
- "name_es": "Proteína Advanced Whey Protein",
+ "name_en": "Advanced Chocolate Whey Protein",
+ "name_es": "Proteína de Sueero de Chocolate",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 22.9,
- "rank": 202,
+ "rank": 206,
  "shop_category": "",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
- "sizes": [],
+ "sizes": [
+  "30.94 oz"
+ ],
  "source_title": "ADVANCED WHEY PROTEIN CHOCOLATE",
  "stripe_payment_link": "https://buy.stripe.com/5kQdRabjm9yIgH436e1gX0y",
  "supplier": "Productifi",

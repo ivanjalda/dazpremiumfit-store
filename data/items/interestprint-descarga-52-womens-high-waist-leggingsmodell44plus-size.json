@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "Beige, black, grey and red plaid",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% elastane",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "Strong lifestyle photography in a realistic gym environment, though flat product renders and supplier chart lower the overall digital presentation.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,15 @@
  "cg": "t-daz-premium-fit-tough-plaid-leggings-de-cintura-alta-a-cuadros",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Redefine your training presence with a piece designed to stand out. This model combines a diagonal plaid print in neutral tones with subtle reddish accents and distinctive waistband details. The high-waisted silhouette provides support and comfort throughout every movement. Crafted to accompany your discipline with character and sophistication. Each piece is made to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Redefine tu presencia en el entrenamiento con una pieza diseñada para destacar. Este modelo combina un estampado diagonal a cuadros en tonos neutros con sutiles acentos rojizos y detalles distintivos en la cintura. La silueta de cintura alta ofrece sujeción y comodidad durante cualquier movimiento. Confeccionados para acompañar tu disciplina con carácter y sofisticación. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Composition: 95% polyester and 5% elastane.\n· High and elastic waist with visible seams.\n· Fitted cut and full length.\n· Machine wash cold, maximum 40 °C. Do not bleach. Iron with a protective cloth. Do not tumble dry and avoid direct sunlight during drying.\n· Made-to-order piece with worldwide shipping.",
+ "details_es": "· Composición: 95 % poliéster y 5 % elastano.\n· Cintura alta y elástica con costuras visibles.\n· Corte ajustado y de largo completo.\n· Lavar a máquina con agua fría, máximo 40 °C. No usar blanqueador con cloro. Planchar con un paño protector. No utilizar secadora y evitar el sol directo durante el secado.\n· Pieza confeccionada bajo demanda con envío a todo el mundo.",
  "display_images": [
   "assets/products/shop/4c931946a0448116a8d9.jpg",
   "assets/products/shop/68cedc8914d8c90b671f.jpg",
   "assets/products/shop/6e61f7ad0756b22902e6.jpg",
-  "assets/products/shop/e54fe4bff65ad8ac8add.jpg",
-  "assets/products/shop/e9e2332ab9eab0e1bfa0.jpg",
-  "assets/products/shop/1efade65708494d48e3a.jpg",
-  "https://ipimg.interestprint.com/data/product/1367/info/image/20201207/2EB8F159D180F550374A4A6F213538AB.png"
+  "assets/products/shop/e54fe4bff65ad8ac8add.jpg"
  ],
  "draft": false,
  "fam": "premium-fit-tough",
@@ -30,18 +41,63 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Daz Tough Plaid Leggings",
- "name_es": "Leggings Daz Tough Plaid",
+ "name_en": "Tough Plaid Performance Leggings",
+ "name_es": "Leggings de Rendimiento a Cuadros Tough",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 45.99,
- "rank": 154,
+ "rank": 157,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
  "shop_verified": true,
- "size_chart": null,
- "size_guide": [],
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (A)",
+   "Waist (B)",
+   "Hips (C)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (A)",
+   "Cintura (B)",
+   "Caderas (C)"
+  ],
+  "notes_en": "Model L44 sizing. Consult the original supplier chart before choosing your size.",
+  "notes_es": "Modelo L44 de tallaje amplio. Consulta la tabla original antes de elegir tu talla.",
+  "rows": [
+   [
+    "M",
+    "37.80",
+    "29.92",
+    "35.83"
+   ],
+   [
+    "L",
+    "37.80",
+    "32.68",
+    "38.58"
+   ],
+   [
+    "XL",
+    "37.80",
+    "35.43",
+    "41.34"
+   ],
+   [
+    "2XL",
+    "37.80",
+    "38.19",
+    "44.09"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "https://ipimg.interestprint.com/data/product/1367/info/image/20201207/2EB8F159D180F550374A4A6F213538AB.png"
+ ],
  "sizes": [
   "M",
   "L",

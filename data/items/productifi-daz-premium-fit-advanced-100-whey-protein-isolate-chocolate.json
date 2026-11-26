@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Chocolate",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Aislado de proteína de suero",
+ "ai_type": "Suplemento",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot with standard label presentation, lacking atmospheric luxury campaign context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +19,13 @@
  "cg": "t-daz-premium-fit-advanced-whey-protein-isolate-chocolate",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Engineered for supreme performance. This pure whey protein isolate delivers a rich and refined chocolate experience. Each serving provides essential nutrients designed to support muscle recovery and growth. A versatile formula that integrates seamlessly into your daily training routine. Made to order. Worldwide shipping available.",
+ "desc_es": "Desarrollado para el rendimiento supremo. Este aislado de proteína de suero puro ofrece una experiencia rica y refinada de chocolate. Cada porción entrega nutrientes esenciales diseñados para apoyar la recuperación y el crecimiento muscular. Una fórmula versátil que se integra perfectamente en su rutina diaria de entrenamiento. Fabricado bajo pedido. Envío mundial disponible.",
+ "details_en": "· 22 g of whey protein isolate per serving\n· Contains MCT oil powder and apple pectin\n· Chocolate flavor\n· Net weight 29.60 oz / 839 g\n· Made in USA\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 22 g de aislado de proteína de suero por porción\n· Contiene aceite MCT en polvo y pectina de manzana\n· Sabor chocolate\n· Contenido neto de 29.60 oz / 839 g\n· Fabricado en EE. UU.\n· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "assets/products/shop/9187aceccd3c07cbf88a.jpg",
-  "assets/products/shop/cc862a576633de0a0d2c.jpg",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png"
+  "assets/products/shop/cc862a576633de0a0d2c.jpg"
  ],
  "draft": false,
  "fam": "premium-fit-advanced",
@@ -24,12 +36,13 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "name_en": "Daz Advanced Whey Protein",
- "name_es": "Proteína Daz Advanced Whey",
+ "name_en": "Advanced Chocolate Whey Protein Isolate",
+ "name_es": "Aislado de Proteína Advanced Chocolate",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 50.99,
- "rank": 167,
+ "rank": 171,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",

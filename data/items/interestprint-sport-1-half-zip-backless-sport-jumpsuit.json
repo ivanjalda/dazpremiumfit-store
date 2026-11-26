@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "80% poliéster y 20% elastano",
+ "ai_type": "unitard",
+ "ai_ver": 2,
+ "art_note": "High-end lifestyle and studio imagery that captures the sleek silhouette and athletic aesthetic effectively.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-mono-corto-deportivo-dpf-no-permission-con-espalda-abierta",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Redefine your training with a sculpted silhouette that combines precision and absolute freedom. This one-piece design features a short front zip, a structured high neck, and a striking open back. The flexible fabric adapts to every movement with absolute lightness. Designed for high-intensity sessions or an impeccable urban aesthetic. An essential garment for those who demand performance without compromising technical elegance.",
+ "desc_es": "Redefine tu entrenamiento con una silueta esculpida que combina precisión y libertad absoluta. Este diseño de una sola pieza presenta una cremallera frontal corta, un cuello alto estructurado y una llamativa espalda abierta. El tejido flexible se adapta a cada movimiento con total ligereza. Pensado para sesiones de alta intensidad o para un estilo urbano impecable. Una prenda esencial para quienes exigen rendimiento sin renunciar a la elegancia técnica.",
+ "details_en": "· Composition: 80% polyester and 20% elastane\n· Lightweight, breathable, and flexible fabric\n· Short front zipper and high neck\n· Open back and sleeveless short cut\n· Chest logo and printed text on the back waist\n· Unpadded chest\n· Made to order and worldwide shipping",
+ "details_es": "· Composición: 80 % poliéster y 20 % elastano\n· Tejido ligero, transpirable y flexible\n· Cremallera frontal corta y cuello alto\n· Espalda abierta y corte corto sin mangas\n· Logotipo en el pecho y texto impreso en la cintura trasera\n· Pecho sin relleno\n· Made to order and worldwide shipping",
  "display_images": [
   "assets/products/shop/7cb13b3cf9bc2d085400.jpg",
   "assets/products/shop/8ccf5c5e88ef41a07af8.jpg",
@@ -25,17 +39,84 @@
   "interestprint-design-womens-high-waist-layered-sport-skirt"
  ],
  "material": "",
- "name_en": "Mono Corto Deportivo Jumpsuit",
- "name_es": "Mono Mono Corto Deportivo",
+ "name_en": "No Permission Sport Short Unitard",
+ "name_es": "Mono Corto Deportivo No Permission",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 36.99,
- "rank": 159,
+ "rank": 163,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Leotardos y unitardos > Unitardos",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (A)",
+   "Chest (B)",
+   "Waist (C)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (A)",
+   "Pecho (B)",
+   "Cintura (C)"
+  ],
+  "notes_en": "Values provided for this model. Each cell shows centimeters / inches. Conversions rounded to one decimal.",
+  "notes_es": "Valores de la tabla facilitada para este modelo. Cada celda muestra centímetros / pulgadas. Las conversiones a centímetros se han redondeado a un decimal.",
+  "rows": [
+   [
+    "S",
+    "69,6 / 27,40",
+    "72,4 / 28,50",
+    "62,2 / 24,50"
+   ],
+   [
+    "M",
+    "70,9 / 27,90",
+    "76,2 / 30,00",
+    "66,0 / 26,00"
+   ],
+   [
+    "L",
+    "72,4 / 28,50",
+    "81,3 / 32,00",
+    "71,1 / 28,00"
+   ],
+   [
+    "XL",
+    "73,9 / 29,10",
+    "86,4 / 34,00",
+    "76,2 / 30,00"
+   ],
+   [
+    "2XL",
+    "75,4 / 29,70",
+    "91,4 / 36,00",
+    "81,3 / 32,00"
+   ],
+   [
+    "3XL",
+    "77,5 / 30,50",
+    "97,3 / 38,30",
+    "87,1 / 34,30"
+   ],
+   [
+    "4XL",
+    "79,5 / 31,30",
+    "103,1 / 40,60",
+    "93,7 / 36,90"
+   ],
+   [
+    "5XL",
+    "81,5 / 32,10",
+    "109,0 / 42,90",
+    "94,5 / 37,20"
+   ]
+  ],
+  "unit": "cm / pulgadas"
+ },
  "size_guide": [],
  "sizes": [
   "S",

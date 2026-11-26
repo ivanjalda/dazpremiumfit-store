@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "94% poliéster y 6% elastano",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "High-end fitness campaign imagery with professional lighting and clean studio environments.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-dpf-essential-leggings-negros",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "A clean silhouette defines the essence of the collection. This deep black design is accented by the contrasting logo at the front. The precise cut accompanies every movement with absolute naturalness. The silhouette contours seamlessly, offering a refined presence for both training and daily routines. Made-to-order piece with worldwide shipping.",
+ "desc_es": "Una silueta limpia define la esencia de la colección. Este diseño en negro profundo se acentúa con el contraste del logotipo en el frente. El corte preciso acompaña cada movimiento con absoluta naturalidad. La silueta se adapta con precisión a la forma, ofreciendo una presencia depurada tanto en el entrenamiento como en la rutina diaria. Pieza elaborada bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Composition: 94% polyester and 6% elastane.\n· Fit: snug and elastic.\n· Length: full, ankle-length.\n· Design: black with contrasting white DPF logo.\n· Care: machine wash cold, maximum 40 °C. Do not use chlorine bleach. Iron with a protective cloth. Do not tumble dry and avoid direct sunlight during drying.",
+ "details_es": "· Composición: 94 % poliéster y 6 % elastano.\n· Ajuste: ceñido y elástico.\n· Largo: completo, hasta el tobillo.\n· Diseño: negro con logotipo DPF blanco en contraste.\n· Cuidados: lavar a máquina con agua fría, a un máximo de 40 °C. No utilizar blanqueador con cloro. Planchar con un paño protector. No usar secadora y evitar la exposición directa al sol durante el secado.",
  "display_images": [
   "assets/products/shop/b2ffa8f7ab587cf7328a.jpg",
   "assets/products/shop/265d1a765e1b0ebfc8cb.jpg",
@@ -26,17 +40,78 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Negros Leggings · Black",
- "name_es": "Leggings Negros · Negro",
+ "name_en": "DPF Essential Black Leggings",
+ "name_es": "Leggings Esenciales DPF Black",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 37.99,
- "rank": 133,
+ "rank": 136,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Hip",
+   "Thigh",
+   "Ankle"
+  ],
+  "headers_es": [
+   "Talla",
+   "Cadera",
+   "Muslo",
+   "Tobillo"
+  ],
+  "notes_en": "Body measurements in centimeters, converted from original inches and rounded to one decimal. Not garment measurements.",
+  "notes_es": "Medidas corporales en centímetros, convertidas de la tabla original en pulgadas y redondeadas a un decimal. No son medidas de la prenda extendida.",
+  "rows": [
+   [
+    "XS",
+    "83,8–86,4",
+    "48,3–53,3",
+    "20,3"
+   ],
+   [
+    "S",
+    "88,9–91,4",
+    "55,9–58,4",
+    "21,6"
+   ],
+   [
+    "M",
+    "94,0–96,5",
+    "61,0–63,5",
+    "22,9"
+   ],
+   [
+    "L",
+    "99,1–104,1",
+    "66,0–68,6",
+    "24,1"
+   ],
+   [
+    "XL",
+    "106,7–114,3",
+    "71,1–73,7",
+    "25,4"
+   ],
+   [
+    "XXL",
+    "116,8–121,9",
+    "76,2–78,7",
+    "26,7"
+   ],
+   [
+    "XXXL",
+    "124,5–132,1",
+    "78,7–81,3",
+    "27,9"
+   ]
+  ],
+  "unit": "cm"
+ },
  "size_guide": [],
  "sizes": [
   "XS",

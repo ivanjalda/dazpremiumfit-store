@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_material": "Fleece",
+ "ai_type": "Shorts",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style typical of print-on-demand suppliers, lacking a premium e-commerce studio aesthetic.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printful-480569608",
  "color": "White",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "A silhouette engineered for supreme movement. Soft, enveloping textures redefine everyday comfort. Clean tailoring provides structure and absolute freedom of motion. Each piece is crafted upon request to ensure ultimate exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta diseñada para el movimiento supremo. Texturas suaves y envolventes que redefinen el confort diario. Corte limpio que aporta estructura y libertad de movimiento. Cada prenda se confecciona bajo pedido para garantizar la máxima exclusividad. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/712/712b686bcbf054995aef28c38401e983_preview.png"
  ],
@@ -24,12 +38,13 @@
   "productifi-apoyo-conjunto-daz-premium-fit"
  ],
  "material": "",
- "name_en": "Immortal Vellón Shorts · White",
- "name_es": "Bermuda Immortal Vellón · Blanco",
+ "name_en": "Immortal Fleece Shorts · White",
+ "name_es": "Shorts de vellón Immortal · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
- "rank": 150,
+ "rank": 153,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Pantalones cortos > Pantalones cortos para correr",

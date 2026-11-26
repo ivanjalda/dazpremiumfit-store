@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Tendra fava bean protein isolate, Yestein fermented nutritional yeast protein, MCT oil powder, apple pectin powder, sea salt, stevia extract, silicon dioxide",
+ "ai_type": "supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography for the tub, but supplemental graphics lack campaign cohesion.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,13 @@
  "cg": "t-proteina-vegetal-daz-premium-fit-vainilla",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Elevate your daily nutrition with our versatile vanilla plant protein. Designed to support your active lifestyle, each serving delivers a complete profile of essential amino acids for muscle recovery and growth. Crafted with high-quality plant ingredients, this formula offers a smooth, creamy flavor without dairy, soy, or gluten. Integrate it into your favorite beverages or recipes for optimal wellness support.",
+ "desc_es": "Eleve su nutrición diaria con nuestra versátil proteína vegetal de vainilla. Diseñada para respaldar su estilo de vida activo, cada porción aporta un perfil completo de aminoácidos esenciales para la recuperación y el crecimiento muscular. Elaborada con ingredientes vegetales de alta calidad, esta fórmula ofrece un sabor suave y cremoso sin lácteos, soja ni gluten. Integrelá en sus bebidas o recetas favoritas para un apoyo óptimo del bienestar.",
+ "details_en": "· Flavor: Vanilla\n· Net Weight: 29.77 oz (844 g)\n· Servings per container: 24\n· Serving size: 2 scoops (35 g)\n· Ingredients: Tendra fava bean protein isolate, YESTEIN fermented nutritional yeast protein, MCT oil powder, apple pectin powder, sea salt, stevia extract, silicon dioxide",
+ "details_es": "· Sabor: Vainilla\n· Contenido neto: 29.77 oz (844 g)\n· Porciones por envase: 24\n· Tamaño de porción: 2 cucharadas (35 g)\n· Ingredientes: Aislado de proteína de haba Tendra, proteína de levadura nutricional fermentada YESTEIN, aceite MCT en polvo, pectina de manzana en polvo, sal marina, extracto de stevia, dióxido de silicio",
  "display_images": [
   "assets/products/shop/4eccae3705c9d87b8017.jpg",
-  "assets/products/shop/c4f778ad8281dd8b7765.jpg",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206095432-lactose-free-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206124358-vegan.png"
+  "assets/products/shop/c4f778ad8281dd8b7765.jpg"
  ],
  "draft": false,
  "fam": "proteina-vegetal-premium",
@@ -27,12 +36,13 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "name_en": "Proteína Vegetal Daz Protein",
- "name_es": "Proteína Proteína Vegetal Daz",
+ "name_en": "DAZ Plant Protein Vanilla",
+ "name_es": "Proteína Vegetal Vainilla DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
- "rank": 147,
+ "rank": 150,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",

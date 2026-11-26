@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean digital product rendering, clear details but lacks editorial lifestyle context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-484200714",
  "color": "Black",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "A sculpted silhouette designed to command presence. This cropped zip-through hoodie pairs precise structure with uncompromising attitude. Clean lines and restrained volume accompany movement without effort. Made to order to ensure absolute exclusivity. Available for worldwide shipping.",
+ "desc_es": "Una silueta esculpida diseñada para definir la presencia. Esta sudadera corta con cremallera combina una estructura precisa con una actitud rotunda. Líneas limpias y un volumen contenido que acompañan el movimiento sin esfuerzo. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo.",
+ "details_en": "· Women's sculpted heavyweight zip-thru hoodie\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Sudadera corta de mujer con cremallera\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/8ac/8acbaffae3e14c80e5a6f003ada507f7_preview.png"
  ],
@@ -24,12 +37,13 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Corta Tough Bitch Jacket · Black",
- "name_es": "Chaqueta Corta Tough Bitch · Negro",
+ "name_en": "DPF Cropped Zip-Through Hoodie · Black",
+ "name_es": "Sudadera Corta con Cremallera DPF · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 86.99,
- "rank": 194,
+ "rank": 198,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sudaderas con capucha",

@@ -6,6 +6,13 @@
         "Café Mezcla Brasileña: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
         "Café Fruity Bloom Tueste Ligero: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras"
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "fixes": [
+        "Mezcla de Café de Cáñamo: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
+        "Top Deportivo con Cremallera: inspección IA: era sports bra (women) → mujer/ropa-interior"
+      ]
     }
   ]
 }

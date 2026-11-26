@@ -1,0 +1,57 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Liquid",
+ "ai_type": "Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio product shot with professional lighting and minimalist presentation.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-gotas-de-de-metileno-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily wellness routine with our high-purity liquid drops. Designed to support normal cellular function and cognitive well-being, these drops offer a seamless addition to your day. Each serving delivers precision and superior quality for those seeking optimal performance. Crafted in the United States under strict quality standards. Available for worldwide shipping with made-to-order service.",
+ "desc_es": "Eleve su rutina diaria de bienestar con nuestras gotas líquidas de alta pureza. Diseñadas para apoyar la función celular normal y el bienestar cognitivo, estas gotas ofrecen una incorporación sencilla a su día. Cada porción aporta precisión y calidad superior para quienes buscan un rendimiento óptimo. Fabricado en Estados Unidos con estrictos estándares de calidad. Disponible para envío a todo el mundo con servicio hecho a pedido.",
+ "details_en": "· Serving Size: 1 ml (20 drops)\n· Ingredients: Methylene Blue Powder (10 mg), Water, Potassium Sorbate\n· Net Content: 2 fl oz / 60 ml\n· Made to order and available with worldwide shipping",
+ "details_es": "· Porción: 1 ml (20 gotas)\n· Ingredientes: Methylene Blue Powder (10 mg), Water, Potassium Sorbate\n· Contenido: 2 fl oz / 60 ml\n· Hecho a pedido y disponible con envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/c91726b2710784b55ae0.jpg"
+ ],
+ "draft": true,
+ "fam": "gotas-azul-metileno",
+ "hidden": false,
+ "id": "productifi-gotas-de-azul-de-metileno-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Methylene Blue Drops",
+ "name_es": "Gotas de Azul de Metileno",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 23.99,
+ "rank": 217,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Gotas de Azul de Metileno DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/7sYbJ21IMh1afD036e1gX0J",
+ "supplier": "Productifi",
+ "supplier_id": "gotas-de-azul-de-metileno-daz-premium-fit",
+ "visual_verified": true
+}

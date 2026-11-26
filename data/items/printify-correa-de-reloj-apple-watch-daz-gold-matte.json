@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Gold Matte",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% polyester faux leather (strap), 100% stainless steel (buckle, adapter)",
+ "ai_type": "Watch Strap",
+ "ai_ver": 2,
+ "art_note": "Clean studio product renders showcasing the watch band details, though lacking dynamic lifestyle imagery.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-correa-de-reloj-apple-watch-daz",
  "color": "Gold Matte",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Elevate your daily style with this custom watch strap. Crafted from high-grade materials, it brings a refined touch to any outfit. Designed for comfort and durability, this piece is the essential accessory to complete your collection. This product is made especially for you as soon as you place an order. Making products on demand ensures brand exclusivity. Limited units available.",
+ "desc_es": "Eleve su estilo diario con esta correa de reloj personalizada. Confeccionada con materiales de alta calidad, aporta un toque refinado a cualquier atuendo. Diseñada para ofrecer comodidad y durabilidad, esta pieza es el accesorio esencial para completar su colección. Este producto está hecho especialmente para usted tan pronto como realiza un pedido. Fabricar productos bajo demanda garantiza la exclusividad de nuestra marca. Unidades limitadas.",
+ "details_en": "· Strap: 100% polyester faux leather\n· Buckle and adapter: 100% stainless steel\n· Single-sided print\n· Made specially for you on demand\n· Worldwide shipping",
+ "details_es": "· Correa: 100 % cuero sintético de poliéster\n· Hebilla y adaptador: 100 % acero inoxidable\n· Estampado por un lado\n· Hecho especialmente para usted bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/10eae22b31e4d12367d8.jpg",
   "assets/products/shop/c33a6493f2eb9fa273c4.jpg",
@@ -19,11 +33,7 @@
   "assets/products/shop/4ccbfd0e68c2b8905aa9.jpg",
   "assets/products/shop/c2f0c23ea36a2e3d5998.jpg",
   "assets/products/shop/07022a42322759b9ca36.jpg",
-  "assets/products/shop/fd3fffc3e0a6286d4873.jpg",
-  "assets/products/shop/b4cd9b1565a836c0bd89.jpg",
-  "assets/products/shop/6ccbe291443d832b2971.jpg",
-  "assets/products/shop/940041534263312763e8.jpg",
-  "assets/products/shop/300cc835cab81100aa3c.jpg"
+  "assets/products/shop/fd3fffc3e0a6286d4873.jpg"
  ],
  "draft": false,
  "fam": "correa-reloj-apple",
@@ -33,19 +43,46 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "missing_days": 1,
- "missing_last": "2026-11-25",
- "name_en": "Correa Reloj Apple Watch · Gold Matte",
- "name_es": "Reloj Correa Reloj Apple · Gold Matte",
+ "missing_days": 2,
+ "missing_last": "2026-11-26",
+ "name_en": "Matte Regale Watch Strap · Gold Matte",
+ "name_es": "Correa de Reloj Matte Regale · Gold Matte",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
- "rank": 181,
+ "rank": 185,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Decoración > Relojes",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Band Width",
+   "Band Thickness",
+   "Band Length"
+  ],
+  "headers_es": [
+   "Ancho de banda",
+   "Espesor de la banda",
+   "Longitud de la correa"
+  ],
+  "notes_en": "Suitable for Apple Watch Series 1, 2, 3, 4, 5, 6, 7, 8, 9 Ultra and SE. Sizes 38-41 mm and 42-45 mm available.",
+  "notes_es": "Adecuadas para dispositivos Series 1, 2, 3, 4, 5, 6, 7, 8, 9 Ultra y SE. Tamaños disponibles de 38 - 41 mm y 42 - 45 mm.",
+  "rows": [
+   [
+    "0.83",
+    "0.08",
+    "6.30 - 8.86"
+   ],
+   [
+    "0.94",
+    "0.08",
+    "6.30 - 8.86"
+   ]
+  ],
+  "unit": "in"
+ },
  "size_guide": [],
  "sizes": [
   "38 - 41 mm",

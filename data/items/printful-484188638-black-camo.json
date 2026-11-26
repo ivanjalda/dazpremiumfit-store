@@ -1,4 +1,20 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/d5c966bc37530dd018e5.jpg",
+  "assets/products/shop/d5c966bc37530dd018e5.jpg",
+  "assets/products/shop/d5c966bc37530dd018e5.jpg",
+  "assets/products/shop/d5c966bc37530dd018e5.jpg",
+  "assets/products/shop/d5c966bc37530dd018e5.jpg",
+  "assets/products/shop/3e4e46617475b06c2898.jpg",
+  "assets/products/shop/c1272a8261f89577e088.jpg",
+  "assets/products/shop/9e7a82f17660a1844c86.jpg",
+  "assets/products/shop/a9880c64afb1a4c6863e.jpg",
+  "assets/products/shop/2ea4260d3916c065e441.jpg",
+  "assets/products/shop/70f9d0414506203d4a36.jpg",
+  "assets/products/shop/7492befd2ad90d11ecb8.jpg",
+  "assets/products/shop/a97f65d71bcc19aaa23c.jpg",
+  "assets/products/shop/59370f847051f036fc95.jpg"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -31,6 +47,7 @@
  ],
  "draft": false,
  "fam": "sudadera-capucha-immortal",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-484188638-black-camo",
  "img_checked": "2026-11-25",
@@ -40,14 +57,14 @@
   "productifi-apoyo-conjunto-daz-premium-fit",
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
- "material": "",
+ "material": "8.5oz Midweight",
  "name_en": "Immortal Warrior Hoodie · Black Camo",
  "name_es": "Sudadera con Capucha Immortal Warrior · Black Camo",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 54.99,
- "rank": 199,
+ "rank": 203,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",

@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "96% poliéster, 4% elastano",
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "The lifestyle gym photography is high-end and professional, though the isolated product renders look flat.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,14 @@
  "cg": "t-shorts-deportivos-de-mujer-dpf-tough-bitch-de-doble-capa",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Elevate your daily presence with these double-layer shorts designed for absolute movement. The silhouette combines a high elastic waist with a curved petal hem that provides fluidity. Crafted to accompany you from intense training sessions to post-workout downtime. Each piece is made to order and features worldwide shipping to ensure maximum exclusivity.",
+ "desc_es": "Eleva tu presencia diaria con estos shorts de doble capa diseñados para el movimiento absoluto. La silueta combina una cintura alta elástica con un bajo curvado tipo pétalo que aporta fluidez. Diseñados para acompañarte desde las sesiones intensas de entrenamiento hasta la desconexión posterior. Cada pieza se confecciona bajo demanda y cuenta con envío a todo el mundo para garantizar la máxima exclusividad.",
+ "details_en": "· 96% polyester and 4% elastane\n· High waist with wide elastic band\n· Double-layer design with petal hem and side slit\n· Hand or machine wash at a maximum of 45 °C\n· Made to order and available with worldwide shipping",
+ "details_es": "· 96 % poliéster y 4 % elastano\n· Cintura alta con banda elástica ancha\n· Diseño de doble capa con bajo tipo pétalo y abertura lateral\n· Lavar a mano o a máquina a un máximo de 45 °C\n· Hecho bajo demanda y disponible con envío mundial",
  "display_images": [
   "assets/products/shop/6871ff7c4f4de4b8e6d1.jpg",
   "assets/products/shop/5d309d1d7bf160b5116e.jpg",
-  "assets/products/shop/8acc08fafb6d88c471d9.jpg",
-  "assets/products/shop/9de668c31b1bc67aeb51.jpg",
-  "assets/products/shop/511bd05629049dd558c0.jpg"
+  "assets/products/shop/8acc08fafb6d88c471d9.jpg"
  ],
  "draft": false,
  "fam": "shorts-deportivos-mujer",
@@ -27,17 +39,74 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Deportivos Tough Bitch Vest",
- "name_es": "Chaleco Deportivos Tough Bitch",
+ "name_en": "Tough Double-Layer Shorts",
+ "name_es": "Shorts de doble capa Tough",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
- "rank": 128,
+ "rank": 131,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Pantalones cortos",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Waist (A)",
+   "Hip (B)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Cintura (A)",
+   "Cadera (B)"
+  ],
+  "notes_en": "Measurements in centimeters and inches. A corresponds to waist and B to hips. Confirm whether measurements correspond to the body or the garment before choosing your size.",
+  "notes_es": "Medidas en centímetros y pulgadas. A corresponde a cintura y B a cadera. Confirma si las medidas corresponden al cuerpo o a la prenda antes de elegir tu talla.",
+  "rows": [
+   [
+    "S",
+    "68.07 cm / 26.80 in",
+    "102.87 cm / 40.50 in"
+   ],
+   [
+    "M",
+    "71.88 cm / 28.30 in",
+    "106.68 cm / 42.00 in"
+   ],
+   [
+    "L",
+    "76.96 cm / 30.30 in",
+    "112.27 cm / 44.20 in"
+   ],
+   [
+    "XL",
+    "82.04 cm / 32.30 in",
+    "118.36 cm / 46.60 in"
+   ],
+   [
+    "2XL",
+    "87.12 cm / 34.30 in",
+    "124.46 cm / 49.00 in"
+   ],
+   [
+    "3XL",
+    "92.20 cm / 36.30 in",
+    "130.56 cm / 51.40 in"
+   ],
+   [
+    "4XL",
+    "97.28 cm / 38.30 in",
+    "136.65 cm / 53.80 in"
+   ],
+   [
+    "5XL",
+    "102.36 cm / 40.30 in",
+    "142.75 cm / 56.20 in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
  "size_guide": [],
  "sizes": [
   "S",

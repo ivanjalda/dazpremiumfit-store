@@ -50,7 +50,7 @@
  "name_es": "Esterilla de Yoga White",
  "needs_review": true,
  "needs_studio": true,
- "page": false,
+ "page": true,
  "price_usd": 84.99,
  "rank": 1,
  "shipping_usd": 7.0,

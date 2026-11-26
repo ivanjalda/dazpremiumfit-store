@@ -1,0 +1,137 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_type": "Crop Tank Top",
+ "ai_ver": 2,
+ "art_note": "Clean studio lifestyle and product mockups with consistent lighting, though standard print-on-demand staging keeps it from elite luxury level.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "t-descarga-sleeveless-yoga-crop-active-tank-tops",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Designed for movement and expression. This sleeveless crop top combines functionality with aesthetic performance. Featuring a high neck design for added coverage and a sleek pullover silhouette without closures. Crafted to accompany every posture with absolute comfort. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Diseñado para el movimiento y la expresión. Este top corto sin mangas combina funcionalidad y rendimiento estético. Presenta un diseño de cuello alto para mayor cobertura y una silueta pulida sin cierres. Confeccionado para acompañar cada postura con absoluta comodidad. Cada pieza se confecciona bajo pedido y cuenta con envío mundial.",
+ "details_en": "· 100% polyester\n· Pullover design with no clasps or hooks\n· High neck\n· Hand or machine wash with cold water\n· Do not use bleach or tumble dry\n· Made to order",
+ "details_es": "· 100% poliéster\n· Diseño sin cierres ni ganchos\n· Cuello alto\n· Lavar a mano o a máquina con agua fría\n· No usar blanqueador ni secadora\n· Confección bajo pedido",
+ "display_images": [
+  "assets/products/shop/2eb70586a09949255e21.jpg",
+  "assets/products/shop/adc36c335a2cb3c70d66.jpg",
+  "assets/products/shop/cade41347f1e73bb42df.jpg",
+  "assets/products/shop/8fa040ede78c7436a465.jpg",
+  "assets/products/shop/26a33dcd56f5aa0e0f93.jpg"
+ ],
+ "draft": true,
+ "fam": "descarga-sleeveless-yoga",
+ "hidden": false,
+ "id": "interestprint-descarga-83-sleeveless-yoga-crop-active-tank-tops",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Yoga Crop Tank Top",
+ "name_es": "Top Corto de Yoga",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 23.99,
+ "rank": 219,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST(B)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A)",
+   "PECHO(B)"
+  ],
+  "notes_en": "Calculate your size from the measurement chart above.",
+  "notes_es": "Calcule su talla a partir de la tabla de medidas anterior.",
+  "rows": [
+   [
+    "XS",
+    "14.80",
+    "30.80"
+   ],
+   [
+    "S",
+    "15.00",
+    "32.30"
+   ],
+   [
+    "M",
+    "15.20",
+    "33.90"
+   ],
+   [
+    "L",
+    "15.50",
+    "35.90"
+   ],
+   [
+    "XL",
+    "15.70",
+    "37.90"
+   ],
+   [
+    "2XL",
+    "16.00",
+    "39.90"
+   ],
+   [
+    "3XL",
+    "16.20",
+    "41.90"
+   ],
+   [
+    "4XL",
+    "16.50",
+    "43.90"
+   ],
+   [
+    "5XL",
+    "16.70",
+    "45.90"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/4420/info/image/20250612/8642A4B53E4B722015E89F2A06EFB3D5.png"
+ ],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "descarga (83) Sleeveless Yoga Crop Active Tank Tops",
+ "stripe_payment_link": "https://buy.stripe.com/8x228s3QUcKU62q8qy1gX0L",
+ "supplier": "InterestPrint",
+ "supplier_id": "descarga-83-sleeveless-yoga-crop-active-tank-tops",
+ "visual_verified": true
+}

@@ -1,18 +1,24 @@
 {
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
  "ai_color": "Marrón",
  "ai_copy": true,
  "ai_done": true,
  "ai_gender": "unisex",
  "ai_material": "90% USDA Organic Arabica Coffee + 10% USDA Organic Hemp Protein Powder",
  "ai_sizes": "4 oz",
- "ai_type": "Café",
+ "ai_type": "coffee bag",
  "ai_ver": 2,
  "art_note": "Clean studio shot of the product packaging, but lacks atmospheric lighting and campaign context.",
  "art_score": 6,
+ "audited": "2026-11-26",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/camiseta"
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
  ],
  "cg": "t-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-4oz",
  "color": "Marrón",
@@ -31,8 +37,8 @@
  "hidden": false,
  "id": "productifi-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-4oz",
  "look": [
+  "printful-359535579",
   "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
   "productifi-apoyo-conjunto-daz-premium-fit",
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
@@ -43,7 +49,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
- "rank": 42,
+ "rank": 44,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Alimentación, bebida y tabaco > Bebidas > Café",

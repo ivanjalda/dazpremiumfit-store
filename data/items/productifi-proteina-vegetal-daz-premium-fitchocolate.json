@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Chocolate",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Tendra Fava Bean Protein Isolate, YESTEIN Fermented Nutritional Yeast Protein",
+ "ai_type": "Suplemento",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot with standard presentation, but lacks high-end campaign atmosphere.",
+ "art_score": 5,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,16 +19,13 @@
  "cg": "t-proteina-vegetal-daz-premium-fit-chocolate",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "Elevate your daily nutrition with our chocolate plant protein. This advanced formula combines high-quality ingredients to deliver a complete profile of essential amino acids. Designed to support your active lifestyle and post-workout muscle recovery. Crafted without dairy, soy, or gluten, it provides a refined and nourishing experience. Each serving offers a smooth texture and deep cacao flavor. Available through made-to-order production with worldwide shipping.",
+ "desc_es": "Eleve su nutrición diaria con nuestra proteína vegetal de chocolate. Esta fórmula avanzada combina ingredientes de alta calidad para ofrecer un perfil completo de aminoácidos esenciales. Diseñada para apoyar su estilo de vida activo y la recuperación muscular posterior al entrenamiento. Elaborada sin lácteos, soja ni gluten, proporciona una experiencia refinada y nutritiva. Cada porción ofrece una textura suave y un sabor profundo a cacao. Disponible mediante producción bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Tendra Fava Bean Protein Isolate\n· YESTEIN Fermented Nutritional Yeast Protein\n· Nidau Cocoa Powder\n· Natural Flavor\n· MCT Oil Powder\n· Nightfall Black Cocoa Powder\n· Apple Pectin Powder\n· Sea Salt\n· Sunflower Lecithin\n· Stevia Extract (leaf)",
+ "details_es": "· Tendra Fava Bean Protein Isolate\n· YESTEIN Fermented Nutritional Yeast Protein\n· Nidau Cocoa Powder\n· Natural Flavor\n· MCT Oil Powder\n· Nightfall Black Cocoa Powder\n· Apple Pectin Powder\n· Sea Salt\n· Sunflower Lecithin\n· Stevia Extract (leaf)",
  "display_images": [
   "assets/products/shop/9d38db9a58ff05cc8fcb.jpg",
-  "assets/products/shop/50c21b821f64ca90c1b7.jpg",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206095432-lactose-free-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206124358-vegan.png"
+  "assets/products/shop/50c21b821f64ca90c1b7.jpg"
  ],
  "draft": false,
  "fam": "proteina-vegetal-premium",
@@ -27,12 +36,13 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "name_en": "Proteína Vegetal Daz Protein",
- "name_es": "Proteína Proteína Vegetal Daz",
+ "name_en": "Chocolate Plant Protein",
+ "name_es": "Proteína Vegetal de Chocolate",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
- "rank": 146,
+ "rank": 149,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",

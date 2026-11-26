@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Silver",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Stainless Steel",
+ "ai_type": "Water Bottle",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with professional lighting and crisp detail close-ups elevate the brand aesthetic.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-botella-de-agua-ecologica-de-acero-inoxidable-con-pajita-hidratacion-esencial-de",
  "color": "Plata",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Elevate your daily hydration with this stainless steel bottle. Its refined design merges functionality with clean aesthetics. Equipped with a leak-proof lid and straw mouthpiece for seamless use. The ORCA coating ensures a durable and resilient finish. An essential piece designed to accompany your active lifestyle. Made to order. Available with worldwide shipping.",
+ "desc_es": "Eleve su hidratación diaria con esta botella de acero inoxidable. Su diseño refinado combina funcionalidad y estética depurada. Equipada con una tapa a prueba de fugas y boquilla con pajita para un uso fluido. El revestimiento ORCA asegura un acabado duradero y resistente. Una pieza esencial concebida para acompañar su ritmo de vida activo. Confeccionada bajo demanda. Disponible con envío a todo el mundo.",
+ "details_en": "· Stainless steel\n· 590 ml capacity\n· Leak-proof lid with handle\n· Flip-top nozzle with straw\n· Hand wash only\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Acero inoxidable\n· Capacidad de 590 ml\n· Tapa con asa a prueba de fugas\n· Boquilla abatible con pajita\n· Lavar a mano únicamente\n· Confeccionado bajo demanda\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/fceed4d68c7ef932fbf2.jpg",
   "assets/products/shop/2466c5602e403858182d.jpg",
@@ -24,19 +38,38 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "missing_days": 1,
- "missing_last": "2026-11-25",
- "name_en": "Botella Agua Ecológica Bottle",
- "name_es": "Termo Botella Agua Ecológica",
+ "missing_days": 2,
+ "missing_last": "2026-11-26",
+ "name_en": "Diamond Stainless Steel Bottle",
+ "name_es": "Botella de Acero Inoxidable Diamond",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 30.99,
- "rank": 158,
+ "rank": 162,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Cocina y comedor > Objetos para llevar comida y bebida > Botellas de agua",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Height",
+   "Diameter"
+  ],
+  "headers_es": [
+   "Altura",
+   "Diámetro"
+  ],
+  "notes_en": "Made-to-order piece with worldwide shipping.",
+  "notes_es": "Pieza confeccionada bajo demanda con envío a todo el mundo.",
+  "rows": [
+   [
+    "8.90",
+    "2.80"
+   ]
+  ],
+  "unit": "in"
+ },
  "size_guide": [],
  "sizes": [
   "20oz"

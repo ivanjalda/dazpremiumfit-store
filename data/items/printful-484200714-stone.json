@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Stone",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean flat product shot with accurate lighting, but lacks dynamic model context.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-484200714",
  "color": "Stone",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "A sculpted silhouette defines this essential piece for daily performance. Clean lines merge with flawless structure. Designed to offer freedom of movement without compromising elegance. Each piece is made to order to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Una silueta esculpida define esta prenda esencial para el rendimiento diario. Las líneas depuradas se combinan con una estructura impecable. Diseñada para ofrecer libertad de movimiento sin comprometer la elegancia. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/677/6774ca2b8462578e557461d5cb10bbe0_preview.png"
  ],
@@ -24,12 +37,13 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Corta Tough Bitch Jacket · Stone",
- "name_es": "Chaqueta Corta Tough Bitch · Stone",
+ "name_en": "DPF Cropped Zip-Through Hoodie · Stone",
+ "name_es": "Sudadera Corta con Cremallera DPF · Stone",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 86.99,
- "rank": 195,
+ "rank": 199,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sudaderas con capucha",

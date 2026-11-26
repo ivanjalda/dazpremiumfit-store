@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "quarter-zip pullover",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style lacking realistic studio lighting and depth, diminishing brand appeal.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-484201718",
  "color": "Black",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "An essential silhouette engineered for demanding movement. The clean, structured design accompanies every transition with absolute precision. The quarter-zip closure offers thermal versatility without compromising elegance. A sophisticated staple crafted on demand to minimize excess production. Available with worldwide shipping.",
+ "desc_es": "Una prenda esencial diseñada para el movimiento exigente. Su silueta limpia y estructurada acompaña cada transición con absoluta precisión. El diseño de cremallera corta ofrece versatilidad térmica sin comprometer la elegancia. Una pieza esencial creada bajo demanda para minimizar el exceso de producción. Disponible con envío a todo el mundo.",
+ "details_en": "· Quarter-zip closure\n· Made-to-order piece",
+ "details_es": "· Cierre de cremallera corta\n· Confección bajo demanda",
  "display_images": [
   "https://files.cdn.printful.com/files/712/712b28c28e7d99a299181fdc8cd39c95_preview.png"
  ],
@@ -24,12 +37,13 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Tough Bitch Cremallera Sweatshirt · Black",
- "name_es": "Sudadera Tough Bitch Cremallera · Negro",
+ "name_en": "Quarter-Zip Performance Pullover · Black",
+ "name_es": "Sudadera Cortavientos con Cremallera · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 50.99,
- "rank": 134,
+ "rank": 137,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas",

@@ -1,4 +1,17 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "L-Glutamine Powder",
+ "ai_sizes": "300 g",
+ "ai_type": "L-Glutamine Powder",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot with standard e-commerce lighting, though supplementary graphics lack high-end brand feel.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,15 +20,13 @@
  "cg": "t-l-glutamina-daz-premium-fit-en-polvo",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Formulated to meet the demands of highly active bodies, L-glutamine is the most abundant amino acid in the organism. This essential supplement supports the maintenance of lean muscle mass and optimizes overall physical performance. Designed to integrate effortlessly into your daily routine, each portion contributes to comprehensive well-being and recovery after physical exertion. Elevate your training discipline with a superior standard of sports nutrition. Available made-to-order with worldwide shipping.",
+ "desc_es": "Formulada para satisfacer las exigencias de los cuerpos más activos, la L-glutamina es el aminoácido más abundante en el organismo. Este suplemento esencial apoya el mantenimiento de la masa muscular magra y optimiza el rendimiento físico general. Diseñada para integrarse sin esfuerzo en su rutina diaria, cada porción contribuye al bienestar integral y a la recuperación después del esfuerzo físico. Eleve su disciplina de entrenamiento con un estándar superior de nutrición deportiva. Disponible para pedidos bajo demanda con envío a todo el mundo.",
+ "details_en": "· Net weight: 0.66 lb (300 g)\n· Flavor: Unflavored\n· Made in USA\n· Made-to-order and worldwide shipping",
+ "details_es": "· Contenido neto: 0,66 lb (300 g)\n· Sabor: Sin sabor\n· Hecho en EE. UU.\n· Pedido bajo demanda y envío a todo el mundo",
  "display_images": [
   "assets/products/shop/fe37b9d16bd7d81a8cc4.jpg",
-  "assets/products/shop/1607329556bac6ec1fef.jpg",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206100829-no-fillers-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206124358-vegan.png"
+  "assets/products/shop/1607329556bac6ec1fef.jpg"
  ],
  "draft": false,
  "fam": "l-glutamina-premium",
@@ -26,19 +37,22 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "name_en": "Glutamina Daz Polvo Amino Acids",
- "name_es": "Aminoácidos Glutamina Daz Polvo",
+ "name_en": "DAZ L-Glutamine Powder",
+ "name_es": "L-Glutamina en Polvo DAZ",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
- "rank": 144,
+ "rank": 147,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
  "shop_verified": true,
  "size_chart": null,
  "size_guide": [],
- "sizes": [],
+ "sizes": [
+  "300 g"
+ ],
  "source_title": "L-Glutamina DAZ Premium Fit en Polvo",
  "stripe_payment_link": "https://buy.stripe.com/cNi00kevybGQfD06iq1gW3K",
  "supplier": "Productifi",

@@ -12,6 +12,7 @@
  "ai_ver": 2,
  "art_note": "Clean, high-end studio product photography standard for supplements.",
  "art_score": 7,
+ "audited": "2026-11-26",
  "available": true,
  "badge": "new",
  "categories": [
@@ -43,7 +44,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
- "rank": 46,
+ "rank": 48,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Sin categoría",

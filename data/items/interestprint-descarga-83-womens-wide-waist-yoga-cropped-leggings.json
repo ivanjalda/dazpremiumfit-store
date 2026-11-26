@@ -18,7 +18,7 @@
   "mujer/leggings"
  ],
  "cg": "t-dpf-amethyst-leggings-de-yoga-de-cintura-alta",
- "color": "",
+ "color": "Violeta intenso",
  "created": "2026-11-25",
  "desc_en": "Elevate your training with a piece designed to stand out. These leggings feature a deep violet tone combined with an ornamental print and distinctive waistband details. The high-waisted silhouette offers flawless coverage and an exceptionally soft feel against the skin. Ideal for demanding yoga sessions as well as transitioning into a sophisticated urban look. Made to order pieces with worldwide shipping.",
  "desc_es": "Eleva tu entrenamiento con una pieza diseñada para destacar. Estos leggings presentan un profundo tono violeta combinado con un estampado ornamental y detalles distintivos en la cintura. La silueta de cintura alta ofrece una cobertura impecable y un tacto excepcionalmente suave sobre la piel. Ideales tanto para sesiones de yoga exigentes como para transicionar hacia un estilo urbano sofisticado. Confección bajo demanda con envíos a todo el mundo.",
@@ -32,6 +32,7 @@
  ],
  "draft": false,
  "fam": "amethyst-leggings-yoga",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-descarga-83-womens-wide-waist-yoga-cropped-leggings",
  "look": [
@@ -40,14 +41,14 @@
   "interestprint-design-womens-high-waist-layered-sport-skirt",
   "interestprint-descarga-81-racerback-sports-bra"
  ],
- "material": "",
+ "material": "Poliéster",
  "name_en": "Amethyst Yoga Leggings",
  "name_es": "Leggings de Yoga Amethyst",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 26.99,
- "rank": 40,
+ "rank": 42,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",

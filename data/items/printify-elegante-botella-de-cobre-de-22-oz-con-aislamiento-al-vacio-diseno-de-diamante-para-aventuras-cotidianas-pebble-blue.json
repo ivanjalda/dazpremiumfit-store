@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Pebble Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Stainless Steel",
+ "ai_type": "Water Bottle",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio lighting and lifestyle integration deliver a refined aesthetic.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-elegante-botella-de-cobre-de-oz-con-aislamiento-al-vacio-diseno-de",
  "color": "Pebble Blue",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Elevate your daily routine with this vacuum-insulated copper bottle. The diamond design merges advanced functionality with a refined aesthetic. Durable construction maintains beverage temperature for hours. The exterior finish prevents condensation, ensuring an impeccable grip. The spill-proof lid and sturdy handle facilitate effortless transport during any commute. Engineered to accompany every moment with sophistication.",
+ "desc_es": "Eleva tu rutina diaria con esta botella de cobre con aislamiento al vacío. Su diseño de diamante combina funcionalidad avanzada con una estética depurada. La construcción duradera mantiene la temperatura de tus bebidas durante horas. El acabado exterior evita la condensación, asegurando un agarre impecable. La tapa antiderrames y el asa resistente facilitan el transporte en cualquier desplazamiento. Diseñada para acompañar cada momento con sofisticación.",
+ "details_en": "· Durable stainless steel with copper insulation\n· Condensation-free exterior\n· Spill-proof lid and stainless steel handle\n· Wide opening for ice cubes\n· Scratch and fade-resistant powder-coated finish\n· Hand wash only\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Acero inoxidable duradero con aislamiento de cobre\n· Sin condensación en el exterior\n· Tapa antiderrames y asa de acero inoxidable\n· Abertura amplia para cubitos de hielo\n· Acabado con pintura en polvo resistente a rayones\n· Lavar a mano únicamente\n· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/ea3e6633eac8bd5a06a0.jpg",
   "assets/products/shop/4fb4319d18f7940c4067.jpg",
@@ -27,19 +41,38 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "missing_days": 1,
- "missing_last": "2026-11-25",
- "name_en": "Elegante Botella Cobre Bottle · Pebble Blue",
- "name_es": "Termo Elegante Botella Cobre · Pebble Blue",
+ "missing_days": 2,
+ "missing_last": "2026-11-26",
+ "name_en": "Diamond Insulated Bottle 22 oz · Pebble Blue",
+ "name_es": "Botella Térmica Diamante 22 oz · Pebble Blue",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 43.99,
- "rank": 197,
+ "rank": 201,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Cocina y comedor > Objetos para llevar comida y bebida > Botellas de agua",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Height",
+   "Diameter"
+  ],
+  "headers_es": [
+   "Altura",
+   "Diámetro"
+  ],
+  "notes_en": "Made to order. Worldwide shipping available.",
+  "notes_es": "Hecho a pedido. Envío a todo el mundo disponible.",
+  "rows": [
+   [
+    "10.60",
+    "2.90"
+   ]
+  ],
+  "unit": "in"
+ },
  "size_guide": [],
  "sizes": [
   "22oz"

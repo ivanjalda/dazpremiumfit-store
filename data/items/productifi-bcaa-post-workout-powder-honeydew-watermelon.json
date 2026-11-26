@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot with professional lighting and typography, maintaining high brand standards.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,13 +18,13 @@
  "cg": "t-bcaa-en-polvo-para-despues-del-entrenamiento-melaza-sandia",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Elevate your training recovery with our precision-formulated BCAA powder. Designed to support lean muscle mass and enhance protein synthesis, this essential amino acid blend delivers optimal performance fuel. Crafted with rigorous standards in the United States, it integrates seamlessly into your daily regimen to reduce muscle breakdown and sustain endurance. Experience refined nutrition tailored for peak physical conditioning.",
+ "desc_es": "Elevate your training recovery with our precision-formulated BCAA powder. Designed to support lean muscle mass and enhance protein synthesis, this essential amino acid blend delivers optimal performance fuel. Crafted with rigorous standards in the United States, it integrates seamlessly into your daily regimen to reduce muscle breakdown and sustain endurance. Experience refined nutrition tailored for peak physical conditioning.",
+ "details_en": "· Made to order and worldwide shipping\n· 5000 mg total amino acids and glutamine per serving\n· Ideal 2:1:1 ratio of leucine, isoleucine, and valine\n· Net weight 0.64 lb (292 g)\n· Manufactured in the USA",
+ "details_es": "· Made to order and worldwide shipping\n· 5000 mg total amino acids and glutamine per serving\n· Proporcion ideal 2:1:1 de leucina, isoleucina y valina\n· Contenido neto de 0,64 lb (292 g)\n· Fabricado en EE. UU.",
  "display_images": [
   "assets/products/shop/337ba269745ec5705c9c.jpg",
-  "assets/products/shop/9aea237eb2b595fc5974.jpg",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206095715-hormone-free-2x.png"
+  "assets/products/shop/9aea237eb2b595fc5974.jpg"
  ],
  "draft": false,
  "fam": "bcaa-en-polvo",
@@ -24,12 +35,13 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "name_en": "Bcaa Polvo Después Amino Acids",
- "name_es": "Aminoácidos Bcaa Polvo Después",
+ "name_en": "BCAA Powder Honeydew Watermelon",
+ "name_es": "BCAA Powder Melaza Sandía",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 34.99,
- "rank": 184,
+ "rank": 188,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",

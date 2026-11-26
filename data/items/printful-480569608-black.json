@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "Clean flat lay product shot on a neutral background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-480569608",
  "color": "Black",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Designed for daily movement and rest. These shorts combine a relaxed silhouette with refined construction. The fabric offers a soft touch against the skin. The adjustable waistband provides personalized support. Each piece is made to order. Worldwide shipping available.",
+ "desc_es": "Diseñado para el movimiento diario y el descanso. Estos shorts combinan una silueta relajada con una construcción depurada. El tejido ofrece una textura suave al tacto. La cintura ajustable proporciona un soporte personalizado. Cada pieza se confecciona bajo pedido. Envío mundial disponible.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial",
  "display_images": [
   "https://files.cdn.printful.com/files/04c/04c592593a829a55dac3b3598e77dbea_preview.png"
  ],
@@ -24,12 +37,13 @@
   "productifi-apoyo-conjunto-daz-premium-fit"
  ],
  "material": "",
- "name_en": "Immortal Vellón Shorts · Black",
- "name_es": "Bermuda Immortal Vellón · Negro",
+ "name_en": "Immortal Fleece Shorts · Black",
+ "name_es": "Shorts de vellón Immortal · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
- "rank": 148,
+ "rank": 151,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Pantalones cortos > Pantalones cortos para correr",

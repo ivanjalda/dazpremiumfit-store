@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "sweatshirt",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style lacking high-end campaign atmosphere.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-484201718",
  "color": "White",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "A refined silhouette designed for the transition between exertion and calm. This high-performance piece combines immaculate aesthetics with absolute functionality. Clean lines enhance the figure while the short zip design brings versatility. Each piece is crafted exclusively on demand in the United States. We offer worldwide shipping to accompany your global lifestyle.",
+ "desc_es": "Una silueta depurada diseñada para la transición entre el esfuerzo y la calma. Esta prenda de alto rendimiento combina una estética impecable con una funcionalidad absoluta. Las líneas limpias realzan la figura mientras el diseño de cremallera corta aporta versatilidad. Cada pieza se confecciona exclusivamente bajo demanda en Estados Unidos. Ofrecemos envíos a todo el mundo para acompañar su ritmo de vida global.",
+ "details_en": "· Short zip closure\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Cierre de cremallera corta\n· Confeccionado bajo demanda\n· Envíos a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/f60/f60c858b2b3b517cb224d5081294de6a_preview.png"
  ],
@@ -24,12 +37,13 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Tough Bitch Cremallera Sweatshirt · White",
- "name_es": "Sudadera Tough Bitch Cremallera · Blanco",
+ "name_en": "Quarter-Zip Performance Pullover · White",
+ "name_es": "Sudadera Cortavientos con Cremallera · Blanco",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 50.99,
- "rank": 135,
+ "rank": 138,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.0,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas",

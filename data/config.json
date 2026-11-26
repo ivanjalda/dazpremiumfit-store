@@ -16,7 +16,7 @@
   "fx": {
     "base": "USD",
     "EUR": 0.9145,
-    "updated": "2026-11-25"
+    "updated": "2026-11-26"
   },
   "pricing": {
     "default_markup": 2.6,
@@ -281,7 +281,7 @@
     "enabled": true,
     "per_run": 12,
     "model": "gemini-2.5-flash-image",
-    "blocked_on": "2026-11-25",
+    "blocked_on": "2026-11-26",
     "blocked_reason": "bloqueado: HTTP 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://a"
   }
 }

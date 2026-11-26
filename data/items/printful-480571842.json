@@ -1,4 +1,11 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/a7b903556dd8d0d6ef8a.jpg",
+  "assets/products/shop/d1cdb80a66effb699572.jpg",
+  "assets/products/shop/1ae8e9f1312584cc17a6.jpg",
+  "assets/products/shop/6fbbb215270ece78a4b7.jpg",
+  "assets/products/shop/820f36a1508419b0c314.jpg"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -30,6 +37,7 @@
  ],
  "draft": false,
  "fam": "pantalon-chandal-elan",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-480571842",
  "img_checked": "2026-11-25",
@@ -46,7 +54,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 55.99,
- "rank": 161,
+ "rank": 165,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 9.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Pantalones para correr",

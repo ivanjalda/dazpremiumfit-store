@@ -18,7 +18,7 @@
   "decor"
  ],
  "cg": "t-batido-de-verduras-ultra-limpio-daz-premium-fit",
- "color": "",
+ "color": "green",
  "created": "2026-11-25",
  "desc_en": "Elevate your daily performance with an advanced botanical blend designed to nourish the body from the core. This clean formula combines organic superfoods and selected plant extracts to support your physical and mental well-being. Each serving delivers essential nutrients in a refined presentation. Made to order with worldwide shipping.",
  "desc_es": "Eleva tu rendimiento diario con una mezcla botánica avanzada diseñada para nutrir el cuerpo desde el núcleo. Esta fórmula limpia combina superalimentos orgánicos y extractos vegetales seleccionados para apoyar tu bienestar físico y mental. Cada porción aporta nutrientes esenciales en una presentación refinada. Hecho a pedido con envíos a todo el mundo.",
@@ -30,19 +30,20 @@
  ],
  "draft": true,
  "fam": "batido-verduras-ultra",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-batido-de-verduras-ultra-limpio",
  "look": [
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
- "material": "",
+ "material": "powder",
  "name_en": "Ultra Cleanse Smoothie Greens",
  "name_es": "Smoothie Greens Ultra Limpio",
  "needs_review": false,
  "needs_studio": false,
- "page": false,
+ "page": true,
  "price_usd": 47.99,
- "rank": 292,
+ "rank": 160,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza",
@@ -53,6 +54,7 @@
   "250g"
  ],
  "source_title": "Batido de Verduras Ultra Limpio DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/28E5kE9beh1a0I6gX41gY1P",
  "supplier": "Productifi",
  "supplier_id": "batido-de-verduras-ultra-limpio",
  "visual_verified": true

@@ -1,24 +1,23 @@
 {
   "key": "",
   "owner": "",
-  "updated": "2026-11-25 23:30 UTC",
+  "updated": "2026-11-26 08:52 UTC",
   "totals": {
     "catalogo": 299,
-    "a_la_vista": 207,
-    "disenos_a_la_vista": 182,
-    "ocultos": 92,
-    "ia_revisados": 142,
-    "ia_pendientes": 157,
-    "con_boton_de_pago": 206,
-    "sin_boton_de_pago": 1,
+    "a_la_vista": 218,
+    "disenos_a_la_vista": 190,
+    "ocultos": 81,
+    "ia_revisados": 215,
+    "ia_pendientes": 84,
+    "con_boton_de_pago": 218,
+    "sin_boton_de_pago": 0,
     "seccion_dudosa": 59,
     "ventas_30_dias": 0,
     "visitas_30_dias": 0,
     "fotos_de_campana": 0
   },
   "reasons": {
-    "Borrador": 91,
-    "Oculto": 1
+    "Borrador": 81
   },
   "suppliers": {
     "Printful": {
@@ -26,12 +25,12 @@
       "ocultos": 0
     },
     "InterestPrint": {
-      "visibles": 44,
-      "ocultos": 19
+      "visibles": 50,
+      "ocultos": 13
     },
     "Productifi": {
-      "visibles": 120,
-      "ocultos": 73
+      "visibles": 125,
+      "ocultos": 68
     },
     "Printify": {
       "visibles": 25,
@@ -45,6 +44,14 @@
       "fixes": [
         "Café Mezcla Brasileña: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
         "Café Fruity Bloom Tueste Ligero: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "n": 2,
+      "fixes": [
+        "Mezcla de Café de Cáñamo: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
+        "Top Deportivo con Cremallera: inspección IA: era sports bra (women) → mujer/ropa-interior"
       ]
     }
   ],
@@ -108,6 +115,14 @@
       "pr": 23.99
     },
     {
+      "id": "productifi-jabon-breathe-clear-daz-premium-fit",
+      "n": "Jabón Breathe Clear",
+      "s": "Productifi",
+      "img": "assets/products/shop/a4f22a2077c471ff6452.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
+    },
+    {
       "id": "productifi-jabon-calmante-de-lavanda-daz-premium-fit",
       "n": "Jabón Calmante de Lavanda",
       "s": "Productifi",
@@ -156,19 +171,19 @@
       "pr": 23.99
     },
     {
-      "id": "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
-      "n": "Café Fruity Bloom Tueste Ligero",
+      "id": "productifi-jabon-rico-en-sandalo-daz-premium-fit",
+      "n": "Jabón de Sándalo Premium",
       "s": "Productifi",
-      "img": "assets/products/shop/1da030026ae006d05e53.jpg",
-      "c": "hombre/bolsos-carteras",
-      "pr": 26.99
+      "img": "assets/products/shop/c8a063a079780bdbda66.jpg",
+      "c": "hombre/camiseta",
+      "pr": 23.99
     },
     {
       "id": "productifi-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-4oz",
       "n": "Mezcla de Café de Cáñamo",
       "s": "Productifi",
       "img": "assets/products/shop/fa667e1bc70f6a318708.jpg",
-      "c": "hombre/camiseta",
+      "c": "hombre/bolsos-carteras",
       "pr": 26.99
     },
     {
@@ -226,6 +241,14 @@
       "img": "assets/products/shop/4a05081e211ac2707b41.jpg",
       "c": "hombre/camiseta",
       "pr": 27.99
+    },
+    {
+      "id": "productifi-aceite-capilar-para-la-salud-del-cuero-cabelludo-y-el-crecimiento-del-cabello-daz-premium-fit",
+      "n": "Pieza Aceite Capilar Salud",
+      "s": "Productifi",
+      "img": "assets/products/shop/92027388ee772b806a83.jpg",
+      "c": "hombre/camiseta",
+      "pr": 24.99
     },
     {
       "id": "productifi-cafe-con-miel-de-manuka-daz-premium-fit-4oz",
@@ -506,70 +529,9 @@
       "img": "assets/products/shop/5261ee6f01aa707b7440.jpg",
       "c": "hombre/camiseta",
       "pr": 245.0
-    },
-    {
-      "id": "productifi-jabon-breathe-clear-daz-premium-fit",
-      "n": "Jabón Breathe Clear",
-      "s": "Productifi",
-      "img": "assets/products/shop/a4f22a2077c471ff6452.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99
-    },
-    {
-      "id": "productifi-jabon-rico-en-sandalo-daz-premium-fit",
-      "n": "Jabón de Sándalo Premium",
-      "s": "Productifi",
-      "img": "assets/products/shop/c8a063a079780bdbda66.jpg",
-      "c": "hombre/camiseta",
-      "pr": 23.99
     }
   ],
   "hidden": [
-    {
-      "id": "interestprint-design-womens-crop-rugby-jersey",
-      "n": "Camiseta Crop Rugby · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/629903158cbaf455b8e7.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 20.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-crop-rugby-jersey-1",
-      "n": "Camiseta Crop Rugby · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/f0c2f3aa76b3febafe4c.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 20.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-crop-rugby-jersey-2",
-      "n": "Camiseta Crop Rugby · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/859186c51ce7011d99e2.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 20.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-design-womens-crop-rugby-jersey-3",
-      "n": "Camiseta Crop Rugby · Blanco",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/5e7345fcecdcfbe4c36e.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 20.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-aesthetic-icon-womens-racerback-tank-top-model-t60",
-      "n": "Camiseta Aesthetic Icon Racerback",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/377cdd57c7257ac13050.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
     {
       "id": "interestprint-design-womens-v-neck-long-sleeve-sun-protection-top",
       "n": "Camiseta Sun Protection",
@@ -577,51 +539,6 @@
       "img": "assets/products/shop/19182cc91617b9d7d9a2.jpg",
       "c": "mujer/camisetas-blusas-tops",
       "pr": 22.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
-      "n": "Vitaminas Gotas Salud Respiratoria",
-      "s": "Productifi",
-      "img": "assets/products/shop/21b97c30914be54971eb.jpg",
-      "c": "decor",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-jabon-de-acido-kojico-y-curcuma",
-      "n": "Vitaminas Jabón Ácido Kójico",
-      "s": "Productifi",
-      "img": "assets/products/shop/cfcc9b67622797664d19.jpg",
-      "c": "decor",
-      "pr": 24.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-gotas-de-azul-de-metileno-daz-premium-fit",
-      "n": "Vitaminas Gotas Metileno Daz",
-      "s": "Productifi",
-      "img": "assets/products/shop/c91726b2710784b55ae0.jpg",
-      "c": "decor",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-capsulas-de-vinagre-de-sidra-de-manzana-daz-premium-fit",
-      "n": "Suplemento Cápsulas Vinagre Sidra",
-      "s": "Productifi",
-      "img": "assets/products/shop/b56bf46e330ed82c2b37.jpg",
-      "c": "decor",
-      "pr": 23.99,
-      "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "interestprint-descarga-83-sleeveless-yoga-crop-active-tank-tops",
-      "n": "Camiseta Descarga Sleeveless Yoga",
-      "s": "InterestPrint",
-      "img": "assets/products/shop/2eb70586a09949255e21.jpg",
-      "c": "mujer/camisetas-blusas-tops",
-      "pr": 23.99,
       "why": "Borrador: esperando la revisión de la IA"
     },
     {
@@ -803,15 +720,6 @@
       "c": "mujer/camisetas-blusas-tops",
       "pr": 26.99,
       "why": "Borrador: esperando la revisión de la IA"
-    },
-    {
-      "id": "productifi-aceite-capilar-para-la-salud-del-cuero-cabelludo-y-el-crecimiento-del-cabello-daz-premium-fit",
-      "n": "Pieza Aceite Capilar Salud",
-      "s": "Productifi",
-      "img": "assets/products/shop/92027388ee772b806a83.jpg",
-      "c": "hombre/camiseta",
-      "pr": 24.99,
-      "why": "Oculto"
     },
     {
       "id": "productifi-ashwagandha-plus-daz-premium-fit",
@@ -1355,64 +1263,64 @@
     }
   ],
   "log": [
-    "Stripe: enlace normal listo para printful-484200714-stone",
-    "Stripe: enlace normal listo para printify-botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para-hidratarse-en-movimiento",
-    "Stripe: enlace normal listo para printify-elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-pebble-blue",
-    "Stripe: enlace normal listo para printify-elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-white",
-    "Stripe: enlace normal listo para printful-484188638-black-camo",
-    "Stripe: enlace normal listo para printful-484188638-forest-camo",
-    "Stripe: enlace normal listo para productifi-polvo-de-perla-de-abeja-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-advanced-whey-protein-chocolate",
-    "Stripe: enlace normal listo para productifi-plan-basico-de-20-mes",
-    "Stripe: enlace normal listo para productifi-plan-premium-de-50-mes",
-    "Stripe: enlace normal listo para interestprint-design-womens-crop-rugby-jersey",
-    "Stripe: enlace normal listo para interestprint-design-womens-crop-rugby-jersey-1",
-    "Stripe: enlace normal listo para interestprint-design-womens-crop-rugby-jersey-2",
-    "Stripe: enlace normal listo para interestprint-design-womens-crop-rugby-jersey-3",
-    "Stripe: enlace normal listo para interestprint-aesthetic-icon-womens-racerback-tank-top-model-t60",
-    "Stripe: enlace normal listo para interestprint-design-womens-v-neck-long-sleeve-sun-protection-top",
-    "Stripe: enlace normal listo para productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-jabon-de-acido-kojico-y-curcuma",
-    "Stripe: enlace normal listo para productifi-gotas-de-azul-de-metileno-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-capsulas-de-vinagre-de-sidra-de-manzana-daz-premium-fit",
-    "Stripe: enlace normal listo para interestprint-descarga-83-sleeveless-yoga-crop-active-tank-tops",
-    "Stripe: enlace normal listo para productifi-gotas-dieteticas-ultra-daz-premium-fit-1-oz",
-    "Stripe: enlace normal listo para interestprint-descarga-31-racerback-sports-bra",
-    "Stripe: enlace normal listo para productifi-ashwagandha-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-suero-de-vitamina-c-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-jabon-breathe-clear-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-jabon-rico-en-sandalo-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-gotas-de-mango-africano-daz-premium-fit-60-ml-2-fl-oz",
-    "Stripe: enlace normal listo para productifi-mezcla-de-hierba-de-cabra-en-celo-daz-premium-fit",
-    "Stripe: enlace normal listo para interestprint-conjunto-tough-bitch-womens-short-yoga-setmodelsets-03",
-    "Stripe: enlace normal listo para productifi-salud-intestinal-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-gomitas-de-curcuma-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-tiras-para-la-resaca-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-frutas-y-verduras-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-maca-plus-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-apoyo-al-higado-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-keto-bhb-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-soporte-hepatico-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-soporte-normal-de-azucar-en-sangre",
-    "Stripe: enlace normal listo para productifi-max-detox-daz-premium-fitacai-detox",
-    "Stripe: enlace normal listo para productifi-raiz-de-remolacha",
-    "Stripe: enlace normal listo para interestprint-descarga-79-cross-back-sports-bra",
-    "Stripe: enlace normal listo para interestprint-ivan21-backless-split-knotted-yoga-active-tank-tops",
-    "Stripe: enlace normal listo para productifi-aceite-capilar-para-la-salud-del-cuero-cabelludo-y-el-crecimiento-del-cabello-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-ashwagandha-plus-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-duerme-bien-gomitas-daz-premium-fit-adulto",
-    "Stripe: enlace normal listo para productifi-soporte-de-vision-daz-premium-fit",
-    "Stripe: enlace normal listo para interestprint-derfrf-cross-back-sports-bra-1",
-    "Stripe: enlace normal listo para interestprint-descarga-85-cross-back-sports-bra",
-    "Stripe: enlace normal listo para productifi-apoyo-cognitivo-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-berberine-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-formula-para-dormir-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-probiotic-20-billion-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-male-enhancement-daz-premium-fit",
-    "Stripe: enlace normal listo para productifi-gomitas-de-vinagre-de-sidra-de-manzana-daz-premium-fit-60-gomitas",
-    "Stripe: enlace normal listo para productifi-complejo-de-bayas-de-acai-daz-premium-fit-60-capsulas",
-    "Stripe: 250 productos con enlace de pago nuevo en esta hora",
-    "⏱ enlaces de pago: 148 s",
+    "IA: 73 productos revisados (fotos, guía de tallas y textos) · quedan 84",
+    "⏱ revisión con IA: 1204 s",
+    "Vigilante: 2 correcciones en esta hora",
+    "⏱ vigilante: 104 s",
+    "Estudio de fotos: Google no permite crear imágenes con esta clave gratuita hoy. Se reintenta mañana.",
+    "Estudio de fotos: 0 fotos de campaña nuevas (de 1 intentos)",
+    "⏱ estudio de fotos: 0 s",
+    "Stripe: enlace normal listo para productifi-batido-de-verduras-ultra-limpio",
+    "Stripe: enlace normal listo para productifi-tiras-de-apoyo-para-la-libido-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-colostrum-powder-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-ginkgo-biloba-ginseng-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-musgo-marino-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-super-quemador-de-grasa-con-mct-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-apoyo-a-la-prostata-daz-premium-fit",
+    "Stripe: enlace normal listo para interestprint-descarga-81-deep-v-neck-racerback-cutout-active-crop-tops",
+    "Stripe: enlace normal listo para productifi-5-htp",
+    "Stripe: enlace normal listo para productifi-spirulina-powder-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-gomitas-de-apoyo-para-las-articulaciones-daz-premium-fit-adultos",
+    "Stripe: enlace normal listo para productifi-resveratrol-50-600mg-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-ayurvedic-complex",
+    "Stripe: enlace normal listo para productifi-polvo-de-remolacha-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-apoyo-para-huesos-y-corazon-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-soporte-para-huesos-y-corazon-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-colostrum-capsules-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-complejo-de-extracto-de-hongos-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-formula-nootropica-para-el-cerebro-y-la-concentracion-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-crema-de-sebo-de-naranja-y-bergamota-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-probiotic-40-billion-daz-premium-fit-with-prebiotics",
+    "Stripe: enlace normal listo para productifi-womens-vitality-formula-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-gomitas-para-cabello-piel-y-unas-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-curcuma-platino-daz-premium-fit",
+    "Stripe: enlace normal listo para interestprint-0-black-and-grey-feathers-pattern-lilipinso-cross-back-string-sports-bra-high-waist-shorts-active-sets",
+    "Stripe: enlace normal listo para interestprint-action-painting-i-mila-blau-womens-all-over-print-sports-bra-model-t52",
+    "Stripe: enlace normal listo para productifi-gel-crema-para-ojos-con-peptidos-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-mezcla-profesional-de-enzimas-digestivas-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-alpha-energy-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-potenciador-de-testosterona-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-capsulas-de-bienestar-del-microbioma-de-birch-chaga-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-crema-de-colageno-sleep-plus-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-natural-gut-wellness-capsules",
+    "Stripe: enlace normal listo para productifi-polvo-de-bienestar-del-microbioma-birch-chaga-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-polvo-natural-para-el-bienestar-intestinal-daz",
+    "Stripe: enlace normal listo para productifi-focus-powder-daz-premium-fitcaramelos-acidos",
+    "Stripe: enlace normal listo para productifi-focus-powder-daz-premium-fitgusano-de-goma-agria",
+    "Stripe: enlace normal listo para productifi-focus-powder-daz-premium-fituva-agria",
+    "Stripe: enlace normal listo para productifi-coq10-ubiquinone-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-keto-5-daz-premium-fit",
+    "Stripe: enlace normal listo para interestprint-descarga-4-cross-back-pocket-sport-dress",
+    "Stripe: enlace normal listo para interestprint-descarga-4-cross-back-pocket-sport-dress-1",
+    "Stripe: enlace normal listo para productifi-mezcla-de-champinones-fermentados-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-cordyceps-mushroom-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-limpieza-suave-de-colon-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-suero-para-el-crecimiento-del-cabello-con-peptidos-daz-premium-fit",
+    "Stripe: enlace normal listo para interestprint-abstract-organic-pattern-design-background-free-vector-front-zip-racer-back-sports-skirt-shorts-set",
+    "Stripe: enlace normal listo para productifi-trufas-de-birch-chaga-daz-premium-fit",
+    "Stripe: enlace normal listo para productifi-polvo-de-pan-de-abeja-daz-premium-fit",
+    "Stripe: 49 productos con enlace de pago nuevo en esta hora",
+    "⏱ enlaces de pago: 40 s",
     "Cambio actualizado: 1 USD = 0.9145 EUR",
     "Listo."
   ]

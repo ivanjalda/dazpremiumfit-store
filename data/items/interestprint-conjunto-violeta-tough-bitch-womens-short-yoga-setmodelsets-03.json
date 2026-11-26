@@ -18,7 +18,7 @@
   "mujer/conjuntos"
  ],
  "cg": "t-conjunto-violeta-de-camiseta-y-shorts-dpf-tough-bitch",
- "color": "",
+ "color": "violet",
  "created": "2026-11-25",
  "desc_en": "Elevate your performance with this two-piece athletic set in rich violet. Designed with a fitted silhouette, it pairs a short-sleeve top with coordinated shorts to deliver seamless mobility. The stretch fabric moves naturally with every session, from yoga to high-intensity training. A refined aesthetic that redefines functional style both inside and outside the gym.",
  "desc_es": "Eleva tu rendimiento con este conjunto deportivo de dos piezas en tono violeta. Diseñado con una silueta de ajuste ceñido, combina una camiseta de manga corta y shorts coordinados para ofrecer máxima movilidad. El tejido elástico acompaña cada movimiento en tus sesiones de yoga o entrenamientos de alta intensidad. Una propuesta depurada que redefine el estilo funcional dentro y fuera del gimnasio.",
@@ -31,6 +31,7 @@
  ],
  "draft": false,
  "fam": "conjunto-violeta-camiseta",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-conjunto-violeta-tough-bitch-womens-short-yoga-setmodelsets-03",
  "look": [
@@ -39,14 +40,14 @@
   "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt"
  ],
- "material": "",
+ "material": "95% polyester, 5% elastane",
  "name_en": "DPF Tough Violet Athletic Set",
  "name_es": "Conjunto Deportivo Violeta DPF Tough",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 25.99,
- "rank": 37,
+ "rank": 39,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Conjuntos de ropa",

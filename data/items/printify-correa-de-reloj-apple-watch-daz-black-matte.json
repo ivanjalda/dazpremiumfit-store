@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Black Matte",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% poliéster cuero sintético (correa), 100% acero inoxidable (hebilla, adaptador)",
+ "ai_type": "Apple Watch Band",
+ "ai_ver": 2,
+ "art_note": "Clean studio product renders showcasing the watch band clearly against a neutral background.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-correa-de-reloj-apple-watch-daz",
  "color": "Black Matte",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Elevate your daily style with this watch strap designed to complement your everyday outfits and evening outings. Crafted with quality materials, it offers a secure fit and a touch of timeless sophistication for your device.",
+ "desc_es": "Eleve su estilo diario con esta correa para reloj diseñada para complementar sus atuendos cotidianos y salidas nocturnas. Confeccionada con materiales de calidad, ofrece un ajuste seguro y un toque de sofisticación atemporal para su dispositivo.",
+ "details_en": "· 100% polyester faux leather strap\n· 100% stainless steel buckle and adapter\n· Suitable for devices Series 1, 2, 3, 4, 5, 6, 7, 8, 9 Ultra and SE\n· One-sided print\n· Made-to-order product crafted especially for you",
+ "details_es": "· 100 % cuero sintético de poliéster en la correa\n· 100 % acero inoxidable en hebilla y adaptador\n· Adecuadas para dispositivos Series 1, 2, 3, 4, 5, 6, 7, 8, 9 Ultra y SE\n· Estampado por un lado\n· Producto hecho especialmente para usted bajo demanda",
  "display_images": [
   "assets/products/shop/f2784a795449e79d223b.jpg",
   "assets/products/shop/29e16e6854502799f916.jpg",
@@ -19,11 +33,7 @@
   "assets/products/shop/c33a6493f2eb9fa273c4.jpg",
   "assets/products/shop/c2f0c23ea36a2e3d5998.jpg",
   "assets/products/shop/07022a42322759b9ca36.jpg",
-  "assets/products/shop/fd3fffc3e0a6286d4873.jpg",
-  "assets/products/shop/b4cd9b1565a836c0bd89.jpg",
-  "assets/products/shop/6ccbe291443d832b2971.jpg",
-  "assets/products/shop/940041534263312763e8.jpg",
-  "assets/products/shop/300cc835cab81100aa3c.jpg"
+  "assets/products/shop/fd3fffc3e0a6286d4873.jpg"
  ],
  "draft": false,
  "fam": "correa-reloj-apple",
@@ -33,14 +43,15 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "missing_days": 1,
- "missing_last": "2026-11-25",
- "name_en": "Correa Reloj Apple Watch · Black Matte",
- "name_es": "Reloj Correa Reloj Apple · Black Matte",
+ "missing_days": 2,
+ "missing_last": "2026-11-26",
+ "name_en": "Matte Regale Watch Strap · Black Matte",
+ "name_es": "Correa de Reloj Matte Regale · Black Matte",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
- "rank": 180,
+ "rank": 184,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Decoración > Relojes",

@@ -1,0 +1,62 @@
+{
+ "ai_color": "brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "coconut oil, shea butter, mango butter, lemon oil, cocoa butter, turmeric powder, palm oil, kojic acid",
+ "ai_sizes": "3.5 oz",
+ "ai_type": "soap",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot with professional lighting and branding.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-jabon-de-acido-kojico-y-curcuma",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "A soap bar carefully formulated to combine the revitalizing skin properties of turmeric with kojic acid. Promotes a radiant complexion and a more uniform-looking tone. Coconut oil, shea butter, and mango butter deeply nourish the skin, leaving it soft and hydrated. The rich blend of lemon oil and cocoa butter helps refresh and soften. This luxurious soap provides a gentle yet effective cleanse, designed to support a more luminous and revitalized appearance with each use.",
+ "desc_es": "Una barra de jabón cuidadosamente formulada para combinar las propiedades revitalizantes de la cúrcuma con el ácido kójico. Promueve una tez radiante y un tono de apariencia más uniforme. El aceite de coco, la manteca de karité y la manteca de mango nutren profundamente la piel, dejándola suave e hidratada. La rica mezcla de aceite de limón y manteca de cacao ayuda a refrescar y suavizar. Este lujoso jabón proporciona una limpieza suave pero efectiva, diseñada para favorecer una apariencia más luminosa y revitalizada con cada uso.",
+ "details_en": "· Net weight 3.5 oz (99g)\n· Crafted with kojic acid, turmeric, coconut oil, shea butter, mango butter, lemon oil, and cocoa butter\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Peso neto de 3.5 oz (99g)\n· Elaborado con ácido kójico, cúrcuma, aceite de coco, manteca de karité, manteca de mango, aceite de limón y manteca de cacao\n· Hecho a pedido\n· Envíos a todo el mundo",
+ "display_images": [
+  "assets/products/shop/cfcc9b67622797664d19.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20240131151215-cruelty-free.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20240131151227-fragrance-free.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20240131151259-paraben-free.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20240131151322-phthalate-free.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png"
+ ],
+ "draft": true,
+ "fam": "jabon-acido-kojico",
+ "hidden": false,
+ "id": "productifi-jabon-de-acido-kojico-y-curcuma",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Kojic Acid and Turmeric Soap",
+ "name_es": "Jabón de Ácido Kójico y Cúrcuma",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 24.99,
+ "rank": 216,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos herbales",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "3.5 oz"
+ ],
+ "source_title": "Jabón de ácido kójico y cúrcuma",
+ "stripe_payment_link": "https://buy.stripe.com/3cI00k4UY9yI2Qe4ai1gX0I",
+ "supplier": "Productifi",
+ "supplier_id": "jabon-de-acido-kojico-y-curcuma",
+ "visual_verified": true
+}

@@ -1,0 +1,68 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White / Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_type": "Tank Top",
+ "ai_ver": 2,
+ "art_note": "Standard mockups with flat-pasted graphics on a model against a plain background, lacking high-end campaign aesthetics.",
+ "art_score": 3,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "t-aesthetic-icon-women-s-racerback-tank-top-model-t60",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Engineered for distraction-free performance. This lightweight and breathable tank top moves fluidly with every motion. The relaxed fit silhouette delivers superior comfort through intense training or everyday wear. Crafted on demand to ensure absolute exclusivity. Available with worldwide shipping.",
+ "desc_es": "Diseñada para un rendimiento sin distracciones. Esta camiseta de tirantes ligera y transpirable acompaña cada movimiento con total fluidez. Su silueta de corte relajado ofrece una comodidad superior durante el entrenamiento o el uso diario. Fabricada bajo demanda para garantizar una exclusividad absoluta. Envío disponible a todo el mundo.",
+ "details_en": "· Crafted from lightweight and breathable polyester fabric\n· Racerback design\n· Relaxed fit for complete comfort\n· Machine wash cold\n· Made-to-order piece",
+ "details_es": "· Confeccionado en tejido de poliéster ligero y transpirable\n· Diseño de espalda cruzada\n· Corte relajado para mayor confort\n· Lavado a máquina en frío\n· Producto confeccionado bajo pedido",
+ "display_images": [
+  "assets/products/shop/377cdd57c7257ac13050.jpg",
+  "assets/products/shop/c51b9ba961dd4473564c.jpg"
+ ],
+ "draft": true,
+ "fam": "aesthetic-icon-women",
+ "hidden": false,
+ "id": "interestprint-aesthetic-icon-womens-racerback-tank-top-model-t60",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Printed Racerback Tank Top",
+ "name_es": "Camiseta de Tirantes Estampada",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 22.99,
+ "rank": 213,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "source_title": "aesthetic icon Women's Racerback Tank Top (Model T60)",
+ "stripe_payment_link": "https://buy.stripe.com/9B68wQ0EI26g8aybCK1gX0F",
+ "supplier": "InterestPrint",
+ "supplier_id": "aesthetic-icon-womens-racerback-tank-top-model-t60",
+ "visual_verified": true
+}

@@ -1,4 +1,12 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/a7ece78c77af8d1ccc2e.jpg",
+  "assets/products/shop/b24b1b5eb22a0dd3822f.jpg",
+  "assets/products/shop/8580a8e919a513fa67e0.jpg",
+  "assets/products/shop/5ba05a45405d1eb64692.jpg",
+  "assets/products/shop/d869ec9eaaa8c6006874.jpg",
+  "assets/products/shop/a91c7456da85edc0f6d0.jpg"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -30,6 +38,7 @@
  ],
  "draft": false,
  "fam": "sudadera-capucha-under",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-484192500",
  "img_checked": "2026-11-25",
@@ -46,7 +55,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 88.99,
- "rank": 162,
+ "rank": 166,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",

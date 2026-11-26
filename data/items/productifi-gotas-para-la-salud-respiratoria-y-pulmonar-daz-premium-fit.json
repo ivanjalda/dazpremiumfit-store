@@ -1,0 +1,58 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Amber",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Liquid",
+ "ai_type": "Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio shot of the product bottle, but lacks high-end editorial lighting or atmosphere.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Optimize your daily respiratory wellness with a precision liquid formula. Designed to keep pace with an active lifestyle, this blend combines selected essential oils and herbal extracts in an MCT oil base. The dropper format allows for seamless integration into your routine, offering practical and consistent support for your performance and vitality goals. Made to order. Worldwide shipping.",
+ "desc_es": "Optimiza tu bienestar respiratorio diario con una fórmula líquida de precisión. Diseñada para mantener el ritmo de un estilo de vida activo, esta mezcla combina aceites esenciales seleccionados y extractos herbales en una base de aceite MCT. Su formato con gotero permite una integración fluida en tu rutina, ofreciendo un soporte práctico y constante para tus objetivos de rendimiento y vitalidad. Hecho a pedido. Envío a todo el mundo.",
+ "details_en": "· 2 fl oz / 60 ml\n· Ingredients: Proprietary Oil Blend (Menthol USP, Peppermint Essential Oil, Mullein Oil, Citrus Aurantium Dulcis Peel Oil, Lavender Essential Oil) 400 mg, MCT Oil\n· Made in USA",
+ "details_es": "· 2 fl oz / 60 ml\n· Ingredientes: Proprietary Oil Blend (Menthol USP, Peppermint Essential Oil, Mullein Oil, Citrus Aurantium Dulcis Peel Oil, Lavender Essential Oil) 400 mg, MCT Oil\n· Hecho en USA",
+ "display_images": [
+  "assets/products/shop/21b97c30914be54971eb.jpg",
+  "assets/products/shop/efa46205a1ee27ae142a.jpg"
+ ],
+ "draft": true,
+ "fam": "gotas-la-salud",
+ "hidden": false,
+ "id": "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+ ],
+ "material": "",
+ "name_en": "Respiratory & Lung Drops",
+ "name_es": "Gotas Respiratorias y Pulmonares",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 23.99,
+ "rank": 215,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Gotas para la Salud Respiratoria y Pulmonar DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/00w3cw2MQaCMduS0Y61gX0H",
+ "supplier": "Productifi",
+ "supplier_id": "gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
+ "visual_verified": true
+}

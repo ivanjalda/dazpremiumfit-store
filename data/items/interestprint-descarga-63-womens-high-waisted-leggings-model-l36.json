@@ -17,7 +17,7 @@
   "mujer/leggings"
  ],
  "cg": "t-dpf-wire-leggings-de-cintura-alta",
- "color": "",
+ "color": "Red and Black",
  "created": "2026-11-25",
  "desc_en": "Striking design combining a deep black base with a red barbed wire print. High-waisted silhouette featuring a wide waistband and a full-length fitted cut. Detailed with graphic branding at the front and back. A versatile piece crafted for the transition between training and daily routines. Made to order with worldwide shipping.",
  "desc_es": "Diseño con carácter que combina un fondo negro intenso con un estampado rojo de alambre de espino. Silueta de talle alto con cinturilla ancha y corte ceñido de largo completo. Incorpora logotipo gráfico en la parte delantera y trasera. Pieza versátil diseñada para la transición entre el entrenamiento y la actividad diaria. Disponible bajo demanda con envío a todo el mundo.",
@@ -32,6 +32,7 @@
  ],
  "draft": false,
  "fam": "wire-leggings-cintura",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-descarga-63-womens-high-waisted-leggings-model-l36",
  "look": [
@@ -40,14 +41,14 @@
   "interestprint-design-womens-high-waist-layered-sport-skirt",
   "interestprint-descarga-81-racerback-sports-bra"
  ],
- "material": "",
+ "material": "94% polyester, 6% elastane",
  "name_en": "Red Wire Leggings",
  "name_es": "Leggings Red Wire",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 40.99,
- "rank": 122,
+ "rank": 125,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",

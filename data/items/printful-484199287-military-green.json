@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Military Green",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "crop hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, standard e-commerce presentation.",
+ "art_score": 6,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-484199287",
  "color": "Military Green",
  "created": "2026-11-25",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Designed for the contemporary woman seeking performance and sophistication. This piece redefines the athletic silhouette with a modern cut and a commanding presence. Each garment is crafted on demand to ensure absolute exclusivity. Available for worldwide shipping. The ultimate fusion between comfort and refined aesthetics.",
+ "desc_es": "Diseñada para la mujer contemporánea que busca rendimiento y sofisticación. Esta prenda redefine la silueta deportiva con un corte moderno y una presencia imponente. Cada pieza se elabora bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo. La fusión definitiva entre comodidad y estética depurada.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/776/7760cd4621b14db869124ab5f2fd11a3_preview.png"
  ],
@@ -24,12 +37,13 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Corta Tough Bitch Sweatshirt · Military Green",
- "name_es": "Sudadera Corta Tough Bitch · Military Green",
+ "name_en": "DPF Tough Crop Hoodie · Military Green",
+ "name_es": "Sudadera corta DPF Tough · Military Green",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 57.99,
- "rank": 130,
+ "rank": 133,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",

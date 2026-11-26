@@ -18,7 +18,7 @@
   "hombre/camiseta"
  ],
  "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
- "color": "",
+ "color": "Blanca",
  "created": "2026-11-25",
  "desc_en": "The Immortal Warrior tank top combines a white base with burgundy outline graphics. The design features the DPF logo on the chest, the number 144 on the upper back, and Immortal Warrior lettering above the lower back hem. Crafted from a lightweight and breathable fabric, it offers a relaxed cut designed to accompany fitness and bodybuilding sessions. A versatile piece for training and post-gym wear alike. Made-to-order piece with worldwide shipping available.",
  "desc_es": "La camiseta de tirantes Immortal Warrior combina una base blanca con gráficos de contorno burdeos. Su diseño incluye el logotipo DPF en el pecho, el número 144 en la parte superior de la espalda y las letras Immortal Warrior sobre el bajo trasero. Confeccionada en un tejido ligero y transpirable, ofrece un corte relajado que acompaña cada sesión de fitness y musculación. Una prenda versátil para llevar desde el entrenamiento hasta los planes posteriores. Pieza elaborada bajo demanda con envío mundial disponible.",
@@ -33,6 +33,7 @@
  ],
  "draft": false,
  "fam": "premium-fit-immortal",
+ "gender": "men",
  "hidden": false,
  "id": "interestprint-immortal-warrior4-mens-all-over-print-tank-top-model-t57",
  "look": [
@@ -41,9 +42,9 @@
   "productifi-apoyo-conjunto-daz-premium-fit",
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
- "material": "",
- "name_en": "Immortal Warrior Tank Top",
- "name_es": "Camiseta de Tirantes Immortal Warrior",
+ "material": "100 % poliéster",
+ "name_en": "Immortal Warrior Tank Top · Blanca",
+ "name_es": "Camiseta de Tirantes Immortal Warrior · Blanca",
  "needs_review": false,
  "needs_studio": true,
  "page": true,

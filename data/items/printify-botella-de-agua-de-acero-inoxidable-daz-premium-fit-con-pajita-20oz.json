@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Silver",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Stainless Steel",
+ "ai_type": "Water Bottle",
+ "ai_ver": 2,
+ "art_note": "Clean studio and lifestyle compositions with clear focus on hardware and finish.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-botella-de-agua-de-acero-inoxidable-daz-premium-fit-con-pajita-20oz",
  "color": "Silver",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Engineered to accompany every workout with elegance and function. This stainless steel water bottle features a high-grade coating ensuring a refined finish. It includes a durable plastic lid with a loop handle and a leak-proof pivoting spout for effortless hydration. The ergonomic profile ensures seamless transport during any commute. Made specially to order to guarantee exclusivity. Worldwide shipping available.",
+ "desc_es": "Diseñada para acompañar cada entrenamiento con elegancia y funcionalidad. Esta botella de acero inoxidable cuenta con un revestimiento de alta calidad que asegura un acabado impecable. Incorpora una tapa duradera con asa integrada y un pico giratorio a prueba de fugas para una hidratación fluida. Su diseño ergonómico facilita el transporte en cualquier desplazamiento. Fabricado especialmente bajo pedido para garantizar exclusividad. Envío disponible a todo el mundo.",
+ "details_en": "· Coated stainless steel construction\n· Durable plastic lid with loop handle\n· Leak-proof plastic pivoting spout\n· Inner plastic straw included\n· Capacity: 20 oz (0.6 l)\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Construcción de acero inoxidable revestido\n· Tapa de plástico duradera con asa en forma de bucle\n· Pico giratorio de plástico a prueba de fugas\n· Pajita de plástico interior incluida\n· Capacidad: 20 oz (0,6 l)\n· Fabricado bajo pedido\n· Envío a todo el mundo",
  "display_images": [
   "assets/products/shop/b626e7d6b24ea1c15ef6.jpg",
   "assets/products/shop/956289458a021e1ede5f.jpg",
@@ -26,19 +40,41 @@
   "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
  ],
  "material": "",
- "missing_days": 1,
- "missing_last": "2026-11-25",
- "name_en": "Botella Agua Acero Bottle · Silver",
- "name_es": "Termo Botella Agua Acero · Plata",
+ "missing_days": 2,
+ "missing_last": "2026-11-26",
+ "name_en": "Premium Stainless Steel Bottle",
+ "name_es": "Botella de Acero Inoxidable Premium",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 38.99,
- "rank": 174,
+ "rank": 178,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Cocina y comedor > Accesorios para aparatos de cocina > Accesorios para generadores de agua carbonatada > Botellas",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Height",
+   "Diameter"
+  ],
+  "headers_es": [
+   "Talla",
+   "Altura",
+   "Diámetro"
+  ],
+  "notes_en": "One size fits all. Made to order with worldwide shipping.",
+  "notes_es": "Talla única. Fabricado bajo pedido con envío a todo el mundo.",
+  "rows": [
+   [
+    "20oz",
+    "8.90",
+    "2.80"
+   ]
+  ],
+  "unit": "in"
+ },
  "size_guide": [],
  "sizes": [
   "20oz"

@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Grey",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style lacking high-end campaign lighting and styling.",
+ "art_score": 4,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-484206291",
  "color": "Grey",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "Silhouette designed for the transition between exertion and repose. Clean lines defining form without restricting movement. An essential piece conceived for absolute focus. Individual production made to order. Worldwide shipping available.",
+ "desc_es": "Silueta diseñada para la transición entre el esfuerzo y el descanso. Líneas limpias que definen la forma sin restringir el movimiento. Una prenda esencial concebida para la concentración absoluta. Confección individual bajo pedido. Envío internacional disponible.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envío mundial disponible",
  "display_images": [
   "https://files.cdn.printful.com/files/bc8/bc8b6de1fd173109b81bf68255ccf287_preview.png"
  ],
@@ -24,12 +37,13 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Capucha Tough Bitch Sweatshirt · Grey",
- "name_es": "Sudadera Capucha Tough Bitch · Gris",
+ "name_en": "DPF Tough Hoodie · Grey",
+ "name_es": "Sudadera con Capucha DPF Tough · Gris",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 90.99,
- "rank": 190,
+ "rank": 194,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",

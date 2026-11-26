@@ -1,4 +1,17 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/047d2c9f6921a556ce88.jpg",
+  "assets/products/shop/047d2c9f6921a556ce88.jpg",
+  "assets/products/shop/047d2c9f6921a556ce88.jpg",
+  "assets/products/shop/047d2c9f6921a556ce88.jpg",
+  "assets/products/shop/047d2c9f6921a556ce88.jpg",
+  "assets/products/shop/b7c8dff3872e4c7c893f.jpg",
+  "assets/products/shop/5b56fae72728dcf7b7a2.jpg",
+  "assets/products/shop/56e1c916e27182b8d7a1.jpg",
+  "assets/products/shop/1758572d3f568c0917c4.jpg",
+  "assets/products/shop/769a5dabb946b2901b1e.jpg",
+  "assets/products/shop/6d92dd6b715799c56466.jpg"
+ ],
  "ai_cats": [
   "hombre/chandal-sudaderas",
   "mujer/chaqueta-sudadera-sueter"
@@ -30,6 +43,7 @@
  ],
  "draft": false,
  "fam": "sudadera-cuello-redondo",
+ "gender": "unisex",
  "hidden": false,
  "id": "printful-484195395-black",
  "img_checked": "2026-11-25",
@@ -46,7 +60,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
- "rank": 119,
+ "rank": 122,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas",

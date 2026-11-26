@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "The image shows a flat, digital mockup style on a template rather than a high-end studio product shot.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printful-484206291",
  "color": "Black",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "Essential design for daily performance. Structured silhouette in deep black. Refined aesthetic prioritizing functionality. Made-to-order construction with worldwide shipping available. Uncompromising comfort in every movement. Garment engineered to withstand the most demanding pace without sacrificing technical elegance.",
+ "desc_es": "Diseño esencial para el rendimiento diario. Silueta estructurada en tono negro profundo. Estética depurada que prioriza la funcionalidad. Confección bajo demanda con disponibilidad de envío internacional. Comodidad inquebrantable en cada movimiento. Prenda diseñada para resistir el ritmo más exigente sin renunciar a la elegancia técnica.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Disponible envío a todo el mundo",
  "display_images": [
   "https://files.cdn.printful.com/files/daa/daae308633f15b4847cb974f8fbf5ac4_preview.png"
  ],
@@ -24,12 +37,13 @@
   "interestprint-descarga-81-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Capucha Tough Bitch Sweatshirt · Black",
- "name_es": "Sudadera Capucha Tough Bitch · Negro",
+ "name_en": "DPF Tough Hoodie · Black",
+ "name_es": "Sudadera con Capucha DPF Tough · Negro",
  "needs_review": false,
+ "needs_studio": true,
  "page": true,
  "price_usd": 90.99,
- "rank": 189,
+ "rank": 193,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",
