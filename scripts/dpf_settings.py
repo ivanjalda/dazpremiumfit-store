@@ -6,6 +6,7 @@ Mantiene en data/config.json:
   - store_rules: solo ropa y calzado deportivo, accesorios de entreno y los suplementos
     del proveedor autorizado (Productifi · wish4).
   - Campañas con textos deportivos (nada de "Maison" ni "alta costura").
+  - Estudio de diseño deportivo activo: 2 diseños nuevos al día que se convierten en productos.
 Si algo se cambia a mano en config.json, estas reglas lo vuelven a dejar bien.
 """
 import os
@@ -14,7 +15,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from dz_common import load_json, save_json  # noqa: E402
 
-VERSION = 2
+VERSION = 3
 RULES = {
     "enabled": True,
     "allowed_supplements": ["advanced whey protein chocolate"],
@@ -61,6 +62,12 @@ def apply():
         camps.append(fix_text(c))
     if camps:
         cfg["campaigns"] = camps
+    ds = cfg.get("design_studio") or {}
+    ds["enabled"] = True
+    if int(ds.get("designs_per_day") or 0) < 2:
+        ds["designs_per_day"] = 2
+    ds.pop("styles", None)  # los estilos deportivos los decide el estudio
+    cfg["design_studio"] = ds
     cfg["dpf_settings_version"] = VERSION
     if repr(cfg) != before:
         save_json("config.json", cfg)
