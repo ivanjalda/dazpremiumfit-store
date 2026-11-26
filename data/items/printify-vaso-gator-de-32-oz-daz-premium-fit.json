@@ -33,12 +33,13 @@
  ],
  "draft": false,
  "fam": "vaso-gator-oz",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-vaso-gator-de-32-oz-daz-premium-fit",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Stainless steel",
  "missing_days": 2,
  "missing_last": "2026-11-26",
  "name_en": "32 oz Stainless Steel Bottle",
@@ -47,7 +48,7 @@
  "needs_studio": false,
  "page": true,
  "price_usd": 40.99,
- "rank": 126,
+ "rank": 136,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Cocina y comedor > Objetos para llevar comida y bebida > Botellas de agua",

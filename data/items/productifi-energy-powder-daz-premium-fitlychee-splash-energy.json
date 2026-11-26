@@ -14,7 +14,7 @@
   "decor"
  ],
  "cg": "t-energy-powder-daz-premium-fit-lychee-splash-energy",
- "color": "",
+ "color": "white",
  "created": "2026-11-25",
  "desc_en": "Experience a balanced boost with our Energy Powder in Lychee Splash. Designed for those who demand a smooth, sustained increase in energy and focus without the crashes of traditional drinks. Each serving combines caffeine, L-theanine, electrolytes, and essential nutrients to support hydration and overall wellness. Ideal for intense workouts, demanding days, or extended focus sessions. Enjoy a precise, sugar-free formula crafted to maintain your peak physical and mental performance.",
  "desc_es": "Experimente un impulso equilibrado con nuestro Energy Powder en sabor Lychee Splash. Diseñado para quienes exigen un aumento suave y sostenido de la energía y la concentración sin los altibajos de las bebidas tradicionales. Cada porción combina cafeína, L-teanina, electrolitos y nutrientes esenciales para respaldar la hidratación y el bienestar general. Ideal para entrenamientos intensos, jornadas exigentes o largas sesiones de concentración. Disfrute de una fórmula precisa y sin azúcar para mantener su máximo rendimiento físico y mental.",
@@ -26,20 +26,21 @@
  ],
  "draft": false,
  "fam": "energy-powder-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-energy-powder-daz-premium-fitlychee-splash-energy",
  "img_checked": "2026-11-25",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Powder supplement",
  "name_en": "Energy Powder Lychee Splash",
  "name_es": "Energy Powder Lychee Splash",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 30.99,
- "rank": 145,
+ "rank": 155,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Alimentación, bebida y tabaco > Bebidas > Bebidas isotónicas y energéticas > Bebidas energéticas",

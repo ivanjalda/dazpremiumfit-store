@@ -1,4 +1,17 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/4be350d18f723d452853.jpg",
+  "assets/products/shop/4be350d18f723d452853.jpg",
+  "assets/products/shop/4be350d18f723d452853.jpg",
+  "assets/products/shop/4be350d18f723d452853.jpg",
+  "assets/products/shop/4be350d18f723d452853.jpg",
+  "assets/products/shop/dd3331db0e64912f7aa4.jpg",
+  "assets/products/shop/37807d9de93e4f306349.jpg",
+  "assets/products/shop/a061f43b0445baab9d13.jpg",
+  "assets/products/shop/fab36ec4523c3c158b81.jpg",
+  "assets/products/shop/170693576056c560a491.jpg",
+  "assets/products/shop/f194ed342badecc61467.jpg"
+ ],
  "ai_cats": [
   "mujer/chaqueta-sudadera-sueter"
  ],
@@ -27,12 +40,13 @@
  ],
  "draft": false,
  "fam": "sudadera-corta-mujer",
+ "gender": "women",
  "hidden": false,
  "id": "printful-484199287-black",
  "img_checked": "2026-11-25",
  "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
   "interestprint-design-custom-womens-high-waist-legging",
-  "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt",
   "interestprint-descarga-81-racerback-sports-bra"
  ],
@@ -43,7 +57,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 57.99,
- "rank": 132,
+ "rank": 142,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sudaderas para deporte y sudaderas con capucha > Sudaderas con capucha",

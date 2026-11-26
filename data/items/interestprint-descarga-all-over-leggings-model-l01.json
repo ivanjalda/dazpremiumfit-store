@@ -16,7 +16,7 @@
   "mujer/leggings"
  ],
  "cg": "t-dpf-smoke-leggings-estampados",
- "color": "",
+ "color": "Smoke",
  "created": "2026-11-25",
  "desc_en": "Defined by subtle contrast, these leggings feature an abstract smoked-effect print blending black, grey, and white. The form-fitting silhouette and full length accompany every movement with precision. The front logo and rear graphic detail establish distinct identity. Created to transition seamlessly from demanding training sessions to daily urban routines.",
  "desc_es": "Definidos por un contraste sutil, estos leggings presentan un estampado abstracto de efecto ahumado que fusiona negro, gris y blanco. Su silueta de corte ceñido y largo completo acompaña cada movimiento con precisión. El logotipo delantero y el detalle gráfico trasero aportan identidad propia. Creados para acompañarte desde las exigencias del entrenamiento hasta los momentos urbanos diarios.",
@@ -30,11 +30,12 @@
  ],
  "draft": false,
  "fam": "smoke-leggings-estampados",
+ "gender": "women",
  "hidden": false,
  "id": "interestprint-descarga-all-over-leggings-model-l01",
  "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
   "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
-  "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt",
   "interestprint-descarga-81-racerback-sports-bra"
  ],
@@ -45,7 +46,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 37.99,
- "rank": 135,
+ "rank": 145,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Pantalones deportivos > Leggings",

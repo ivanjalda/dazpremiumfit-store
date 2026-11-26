@@ -35,7 +35,7 @@
  "hidden": false,
  "id": "productifi-moringa-pure-daz-premium-fit",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
  "material": "Moringa Oleifera leaf, Hypromellose vegetable capsule",
  "name_en": "Moringa Pure Premium Fit",
@@ -44,7 +44,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 24.99,
- "rank": 50,
+ "rank": 60,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Sin categoría",

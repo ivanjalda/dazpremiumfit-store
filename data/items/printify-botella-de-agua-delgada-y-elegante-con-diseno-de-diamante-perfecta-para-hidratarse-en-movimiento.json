@@ -30,12 +30,13 @@
  ],
  "draft": false,
  "fam": "botella-agua-delgada",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para-hidratarse-en-movimiento",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Stainless Steel",
  "missing_days": 2,
  "missing_last": "2026-11-26",
  "name_en": "Diamond Thermal Bottle",
@@ -44,7 +45,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 35.99,
- "rank": 200,
+ "rank": 210,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Sin categoría",

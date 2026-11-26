@@ -18,7 +18,7 @@
   "decor"
  ],
  "cg": "t-pure3-whey-protein-isolate-daz-premium-fit-vanilla",
- "color": "",
+ "color": "white",
  "created": "2026-11-25",
  "desc_en": "Formulated to support muscle growth and recovery with exceptional purity. This vanilla whey protein isolate combines essential nutrients with a refined profile of natural vanilla flavor and stevia extract. Designed for effortless mixing and a smooth texture, it integrates seamlessly into your daily training routine. Each serving delivers a high protein concentration with minimal fat and lactose. Available with worldwide shipping and made to order.",
  "desc_es": "Formulado para apoyar el crecimiento y la recuperación muscular con una pureza excepcional. Este aislado de proteína de suero de leche de vainilla combina nutrientes esenciales con un perfil refinado de sabor natural a vainilla y extracto de stevia. Diseñado para una mezcla fluida y una textura suave, se integra perfectamente en su rutina diaria de entrenamiento. Cada porción ofrece una alta concentración de proteína con un mínimo de grasa y lactosa. Disponible con envío a todo el mundo y fabricado bajo pedido.",
@@ -31,20 +31,21 @@
  ],
  "draft": false,
  "fam": "pure3-whey-protein",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-pure3-100-whey-protein-isolate-daz-premium-fit-vanilla",
  "img_checked": "2026-11-25",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Whey Protein Isolate",
  "name_en": "Vanilla Whey Protein Isolate",
  "name_es": "Aislado de Proteína de Suero Vainilla",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 50.99,
- "rank": 173,
+ "rank": 183,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",

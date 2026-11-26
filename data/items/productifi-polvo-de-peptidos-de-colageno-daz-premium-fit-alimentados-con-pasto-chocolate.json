@@ -18,7 +18,7 @@
   "decor"
  ],
  "cg": "t-polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
- "color": "",
+ "color": "chocolate",
  "created": "2026-11-25",
  "desc_en": "Elevate your daily wellness routine with our premium collagen peptides. Designed to support skin flexibility, hair health, and the structure of tendons and joints. Formulated with types 1 and 3 collagen to maintain optimal bodily function. Enjoy a rich chocolate experience while nourishing your body with essential amino acids. Easily mixes with your favorite hot or cold beverage. Available with worldwide shipping and made-to-order pieces.",
  "desc_es": "Eleve su rutina diaria de bienestar con nuestros péptidos de colágeno de alta calidad. Diseñado para apoyar la flexibilidad de la piel, la salud del cabello y la estructura de los tendones y articulaciones. Formulado con colágeno tipos 1 y 3 para mantener una función corporal óptima. Disfrute de una rica experiencia de chocolate mientras nutre su cuerpo con aminoácidos esenciales. Se mezcla fácilmente con su bebida favorita, fría o caliente. Disponible con envíos a todo el mundo y piezas elaboradas bajo pedido.",
@@ -30,20 +30,21 @@
  ],
  "draft": false,
  "fam": "polvo-peptidos-colageno",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
  "img_checked": "2026-11-25",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Hydrolyzed Collagen Peptides, Cocoa Powder, Acacia Powder, Natural Flavor, Sodium Chloride, Xanthan Gum, Stevia Extract Powder, Silica",
  "name_en": "Chocolate Collagen Peptides",
  "name_es": "Péptidos de Colágeno Sabor Chocolate",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 34.99,
- "rank": 191,
+ "rank": 201,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",

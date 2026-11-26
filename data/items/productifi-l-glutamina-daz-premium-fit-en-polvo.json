@@ -18,7 +18,7 @@
   "decor"
  ],
  "cg": "t-l-glutamina-daz-premium-fit-en-polvo",
- "color": "",
+ "color": "white",
  "created": "2026-11-25",
  "desc_en": "Formulated to meet the demands of highly active bodies, L-glutamine is the most abundant amino acid in the organism. This essential supplement supports the maintenance of lean muscle mass and optimizes overall physical performance. Designed to integrate effortlessly into your daily routine, each portion contributes to comprehensive well-being and recovery after physical exertion. Elevate your training discipline with a superior standard of sports nutrition. Available made-to-order with worldwide shipping.",
  "desc_es": "Formulada para satisfacer las exigencias de los cuerpos más activos, la L-glutamina es el aminoácido más abundante en el organismo. Este suplemento esencial apoya el mantenimiento de la masa muscular magra y optimiza el rendimiento físico general. Diseñada para integrarse sin esfuerzo en su rutina diaria, cada porción contribuye al bienestar integral y a la recuperación después del esfuerzo físico. Eleve su disciplina de entrenamiento con un estándar superior de nutrición deportiva. Disponible para pedidos bajo demanda con envío a todo el mundo.",
@@ -30,20 +30,21 @@
  ],
  "draft": false,
  "fam": "l-glutamina-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-l-glutamina-daz-premium-fit-en-polvo",
  "img_checked": "2026-11-25",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "L-Glutamine Powder",
  "name_en": "DAZ L-Glutamine Powder",
  "name_es": "L-Glutamina en Polvo DAZ",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 29.99,
- "rank": 147,
+ "rank": 157,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",

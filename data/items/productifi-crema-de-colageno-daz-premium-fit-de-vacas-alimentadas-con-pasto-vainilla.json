@@ -18,7 +18,7 @@
   "decor"
  ],
  "cg": "t-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
- "color": "",
+ "color": "White",
  "created": "2026-11-25",
  "desc_en": "Daily elevation for your routine. Our collagen creamer combines grass-fed bovine hydrolyzed peptides with a subtle vanilla profile. Designed to blend seamlessly into hot or cold beverages. Contributes to the maintenance of body structure and general well-being with every serving. Crafted under strict quality standards. Available exclusively made-to-order with worldwide shipping.",
  "desc_es": "Elevación diaria para su rutina. Nuestra crema de colágeno combina péptidos hidrolizados de bovino alimentado con pasto con un sutil perfil de vainilla. Diseñada para integrarse perfectamente en bebidas calientes o frías. Contribuye al mantenimiento de la estructura corporal y al bienestar general con cada porción. Elaborada bajo estrictos estándares de calidad. Disponible exclusivamente bajo pedido con envíos a todo el mundo.",
@@ -30,20 +30,21 @@
  ],
  "draft": false,
  "fam": "crema-colageno-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-crema-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
  "img_checked": "2026-11-25",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Péptidos de colágeno hidrolizados",
  "name_en": "Vanilla Collagen Creamer",
  "name_es": "Crema de Colágeno Vanilla",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 36.99,
- "rank": 170,
+ "rank": 180,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",

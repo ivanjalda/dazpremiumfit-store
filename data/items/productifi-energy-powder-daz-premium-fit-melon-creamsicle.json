@@ -15,7 +15,7 @@
   "decor"
  ],
  "cg": "t-energy-powder-daz-premium-fit-melon-creamsicle",
- "color": "",
+ "color": "Melon Creamsicle",
  "created": "2026-11-25",
  "desc_en": "Discover a balanced boost with our energy powder. Designed for those who demand a smooth, sustained increase in energy and focus. Each ingredient is carefully included in specific doses, focusing on optimal effectiveness and alignment with wellness goals. Enjoy the refreshing melon flavor. Ideal for intense workouts, marathon gaming sessions, or demanding days at the office. Made to order. Available with worldwide shipping.",
  "desc_es": "Descubra un impulso equilibrado con nuestro energy powder. Diseñado para aquellos que exigen un aumento suave y sostenido de su energía y concentración. Cada ingrediente está cuidadosamente incluido en dosis específicas, enfocándose en una efectividad óptima y alineación con los objetivos de bienestar. Disfrute del refrescante sabor a melón. Ideal para entrenamientos intensos, sesiones de juego o días exigentes en la oficina. Hecho a pedido. Disponible con envío a todo el mundo.",
@@ -27,20 +27,21 @@
  ],
  "draft": false,
  "fam": "energy-powder-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-energy-powder-daz-premium-fit-melon-creamsicle",
  "img_checked": "2026-11-25",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Dietary Supplement Powder",
  "name_en": "Energy Powder Melon Creamsicle",
  "name_es": "Energy Powder Melon Creamsicle",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 30.99,
- "rank": 140,
+ "rank": 150,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Alimentación, bebida y tabaco > Bebidas > Bebidas isotónicas y energéticas > Bebidas energéticas",

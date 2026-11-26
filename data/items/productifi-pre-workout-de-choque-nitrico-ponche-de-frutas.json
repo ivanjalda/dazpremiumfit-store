@@ -18,7 +18,7 @@
   "decor"
  ],
  "cg": "t-pre-entrenamiento-de-choque-nitrico-daz-premium-fit-ponche-de-frutas",
- "color": "",
+ "color": "Fruit Punch",
  "created": "2026-11-25",
  "desc_en": "Elevate your performance with the advanced Nitric Shock supplement in fruit punch flavor. Designed to maximize your physical and mental energy, this powder combines twenty-three key nutrients to push past your limits in every training session. Its advanced formula includes dicreatine malate, arginine AKG, and beta-alanine to boost your strength and endurance. Available with worldwide shipping and made to order to ensure ultimate freshness.",
  "desc_es": "Eleva tu rendimiento con el suplemento avanzado Nitric Shock en sabor ponche de frutas. Diseñado para maximizar tu energía física y mental, este polvo combina veintitrés nutrientes clave para superar tus límites en cada sesión de entrenamiento. Su fórmula avanzada incluye malato de dicreatina, arginina AKG y beta-alanina para potenciar tu fuerza y resistencia. Disponible con envíos a todo el mundo y fabricado bajo demanda para garantizar la máxima frescura.",
@@ -30,20 +30,21 @@
  ],
  "draft": false,
  "fam": "pre-entrenamiento-choque",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-pre-workout-de-choque-nitrico-ponche-de-frutas",
  "img_checked": "2026-11-25",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Powder",
  "name_en": "Nitric Shock Pre-Workout Fruit Punch",
  "name_es": "Nitric Shock Pre-Workout Ponche de Frutas",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 36.99,
- "rank": 192,
+ "rank": 202,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",

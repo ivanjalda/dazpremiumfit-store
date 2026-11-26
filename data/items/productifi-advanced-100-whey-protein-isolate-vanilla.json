@@ -18,7 +18,7 @@
   "decor"
  ],
  "cg": "t-daz-premium-fit-advanced-whey-protein-isolate-vanilla",
- "color": "",
+ "color": "white",
  "created": "2026-11-25",
  "desc_en": "Elevate your daily performance with this advanced formula. Crafted from pure whey protein isolate, it delivers a delicate vanilla profile designed to support muscle recovery and growth. Its creamy texture integrates seamlessly into your post-training routine. Enriched with select ingredients to accompany your daily wellness. Available with worldwide shipping and made to order.",
  "desc_es": "Eleve su rendimiento diario con esta fórmula avanzada. Elaborada con aislado de proteína de suero puro, ofrece un delicado perfil de vainilla diseñado para apoyar la recuperación y el crecimiento muscular. Su textura cremosa se integra perfectamente en su rutina posterior al entrenamiento. Enriquecida con ingredientes selectos para acompañar su bienestar diario. Disponible con envíos a todo el mundo y fabricada bajo demanda.",
@@ -30,20 +30,21 @@
  ],
  "draft": false,
  "fam": "premium-fit-advanced",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-advanced-100-whey-protein-isolate-vanilla",
  "img_checked": "2026-11-25",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Whey Protein Isolate",
  "name_en": "Advanced Whey Protein Isolate",
  "name_es": "Aislado de Proteína de Suero Avanzado",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 50.99,
- "rank": 168,
+ "rank": 178,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",

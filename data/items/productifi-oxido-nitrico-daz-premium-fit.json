@@ -18,7 +18,7 @@
   "decor"
  ],
  "cg": "t-oxido-nitrico-daz-premium-fit",
- "color": "",
+ "color": "Blanco",
  "created": "2026-11-25",
  "desc_en": "Elevate your performance. Designed to support healthy circulation and muscle growth, this sophisticated formula integrates L-Arginine Alpha-Ketoglutarate, L-Arginine Hydrochloride, and L-Citrulline DL-Malate. Crafted to optimize your physical routine and overall well-being. Each bottle contains 60 capsules, offering a seamless addition to your daily regimen. Experience refined support for your training goals with worldwide shipping available on all made-to-order pieces.",
  "desc_es": "Elevate your performance. Designed to support healthy circulation and muscle growth, this sophisticated formula integrates L-Arginine Alpha-Ketoglutarate, L-Arginine Hydrochloride, and L-Citrulline DL-Malate. Crafted to optimize your physical routine and overall well-being. Each bottle contains 60 capsules, offering a seamless addition to your daily regimen. Experience refined support for your training goals with worldwide shipping available on all made-to-order pieces.",
@@ -33,20 +33,21 @@
  ],
  "draft": false,
  "fam": "oxido-nitrico-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-oxido-nitrico-daz-premium-fit",
  "img_checked": "2026-11-25",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Cápsula vegetal de celulosa",
  "name_en": "DAZ Nitric Oxide Capsules",
  "name_es": "DAZ Nitric Oxide Capsules",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 26.99,
- "rank": 68,
+ "rank": 78,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Jardín > Jardinería > Hidropónicos > Nutrientes y suplementos > Suplementos",

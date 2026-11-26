@@ -14,7 +14,7 @@
   "decor"
  ],
  "cg": "t-energy-powder-daz-premium-fit-fruit-punch",
- "color": "",
+ "color": "Fruit Punch",
  "created": "2026-11-25",
  "desc_en": "Discover a balanced boost with our Energy Powder, featuring an excellent sugar-free flavor formula designed for those who demand a smooth and sustained increase in energy and focus. Whether you are preparing for an intense workout, a marathon gaming session, or a demanding day at the office, our Energy Powder is here to help you. Designed to provide a steady energy boost. Made to order. Worldwide shipping.",
  "desc_es": "Descubra un impulso equilibrado con nuestro Energy Powder, que presenta una excelente fórmula de sabor sin azúcar diseñada para aquellos que exigen un aumento suave y sostenido de su energía y concentración. Ya sea que te estés preparando para un entrenamiento intenso, una sesión de juego maratónica o un día exigente en la oficina, nuestro Energy Powder está aquí para ayudarte. Diseñado para proporcionar un impulso de energía constante. Hecho a pedido. Envíos a todo el mundo.",
@@ -26,20 +26,21 @@
  ],
  "draft": false,
  "fam": "energy-powder-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-energy-powder-daz-premium-fitfruit-punch",
  "img_checked": "2026-11-25",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Dietary Supplement",
  "name_en": "Energy Powder Fruit Punch",
  "name_es": "Energy Powder Fruit Punch",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 30.99,
- "rank": 143,
+ "rank": 153,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Alimentación, bebida y tabaco > Bebidas > Bebidas isotónicas y energéticas > Bebidas energéticas",

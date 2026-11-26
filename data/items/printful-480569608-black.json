@@ -1,4 +1,18 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/753181820818169d6a24.jpg",
+  "assets/products/shop/753181820818169d6a24.jpg",
+  "assets/products/shop/753181820818169d6a24.jpg",
+  "assets/products/shop/753181820818169d6a24.jpg",
+  "assets/products/shop/753181820818169d6a24.jpg",
+  "assets/products/shop/20df56f36adeb70a5f38.jpg",
+  "assets/products/shop/c372a8adbe72f5ccb85c.jpg",
+  "assets/products/shop/937811dfed0167757d46.jpg",
+  "assets/products/shop/80ddf85d4820ea6463d4.jpg",
+  "assets/products/shop/4a97752bffc414203609.jpg",
+  "assets/products/shop/d001331e0136665bf107.jpg",
+  "assets/products/shop/2f751eb28f8702468760.jpg"
+ ],
  "ai_cats": [
   "hombre/pantalones-cortos"
  ],
@@ -27,6 +41,7 @@
  ],
  "draft": false,
  "fam": "immortal-shorts-vellon",
+ "gender": "men",
  "hidden": false,
  "id": "printful-480569608-black",
  "img_checked": "2026-11-25",
@@ -43,7 +58,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 47.99,
- "rank": 151,
+ "rank": 161,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Pantalones cortos > Pantalones cortos para correr",

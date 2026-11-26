@@ -32,19 +32,20 @@
  ],
  "draft": false,
  "fam": "pre-entrenamiento-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-pre-entrenamiento-daz-premium-fit-sandia-300-g-10-58-oz",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "powder",
  "name_en": "Watermelon Premium Pre-Workout",
  "name_es": "Pre-entrenamiento Sandía Premium",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 33.99,
- "rank": 148,
+ "rank": 158,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos herbales",

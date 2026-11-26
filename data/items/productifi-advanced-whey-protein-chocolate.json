@@ -18,7 +18,7 @@
   "decor"
  ],
  "cg": "t-advanced-whey-protein-chocolate",
- "color": "",
+ "color": "red",
  "created": "2026-11-25",
  "desc_en": "Advanced high-quality protein formula designed to support muscle recovery, strength, and everyday performance. Made with premium whey protein and a smooth chocolate flavor, this blend helps fuel workouts and promote lean muscle growth. Available with worldwide shipping and made to order.",
  "desc_es": "Forma avanzada de proteína diseñada para apoyar la recuperación muscular y el rendimiento diario. Elaborada con proteína de suero de alta calidad y un suave perfil de chocolate, esta mezcla nutre estilos de vida activos. Disponible con envíos a todo el mundo y fabricada bajo demanda.",
@@ -30,19 +30,20 @@
  "draft": false,
  "fam": "advanced-whey-protein",
  "fixed_price": true,
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-advanced-whey-protein-chocolate",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Whey Protein Isolate",
  "name_en": "Advanced Chocolate Whey Protein",
  "name_es": "Proteína de Sueero de Chocolate",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 22.9,
- "rank": 206,
+ "rank": 216,
  "shop_category": "",
  "shop_verified": true,
  "size_chart": null,

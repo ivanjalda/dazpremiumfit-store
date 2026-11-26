@@ -16,7 +16,7 @@
   "decor"
  ],
  "cg": "t-bcaa-en-polvo-para-despues-del-entrenamiento-melaza-sandia",
- "color": "",
+ "color": "black",
  "created": "2026-11-25",
  "desc_en": "Elevate your training recovery with our precision-formulated BCAA powder. Designed to support lean muscle mass and enhance protein synthesis, this essential amino acid blend delivers optimal performance fuel. Crafted with rigorous standards in the United States, it integrates seamlessly into your daily regimen to reduce muscle breakdown and sustain endurance. Experience refined nutrition tailored for peak physical conditioning.",
  "desc_es": "Elevate your training recovery with our precision-formulated BCAA powder. Designed to support lean muscle mass and enhance protein synthesis, this essential amino acid blend delivers optimal performance fuel. Crafted with rigorous standards in the United States, it integrates seamlessly into your daily regimen to reduce muscle breakdown and sustain endurance. Experience refined nutrition tailored for peak physical conditioning.",
@@ -28,11 +28,12 @@
  ],
  "draft": false,
  "fam": "bcaa-en-polvo",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-bcaa-post-workout-powder-honeydew-watermelon",
  "img_checked": "2026-11-25",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
  "material": "",
  "name_en": "BCAA Powder Honeydew Watermelon",
@@ -41,7 +42,7 @@
  "needs_studio": false,
  "page": true,
  "price_usd": 34.99,
- "rank": 188,
+ "rank": 198,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",

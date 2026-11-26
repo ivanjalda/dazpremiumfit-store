@@ -17,7 +17,7 @@
   "decor"
  ],
  "cg": "t-botella-termica-de-oz-perfecta-para-la-hidratacion-sobre-la-marcha",
- "color": "",
+ "color": "blanco",
  "created": "2026-11-25",
  "desc_en": "An essential silhouette designed for hydration on the move. Crafted from durable stainless steel, this insulated bottle features double-wall construction to preserve beverage temperatures for hours. The lightweight, leak-proof design integrates seamlessly into your daily routine, from training sessions to urban commutes. Made to order with worldwide shipping.",
  "desc_es": "Una silueta esencial diseñada para la hidratación en movimiento. Fabricada en acero inoxidable resistente, esta botella térmica cuenta con doble aislamiento para preservar la temperatura de sus bebidas durante horas. Su diseño ligero e impermeable se adapta con elegancia a su rutina diaria, desde el entrenamiento hasta los desplazamientos urbanos. Pieza confeccionada bajo demanda con distribución mundial.",
@@ -31,12 +31,13 @@
  ],
  "draft": false,
  "fam": "botella-termica-oz",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-botella-termica-de-20-oz-perfecta-para-la-hidratacion-sobre-la-marcha",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "acero inoxidable",
  "missing_days": 2,
  "missing_last": "2026-11-26",
  "name_en": "Signature Insulated Bottle 20 oz",
@@ -45,7 +46,7 @@
  "needs_studio": false,
  "page": true,
  "price_usd": 37.99,
- "rank": 127,
+ "rank": 137,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Casa y jardín > Cocina y comedor > Objetos para llevar comida y bebida > Botellas de agua",

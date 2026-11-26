@@ -14,7 +14,7 @@
   "decor"
  ],
  "cg": "t-energy-powder-daz-premium-fit-algodon-de-azucar",
- "color": "",
+ "color": "Pink",
  "created": "2026-11-25",
  "desc_en": "Elevate your physical and mental performance with a formula designed to deliver sustained focus and steady energy. Enriched with natural caffeine, L-theanine, and essential electrolytes, this supplement supports hydration and overall wellness without sudden crashes. Experience a balanced boost with a refined sugar-free profile. Each batch is meticulously crafted to order to ensure ultimate freshness. Available with worldwide shipping.",
  "desc_es": "Eleva tu rendimiento físico y mental con una fórmula diseñada para ofrecer una concentración sostenida y energía constante. Enriquecido con cafeína natural, L-teanina y electrolitos esenciales, este suplemento apoya la hidratación y el bienestar general sin altibajos bruscos. Disfruta de un impulso equilibrado con un refinado perfil sin azúcar. Cada lote se elabora meticulosamente a pedido para garantizar la máxima frescura. Disponible con envío a todo el mundo.",
@@ -29,20 +29,21 @@
  ],
  "draft": false,
  "fam": "energy-powder-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-energy-powder-algodon-de-azucar-daz-premium-fit",
  "img_checked": "2026-11-25",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Powder",
  "name_en": "Cotton Candy Energy Powder",
  "name_es": "Energy Powder Algodón de Azúcar",
  "needs_review": false,
  "needs_studio": false,
  "page": true,
  "price_usd": 30.99,
- "rank": 139,
+ "rank": 149,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Alimentación, bebida y tabaco > Bebidas > Bebidas isotónicas y energéticas > Bebidas energéticas",

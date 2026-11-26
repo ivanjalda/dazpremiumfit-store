@@ -1,4 +1,17 @@
 {
+ "_shop_photos": [
+  "assets/products/shop/a361720c95edd2375f44.jpg",
+  "assets/products/shop/a361720c95edd2375f44.jpg",
+  "assets/products/shop/a361720c95edd2375f44.jpg",
+  "assets/products/shop/a361720c95edd2375f44.jpg",
+  "assets/products/shop/a361720c95edd2375f44.jpg",
+  "assets/products/shop/2519695c6fb070789284.jpg",
+  "assets/products/shop/c35d91c2011cd64ba326.jpg",
+  "assets/products/shop/848e6bc4482c53f30508.jpg",
+  "assets/products/shop/39e3af09e14444c50057.jpg",
+  "assets/products/shop/b8dffd911c0cdbb4e54a.jpg",
+  "assets/products/shop/6fe2dda22b1165a7c0b5.jpg"
+ ],
  "ai_cats": [
   "mujer/chaqueta-sudadera-sueter"
  ],
@@ -27,12 +40,13 @@
  ],
  "draft": false,
  "fam": "chaqueta-corta-mujer",
+ "gender": "women",
  "hidden": false,
  "id": "printful-484200714-stone",
  "img_checked": "2026-11-25",
  "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
   "interestprint-design-custom-womens-high-waist-legging",
-  "interestprint-design-yoga-top-a6k",
   "interestprint-design-womens-high-waist-layered-sport-skirt",
   "interestprint-descarga-81-racerback-sports-bra"
  ],
@@ -43,7 +57,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 86.99,
- "rank": 199,
+ "rank": 209,
  "shipping_usd": 7.0,
  "shipping_worst_usd": 7.29,
  "shop_category": "Arte y ocio > Hobbies y artes creativas > Coleccionables > Coleccionables deportivos > Accesorios para aficionados a los deportes > Sudaderas con capucha",

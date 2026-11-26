@@ -21,6 +21,106 @@
       "img": "https://files.cdn.printful.com/files/8ce/8ced79023d30496c30e2e80d171ba19b_preview.png"
     },
     {
+      "id": "interestprint-design-womens-crop-rugby-jersey",
+      "name_es": "Camiseta Crop de Rugby · Blanco",
+      "name_en": "Crop Rugby Jersey · White",
+      "price_usd": 20.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 2,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "design-womens-crop-rugby-jersey",
+      "fam": "women-s-crop",
+      "cg": "t-design-women-s-crop-rugby-jersey",
+      "color": "white",
+      "art_score": 4,
+      "img": "assets/products/shop/bba6c167e5e3e40ca920.jpg"
+    },
+    {
+      "id": "interestprint-design-womens-crop-rugby-jersey-1",
+      "name_es": "Camiseta Crop de Rugby · Blanco",
+      "name_en": "Crop Rugby Jersey · White",
+      "price_usd": 20.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 3,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "design-womens-crop-rugby-jersey-1",
+      "fam": "women-s-crop",
+      "cg": "t-design-women-s-crop-rugby-jersey",
+      "color": "white",
+      "art_score": 4,
+      "img": "assets/products/shop/c91a2909b641faae915e.jpg"
+    },
+    {
+      "id": "interestprint-design-womens-crop-rugby-jersey-2",
+      "name_es": "Camiseta Crop de Rugby · Blanco",
+      "name_en": "Crop Rugby Jersey · White",
+      "price_usd": 20.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 4,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "design-womens-crop-rugby-jersey-2",
+      "fam": "women-s-crop",
+      "cg": "t-design-women-s-crop-rugby-jersey",
+      "color": "white",
+      "art_score": 4,
+      "img": "assets/products/shop/0164ed26a5daee87511f.jpg"
+    },
+    {
+      "id": "interestprint-design-womens-crop-rugby-jersey-3",
+      "name_es": "Camiseta Crop de Rugby · Blanco",
+      "name_en": "Crop Rugby Jersey · White",
+      "price_usd": 20.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 5,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "design-womens-crop-rugby-jersey-3",
+      "fam": "women-s-crop",
+      "cg": "t-design-women-s-crop-rugby-jersey",
+      "color": "white",
+      "art_score": 4,
+      "img": "assets/products/shop/c904add6ed519abe3625.jpg"
+    },
+    {
+      "id": "interestprint-aesthetic-icon-womens-racerback-tank-top-model-t60",
+      "name_es": "Camiseta de Tirantes Estampada",
+      "name_en": "Printed Racerback Tank Top",
+      "price_usd": 22.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 6,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "aesthetic-icon-womens-racerback-tank-top-model-t60",
+      "fam": "aesthetic-icon-women",
+      "cg": "t-aesthetic-icon-women-s-racerback-tank-top-model-t60",
+      "color": "White / Black",
+      "art_score": 3,
+      "img": "assets/products/shop/377cdd57c7257ac13050.jpg"
+    },
+    {
       "id": "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
       "name_es": "Sudadera Cropped Monogram DPF",
       "name_en": "DPF Monogram Cropped Sweatshirt",
@@ -30,7 +130,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 2,
+      "rank": 7,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-womens-cropped-crew-neck-sun-protection-shirt",
@@ -50,7 +150,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 3,
+      "rank": 8,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-custom-womens-high-waist-legging",
@@ -70,7 +170,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 4,
+      "rank": 9,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-custom-womens-high-waist-legging-1",
@@ -90,7 +190,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 5,
+      "rank": 10,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-washed-drop-shoulder-t-shirt",
@@ -110,7 +210,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 6,
+      "rank": 11,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-yoga-top-a6k",
@@ -130,7 +230,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 7,
+      "rank": 12,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "a-picture-from-kefir_-https___kefirapp_com_w_2201121-racerback-active-tank-tops",
@@ -150,7 +250,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 8,
+      "rank": 13,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-1-mens-all-over-print-tank-top-model-t46",
@@ -170,7 +270,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 9,
+      "rank": 14,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-135-mens-all-over-print-tank-top-model-t46",
@@ -190,7 +290,7 @@
         "mujer/falda"
       ],
       "available": true,
-      "rank": 10,
+      "rank": 15,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-womens-high-waist-layered-sport-skirt",
@@ -210,7 +310,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 11,
+      "rank": 16,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-mens-tank-tops",
@@ -230,7 +330,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 12,
+      "rank": 17,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-mens-tank-tops-1",
@@ -250,7 +350,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 13,
+      "rank": 18,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-all-over-print-tank-top-bkrev1",
@@ -270,7 +370,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 14,
+      "rank": 19,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "hyaluronic-acid-serum",
@@ -290,7 +390,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 15,
+      "rank": 20,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "camiseta-immortal-warrior-2-mens-all-over-print-tank-top-model-t57",
@@ -310,7 +410,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 16,
+      "rank": 21,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-yoga-leggings-yj033",
@@ -330,7 +430,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 17,
+      "rank": 22,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "immortal-warrior-3-mens-all-over-print-tank-top-model-t57",
@@ -350,7 +450,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 18,
+      "rank": 23,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "immortal-warrior4-mens-all-over-print-tank-top-model-t57",
@@ -359,6 +459,26 @@
       "color": "Blanca",
       "art_score": 6,
       "img": "assets/products/shop/a27a7ad2113e90e83b04.jpg"
+    },
+    {
+      "id": "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
+      "name_es": "Gotas Respiratorias y Pulmonares",
+      "name_en": "Respiratory & Lung Drops",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 24,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
+      "fam": "gotas-la-salud",
+      "cg": "t-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
+      "color": "Amber",
+      "art_score": 6,
+      "img": "assets/products/shop/21b97c30914be54971eb.jpg"
     },
     {
       "id": "productifi-exfoliante-de-cafe-y-menta-daz-premium-fit",
@@ -370,7 +490,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 19,
+      "rank": 25,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "exfoliante-de-cafe-y-menta-daz-premium-fit",
@@ -379,6 +499,46 @@
       "color": "brown",
       "art_score": 5,
       "img": "assets/products/shop/45f327df233c2bf2a366.jpg"
+    },
+    {
+      "id": "productifi-jabon-de-acido-kojico-y-curcuma",
+      "name_es": "Jabón de Ácido Kójico y Cúrcuma",
+      "name_en": "Kojic Acid and Turmeric Soap",
+      "price_usd": 24.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 26,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "jabon-de-acido-kojico-y-curcuma",
+      "fam": "jabon-acido-kojico",
+      "cg": "t-jabon-de-acido-kojico-y-curcuma",
+      "color": "brown",
+      "art_score": 8,
+      "img": "assets/products/shop/cfcc9b67622797664d19.jpg"
+    },
+    {
+      "id": "productifi-gotas-de-azul-de-metileno-daz-premium-fit",
+      "name_es": "Gotas de Azul de Metileno",
+      "name_en": "Methylene Blue Drops",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 27,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "gotas-de-azul-de-metileno-daz-premium-fit",
+      "fam": "gotas-azul-metileno",
+      "cg": "t-gotas-de-de-metileno-daz-premium-fit",
+      "color": "blue",
+      "art_score": 8,
+      "img": "assets/products/shop/c91726b2710784b55ae0.jpg"
     },
     {
       "id": "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos",
@@ -390,7 +550,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 20,
+      "rank": 28,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos",
@@ -399,6 +559,46 @@
       "color": "Rojo",
       "art_score": 6,
       "img": "assets/products/shop/2a494be740efed8f4ac0.jpg"
+    },
+    {
+      "id": "productifi-capsulas-de-vinagre-de-sidra-de-manzana-daz-premium-fit",
+      "name_es": "Cápsulas de Vinagre de Sidra",
+      "name_en": "Apple Cider Vinegar Capsules",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 29,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "capsulas-de-vinagre-de-sidra-de-manzana-daz-premium-fit",
+      "fam": "capsulas-vinagre-sidra",
+      "cg": "t-capsulas-de-vinagre-de-sidra-de-manzana-daz-premium-fit",
+      "color": "White",
+      "art_score": 8,
+      "img": "assets/products/shop/b56bf46e330ed82c2b37.jpg"
+    },
+    {
+      "id": "interestprint-descarga-83-sleeveless-yoga-crop-active-tank-tops",
+      "name_es": "Top Corto de Yoga",
+      "name_en": "Yoga Crop Tank Top",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 30,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "descarga-83-sleeveless-yoga-crop-active-tank-tops",
+      "fam": "descarga-sleeveless-yoga",
+      "cg": "t-descarga-sleeveless-yoga-crop-active-tank-tops",
+      "color": "Purple",
+      "art_score": 6,
+      "img": "assets/products/shop/2eb70586a09949255e21.jpg"
     },
     {
       "id": "productifi-gel-refrescante-polar-flex-daz-premium-fit",
@@ -411,7 +611,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 21,
+      "rank": 31,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "gel-refrescante-polar-flex-daz-premium-fit",
@@ -431,7 +631,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 22,
+      "rank": 32,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "limpiador-facial-de-carbon-daz-premium-fit",
@@ -451,7 +651,7 @@
         "mujer/ropa-interior"
       ],
       "available": true,
-      "rank": 23,
+      "rank": 33,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-81-racerback-sports-bra",
@@ -471,7 +671,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 24,
+      "rank": 34,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "champu-sin-agua-para-perros-daz-premium-fit",
@@ -491,7 +691,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 25,
+      "rank": 35,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-yoga-top-xg005kn07",
@@ -511,7 +711,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 26,
+      "rank": 36,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "aceite-facial-gua-sha-daz-premium-fit",
@@ -531,7 +731,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 27,
+      "rank": 37,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "aloe-cool-cucumber-soap",
@@ -551,7 +751,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 28,
+      "rank": 38,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "combinacion-de-l-citrulina-y-l-arginina-daz-premium-fit",
@@ -571,7 +771,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 29,
+      "rank": 39,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "jabon-breathe-clear-daz-premium-fit",
@@ -591,7 +791,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 30,
+      "rank": 40,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "jabon-calmante-de-lavanda-daz-premium-fit",
@@ -611,7 +811,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 31,
+      "rank": 41,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "jabon-de-carbon-daz-premium-fit",
@@ -631,7 +831,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 32,
+      "rank": 42,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "jabon-de-limoncillo-y-salvia-daz-premium-fit",
@@ -651,7 +851,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 33,
+      "rank": 43,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "jabon-de-miel-con-leche-de-avena-daz-premium-fit",
@@ -671,7 +871,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 34,
+      "rank": 44,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "jabon-de-playa-de-coco-daz-premium-fit",
@@ -691,7 +891,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 35,
+      "rank": 45,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "jabon-de-sueno-daz-premium-fit",
@@ -711,7 +911,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 36,
+      "rank": 46,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "jabon-rico-en-sandalo-daz-premium-fit",
@@ -731,7 +931,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 37,
+      "rank": 47,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-yoga-top-yj053",
@@ -751,7 +951,7 @@
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 38,
+      "rank": 48,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -771,7 +971,7 @@
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 39,
+      "rank": 49,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "conjunto-violeta-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -792,7 +992,7 @@
         "mujer/bolsos-carteras"
       ],
       "available": true,
-      "rank": 40,
+      "rank": 50,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
@@ -812,7 +1012,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 41,
+      "rank": 51,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "aesthetic-icon-womens-wide-waist-yoga-cropped-leggings",
@@ -832,7 +1032,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 42,
+      "rank": 52,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-83-womens-wide-waist-yoga-cropped-leggings",
@@ -852,7 +1052,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 43,
+      "rank": 53,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-93-womens-wide-waist-yoga-cropped-leggings",
@@ -873,7 +1073,7 @@
         "mujer/bolsos-carteras"
       ],
       "available": true,
-      "rank": 44,
+      "rank": 54,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-4oz",
@@ -893,7 +1093,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 45,
+      "rank": 55,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "barra-exfoliante-luffa-daz-premium-fit",
@@ -913,7 +1113,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 46,
+      "rank": 56,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "suero-para-manchas-oscuras-para-pieles-normales-daz-premium-fit",
@@ -933,7 +1133,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 47,
+      "rank": 57,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "suero-para-manchas-oscuras-para-pieles-sensibles-daz-premium-fit",
@@ -953,7 +1153,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 48,
+      "rank": 58,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "complejo-de-hongos-10x-daz-premium-fit",
@@ -973,7 +1173,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 49,
+      "rank": 59,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "gomitas-de-colageno-daz-premium-fit-adultos",
@@ -993,7 +1193,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 50,
+      "rank": 60,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "moringa-pure-daz-premium-fit",
@@ -1013,7 +1213,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 51,
+      "rank": 61,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-55-womens-high-waist-pockets-yoga-leggings",
@@ -1033,7 +1233,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 52,
+      "rank": 62,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "purple-stars-womens-high-waist-pockets-yoga-leggings",
@@ -1053,7 +1253,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 53,
+      "rank": 63,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "aceite-capilar-hidratante-y-fortalecedor",
@@ -1073,7 +1273,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 54,
+      "rank": 64,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit",
@@ -1093,7 +1293,7 @@
         "mujer/ropa-interior"
       ],
       "available": true,
-      "rank": 55,
+      "rank": 65,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-yoga-zipper-vest",
@@ -1113,7 +1313,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 56,
+      "rank": 66,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "glicinato-de-magnesio-daz-premium-fit",
@@ -1133,7 +1333,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 57,
+      "rank": 67,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "balsamo-para-patas-de-perro-daz-premium-fit",
@@ -1153,7 +1353,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 58,
+      "rank": 68,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "manteca-de-karite-cruda-daz-premium-fit",
@@ -1173,7 +1373,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 59,
+      "rank": 69,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "sleep-strips-daz-premium-fit",
@@ -1193,7 +1393,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 60,
+      "rank": 70,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "tiras-energeticas-daz-premium-fit",
@@ -1213,7 +1413,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 61,
+      "rank": 71,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "tiras-energeticas-daz-premium-fit-1",
@@ -1233,7 +1433,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 62,
+      "rank": 72,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "aceite-capilar-para-la-salud-del-cuero-cabelludo-y-el-crecimiento-del-cabello-daz-premium-fit",
@@ -1251,7 +1451,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 63,
+      "rank": 73,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "complete-multivitamin",
@@ -1271,7 +1471,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 64,
+      "rank": 74,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "vitamin-d3-daz-premium-fit-2-000-iu",
@@ -1291,7 +1491,7 @@
         "mujer/ropa-interior"
       ],
       "available": true,
-      "rank": 65,
+      "rank": 75,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "derfrf-cross-back-sports-bra",
@@ -1311,7 +1511,7 @@
         "mujer/ropa-interior"
       ],
       "available": true,
-      "rank": 66,
+      "rank": 76,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "derfrf-cross-back-sports-bra-2",
@@ -1331,7 +1531,7 @@
         "mujer/ropa-interior"
       ],
       "available": true,
-      "rank": 67,
+      "rank": 77,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "derfrfjj-cross-back-sports-bra",
@@ -1351,12 +1551,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 68,
+      "rank": 78,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "oxido-nitrico-daz-premium-fit",
       "fam": "oxido-nitrico-premium",
       "cg": "t-oxido-nitrico-daz-premium-fit",
+      "color": "Blanco",
       "art_score": 8,
       "img": "assets/products/shop/7c56d4d4fca7708ed388.jpg"
     },
@@ -1370,7 +1571,7 @@
         "mujer/ropa-interior"
       ],
       "available": true,
-      "rank": 69,
+      "rank": 79,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "aesthetic-icon-knotted-back-cutout-sports-bra",
@@ -1390,7 +1591,7 @@
         "mujer/ropa-interior"
       ],
       "available": true,
-      "rank": 70,
+      "rank": 80,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "_geometric-in-blush-and-rose-gold_-canvas-print-for-sale-by-urbanepiphany-knotted-back-cutout-sports-bra",
@@ -1410,7 +1611,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 71,
+      "rank": 81,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "top-dpf",
@@ -1430,7 +1631,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 72,
+      "rank": 82,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "tarro-de-cristal-con-diseno-de-diamante-y-pajita",
@@ -1451,7 +1652,7 @@
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 73,
+      "rank": 83,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "apoyo-conjunto-daz-premium-fit",
@@ -1471,7 +1672,7 @@
         "mujer/bodies"
       ],
       "available": true,
-      "rank": 74,
+      "rank": 84,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "balsamo-corporal-elevador-daz-premium-fit",
@@ -1491,7 +1692,7 @@
         "mujer/bodies"
       ],
       "available": true,
-      "rank": 75,
+      "rank": 85,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "balsamo-corporal-energetico-daz-premium-fit",
@@ -1511,7 +1712,7 @@
         "mujer/bodies"
       ],
       "available": true,
-      "rank": 76,
+      "rank": 86,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "balsamo-corporal-para-dormir-daz-premium-fit",
@@ -1531,7 +1732,7 @@
         "mujer/bodies"
       ],
       "available": true,
-      "rank": 77,
+      "rank": 87,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "balsamo-corporal-relajante-daz-premium-fit",
@@ -1551,7 +1752,7 @@
         "mujer/bodies"
       ],
       "available": true,
-      "rank": 78,
+      "rank": 88,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "balsamo-corporal-sin-perfume-daz-premium-fit",
@@ -1571,7 +1772,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 79,
+      "rank": 89,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "cafe-con-miel-de-manuka-daz-premium-fit-4oz",
@@ -1591,7 +1792,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 80,
+      "rank": 90,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "esenciales-para-cabello-piel-y-unas",
@@ -1611,7 +1812,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 81,
+      "rank": 91,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-4oz",
@@ -1631,7 +1832,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 82,
+      "rank": 92,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "vitamina-k2-d3-daz-premium-fit-60-capsulas",
@@ -1651,7 +1852,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 83,
+      "rank": 93,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "aceite-facial-nutritivo-de-jojoba-daz-premium-fit",
@@ -1671,7 +1872,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 84,
+      "rank": 94,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "toallitas-dentales-para-perros-daz-premium-fit",
@@ -1691,7 +1892,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 85,
+      "rank": 95,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
@@ -1711,7 +1912,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 86,
+      "rank": 96,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "toallitas-para-ojos-de-perro-daz-premium-fit",
@@ -1731,7 +1932,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 87,
+      "rank": 97,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "gel-crema-hidro-equilibrante-daz-premium-fit",
@@ -1751,7 +1952,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 88,
+      "rank": 98,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "hidratante-de-sandia-daz-premium-fit",
@@ -1771,7 +1972,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 89,
+      "rank": 99,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "crema-calmante-para-la-piel-del-perro-daz-premium-fit",
@@ -1791,7 +1992,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 90,
+      "rank": 100,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "cafe-mezcla-brasilena-4oz-daz-premium-fit",
@@ -1811,7 +2012,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 91,
+      "rank": 101,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "hidratante-antienvejecimiento-para-piel-normal-daz-premium-fit",
@@ -1831,7 +2032,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 92,
+      "rank": 102,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "hidratante-antienvejecimiento-para-pieles-sensibles-daz-premium-fit",
@@ -1851,7 +2052,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 93,
+      "rank": 103,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "omega-3-epa-180mg-dha-120mg-daz-premium-fit",
@@ -1871,7 +2072,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 94,
+      "rank": 104,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "perla-de-abeja-daz-premium-fit",
@@ -1891,7 +2092,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 95,
+      "rank": 105,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "hidratante-con-peptidos-daz-premium-fit",
@@ -1911,7 +2112,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 96,
+      "rank": 106,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "suero-iluminador-pdrn-daz-premium-fit",
@@ -1931,7 +2132,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 97,
+      "rank": 107,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "bcaa-shock-powder-daz-premium-fit-ponche-de-frutas",
@@ -1951,7 +2152,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 98,
+      "rank": 108,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "crema-de-sebo-limoncillo-y-lavanda-daz-premium-fit",
@@ -1971,7 +2172,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 99,
+      "rank": 109,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "crema-de-sebo-noche-tranquila-daz-premium-fit",
@@ -1991,7 +2192,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 100,
+      "rank": 110,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "gel-limpiador-suave-daz-premium-fit",
@@ -2011,7 +2212,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 101,
+      "rank": 111,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "l-arginina-daz-premium-fit-60-capsulas",
@@ -2031,7 +2232,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 102,
+      "rank": 112,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "suero-antioxidante-de-te-verde-daz-premium-fit",
@@ -2051,7 +2252,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 103,
+      "rank": 113,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "suero-daz-premium-fit-de-niacinamida-al-10",
@@ -2071,7 +2272,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 104,
+      "rank": 114,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "suero-de-niacinamida-al-10-daz-premium-fit",
@@ -2091,7 +2292,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 105,
+      "rank": 115,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "botella-deportiva-oregon-daz-premium-fit",
@@ -2111,7 +2312,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 106,
+      "rank": 116,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "reds-superfood-daz-premium-fit",
@@ -2131,7 +2332,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 107,
+      "rank": 117,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "superalimento-verde-daz-premium-fit",
@@ -2151,7 +2352,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 108,
+      "rank": 118,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "tonico-equilibrante-suave-daz-premium-fit",
@@ -2171,7 +2372,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 109,
+      "rank": 119,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "tonico-perfeccionador-de-poros-con-hamamelis-daz-premium-fit",
@@ -2191,7 +2392,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 110,
+      "rank": 120,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "creatine-hydration-powder",
@@ -2211,7 +2412,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 111,
+      "rank": 121,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "crema-de-hidratacion-de-la-piel-daz-premium-fit",
@@ -2231,7 +2432,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 112,
+      "rank": 122,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "suero-botanico-para-el-crecimiento-del-cabello-daz-premium-fit",
@@ -2251,7 +2452,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 113,
+      "rank": 123,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
@@ -2271,7 +2472,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 114,
+      "rank": 124,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "immortal-warrior-short-2-mens-all-over-print-baggy-shorts-model-l37",
@@ -2291,7 +2492,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 115,
+      "rank": 125,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "crema-para-ojos-con-peptidos-daz-premium-fit",
@@ -2311,7 +2512,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 116,
+      "rank": 126,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "polvo-de-matcha-ceremonial-daz-premium-fit",
@@ -2331,7 +2532,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 117,
+      "rank": 127,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "polvo-hidratante-daz-premium-fit-limonada",
@@ -2351,7 +2552,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 118,
+      "rank": 128,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "polvo-hidratante-daz-premium-fit-lychee",
@@ -2371,7 +2572,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 119,
+      "rank": 129,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "polvo-hidratante-daz-premium-fit-maracuya",
@@ -2391,7 +2592,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 120,
+      "rank": 130,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "polvo-hidratante-daz-premium-fit-melocoton-y-mango",
@@ -2411,7 +2612,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 121,
+      "rank": 131,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "polvo-hidratante-daz-premium-fit-te-verde-matcha",
@@ -2432,7 +2633,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 122,
+      "rank": 132,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484195395-black",
@@ -2453,7 +2654,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 123,
+      "rank": 133,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484195395-white",
@@ -2473,7 +2674,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 124,
+      "rank": 134,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz",
@@ -2493,7 +2694,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 125,
+      "rank": 135,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-63-womens-high-waisted-leggings-model-l36",
@@ -2513,7 +2714,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 126,
+      "rank": 136,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "vaso-gator-de-32-oz-daz-premium-fit",
@@ -2533,12 +2734,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 127,
+      "rank": 137,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "botella-termica-de-20-oz-perfecta-para-la-hidratacion-sobre-la-marcha",
       "fam": "botella-termica-oz",
       "cg": "t-botella-termica-de-oz-perfecta-para-la-hidratacion-sobre-la-marcha",
+      "color": "blanco",
       "art_score": 9,
       "img": "assets/products/shop/5cd99ec015fed5f77229.jpg"
     },
@@ -2552,7 +2754,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 128,
+      "rank": 138,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "barro-del-mar-muerto-daz-premium-fit",
@@ -2572,7 +2774,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 129,
+      "rank": 139,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "hongo-reishi-daz-premium-fit",
@@ -2592,7 +2794,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 130,
+      "rank": 140,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "peptidos-de-colageno-hidrolizados-daz-premium-fit-alimentados-con-pasto",
@@ -2610,12 +2812,13 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 131,
+      "rank": 141,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "action-painting-i-mila-blau-elastic-waist-double-layered-active-shorts",
       "fam": "shorts-deportivos-mujer",
       "cg": "t-shorts-deportivos-de-mujer-dpf-tough-bitch-de-doble-capa",
+      "color": "black",
       "art_score": 8,
       "img": "assets/products/shop/6871ff7c4f4de4b8e6d1.jpg"
     },
@@ -2629,7 +2832,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 132,
+      "rank": 142,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484199287-black",
@@ -2649,7 +2852,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 133,
+      "rank": 143,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484199287-military-green",
@@ -2669,7 +2872,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 134,
+      "rank": 144,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "botella-de-agua-de-acero-inoxidable-vibrante-con-tapa-estandar-perfecta-para-hidratarse-en-movimiento",
@@ -2689,12 +2892,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 135,
+      "rank": 145,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-all-over-leggings-model-l01",
       "fam": "smoke-leggings-estampados",
       "cg": "t-dpf-smoke-leggings-estampados",
+      "color": "Smoke",
       "art_score": 4,
       "img": "assets/products/shop/022411077f16167d2ae7.jpg"
     },
@@ -2708,12 +2912,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 136,
+      "rank": 146,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-all-over-leggings-model-l01-1",
       "fam": "essential-leggings-negros",
       "cg": "t-dpf-essential-leggings-negros",
+      "color": "Black",
       "art_score": 9,
       "img": "assets/products/shop/b2ffa8f7ab587cf7328a.jpg"
     },
@@ -2727,7 +2932,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 137,
+      "rank": 147,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484201718-black",
@@ -2747,7 +2952,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 138,
+      "rank": 148,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484201718-white",
@@ -2767,12 +2972,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 139,
+      "rank": 149,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "energy-powder-algodon-de-azucar-daz-premium-fit",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-algodon-de-azucar",
+      "color": "Pink",
       "art_score": 9,
       "img": "assets/products/shop/a92b1f9c37594be96cb4.jpg"
     },
@@ -2786,12 +2992,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 140,
+      "rank": 150,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "energy-powder-daz-premium-fit-melon-creamsicle",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-melon-creamsicle",
+      "color": "Melon Creamsicle",
       "art_score": 8,
       "img": "assets/products/shop/2ddb53b6a10b64bfb772.jpg"
     },
@@ -2805,12 +3012,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 141,
+      "rank": 151,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "energy-powder-daz-premium-fit-tarta-de-fresas",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-tarta-de-fresas",
+      "color": "white",
       "art_score": 6,
       "img": "assets/products/shop/edc266fdbabd026410f1.jpg"
     },
@@ -2824,12 +3032,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 142,
+      "rank": 152,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "energy-powder-daz-premium-fit-yuzu-flavor",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-yuzu-flavor",
+      "color": "white",
       "art_score": 6,
       "img": "assets/products/shop/a345b1d15e7ffc8e4fd2.jpg"
     },
@@ -2843,12 +3052,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 143,
+      "rank": 153,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "energy-powder-daz-premium-fitfruit-punch",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-fruit-punch",
+      "color": "Fruit Punch",
       "art_score": 9,
       "img": "assets/products/shop/7b17c782a2662b15e1de.jpg"
     },
@@ -2862,12 +3072,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 144,
+      "rank": 154,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "energy-powder-daz-premium-fitguava-berry",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-guava-berry",
+      "color": "White / Guava Berry",
       "art_score": 8,
       "img": "assets/products/shop/20f4598f6d0a1095d171.jpg"
     },
@@ -2881,12 +3092,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 145,
+      "rank": 155,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "energy-powder-daz-premium-fitlychee-splash-energy",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-lychee-splash-energy",
+      "color": "white",
       "art_score": 6,
       "img": "assets/products/shop/f0600d1e4d489d4a916f.jpg"
     },
@@ -2900,7 +3112,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 146,
+      "rank": 156,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium-fit-16oz",
@@ -2920,12 +3132,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 147,
+      "rank": 157,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "l-glutamina-daz-premium-fit-en-polvo",
       "fam": "l-glutamina-premium",
       "cg": "t-l-glutamina-daz-premium-fit-en-polvo",
+      "color": "white",
       "art_score": 6,
       "img": "assets/products/shop/fe37b9d16bd7d81a8cc4.jpg"
     },
@@ -2939,7 +3152,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 148,
+      "rank": 158,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "pre-entrenamiento-daz-premium-fit-sandia-300-g-10-58-oz",
@@ -2959,12 +3172,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 149,
+      "rank": 159,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "proteina-vegetal-daz-premium-fitchocolate",
       "fam": "proteina-vegetal-premium",
       "cg": "t-proteina-vegetal-daz-premium-fit-chocolate",
+      "color": "Chocolate",
       "art_score": 5,
       "img": "assets/products/shop/9d38db9a58ff05cc8fcb.jpg"
     },
@@ -2978,12 +3192,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 150,
+      "rank": 160,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "proteina-vegetal-daz-premium-fitvainilla",
       "fam": "proteina-vegetal-premium",
       "cg": "t-proteina-vegetal-daz-premium-fit-vainilla",
+      "color": "green",
       "art_score": 6,
       "img": "assets/products/shop/4eccae3705c9d87b8017.jpg"
     },
@@ -2997,7 +3212,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 151,
+      "rank": 161,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480569608-black",
@@ -3017,7 +3232,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 152,
+      "rank": 162,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480569608-heather-grey",
@@ -3037,7 +3252,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 153,
+      "rank": 163,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480569608-white",
@@ -3057,7 +3272,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 154,
+      "rank": 164,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "vaso-con-diseno-de-diamante-de-40-oz-el-regalo-perfecto-para-cualquier-ocasion",
@@ -3077,7 +3292,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 155,
+      "rank": 165,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "crema-reafirmante-de-la-piel-daz-premium-fit",
@@ -3097,12 +3312,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 156,
+      "rank": 166,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-43-all-over-print-high-waist-leggings-with-pockets-modell56",
       "fam": "premium-fit-tough",
       "cg": "t-daz-premium-fit-tough-leggings-de-cintura-alta-con-bolsillos",
+      "color": "Tough Gold",
       "art_score": 9,
       "img": "assets/products/shop/57a6d2a53c2ae67b4bda.jpg"
     },
@@ -3116,12 +3332,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 157,
+      "rank": 167,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-52-womens-high-waist-leggingsmodell44plus-size",
       "fam": "premium-fit-tough",
       "cg": "t-daz-premium-fit-tough-plaid-leggings-de-cintura-alta-a-cuadros",
+      "color": "Beige, black, grey and red plaid",
       "art_score": 8,
       "img": "assets/products/shop/4c931946a0448116a8d9.jpg"
     },
@@ -3135,12 +3352,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 158,
+      "rank": 168,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "botella-termica-de-20oz-daz-premium-fit",
       "fam": "botella-termica-20oz",
       "cg": "t-botella-termica-de-20oz-daz-premium-fit",
+      "color": "White",
       "art_score": 6,
       "img": "assets/products/shop/bf38884cc92ccc8b950b.jpg"
     },
@@ -3154,7 +3372,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 159,
+      "rank": 169,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "vaso-de-40oz-daz",
@@ -3174,7 +3392,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 160,
+      "rank": 170,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "batido-de-verduras-ultra-limpio",
@@ -3194,7 +3412,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 161,
+      "rank": 171,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "creatine-monohydrate-daz-premium-fit",
@@ -3212,7 +3430,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 162,
+      "rank": 172,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "botella-de-agua-ecologica-de-acero-inoxidable-con-pajita-hidratacion-esencial-de-590-ml",
@@ -3224,20 +3442,21 @@
     },
     {
       "id": "interestprint-sport-1-half-zip-backless-sport-jumpsuit",
-      "name_es": "Mono Corto Deportivo No Permission",
-      "name_en": "No Permission Sport Short Unitard",
+      "name_es": "Mono Corto Deportivo No Permission · Negro",
+      "name_en": "No Permission Sport Short Unitard · Black",
       "price_usd": 36.99,
       "badge": "new",
       "categories": [
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 163,
+      "rank": 173,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "sport-1-half-zip-backless-sport-jumpsuit",
       "fam": "mono-corto-deportivo",
       "cg": "t-mono-corto-deportivo-dpf-no-permission-con-espalda-abierta",
+      "color": "black",
       "art_score": 9,
       "img": "assets/products/shop/7cb13b3cf9bc2d085400.jpg"
     },
@@ -3251,7 +3470,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 164,
+      "rank": 174,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "sport-2-half-zip-backless-sport-jumpsuit",
@@ -3270,7 +3489,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 165,
+      "rank": 175,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480571842",
@@ -3291,7 +3510,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 166,
+      "rank": 176,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484192500",
@@ -3311,7 +3530,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 167,
+      "rank": 177,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "botella-de-agua-de-acero-inoxidable-daz-premium-fit",
@@ -3331,12 +3550,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 168,
+      "rank": 178,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "advanced-100-whey-protein-isolate-vanilla",
       "fam": "premium-fit-advanced",
       "cg": "t-daz-premium-fit-advanced-whey-protein-isolate-vanilla",
+      "color": "white",
       "art_score": 6,
       "img": "assets/products/shop/1e1e70f80e0245d59ab2.jpg"
     },
@@ -3350,7 +3570,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 169,
+      "rank": 179,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "colombia-single-origin-coffee-light-medium-roast",
@@ -3370,12 +3590,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 170,
+      "rank": 180,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "crema-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
       "fam": "crema-colageno-premium",
       "cg": "t-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
+      "color": "White",
       "art_score": 8,
       "img": "assets/products/shop/f62cd2c61ecf32950687.jpg"
     },
@@ -3389,12 +3610,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 171,
+      "rank": 181,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "daz-premium-fit-advanced-100-whey-protein-isolate-chocolate",
       "fam": "premium-fit-advanced",
       "cg": "t-daz-premium-fit-advanced-whey-protein-isolate-chocolate",
+      "color": "Chocolate",
       "art_score": 6,
       "img": "assets/products/shop/9187aceccd3c07cbf88a.jpg"
     },
@@ -3408,7 +3630,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 172,
+      "rank": 182,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "hongo-cordyceps-daz-premium-fit",
@@ -3428,12 +3650,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 173,
+      "rank": 183,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "pure3-100-whey-protein-isolate-daz-premium-fit-vanilla",
       "fam": "pure3-whey-protein",
       "cg": "t-pure3-whey-protein-isolate-daz-premium-fit-vanilla",
+      "color": "white",
       "art_score": 8,
       "img": "assets/products/shop/776596e6e8e9e088fd86.jpg"
     },
@@ -3447,12 +3670,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 174,
+      "rank": 184,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "pure3-100-whey-protein-isolate-daz-premium-fitchocolate",
       "fam": "pure3-whey-protein",
       "cg": "t-pure3-whey-protein-isolate-daz-premium-fit-chocolate",
+      "color": "chocolate",
       "art_score": 8,
       "img": "assets/products/shop/dcc320944c0853a5d2f9.jpg"
     },
@@ -3466,7 +3690,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 175,
+      "rank": 185,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "suplemento-de-electrolitos-ion-select-daz-premium-fit-225-g-7-9-oz",
@@ -3486,7 +3710,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 176,
+      "rank": 186,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "crema-recuperadora-daz-premium-fit",
@@ -3506,12 +3730,13 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 177,
+      "rank": 187,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-66-all-over-low-rise-leggings-model-l05",
       "fam": "violet-star-leggings",
       "cg": "t-dpf-violet-star-leggings-de-tiro-bajo",
+      "color": "Violet Star",
       "art_score": 9,
       "img": "assets/products/shop/d585e5dc0c6f41946b25.jpg"
     },
@@ -3525,7 +3750,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 178,
+      "rank": 188,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "botella-de-agua-de-acero-inoxidable-daz-premium-fit-con-pajita-20oz",
@@ -3546,7 +3771,7 @@
         "mujer/bolsos-carteras"
       ],
       "available": true,
-      "rank": 179,
+      "rank": 189,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "cafe-mezcla-brasilena-16oz",
@@ -3566,7 +3791,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 180,
+      "rank": 190,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "correa-de-reloj-apple-watch-daz-1-black-matte",
@@ -3586,7 +3811,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 181,
+      "rank": 191,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "correa-de-reloj-apple-watch-daz-1-gold-matte",
@@ -3606,7 +3831,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 182,
+      "rank": 192,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "correa-de-reloj-apple-watch-daz-1-rose-gold-matte",
@@ -3626,7 +3851,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 183,
+      "rank": 193,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "correa-de-reloj-apple-watch-daz-1-silver-matte",
@@ -3646,7 +3871,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 184,
+      "rank": 194,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "correa-de-reloj-apple-watch-daz-black-matte",
@@ -3666,7 +3891,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 185,
+      "rank": 195,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "correa-de-reloj-apple-watch-daz-gold-matte",
@@ -3686,7 +3911,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 186,
+      "rank": 196,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "correa-de-reloj-apple-watch-daz-rose-gold-matte",
@@ -3706,7 +3931,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 187,
+      "rank": 197,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "correa-de-reloj-apple-watch-daz-silver-matte",
@@ -3726,12 +3951,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 188,
+      "rank": 198,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "bcaa-post-workout-powder-honeydew-watermelon",
       "fam": "bcaa-en-polvo",
       "cg": "t-bcaa-en-polvo-para-despues-del-entrenamiento-melaza-sandia",
+      "color": "black",
       "art_score": 8,
       "img": "assets/products/shop/337ba269745ec5705c9c.jpg"
     },
@@ -3745,7 +3971,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 189,
+      "rank": 199,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "cafe-con-miel-de-manuka-daz-premium-fit-16oz",
@@ -3765,7 +3991,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 190,
+      "rank": 200,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "hongo-melena-de-leon-daz-premium-fit",
@@ -3785,12 +4011,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 191,
+      "rank": 201,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
       "fam": "polvo-peptidos-colageno",
       "cg": "t-polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
+      "color": "chocolate",
       "art_score": 8,
       "img": "assets/products/shop/d91ed872bc0e371daa61.jpg"
     },
@@ -3804,12 +4031,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 192,
+      "rank": 202,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "pre-workout-de-choque-nitrico-ponche-de-frutas",
       "fam": "pre-entrenamiento-choque",
       "cg": "t-pre-entrenamiento-de-choque-nitrico-daz-premium-fit-ponche-de-frutas",
+      "color": "Fruit Punch",
       "art_score": 9,
       "img": "assets/products/shop/ad23b35ce15d0ffdba3a.jpg"
     },
@@ -3823,7 +4051,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 193,
+      "rank": 203,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484206291-black",
@@ -3843,7 +4071,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 194,
+      "rank": 204,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484206291-grey",
@@ -3863,7 +4091,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 195,
+      "rank": 205,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-dark-gray",
@@ -3883,7 +4111,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 196,
+      "rank": 206,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-teal",
@@ -3903,7 +4131,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 197,
+      "rank": 207,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-white",
@@ -3923,7 +4151,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 198,
+      "rank": 208,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484200714-black",
@@ -3943,7 +4171,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 199,
+      "rank": 209,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484200714-stone",
@@ -3963,7 +4191,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 200,
+      "rank": 210,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para-hidratarse-en-movimiento",
@@ -3983,7 +4211,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 201,
+      "rank": 211,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-pebble-blue",
@@ -4003,7 +4231,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 202,
+      "rank": 212,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-white",
@@ -4024,7 +4252,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 203,
+      "rank": 213,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484188638-black-camo",
@@ -4045,7 +4273,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 204,
+      "rank": 214,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484188638-forest-camo",
@@ -4065,7 +4293,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 205,
+      "rank": 215,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "polvo-de-perla-de-abeja-daz-premium-fit",
@@ -4085,12 +4313,13 @@
         "decor"
       ],
       "available": true,
-      "rank": 206,
+      "rank": 216,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "advanced-whey-protein-chocolate",
       "fam": "advanced-whey-protein",
       "cg": "t-advanced-whey-protein-chocolate",
+      "color": "red",
       "art_score": 4,
       "img": "assets/products/shop/9f0aaffd25ee9e0b68a7.jpg"
     },
@@ -4104,7 +4333,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 207,
+      "rank": 217,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "plan-basico-de-20-mes",
@@ -4123,7 +4352,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 208,
+      "rank": 218,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "plan-premium-de-50-mes",
@@ -4132,200 +4361,6 @@
       "color": "Multiple",
       "art_score": 8,
       "img": "assets/products/shop/5261ee6f01aa707b7440.jpg"
-    },
-    {
-      "id": "interestprint-design-womens-crop-rugby-jersey",
-      "name_es": "Camiseta Crop de Rugby · Blanco",
-      "name_en": "Crop Rugby Jersey · White",
-      "price_usd": 20.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 209,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "design-womens-crop-rugby-jersey",
-      "fam": "women-s-crop",
-      "cg": "t-design-women-s-crop-rugby-jersey",
-      "color": "white",
-      "art_score": 4,
-      "img": "assets/products/shop/bba6c167e5e3e40ca920.jpg"
-    },
-    {
-      "id": "interestprint-design-womens-crop-rugby-jersey-1",
-      "name_es": "Camiseta Crop de Rugby · Blanco",
-      "name_en": "Crop Rugby Jersey · White",
-      "price_usd": 20.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 210,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "design-womens-crop-rugby-jersey-1",
-      "fam": "women-s-crop",
-      "cg": "t-design-women-s-crop-rugby-jersey",
-      "color": "white",
-      "art_score": 4,
-      "img": "assets/products/shop/c91a2909b641faae915e.jpg"
-    },
-    {
-      "id": "interestprint-design-womens-crop-rugby-jersey-2",
-      "name_es": "Camiseta Crop de Rugby · Blanco",
-      "name_en": "Crop Rugby Jersey · White",
-      "price_usd": 20.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 211,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "design-womens-crop-rugby-jersey-2",
-      "fam": "women-s-crop",
-      "cg": "t-design-women-s-crop-rugby-jersey",
-      "color": "white",
-      "art_score": 4,
-      "img": "assets/products/shop/0164ed26a5daee87511f.jpg"
-    },
-    {
-      "id": "interestprint-design-womens-crop-rugby-jersey-3",
-      "name_es": "Camiseta Crop de Rugby · Blanco",
-      "name_en": "Crop Rugby Jersey · White",
-      "price_usd": 20.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 212,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "design-womens-crop-rugby-jersey-3",
-      "fam": "women-s-crop",
-      "cg": "t-design-women-s-crop-rugby-jersey",
-      "color": "white",
-      "art_score": 4,
-      "img": "assets/products/shop/c904add6ed519abe3625.jpg"
-    },
-    {
-      "id": "interestprint-aesthetic-icon-womens-racerback-tank-top-model-t60",
-      "name_es": "Camiseta de Tirantes Estampada",
-      "name_en": "Printed Racerback Tank Top",
-      "price_usd": 22.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 213,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "aesthetic-icon-womens-racerback-tank-top-model-t60",
-      "fam": "aesthetic-icon-women",
-      "cg": "t-aesthetic-icon-women-s-racerback-tank-top-model-t60",
-      "art_score": 3,
-      "img": "assets/products/shop/377cdd57c7257ac13050.jpg"
-    },
-    {
-      "id": "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
-      "name_es": "Gotas Respiratorias y Pulmonares",
-      "name_en": "Respiratory & Lung Drops",
-      "price_usd": 23.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 215,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
-      "fam": "gotas-la-salud",
-      "cg": "t-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
-      "art_score": 6,
-      "img": "assets/products/shop/21b97c30914be54971eb.jpg"
-    },
-    {
-      "id": "productifi-jabon-de-acido-kojico-y-curcuma",
-      "name_es": "Jabón de Ácido Kójico y Cúrcuma",
-      "name_en": "Kojic Acid and Turmeric Soap",
-      "price_usd": 24.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 216,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "jabon-de-acido-kojico-y-curcuma",
-      "fam": "jabon-acido-kojico",
-      "cg": "t-jabon-de-acido-kojico-y-curcuma",
-      "art_score": 8,
-      "img": "assets/products/shop/cfcc9b67622797664d19.jpg"
-    },
-    {
-      "id": "productifi-gotas-de-azul-de-metileno-daz-premium-fit",
-      "name_es": "Gotas de Azul de Metileno",
-      "name_en": "Methylene Blue Drops",
-      "price_usd": 23.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 217,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "gotas-de-azul-de-metileno-daz-premium-fit",
-      "fam": "gotas-azul-metileno",
-      "cg": "t-gotas-de-de-metileno-daz-premium-fit",
-      "art_score": 8,
-      "img": "assets/products/shop/c91726b2710784b55ae0.jpg"
-    },
-    {
-      "id": "productifi-capsulas-de-vinagre-de-sidra-de-manzana-daz-premium-fit",
-      "name_es": "Cápsulas de Vinagre de Sidra",
-      "name_en": "Apple Cider Vinegar Capsules",
-      "price_usd": 23.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 218,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "capsulas-de-vinagre-de-sidra-de-manzana-daz-premium-fit",
-      "fam": "capsulas-vinagre-sidra",
-      "cg": "t-capsulas-de-vinagre-de-sidra-de-manzana-daz-premium-fit",
-      "art_score": 8,
-      "img": "assets/products/shop/b56bf46e330ed82c2b37.jpg"
-    },
-    {
-      "id": "interestprint-descarga-83-sleeveless-yoga-crop-active-tank-tops",
-      "name_es": "Top Corto de Yoga",
-      "name_en": "Yoga Crop Tank Top",
-      "price_usd": 23.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 219,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "descarga-83-sleeveless-yoga-crop-active-tank-tops",
-      "fam": "descarga-sleeveless-yoga",
-      "cg": "t-descarga-sleeveless-yoga-crop-active-tank-tops",
-      "art_score": 6,
-      "img": "assets/products/shop/2eb70586a09949255e21.jpg"
     }
   ]
 }

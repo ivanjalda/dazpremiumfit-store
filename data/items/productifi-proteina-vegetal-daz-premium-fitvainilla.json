@@ -17,7 +17,7 @@
   "decor"
  ],
  "cg": "t-proteina-vegetal-daz-premium-fit-vainilla",
- "color": "",
+ "color": "green",
  "created": "2026-11-25",
  "desc_en": "Elevate your daily nutrition with our versatile vanilla plant protein. Designed to support your active lifestyle, each serving delivers a complete profile of essential amino acids for muscle recovery and growth. Crafted with high-quality plant ingredients, this formula offers a smooth, creamy flavor without dairy, soy, or gluten. Integrate it into your favorite beverages or recipes for optimal wellness support.",
  "desc_es": "Eleve su nutrición diaria con nuestra versátil proteína vegetal de vainilla. Diseñada para respaldar su estilo de vida activo, cada porción aporta un perfil completo de aminoácidos esenciales para la recuperación y el crecimiento muscular. Elaborada con ingredientes vegetales de alta calidad, esta fórmula ofrece un sabor suave y cremoso sin lácteos, soja ni gluten. Integrelá en sus bebidas o recetas favoritas para un apoyo óptimo del bienestar.",
@@ -29,20 +29,21 @@
  ],
  "draft": false,
  "fam": "proteina-vegetal-premium",
+ "gender": "unisex",
  "hidden": false,
  "id": "productifi-proteina-vegetal-daz-premium-fitvainilla",
  "img_checked": "2026-11-25",
  "look": [
-  "productifi-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos"
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
- "material": "",
+ "material": "Tendra fava bean protein isolate, Yestein fermented nutritional yeast protein, MCT oil powder, apple pectin powder, sea salt, stevia extract, silicon dioxide",
  "name_en": "DAZ Plant Protein Vanilla",
  "name_es": "Proteína Vegetal Vainilla DAZ",
  "needs_review": false,
  "needs_studio": true,
  "page": true,
  "price_usd": 49.99,
- "rank": 150,
+ "rank": 160,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",
