@@ -27,6 +27,9 @@
       p1_t: 'Bajo Demanda', p1_d: 'Cada prenda se produce solo cuando la pides. Sin excedentes y con acabados cuidados.',
       p2_t: 'Suplementos esenciales', p2_d: 'Lo básico que funciona: proteína, creatina y lo imprescindible, sin complicaciones.',
       p3_t: 'Atención directa', p3_d: 'Envío con seguimiento a todo el mundo y pago protegido de principio a fin.',
+      pt_eyebrow: 'Equipo DPF', pt_title: 'Entrena, come y gana con nosotros',
+      pt1_t: 'Tu asesor de entrenamiento y nutrición', pt1_d: 'DAZ Performance: rutinas y dieta a tu medida, con seguimiento.', pt1_c: 'Empezar mi plan',
+      pt2_t: 'Predicciones deportivas', pt2_d: 'SportEVLab: análisis y pronósticos de fútbol, NBA y más deportes.', pt2_c: 'Ver predicciones',
       shoes_eyebrow: 'Calzado', shoes_title: 'Calzado para entrenar',
       shoes_text: 'Zapatillas producidas bajo pedido para hombre y mujer, con diseño propio DPF.',
       shoes_cta: 'Ver calzado', featured: 'Lo más vendido',
@@ -38,17 +41,17 @@
       l_aviso: 'Aviso legal', l_privacidad: 'Privacidad', l_terminos: 'Términos y condiciones', l_cookies: 'Cookies',
       l_envios: 'Envíos', l_devoluciones: 'Devoluciones',
       search_ph: 'Buscar en DAZ Premium Fit', cart: 'Tu selección', cart_empty: 'Tu selección está vacía.',
-      total: 'Total', checkout: 'Pagar de forma segura', pay_item: 'Pagar esta pieza',
-      multi_note: 'Cada pieza se paga en su propia página segura de Stripe.',
+      total: 'Total', checkout: 'Pagar de forma segura', pay_item: 'Pagar esta prenda',
+      multi_note: 'Cada prenda se paga en su propia página segura de Stripe.',
       fx_note: 'El cobro se realiza en USD. El importe en EUR es orientativo.',
       add: 'Añadir a mi selección', buy: 'Comprar ahora', added: 'Añadido a tu selección',
       size: 'Talla', choose_size: 'Elige tu talla', soon: 'Disponible muy pronto',
       look: 'Completa el Look', all: 'Ver todo', availability: 'Disponibilidad', any: 'Todas',
       instock: 'Disponible', price: 'Precio', min: 'Mín.', max: 'Máx.', sort: 'Ordenar por',
       s_featured: 'Destacados', s_low: 'Precio: menor a mayor', s_high: 'Precio: mayor a menor', s_new: 'Novedades',
-      empty: 'Muy pronto llegarán nuevas piezas a esta sección.', results: 'piezas',
+      empty: 'Muy pronto llegarán nuevas prendas a esta sección.', results: 'productos',
       tr1: '✦ Confección bajo demanda', tr2: '✦ Envío internacional con seguimiento', tr3: '✦ Pago 100 % seguro con Stripe',
-      account: 'Mi Cuenta', favs: 'Mis Favoritos', no_favs: 'Aún no has guardado favoritos. Pulsa ♡ en cualquier pieza.',
+      account: 'Mi Cuenta', favs: 'Mis Favoritos', no_favs: 'Aún no has guardado favoritos. Pulsa ♡ en cualquier producto.',
       or_mail: 'o con tu correo', optin: 'Quiero recibir novedades y ofertas exclusivas por correo (puedes darte de baja cuando quieras).', email: 'Correo electrónico', pass: 'Contraseña (mínimo 6)', enter: 'Entrar', create: 'Crear cuenta',
       forgot: 'He olvidado mi contraseña', reset_ok: 'Te hemos enviado un correo para crear una contraseña nueva.', need_mail: 'Escribe tu correo primero.',
       e_wrong: 'Correo o contraseña incorrectos.', e_used: 'Ese correo ya tiene cuenta: pulsa Entrar.', e_weak: 'La contraseña debe tener al menos 6 caracteres.', e_mail: 'Ese correo no es válido.',
@@ -58,7 +61,7 @@
       thanks_t: 'Gracias por tu compra', thanks_d: 'Hemos recibido tu pedido. En breve recibirás la confirmación por correo electrónico.',
       back: 'Volver a la tienda',
       b_top1: 'Nº 1 en Ventas', b_bestseller: 'Más vendido', b_lowstock: 'Edición Limitada · Últimas unidades', b_hot: 'Alta demanda', b_new: 'Novedad',
-      secure: 'Pago 100 % seguro', more: 'Ver más piezas', sub_gift: 'Únete y recibe un {n} % de regalo en tu primera compra.', cookie_t: 'Usamos analítica para entender qué piezas gustan más y mejorar la tienda. ¿Nos lo permites?', accept: 'Aceptar', reject: 'Rechazar', until: 'Hasta el', gifts: 'Selección de regalos', offers_t: 'La selección de la campaña', view_all: 'Ver toda la selección', men_cta: 'Descubrir Hombre', women_cta: 'Descubrir Mujer',
+      secure: 'Pago 100 % seguro', more: 'Ver más productos', sub_gift: 'Únete y recibe un {n} % de regalo en tu primera compra.', cookie_t: 'Usamos analítica para entender qué piezas gustan más y mejorar la tienda. ¿Nos lo permites?', accept: 'Aceptar', reject: 'Rechazar', until: 'Hasta el', gifts: 'Selección de regalos', offers_t: 'La selección de la campaña', view_all: 'Ver toda la selección', men_cta: 'Descubrir Hombre', women_cta: 'Descubrir Mujer',
       d_make: 'Detalles de confección', d_guide: 'Guía de tallas', d_ship: 'Envío y devoluciones', d_ship_t: 'Confección en 2–7 días laborables y envío internacional con seguimiento en 5–15 días laborables. Devolución o reposición gratuita si la pieza llega defectuosa.', d_material: 'Material', d_color: 'Color', d_made: 'Confeccionada bajo demanda, solo para ti.', zoom: 'Toca la imagen para ampliarla', camp_off: 'Ahora no hay ninguna campaña activa.'
     },
     en: {
@@ -75,9 +78,12 @@
       private_eyebrow: 'Immortal Warrior · Tough Bitch', private_title: 'Two lines, one discipline',
       men: 'Men', women: 'Women', explore: 'Explore',
       couture_eyebrow: 'Performance', couture_title: 'Built to train hard',
-      p1_t: 'Made to Order', p1_d: 'Every piece is produced only when you order it. No overstock, quality finishes.',
+      p1_t: 'Made to Order', p1_d: 'Every item is produced only when you order it. No overstock, quality finishes.',
       p2_t: 'Essential supplements', p2_d: 'The basics that work: protein, creatine and the essentials, kept simple.',
       p3_t: 'Direct support', p3_d: 'Worldwide tracked shipping and protected payment from start to finish.',
+      pt_eyebrow: 'Team DPF', pt_title: 'Train, eat and win with us',
+      pt1_t: 'Your training & nutrition coach', pt1_d: 'DAZ Performance: workouts and diet plans built for you, with follow-up.', pt1_c: 'Start my plan',
+      pt2_t: 'Sports predictions', pt2_d: 'SportEVLab: analysis and picks for soccer, NBA and more.', pt2_c: 'See predictions',
       shoes_eyebrow: 'Footwear', shoes_title: 'Training footwear',
       shoes_text: 'Sneakers produced to order for men and women, with original DPF design.',
       shoes_cta: 'Shop footwear', featured: 'Best sellers',
@@ -89,17 +95,17 @@
       l_aviso: 'Legal notice', l_privacidad: 'Privacy', l_terminos: 'Terms & conditions', l_cookies: 'Cookies',
       l_envios: 'Shipping', l_devoluciones: 'Returns',
       search_ph: 'Search DAZ Premium Fit', cart: 'Your selection', cart_empty: 'Your selection is empty.',
-      total: 'Total', checkout: 'Secure checkout', pay_item: 'Pay for this piece',
-      multi_note: 'Each piece is paid on its own secure Stripe page.',
+      total: 'Total', checkout: 'Secure checkout', pay_item: 'Pay for this item',
+      multi_note: 'Each item is paid on its own secure Stripe page.',
       fx_note: 'You are charged in USD. EUR amounts are approximate.',
       add: 'Add to my selection', buy: 'Buy now', added: 'Added to your selection',
       size: 'Size', choose_size: 'Choose your size', soon: 'Available very soon',
       look: 'Complete the Look', all: 'View all', availability: 'Availability', any: 'All',
       instock: 'In stock', price: 'Price', min: 'Min', max: 'Max', sort: 'Sort by',
       s_featured: 'Featured', s_low: 'Price: low to high', s_high: 'Price: high to low', s_new: 'Newest',
-      empty: 'New pieces are arriving in this section very soon.', results: 'pieces',
+      empty: 'New gear is arriving in this section very soon.', results: 'items',
       tr1: '✦ Made to order', tr2: '✦ International tracked shipping', tr3: '✦ 100% secure checkout by Stripe',
-      account: 'My Account', favs: 'My Favorites', no_favs: 'No favorites yet. Tap ♡ on any piece.',
+      account: 'My Account', favs: 'My Favorites', no_favs: 'No favorites yet. Tap ♡ on any item.',
       or_mail: 'or with your email', optin: 'Send me news and exclusive offers by email (unsubscribe anytime).', email: 'Email', pass: 'Password (6+ characters)', enter: 'Sign in', create: 'Create account',
       forgot: 'I forgot my password', reset_ok: 'We have sent you an email to set a new password.', need_mail: 'Type your email first.',
       e_wrong: 'Wrong email or password.', e_used: 'That email already has an account: press Sign in.', e_weak: 'The password needs at least 6 characters.', e_mail: 'That email is not valid.',
@@ -108,9 +114,9 @@
       orders_note: 'After each purchase you will receive your receipt and tracking by email.',
       thanks_t: 'Thank you for your order', thanks_d: 'We have received your order. You will receive an email confirmation shortly.',
       back: 'Back to the store',
-      b_top1: 'No. 1 Best Seller', b_bestseller: 'Best Seller', b_lowstock: 'Limited Edition · Last pieces', b_hot: 'In high demand', b_new: 'New',
-      secure: '100% secure payment', more: 'Show more pieces', sub_gift: 'Join and get {n}% off your first order.', cookie_t: 'We use analytics to understand which pieces you love and improve the store. May we?', accept: 'Accept', reject: 'Decline', until: 'Until', gifts: 'The gift selection', offers_t: 'The campaign selection', view_all: 'View the full selection', men_cta: 'Discover Men', women_cta: 'Discover Women',
-      d_make: 'Tailoring details', d_guide: 'Size guide', d_ship: 'Shipping & returns', d_ship_t: 'Made in 2–7 business days and shipped internationally with tracking in 5–15 business days. Free replacement or refund if your piece arrives defective.', d_material: 'Material', d_color: 'Colour', d_made: 'Made to order, just for you.', zoom: 'Tap the image to zoom in', camp_off: 'There is no active campaign right now.'
+      b_top1: 'No. 1 Best Seller', b_bestseller: 'Best Seller', b_lowstock: 'Limited Edition · Last units', b_hot: 'In high demand', b_new: 'New',
+      secure: '100% secure payment', more: 'Show more gear', sub_gift: 'Join and get {n}% off your first order.', cookie_t: 'We use analytics to understand which pieces you love and improve the store. May we?', accept: 'Accept', reject: 'Decline', until: 'Until', gifts: 'The gift selection', offers_t: 'The campaign selection', view_all: 'View the full selection', men_cta: 'Discover Men', women_cta: 'Discover Women',
+      d_make: 'Product details', d_guide: 'Size guide', d_ship: 'Shipping & returns', d_ship_t: 'Made in 2–7 business days and shipped internationally with tracking in 5–15 business days. Free replacement or refund if your piece arrives defective.', d_material: 'Material', d_color: 'Colour', d_made: 'Made to order, just for you.', zoom: 'Tap the image to zoom in', camp_off: 'There is no active campaign right now.'
     }
   };
 
@@ -368,6 +374,13 @@
         <div class="pillar"><div class="num">I.</div><h3>${t('p1_t')}</h3><p>${t('p1_d')}</p></div>
         <div class="pillar"><div class="num">II.</div><h3>${t('p2_t')}</h3><p>${t('p2_d')}</p></div>
         <div class="pillar"><div class="num">III.</div><h3>${t('p3_t')}</h3><p>${t('p3_d')}</p></div>
+      </div>
+    </section>
+    <section class="partners">
+      <div class="section-head"><p class="eyebrow">${t('pt_eyebrow')}</p><h2>${t('pt_title')}</h2><div class="rule"></div></div>
+      <div class="partner-grid">
+        <a class="partner" href="https://dazperformance.com/?utm_source=dpf&utm_medium=web&utm_campaign=home" target="_blank" rel="noopener"><b>DAZ Performance</b><h3>${t('pt1_t')}</h3><p>${t('pt1_d')}</p><span class="btn btn-solid">${t('pt1_c')}</span></a>
+        <a class="partner" href="https://sportevlab.com/?utm_source=dpf&utm_medium=web&utm_campaign=home" target="_blank" rel="noopener"><b>SportEVLab</b><h3>${t('pt2_t')}</h3><p>${t('pt2_d')}</p><span class="btn">${t('pt2_c')}</span></a>
       </div>
     </section>
     <section class="feature">
@@ -711,7 +724,7 @@
       <h2>Simple supplements</h2>
       <p>Only the essentials backed by science. No miracle promises.</p>`}
       <h2 id="campanas">${es ? 'Campañas y Publicidad' : 'Campaigns & Advertising'}</h2>
-      <p>${es ? 'Lookbooks y campañas de la casa.' : 'House lookbooks and campaigns.'}</p>
+      <p>${es ? 'Campañas y entrenamientos DPF.' : 'DPF campaigns and training.'}</p>
     </div><div class="lookbook">${lb}</div></section>`;
   }
 

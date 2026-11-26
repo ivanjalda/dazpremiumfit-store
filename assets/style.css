@@ -341,3 +341,53 @@ h1,h2,h3,h4{font-family:var(--serif);font-weight:400;color:var(--gold);letter-sp
 .trust b{font-family:var(--serif);font-weight:400;color:var(--gold2);font-size:19px;letter-spacing:.04em}
 .trust span{color:var(--pearl);font-size:12px;letter-spacing:.06em}
 @media(max-width:760px){.trust{grid-template-columns:repeat(2,1fr)}.trust>div:nth-child(2){border-right:0}.trust>div:nth-child(-n+2){border-bottom:1px solid var(--line)}}
+
+
+/* ================= DPF · TEMA DEPORTIVO (negro, blanco y rojo) ================= */
+:root{
+  --gold:#E4002B; --gold2:#FFFFFF; --ivory:#F4F4F4; --pearl:#9C9C9C;
+  --line:rgba(255,255,255,.10); --line2:rgba(228,0,43,.65);
+  --serif:'Anton','Archivo Black',Impact,'Arial Narrow',sans-serif;
+  --sans:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+}
+body{font-weight:400;background:#0A0A0A}
+h1,h2,h3,h4{color:#fff;text-transform:uppercase;letter-spacing:.01em;font-weight:400}
+.eyebrow{color:var(--gold);font-weight:700;letter-spacing:.28em}
+.logo{display:flex;align-items:center;gap:9px;color:#fff;font-size:19px;letter-spacing:.06em}
+.logo img{width:34px;height:34px}
+.logo span,.footer-logo span{font-style:normal;text-transform:uppercase;color:var(--gold);letter-spacing:.06em}
+.footer-logo{display:flex;align-items:center;gap:12px;color:#fff;letter-spacing:.06em}
+.footer-partners{color:var(--pearl);font-size:12.5px;margin:-10px 0 26px;line-height:1.9}
+.footer-partners a{color:#fff;border-bottom:1px solid var(--gold)}
+.btn{font-weight:800;letter-spacing:.18em;border-width:2px;color:#fff;border-color:#fff}
+.btn:hover{background:var(--gold);border-color:var(--gold);color:#fff}
+.btn-solid{background:var(--gold);border-color:var(--gold);color:#fff}
+.btn-solid:hover{background:#fff;border-color:#fff;color:#000}
+.hero h1{font-weight:400;letter-spacing:.02em;font-size:clamp(46px,13vw,170px);line-height:.9}
+.hero h1 i{font-style:normal;text-transform:uppercase;color:var(--gold);letter-spacing:.02em}
+.hero .camp{font-style:normal;color:#fff;text-transform:uppercase;letter-spacing:.04em}
+.hero .lead{font-weight:500}
+.duo a::before{color:rgba(228,0,43,.08)}
+.pillar .num{font-style:normal;color:var(--gold)}
+.feature .art{background:linear-gradient(160deg,#1a0004,#000 70%);font-style:normal;color:rgba(228,0,43,.18)}
+.card .name{font-family:var(--sans);font-weight:700;font-size:13.5px;text-transform:uppercase;letter-spacing:.03em}
+.empty,.ph,.editorial .quote{font-style:normal}
+.trust b{font-family:var(--serif);color:#fff;text-transform:uppercase;font-size:18px}
+.switch{color:#fff;border-color:rgba(255,255,255,.35)}
+.switch:hover{background:var(--gold);color:#fff;border-color:var(--gold)}
+.count{background:var(--gold);color:#fff}
+.icon-btn{color:#fff}
+.topbar{background:var(--gold);color:#fff;font-weight:700;border-bottom:0}
+.topbar-msg a{color:#fff;text-decoration:underline}
+.search-row input{font-family:var(--sans);font-weight:700}
+.total{color:#fff}
+/* Equipo DPF: asesor y predicciones */
+.partners{padding:80px 16px;border-top:1px solid var(--line)}
+.partner-grid{display:grid;gap:16px;max-width:1100px;margin:44px auto 0}
+@media(min-width:760px){.partner-grid{grid-template-columns:1fr 1fr}}
+.partner{display:flex;flex-direction:column;gap:12px;padding:34px 28px;border:1px solid var(--line);background:linear-gradient(150deg,#160003,#0a0a0a 60%);transition:border-color .3s,transform .3s}
+.partner:hover{border-color:var(--gold);transform:translateY(-3px)}
+.partner b{color:var(--gold);letter-spacing:.24em;text-transform:uppercase;font-size:11px}
+.partner h3{font-size:clamp(24px,3.4vw,34px)}
+.partner p{color:var(--pearl)}
+.partner .btn{align-self:flex-start;margin-top:8px}
