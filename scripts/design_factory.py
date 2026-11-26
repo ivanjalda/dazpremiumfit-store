@@ -130,7 +130,12 @@ def main():
                 if key in entry["products"] or created_total >= limit:
                     continue
                 t = known[key]
-                r = resolve_template(key, t, cache, catalog)
+                try:
+                    r = resolve_template(key, t, cache, catalog)
+                except Exception as te:  # una plantilla que falla no frena las demás
+                    entry.setdefault("skipped", {})[key] = str(te)[:150]
+                    log(f"Plantilla '{key}' saltada: {str(te)[:150]}")
+                    continue
                 body = {
                     "title": f"{title} {t.get('nombre_en', key.title())}",
                     "description": f"DAZ Premium Fit — {title}. Made to order.",
@@ -147,7 +152,7 @@ def main():
                 created_total += 1
                 log(f"Producto creado: {body['title']}")
                 time.sleep(1.5)
-            missing = [k for k in keys if k not in entry["products"]]
+            missing = [k for k in keys if k not in entry["products"] and k not in entry.get("skipped", {})]
             entry["status"] = "hecho" if not missing else "pendiente"
             entry["date"] = TODAY
             if entry["status"] == "hecho":

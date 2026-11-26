@@ -56,7 +56,103 @@ def url_ok(u, site):
         return None  # fallo de red: no decidimos nada
 
 
+# ---------------------------------------------------------------- reglas de tienda deportiva (DPF)
+SPORT_MENUS = {
+    "hombre": ("Hombre · Immortal Warrior", "Men · Immortal Warrior", [
+        ("camiseta", "Camisetas y tirantes", "T-Shirts & Tanks"),
+        ("chandal-sudaderas", "Sudaderas y chándal", "Hoodies & Tracksuits"),
+        ("abrigo-chaqueta-sueter", "Chaquetas", "Jackets"),
+        ("pantalones-cortos", "Shorts", "Shorts"),
+        ("pantalones", "Joggers", "Joggers"),
+        ("mallas", "Mallas", "Tights"),
+        ("conjuntos", "Conjuntos", "Sets"),
+        ("gorro-bufanda", "Gorras y gorros", "Caps & Beanies")]),
+    "mujer": ("Mujer · Tough Bitch", "Women · Tough Bitch", [
+        ("camisetas-blusas-tops", "Tops y sujetadores", "Tops & Sports Bras"),
+        ("leggings", "Leggings", "Leggings"),
+        ("pantalones-cortos", "Shorts", "Shorts"),
+        ("chaqueta-sudadera-sueter", "Sudaderas y chaquetas", "Hoodies & Jackets"),
+        ("conjuntos", "Conjuntos", "Sets"),
+        ("vestidos-monos-petos", "Monos deportivos", "Jumpsuits"),
+        ("falda", "Faldas deportivas", "Sport Skirts"),
+        ("pantalones", "Joggers", "Joggers"),
+        ("gorros-bufandas", "Gorras y gorros", "Caps & Beanies")]),
+    "calzado": ("Calzado", "Footwear", None),
+}
+SPORT_SHOES = {"calzado-hombre": ("Hombre", "Men", [("zapatillas-hombre", "Zapatillas", "Sneakers")]),
+               "calzado-mujer": ("Mujer", "Women", [("zapatillas", "Zapatillas", "Sneakers")])}
+NOT_SPORT = (r"\bpolos?\b|pijama|pyjama|pajama|albornoz|\bbatas?\b|\brobe\b|blazer|americana|corbata|\bties?\b|"
+             r"camisa\b|\bshirt dress|vestido de fiesta|\btazas?\b|\bmugs?\b|pocillo|\bvasos?\b|tumbler|"
+             r"\bcaf[eé]\b|coffee|\bperros?\b|\bdogs?\b|mascota|\bpet\b|s[eé]rum|suero|\bcrema\b|t[oó]nico|bálsamo|"
+             r"b[aá]lsamo|aceite (facial|capilar)|hidratante|\breloj(es)?\b(?! ?(band|strap|correa))|zuecos|"
+             r"zapatos elegantes|\bbotas?\b|botines|chanclas|sandalias|zapatillas (de|para) casa|slippers|"
+             r"ropa interior|lencer[ií]a|lingerie|bañador|bikini|cinturón|cartera|wallet")
+SUPPLEMENT_WORDS = (r"supplement|suplement|prote[ií]na|protein|whey|creatin|pre[- ]?entren|pre[- ]?workout|"
+                    r"c[aá]psulas?|capsules?|gomitas|gummies|gotas|drops|vitamin|col[aá]geno|collagen|"
+                    r"electrolit|amino|bcaa|glutamin|omega|probi[oó]tic|ashwagandha|berberin|superalimento|"
+                    r"superfood|spirulina|keto|energy powder|tiras|strips|arginin|citrulin|colostr|óxido nítrico|"
+                    r"nitric oxide|melena de le[oó]n|chaga|perla de abeja|bee (pearl|bread)|remolacha|beet")
+
+
+def store_rules(cfg, products, hide):
+    """Solo ropa deportiva, calzado deportivo, accesorios de entreno y los suplementos permitidos."""
+    r = cfg.get("store_rules") or {}
+    if not r.get("enabled"):
+        return
+    allowed = [a.lower() for a in r.get("allowed_supplements", [])]
+    extra_block = r.get("extra_blocked_words") or ""
+    for p in products:
+        if p.get("hidden"):
+            continue
+        name = " ".join(str(p.get(k) or "") for k in ("name_es", "name_en", "source_title")).lower()
+        is_supp = p.get("supplier") == "Productifi" or re.search(SUPPLEMENT_WORDS, name)
+        if is_supp:
+            if not any(a in name for a in allowed):
+                hide(p, "suplemento que no es del proveedor autorizado")
+            continue
+        if re.search(NOT_SPORT, name) or (extra_block and re.search(extra_block, name)):
+            hide(p, "no es de tienda deportiva")
+            continue
+        cats = p.get("categories") or []
+        ok_subs = {f"{m}/{s}" for m, (_, _, items) in SPORT_MENUS.items() if items for s, _, _ in items}
+        ok_subs |= {f"{m}/{s}" for m, (_, _, items) in SPORT_SHOES.items() for s, _, _ in items}
+        if cats and cats[0] != "decor" and not any(c in ok_subs for c in cats):
+            hide(p, f"sección que no es deportiva ({cats[0]})")
+
+
+def sport_catalog(products):
+    """Rehace los menús: solo secciones deportivas y solo las que tienen productos."""
+    vis = [p for p in products if not p.get("hidden")]
+    count = {}
+    for p in vis:
+        for c in p.get("categories") or []:
+            count[c] = count.get(c, 0) + 1
+    menus = []
+    for mid, (es, en, items) in SPORT_MENUS.items():
+        if mid == "calzado":
+            groups = []
+            for gid, (ges, gen, gitems) in SPORT_SHOES.items():
+                its = [{"id": s, "es": a, "en": b} for s, a, b in gitems if count.get(f"{gid}/{s}")]
+                if its:
+                    groups.append({"id": gid, "es": ges, "en": gen, "items": its})
+            if groups:
+                menus.append({"id": "calzado", "es": es, "en": en, "groups": groups})
+            continue
+        its = [{"id": s, "es": a, "en": b} for s, a, b in items if count.get(f"{mid}/{s}")]
+        if its:
+            menus.append({"id": mid, "es": es, "en": en, "groups": [{"id": mid, "es": es, "en": en, "items": its}]})
+    if count.get("decor"):
+        menus.append({"id": "decor", "es": "Suplementos y accesorios", "en": "Supplements & Gear", "groups": []})
+    menus.append({"id": "identidad", "es": "La marca DPF", "en": "The DPF Brand", "groups": []})
+    return {"menus": menus}
+
+
 def main():
+    try:
+        import dpf_settings
+        dpf_settings.apply()
+    except Exception as e:
+        log(f"ajustes DPF no aplicados: {e}")
     cfg = load_json("config.json", {})
     site = (cfg.get("site_url") or "https://dazpremiumfit.com").rstrip("/")
     data = load_json("products.json", {"products": []})
@@ -77,6 +173,8 @@ def main():
     for p in products:
         if p["id"] in st["hidden"]:
             p["hidden"] = True
+
+    store_rules(cfg, products, hide)
 
     seen = {}
     for p in products:
@@ -123,8 +221,20 @@ def main():
                 fixes.append(f"foto rota sustituida en «{p.get('name_es') or p['id']}»")
             else:
                 hide(p, "todas las fotos rotas")
+    for p in products:
+        if p.get("hidden"):
+            p["available"] = False
     data["products"] = products
     save_json("products.json", data)
+    # Lo que se oculta tiene que desaparecer YA de la web: se rehacen la lista y los menús
+    try:
+        from autonomous_store_engine import write_web_files
+        write_web_files(products)
+        if (cfg.get("store_rules") or {}).get("enabled"):
+            save_json("catalog.json", sport_catalog(products))
+    except Exception as e:
+        alerts_pre = f"no pude rehacer la lista de la web: {str(e)[:80]}"
+        log(alerts_pre)
 
     # 3) Avisos (no se tocan)
     alerts = []
