@@ -23,6 +23,38 @@ from dz_common import NOW, ROOT, TODAY, load_json  # noqa: E402
 
 GENDER = {"hombre": "male", "mujer": "female", "calzado-hombre": "male", "calzado-mujer": "female"}
 GOOGLE_CAT = {"calzado-hombre": "187", "calzado-mujer": "187", "decor": "696"}  # Calzado · Decoración
+# Categoría de Google por sección (número de la taxonomía oficial; Pinterest y Bing usan la misma)
+SUB_CAT = [(r"pantalones-cortos|shorts", "207"), (r"falda", "1581"), (r"vestidos|monos", "2271"),
+           (r"abrigo|chaqueta-sudadera|americana|blazer", "5598"), (r"pantalones|mallas|leggings|legging", "204"),
+           (r"albornoz|pijama|batas", "208"), (r"ropa-interior", "213"), (r"banador|trajes-bano", "211"),
+           (r"cinturon", "169"), (r"gorro|bufanda", "173"), (r"bolsos|carteras", "6551"), (r"corbatas", "167"),
+           (r"conjuntos", "5322"), (r"camis|top|polo|blusa|bodies|sudadera|chandal|sueter", "212")]
+
+
+def google_cat(p):
+    import re as _re
+    c = (p.get("categories") or [""])[0]
+    group = c.split("/")[0]
+    if group.startswith("calzado"):
+        return "187"
+    if group == "decor":
+        txt = " ".join(str(p.get(k) or "") for k in ("name_en", "source_title")).lower()
+        if _re.search(r"protein|whey|creatin|supplement|vitamin|capsul|pre-?workout|bcaa|glutamin|electrolyte", txt):
+            return "525"
+        return GOOGLE_CAT.get("decor", "696")
+    for pat, gid in SUB_CAT:
+        if _re.search(pat, c):
+            return gid
+    return "1604"
+
+
+def feed_id(pid, size):
+    """Id único y corto (máx. 50): si no cabe, se recorta y se añade una huella del id completo."""
+    import hashlib as _h
+    full = f"{pid}-{size}" if size else pid
+    if len(full) <= 50:
+        return full
+    return f"{pid[:39]}-{_h.sha1(full.encode()).hexdigest()[:10]}"
 
 
 def esc(s):
@@ -129,21 +161,25 @@ def product_page(p, site, cat_names):
 # --------------------------------------------------------------- catálogos (feeds)
 def feed(lang, products, site, cat_names, rate):
     items = []
+    seen_ids = set()
     for p in products:
         name = p.get(f"name_{lang}", p.get("name_en", ""))
         desc = (p.get(f"desc_{lang}") or p.get("desc_en") or name).replace("\n", " ")
-        imgs = [absolute(site, u) for u in p["display_images"]]
+        imgs = list(dict.fromkeys(absolute(site, u) for u in p["display_images"]))  # sin fotos repetidas
         cat = cat_names.get(p["categories"][0], ("", ""))[0 if lang == "es" else 1]
         group = p["categories"][0].split("/")[0]
         gender = GENDER.get(group, "unisex")
         if p.get("gender") in ("men", "women"):
             gender = "male" if p["gender"] == "men" else "female"
         o = p.get("offer")
-        sizes = p.get("sizes") or [""]
+        sizes = list(dict.fromkeys(p.get("sizes") or [""]))
         for s in sizes:
-            iid = f"{p['id']}-{s}" if s else p["id"]
+            iid = feed_id(p["id"], s)
+            if iid in seen_ids:
+                continue
+            seen_ids.add(iid)
             parts = [
-                f"<g:id>{esc(iid[:50])}</g:id>", f"<g:item_group_id>{esc((p.get('cg') or p['id'])[:50])}</g:item_group_id>",
+                f"<g:id>{esc(iid)}</g:id>", f"<g:item_group_id>{esc((p.get('cg') or p['id'])[:50])}</g:item_group_id>",
                 f"<title>{esc(name[:150])}</title>", f"<description>{esc(desc[:4900])}</description>",
                 f"<link>{site}/p/{p['id']}/?lang={lang}&amp;cur=USD</link>", f"<g:image_link>{esc(imgs[0])}</g:image_link>",
                 *[f"<g:additional_image_link>{esc(u)}</g:additional_image_link>" for u in imgs[1:10]],
@@ -153,8 +189,7 @@ def feed(lang, products, site, cat_names, rate):
                 f"<g:product_type>{esc(cat)}</g:product_type>", "<g:age_group>adult</g:age_group>",
                 f"<g:gender>{gender}</g:gender>",
             ]
-            if group in GOOGLE_CAT:
-                parts.append(f"<g:google_product_category>{GOOGLE_CAT[group]}</g:google_product_category>")
+            parts.append(f"<g:google_product_category>{google_cat(p)}</g:google_product_category>")
             if p.get("color"):
                 parts.append(f"<g:color>{esc(p['color'])}</g:color>")
             if s:
@@ -293,6 +328,37 @@ def policy_pages(cfg, site):
     return [f"{site}/{p}/" for p in pages]
 
 
+def check_feed(xml, lang):
+    """Revisión del catálogo que leen Google, Pinterest, Bing y Meta: avisa por Telegram si algo
+    haría que lo rechacen (ids repetidos, sin categoría, sin foto, precio vacío o fotos repetidas)."""
+    import re as _re
+    items = _re.findall(r"<item>(.*?)</item>", xml, _re.S)
+    ids = _re.findall(r"<g:id>(.*?)</g:id>", xml)
+    problems = []
+    dup = len(ids) - len(set(ids))
+    if dup:
+        problems.append(f"{dup} ids repetidos")
+    nocat = sum(1 for it in items if "<g:google_product_category>" not in it)
+    if nocat:
+        problems.append(f"{nocat} sin categoría de Google")
+    noimg = sum(1 for it in items if not _re.search(r"<g:image_link>https?://", it))
+    if noimg:
+        problems.append(f"{noimg} sin foto")
+    noprice = sum(1 for it in items if not _re.search(r"<g:price>\d", it))
+    if noprice:
+        problems.append(f"{noprice} sin precio")
+    dimg = sum(1 for it in items if len(set(_re.findall(r"image_link>(.*?)<", it))) < len(_re.findall(r"image_link>(.*?)<", it)))
+    if dimg:
+        problems.append(f"{dimg} con fotos repetidas")
+    print(f"[escaparates] catálogo {lang}: {len(items)} artículos · " + ("; ".join(problems) if problems else "sin problemas"))
+    if problems:
+        try:
+            from dz_common import notify
+            notify(f"⚠️ Catálogo {lang} (Google/Pinterest/Bing/Meta): " + "; ".join(problems))
+        except Exception:
+            pass
+
+
 def main():
     cfg = load_json("config.json", {})
     site = "https://" + (cfg.get("domain") or "dazpremiumfit.com").replace("https://", "").strip("/")
@@ -325,8 +391,10 @@ def main():
     os.makedirs(os.path.join(ROOT, "feeds"), exist_ok=True)
     rate = cfg.get("fx", {}).get("EUR", 0.92)
     for lang in ("es", "en"):
+        xml = feed(lang, show, site, cat_names, rate)
+        check_feed(xml, lang)
         with open(os.path.join(ROOT, "feeds", f"catalogo-{lang}.xml"), "w", encoding="utf-8") as f:
-            f.write(feed(lang, show, site, cat_names, rate))
+            f.write(xml)
 
     urls = [f"{site}/"] + policy_pages(cfg, site) + [f"{site}/p/{p['id']}/" for p in show]
     with open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8") as f:
