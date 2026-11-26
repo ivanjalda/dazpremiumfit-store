@@ -1,0 +1,74 @@
+{
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Standard flat vector-style product photography paired with a basic digital model composite lacks high-end campaign presence.",
+ "art_score": 5,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printify-6b089a07db66d9659e068f9a",
+ "color": "Black",
+ "created": "2026-11-26",
+ "desc_en": "Redefine your presence with an essential piece designed for movement and attitude. This cropped hoodie merges clean lines with a bold silhouette. Crafted with attention to detail, it offers a seamless balance between comfort and urban sophistication. A versatile garment that transcends traditional training standards. Available exclusively made to order with worldwide shipping.",
+ "desc_es": "Redefine tu presencia con una pieza esencial diseñada para el movimiento y la actitud. Esta sudadera corta combina líneas limpias con una silueta audaz. Confeccionada con atención al detalle, ofrece un equilibrio perfecto entre comodidad y sofisticación urbana. Una prenda versátil que trasciende los estándares tradicionales de entrenamiento. Disponible exclusivamente bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Made to order exclusively\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido exclusivamente\n· Envíos a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b089a07db66d9659e068f9a/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b089a07db66d9659e068f9a/72716/16575/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "tough-bitch-queen",
+ "hidden": false,
+ "id": "printify-6b089a07db66d9659e068f9a",
+ "img_checked": "2026-11-26",
+ "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Queen Of Iron Cropped Hoodie",
+ "name_es": "Sudadera Corta Queen Of Iron",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 61.99,
+ "rank": 316,
+ "shipping_usd": 8.79,
+ "shipping_worst_usd": 8.79,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "29548148097987680481",
+  "15755082607823850059",
+  "12850938563206261110",
+  "25558062620553069931",
+  "83202080131371855757",
+  "24739626700554398624"
+ ],
+ "source_title": "Tough Bitch Queen Of Iron Cropped Hoodie",
+ "stripe_payment_link": "https://buy.stripe.com/3cI4gAfzC9yI1MagX41gY3i",
+ "supplier": "Printify",
+ "supplier_id": "6b089a07db66d9659e068f9a",
+ "visual_verified": false
+}

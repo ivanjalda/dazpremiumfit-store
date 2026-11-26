@@ -93,6 +93,26 @@
       },
       "image_id": "6b089522b3f07d6e6603511d",
       "date": "2026-11-26"
+    },
+    "2026-11-26_immortal-warrior-no-days-off__camiseta-tirantes-hombre-sudadera-capucha.png": {
+      "status": "hecho",
+      "products": {
+        "camiseta": "6b0899f655d595d88e0a00d7",
+        "tirantes-hombre": "6b0899f96bfabea2f3021a8e",
+        "sudadera-capucha": "6b0899fc6bfabea2f3021a91"
+      },
+      "image_id": "6b0899f401710a48dd3aedf4",
+      "date": "2026-11-26"
+    },
+    "2026-11-26_tough-bitch-queen-of-iron__tirantes-mujer-camiseta-mujer-sudadera-mujer.png": {
+      "status": "hecho",
+      "products": {
+        "tirantes-mujer": "6b089a02867aed6ed008c517",
+        "camiseta-mujer": "6b089a056a219864bc0f18e4",
+        "sudadera-mujer": "6b089a07db66d9659e068f9a"
+      },
+      "image_id": "6b089a0174da406ef69f480e",
+      "date": "2026-11-26"
     }
   }
 }

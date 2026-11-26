@@ -1,0 +1,25 @@
+{
+ "made": [
+  {
+   "name": "Immortal Warrior NO DAYS OFF",
+   "collection": "Immortal Warrior",
+   "slogan": "NO DAYS OFF",
+   "style": "bloque",
+   "gender": "men",
+   "file": "2026-11-26_immortal-warrior-no-days-off__camiseta-tirantes-hombre-sudadera-capucha.png",
+   "date": "2026-11-26"
+  },
+  {
+   "name": "Tough Bitch QUEEN OF IRON",
+   "collection": "Tough Bitch",
+   "slogan": "QUEEN OF IRON",
+   "style": "bloque",
+   "gender": "women",
+   "file": "2026-11-26_tough-bitch-queen-of-iron__tirantes-mujer-camiseta-mujer-sudadera-mujer.png",
+   "date": "2026-11-26"
+  }
+ ],
+ "days": {
+  "2026-11-26": 2
+ }
+}

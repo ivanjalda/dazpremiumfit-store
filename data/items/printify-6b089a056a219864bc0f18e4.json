@@ -1,0 +1,178 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with accurate garment representation, though standard flat lay display lacks dynamic model imagery.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b089a056a219864bc0f18e4",
+ "color": "Black",
+ "created": "2026-11-26",
+ "desc_en": "Engineered for uncompromising strength. This silhouette delivers commanding presence through every training session. Clean lines and precise tailoring accompany movement without restriction. Crafted on demand with worldwide shipping.",
+ "desc_es": "Disenada para la fuerza pura. Esta silueta ofrece una presencia imponente en cada sesion de entrenamiento. Lineas limpias y un ajuste preciso que acompanan el movimiento sin restricciones. Confeccionada bajo demanda con envios a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Made to order",
+ "display_images": [
+  "https://images.printify.com/mockup/6b089a056a219864bc0f18e4/33869/137313/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=left-sleeve",
+  "https://images.printify.com/mockup/6b089a056a219864bc0f18e4/33869/137314/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=right-sleeve",
+  "https://images.printify.com/mockup/6b089a056a219864bc0f18e4/33869/101402/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b089a056a219864bc0f18e4/33869/101403/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "tough-bitch-queen",
+ "hidden": false,
+ "id": "printify-6b089a056a219864bc0f18e4",
+ "img_checked": "2026-11-26",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Queen of Iron Tee",
+ "name_es": "Camiseta Queen of Iron",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 46.99,
+ "rank": 326,
+ "shipping_usd": 23.99,
+ "shipping_worst_usd": 23.99,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "headers_es": [
+   "Talla",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by +-1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +-1.5 in (3.8 cm) debido a tolerancias de fabricacion.",
+  "rows": [
+   [
+    "Width (in)",
+    "-",
+    "17.0",
+    "19.0",
+    "21.0",
+    "23.0",
+    "25.0",
+    "27.0",
+    "-",
+    "-"
+   ],
+   [
+    "Length (in)",
+    "-",
+    "25.5",
+    "26.0",
+    "27.0",
+    "28.0",
+    "28.5",
+    "29.0",
+    "-",
+    "-"
+   ],
+   [
+    "Sleeve length (in)",
+    "-",
+    "13.8",
+    "14.5",
+    "15.3",
+    "16.3",
+    "17.0",
+    "18.0",
+    "-",
+    "-"
+   ],
+   [
+    "Width (cm)",
+    "-",
+    "43.2",
+    "48.3",
+    "53.3",
+    "58.4",
+    "63.5",
+    "68.5",
+    "-",
+    "-"
+   ],
+   [
+    "Length (cm)",
+    "-",
+    "64.8",
+    "66.0",
+    "68.6",
+    "71.1",
+    "72.4",
+    "73.7",
+    "-",
+    "-"
+   ],
+   [
+    "Sleeve length (cm)",
+    "-",
+    "34.9",
+    "36.8",
+    "38.7",
+    "41.3",
+    "43.2",
+    "45.7",
+    "-",
+    "-"
+   ]
+  ],
+  "unit": "inches / centimeters"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b089a056a219864bc0f18e4/33869/118009/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=size-chart"
+ ],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "31886169822238161128",
+  "25791926169536814215",
+  "10766919996689943299",
+  "10873856419432835595",
+  "96759658261018932171"
+ ],
+ "source_title": "Tough Bitch Queen Of Iron Women's Tee",
+ "stripe_payment_link": "https://buy.stripe.com/aFa4gA5Z2cKU8ay7mu1gY3k",
+ "supplier": "Printify",
+ "supplier_id": "6b089a056a219864bc0f18e4",
+ "visual_verified": false
+}
