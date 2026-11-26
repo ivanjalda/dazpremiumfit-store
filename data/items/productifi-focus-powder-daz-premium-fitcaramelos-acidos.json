@@ -1,0 +1,61 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White / Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Supplement",
+ "ai_ver": 2,
+ "art_note": "High-end studio and lifestyle imagery that aligns with elite performance sportswear aesthetics.",
+ "art_score": 9,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-focus-powder-daz-premium-fit-caramelos-acidos",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Enhance your cognitive performance with Focus Powder, a supplement designed to maintain attention span, memory, and mental energy. The formula combines Alpha-GPC, L-theanine, and natural caffeine to promote alertness and focus without unwanted crashes. Enriched with B-complex vitamins, inositol, and black pepper extract to support neurotransmitter function. A smarter alternative to sugary energy drinks to maintain mental acuity throughout your work sessions or training.",
+ "desc_es": "Potencia tu rendimiento cognitivo con Focus Powder, un suplemento diseñado para mantener la capacidad de atención, la memoria y la energía mental. Su fórmula combina Alfa-GPC, L-teanina y cafeína natural para promover la concentración sin bajones. Enriquecido con vitaminas del complejo B, inositol y extracto de pimienta negra para favorecer la función de los neurotransmisores. Una alternativa inteligente a las bebidas energéticas azucaradas para mantener la agudeza mental durante tus sesiones de trabajo o entrenamiento.",
+ "details_en": "· 20 servings per container\n· Mix 2 scoops with water\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 20 porciones por envase\n· Mezclar 2 cucharadas con agua\n· Disponible bajo pedido\n· Envío mundial disponible",
+ "display_images": [
+  "assets/products/shop/1663a909973f52eebe4e.jpg",
+  "assets/products/shop/d29dd9787fd75adcdd4d.jpg",
+  "assets/products/shop/82d31d4fccce2c30e406.jpg",
+  "assets/products/shop/ec2144da8f27d320e799.jpg",
+  "assets/products/shop/0c3cc6eb2bfe2b71439d.jpg",
+  "assets/products/shop/6ef5fcc471c61e20b306.jpg"
+ ],
+ "draft": true,
+ "fam": "focus-powder-premium",
+ "hidden": false,
+ "id": "productifi-focus-powder-daz-premium-fitcaramelos-acidos",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Focus Powder Sour Candy",
+ "name_es": "Focus Powder Caramelos Ácidos",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 35.99,
+ "rank": 286,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Casa y jardín > Jardín > Jardinería > Hidropónicos > Nutrientes y suplementos > Suplementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Focus Powder DAZ Premium Fit (Caramelos ácidos)",
+ "stripe_payment_link": "https://buy.stripe.com/dRmfZibjm4eogH49uC1gY2o",
+ "supplier": "Productifi",
+ "supplier_id": "focus-powder-daz-premium-fitcaramelos-acidos",
+ "visual_verified": true
+}

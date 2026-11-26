@@ -1,0 +1,61 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "raspberry",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Glucosamine Sulfate, Vitamin E, Sodium",
+ "ai_sizes": "60 gummies",
+ "ai_type": "Supplements",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot with high-end e-commerce lighting and clear label design.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-gomitas-de-apoyo-para-las-articulaciones-daz-premium-fit-adultos",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily performance with our high-end joint support gummies. Designed for athletes who push their bodies to the limit, this advanced formula helps replenish cartilage and tendon tissues. Each serving delivers essential nutrients to maintain mobility and counteract natural joint degradation. Made in the USA under rigorous quality standards. Available with worldwide shipping and made-to-order availability to ensure absolute freshness.",
+ "desc_es": "Eleve su rendimiento diario con nuestras gomitas de apoyo articular de alta gama. Diseñadas para atletas que llevan su cuerpo al límite, esta fórmula avanzada ayuda a reponer los tejidos de cartílago y tendón. Cada porción aporta nutrientes esenciales para mantener la movilidad y contrarrestar la degradación natural de las articulaciones. Fabricado en EE. UU. bajo rigurosos estándares de calidad. Disponible con envío a todo el mundo y confección bajo pedido para garantizar la máxima frescura.",
+ "details_en": "· Flavor: Raspberry\n· Quantity: 60 gummies\n· Key ingredients: Glucosamine Sulfate, Vitamin E, Sodium\n· Country of origin: USA\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Sabor: Frambuesa\n· Cantidad: 60 gomitas\n· Ingredientes principales: Glucosamine Sulfate, Vitamin E, Sodium\n· País de origen: EE. UU.\n· Hecho a pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/56f985ff0e48f989730f.jpg",
+  "assets/products/shop/f5e4e04ab0db65228b72.jpg"
+ ],
+ "draft": true,
+ "fam": "gomitas-apoyo-las",
+ "hidden": false,
+ "id": "productifi-gomitas-de-apoyo-para-las-articulaciones-daz-premium-fit-adultos",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "DAZ Joint Support Gummies",
+ "name_es": "Gomitas de Apoyo Articular DAZ",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 261,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 gummies"
+ ],
+ "source_title": "Gomitas de apoyo para las articulaciones DAZ Premium Fit (adultos)",
+ "stripe_payment_link": "https://buy.stripe.com/aFa8wQdrudOYgH48qy1gY1Z",
+ "supplier": "Productifi",
+ "supplier_id": "gomitas-de-apoyo-para-las-articulaciones-daz-premium-fit-adultos",
+ "visual_verified": true
+}

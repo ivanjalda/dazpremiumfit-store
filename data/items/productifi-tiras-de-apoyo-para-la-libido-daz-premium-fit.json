@@ -1,0 +1,61 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Blue / Chocolate",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cordyceps Militaris, Asphaltum Punjabianum, Oyster Peptide",
+ "ai_type": "Dietary Supplement",
+ "ai_ver": 2,
+ "art_note": "High-end studio and campaign imagery with strong lighting and sophisticated framing, elevating wellness performance standards.",
+ "art_score": 9,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-tiras-de-apoyo-para-la-libido-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily wellness routine with targeted nutritional support designed for adults seeking sustained vitality and balance. Formulated with carefully selected traditional ingredients, these quick-dissolving oral strips offer a discreet and seamless addition to your regimen. Each serving integrates potent botanical and marine elements tailored to support your active lifestyle. Crafted for daily integration, this sophisticated formula brings refined performance wellness directly to your routine. Experience precise formulation designed for modern discipline and refined physical readiness.",
+ "desc_es": "Elevate your daily wellness routine with targeted nutritional support designed for adults seeking sustained vitality and balance. Formulated with carefully selected traditional ingredients, these quick-dissolving oral strips offer a discreet and seamless addition to your regimen. Each serving integrates potent botanical and marine elements tailored to support your active lifestyle. Crafted for daily integration, this sophisticated formula brings refined performance wellness directly to your routine. Experience precise formulation designed for modern discipline and refined physical readiness.",
+ "details_en": "· Cordyceps Militaris (50 mg)\n· Asphaltum Punjabianum Shilajit (50 mg)\n· Oyster Peptide (20 mg)\n· Chocolate flavor\n· 30 oral strips\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Cordyceps Militaris (50 mg)\n· Asphaltum Punjabianum Shilajit (50 mg)\n· Oyster Peptide (20 mg)\n· Sabor chocolate\n· 30 tiras orales\n· Made to order\n· Worldwide shipping",
+ "display_images": [
+  "assets/products/shop/7e996cb850b81c8bad28.jpg",
+  "assets/products/shop/412e6f8658f7c736489c.jpg",
+  "assets/products/shop/4bfe51d441efbd13e5a0.jpg",
+  "assets/products/shop/925f47e986767dd7abd9.jpg",
+  "assets/products/shop/24afc529d4ee9be40d48.jpg"
+ ],
+ "draft": true,
+ "fam": "tiras-apoyo-la",
+ "hidden": false,
+ "id": "productifi-tiras-de-apoyo-para-la-libido-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Libido Support Oral Strips",
+ "name_es": "Tiras de Apoyo para la Libido",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 252,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Vitaminas individuales",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Tiras de apoyo para la libido DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/fZudRa87a3akduSayG1gY1Q",
+ "supplier": "Productifi",
+ "supplier_id": "tiras-de-apoyo-para-la-libido-daz-premium-fit",
+ "visual_verified": true
+}

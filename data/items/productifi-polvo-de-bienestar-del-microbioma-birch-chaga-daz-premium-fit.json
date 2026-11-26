@@ -1,0 +1,58 @@
+{
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Birch Chaga, wood extract",
+ "ai_sizes": "60 porciones",
+ "ai_type": "Wellness Powder",
+ "ai_ver": 2,
+ "art_note": "Clean product packaging shot, but secondary images are basic graphic icons lacking high-end campaign aesthetics.",
+ "art_score": 5,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-polvo-de-bienestar-del-microbioma-birch-chaga-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily wellness routine with our Birch Chaga powder. Loaded with essential nutrients and plant-based phytochemicals, this supplement supports the maintenance of a healthy gut microbiome and optimal nutrient absorption at the cellular level. Designed to blend seamlessly into your favorite beverage, it brings balance and vitality to your daily performance. Each package offers sixty portions of pure wellness, crafted to complement a demanding lifestyle. Available with worldwide shipping and made to order.",
+ "desc_es": "Eleve su rutina diaria de bienestar con nuestro polvo de Birch Chaga. Cargado de nutrientes esenciales y fitoquímicos de origen vegetal, este suplemento favorece el mantenimiento de un microbioma intestinal saludable y la absorción óptima de nutrientes a nivel celular. Diseñado para integrarse perfectamente en su bebida favorita, aporta equilibrio y vitalidad a su rendimiento diario. Cada envase ofrece sesenta porciones de bienestar puro, elaboradas para complementar un estilo de vida exigente. Disponible para envíos a todo el mundo y confeccionado bajo pedido.",
+ "details_en": "· Composition: Birch Chaga, wood extract containing humic substance (25% humic acid, 75% fulvic acid)\n· Content: 60 servings, gross weight 0.08 lb (36 g)\n· Suggested use: 1/3 teaspoon per day mixed with water, juice, tea, or coffee\n· Made to order with worldwide shipping",
+ "details_es": "· Composición: Abedul Chaga, extracto de madera con sustancia húmica (25% ácido húmico, 75% ácido fúlvico)\n· Contenido: 60 porciones, peso bruto 0,08 lb (36 g)\n· Uso sugerido: 1/3 de cucharadita por día mezclado con agua, jugo, té o café\n· Hecho bajo pedido con envíos a todo el mundo",
+ "display_images": [
+  "assets/products/shop/5fab4639108f13014f35.jpg",
+  "assets/products/shop/876e57ccff737f10d0f1.jpg"
+ ],
+ "draft": true,
+ "fam": "polvo-bienestar-del",
+ "hidden": false,
+ "id": "productifi-polvo-de-bienestar-del-microbioma-birch-chaga-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Birch Chaga Premium Powder",
+ "name_es": "Polvo Birch Chaga Premium",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 38.99,
+ "rank": 284,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 porciones"
+ ],
+ "source_title": "Polvo de bienestar del microbioma Birch Chaga DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/dRmdRa9be6mweyWeOW1gY2m",
+ "supplier": "Productifi",
+ "supplier_id": "polvo-de-bienestar-del-microbioma-birch-chaga-daz-premium-fit",
+ "visual_verified": true
+}

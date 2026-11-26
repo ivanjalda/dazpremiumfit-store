@@ -1,0 +1,57 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White / Blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cream",
+ "ai_type": "Skincare",
+ "ai_ver": 2,
+ "art_note": "Clean product shot of the jar, but suffers from standard digital mockup aesthetics typical of white-background supplier imagery.",
+ "art_score": 4,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-de-colageno-sleep-plus-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Discover the luxurious collagen cream designed to complement your nighttime skincare routine. Its advanced formula with hyaluronic acid, collagen, and natural oils deeply hydrates the skin and helps maintain its natural elasticity and smoothness throughout the night. Enriched with avocado and lavender oils to soothe the senses before sleep. Made in the USA. Available with worldwide shipping and made to order to ensure ultimate freshness.",
+ "desc_es": "Descubre la lujosa crema de colágeno diseñada para complementar tu rutina de cuidado nocturno. Su fórmula avanzada con ácido hialurónico, colágeno y aceites naturales hidrata profundamente la piel y ayuda a mantener su elasticidad y suavidad natural durante toda la noche. Enriquecida con aceite de aguacate y lavanda para calmar los sentidos antes de dormir. Fabricada en EE. UU. Disponible con envío a todo el mundo y fabricada bajo pedido para garantizar la máxima frescura.",
+ "details_en": "· Net weight: 2 oz / 56 g\n· Key ingredients: Melatonin, hyaluronic acid, collagen, avocado oil, lavender oil\n· Made in USA\n· Made to order with worldwide shipping",
+ "details_es": "· Contenido: 2 oz / 56 g\n· Ingredientes clave: Melatonina, ácido hialurónico, colágeno, aceite de aguacate, aceite de lavanda\n· Hecho en EE. UU.\n· Hecho bajo pedido y con envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/d8d7908670c87ea1caf5.jpg"
+ ],
+ "draft": true,
+ "fam": "crema-colageno-sleep",
+ "hidden": false,
+ "id": "productifi-crema-de-colageno-sleep-plus-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Sleep Plus Collagen Cream",
+ "name_es": "Crema de Colágeno Sleep Plus",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 30.99,
+ "rank": 282,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado personal > Cosméticos > Cuidado de la piel > Lociones y humectantes",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Crema de colágeno Sleep Plus DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/14A8wQ1IM3ak9eC6iq1gY2k",
+ "supplier": "Productifi",
+ "supplier_id": "crema-de-colageno-sleep-plus-daz-premium-fit",
+ "visual_verified": true
+}

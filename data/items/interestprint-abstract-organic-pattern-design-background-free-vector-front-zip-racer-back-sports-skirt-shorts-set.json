@@ -1,0 +1,151 @@
+{
+ "ai_cats": [
+  "mujer/falda"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "80% Polyester, 20% Spandex",
+ "ai_type": "Sports Skirt & Shorts Set",
+ "ai_ver": 2,
+ "art_note": "The photos utilize low-quality digital mockups and composites, undermining the premium brand aesthetic.",
+ "art_score": 4,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/falda"
+ ],
+ "cg": "t-abstract-organic-pattern-design-background-free-vector-front-zip-racer-back-sports",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Engineered for continuous movement. This sporty set combines a front-zip top with a secure racerback design and a matching skirt with built-in shorts for coverage and freedom of movement. Crafted from breathable, moisture-blocking fabric, it provides comfort and flexibility during activity. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Diseñado para el movimiento continuo. Este conjunto deportivo combina un vestido con cremallera frontal y diseño cruzado en la espalda con unos shorts integrados que aseguran cobertura y libertad. Confeccionado en un tejido transpirable que absorbe la humedad, ofrece comodidad y flexibilidad durante la actividad física. Cada pieza se confecciona bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 80% polyester, 20% spandex\n· Front zip closure\n· Hand or machine wash at temperatures <=45ºC\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 80% poliéster, 20% spandex\n· Cierre frontal con cremallera\n· Lavado a mano o a máquina a temperatura inferior o igual a 45ºC\n· Hecho bajo pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/52f6b2f19769aab5dccf.jpg",
+  "assets/products/shop/efc95ba1a8b152c1b662.jpg",
+  "assets/products/shop/c561cf32ce8cc86bbd9c.jpg",
+  "assets/products/shop/bf87809c2db16dd8aaf7.jpg",
+  "assets/products/shop/a7ab17bf2fcddf6309b8.jpg"
+ ],
+ "draft": true,
+ "fam": "abstract-organic-pattern",
+ "hidden": false,
+ "id": "interestprint-abstract-organic-pattern-design-background-free-vector-front-zip-racer-back-sports-skirt-shorts-set",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-descarga-81-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Athletic Skirt and Shorts Set",
+ "name_es": "Conjunto Deportivo con Vestido",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 39.99,
+ "rank": 297,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "DRESS LENGTH(A)",
+   "CHEST(B)",
+   "WAIST(C)",
+   "SHORTS LENGTH(D)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD VESTIDO (A)",
+   "PECHO (B)",
+   "CINTURA (C)",
+   "LONGITUD SHORT (D)"
+  ],
+  "notes_en": "",
+  "notes_es": "",
+  "rows": [
+   [
+    "S",
+    "29.10",
+    "29.00",
+    "24.00",
+    "11.80"
+   ],
+   [
+    "M",
+    "29.90",
+    "30.60",
+    "25.50",
+    "12.20"
+   ],
+   [
+    "L",
+    "30.70",
+    "34.00",
+    "27.50",
+    "12.60"
+   ],
+   [
+    "XL",
+    "31.50",
+    "36.00",
+    "29.50",
+    "13.00"
+   ],
+   [
+    "2XL",
+    "32.30",
+    "38.00",
+    "31.50",
+    "13.40"
+   ],
+   [
+    "3XL",
+    "33.10",
+    "40.40",
+    "33.90",
+    "13.80"
+   ],
+   [
+    "4XL",
+    "33.90",
+    "42.80",
+    "36.30",
+    "14.20"
+   ],
+   [
+    "5XL",
+    "34.70",
+    "45.20",
+    "38.70",
+    "14.60"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/5186/info/image/20260120/2FC663EC2276893FDED8D4C09B8A74F4.png"
+ ],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "Abstract organic pattern design background _ Free Vector Front Zip Racer Back Sports Skirt & Shorts Set",
+ "stripe_payment_link": "https://buy.stripe.com/5kQ9AU0EIdOY76udKS1gY2z",
+ "supplier": "InterestPrint",
+ "supplier_id": "abstract-organic-pattern-design-background-_-free-vector-front-zip-racer-back-sports-skirt-shorts-set",
+ "visual_verified": true
+}

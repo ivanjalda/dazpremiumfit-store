@@ -1,0 +1,150 @@
+{
+ "ai_cats": [
+  "mujer/conjuntos"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% Polyester, 5% Spandex",
+ "ai_type": "Short Yoga Set",
+ "ai_ver": 2,
+ "art_note": "The imagery features flat mockups and awkward digital composites typical of marketplace suppliers, lowering the brand's luxury aesthetic.",
+ "art_score": 3,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/conjuntos"
+ ],
+ "cg": "t-conjunto-tough-bitch-women-s-short-yoga-set-modelsets",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "This two-piece set redefines performance with a tight fit silhouette. Designed for absolute flexibility, it combines a classic t-shirt and shorts engineered to accompany every movement. The elastic polyester blend delivers continuous comfort during workouts or daily wear. Each piece is made to order to ensure a superior standard of quality and exclusivity. Available with worldwide shipping.",
+ "desc_es": "Este conjunto de dos piezas redefine el rendimiento con una silueta entallada. Diseñado para ofrecer flexibilidad absoluta, combina una camiseta clásica y unos shorts diseñados para acompañar cada movimiento. La mezcla de poliéster elástico proporciona comodidad continua durante el entrenamiento o el uso diario. Cada pieza se confecciona bajo pedido para garantizar un estándar superior de calidad y exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· 95% polyester, 5% spandex\n· Tight fit\n· Hand wash in cold water\n· Line dry\n· Do not bleach or dry clean\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 95% poliéster, 5% spandex\n· Ajuste entallado\n· Lavar a mano en agua fría\n· Secar colgado\n· No usar blanqueador ni limpieza en seco\n· Hecho bajo pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/c9454bc34f016200ff7f.jpg",
+  "assets/products/shop/12e11c1f905ede16b11b.jpg",
+  "assets/products/shop/e8a3985a767da7a42c12.jpg",
+  "assets/products/shop/24a91f856ea3c1ad72b3.jpg"
+ ],
+ "draft": true,
+ "fam": "conjunto-tough-bitch",
+ "hidden": false,
+ "id": "interestprint-conjunto-tough-bitch-womens-short-yoga-setmodelsets-03",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
+ ],
+ "material": "",
+ "name_en": "Short Yoga Set",
+ "name_es": "Conjunto Corto de Yoga",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 25.99,
+ "rank": 226,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH-Clothing(A)",
+   "CHEST(B)",
+   "SLEEVE(C)",
+   "LENGTH-Trousers(D)",
+   "WAIST(E)",
+   "HIPS(F)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD-Prenda(A)",
+   "PECHO(B)",
+   "MANGA(C)",
+   "LONGITUD-Pantalón(D)",
+   "CINTURA(E)",
+   "CADERA(F)"
+  ],
+  "notes_en": "Please calculate your size from the measurement chart above.",
+  "notes_es": "Por favor calcule su talla a partir de la tabla de medidas anterior.",
+  "rows": [
+   [
+    "XS",
+    "23.62",
+    "32.28",
+    "5.12",
+    "13.78",
+    "24.02",
+    "27.56"
+   ],
+   [
+    "S",
+    "24.41",
+    "34.25",
+    "5.41",
+    "14.17",
+    "25.98",
+    "29.53"
+   ],
+   [
+    "M",
+    "25.20",
+    "36.22",
+    "5.71",
+    "14.57",
+    "27.95",
+    "31.50"
+   ],
+   [
+    "L",
+    "25.98",
+    "38.98",
+    "6.00",
+    "14.96",
+    "29.92",
+    "33.46"
+   ],
+   [
+    "XL",
+    "26.77",
+    "41.73",
+    "6.30",
+    "15.35",
+    "32.28",
+    "36.42"
+   ],
+   [
+    "2XL",
+    "27.56",
+    "44.49",
+    "6.59",
+    "15.75",
+    "35.43",
+    "39.76"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "https://www.jvcustom.com/data/product/1358/info/image/20201126/2263BC9FFE1DCA8832C358A896AC2C1D.png"
+ ],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "source_title": "conjunto Tough Bitch Women's Short Yoga Set(ModelSets 03)",
+ "stripe_payment_link": "https://buy.stripe.com/7sY3cw1IM5is9eC22a1gX0U",
+ "supplier": "InterestPrint",
+ "supplier_id": "conjunto-tough-bitch-womens-short-yoga-setmodelsets-03",
+ "visual_verified": true
+}

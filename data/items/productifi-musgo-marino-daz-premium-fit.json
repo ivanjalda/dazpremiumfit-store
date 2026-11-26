@@ -1,0 +1,61 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Organic Irish Moss, Organic Bladderwrack, Organic Burdock, BioPerine, Pullulan Capsules",
+ "ai_sizes": "60 capsules",
+ "ai_type": "Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography, standard supplement packaging presentation.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-musgo-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "An advanced superfood formula designed to support daily wellness. Crafted with organic irish moss, bladderwrack, burdock root, and black pepper extract. Manufactured in the United States with high quality standards. Available with worldwide shipping and made to order.",
+ "desc_es": "Una fórmula avanzada de superalimentos diseñada para apoyar el bienestar diario. Elaborado con musgo marino orgánico, fucus, raíz de bardana y extracto de pimienta negra. Fabricado en los Estados Unidos con altos estándares de calidad. Disponible con envío a todo el mundo y confeccionado bajo pedido.",
+ "details_en": "· 60 capsules per container\n· Made in USA\n· Ingredients: organic irish moss, organic bladderwrack, organic burdock, BioPerine, pullulan capsules",
+ "details_es": "· 60 cápsulas por envase\n· Fabricado en EE. UU.\n· Ingredientes: musgo irlandés orgánico, fucus orgánico, bardana orgánica, BioPerine, cápsulas de pululano",
+ "display_images": [
+  "assets/products/shop/07eefba4c744519d3297.jpg",
+  "assets/products/shop/2527e97df065f2ac0e49.jpg"
+ ],
+ "draft": true,
+ "fam": "musgo-marino-premium",
+ "hidden": false,
+ "id": "productifi-musgo-marino-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Premium Sea Moss Capsules",
+ "name_es": "Cápsulas de Musgo Marino Premium",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 27.99,
+ "rank": 255,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 capsules"
+ ],
+ "source_title": "Musgo Marino DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/3cIcN65Z2bGQ1Ma8qy1gY1T",
+ "supplier": "Productifi",
+ "supplier_id": "musgo-marino-daz-premium-fit",
+ "visual_verified": true
+}

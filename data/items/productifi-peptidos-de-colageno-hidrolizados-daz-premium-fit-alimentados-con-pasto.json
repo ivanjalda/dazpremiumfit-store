@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Bovine hide collagen peptides",
+ "ai_type": "Collagen Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot with professional lighting and typography, aligning with high-end e-commerce standards.",
+ "art_score": 8,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,14 +19,12 @@
  "cg": "t-peptidos-de-colageno-hidrolizados-daz-premium-fit-alimentados-con-pasto",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "Formulated to support healthy skin, hair, nails, and joints. This grass-fed hydrolyzed collagen peptide powder integrates seamlessly into your daily routine. Rich in essential amino acids that promote the body's natural synthesis. Designed to maintain performance and vitality. Each serving delivers clean, unflavored nutrition for optimal well-being.",
+ "desc_es": "Formulado para apoyar la salud de la piel, el cabello, las uñas y las articulaciones. Este polvo de péptidos de colágeno hidrolizado alimentado con pasto se integra perfectamente en su rutina diaria. Rico en aminoácidos esenciales que promueven la síntesis natural del cuerpo. Diseñado para mantener el rendimiento y la vitalidad. Cada porción ofrece una nutrición limpia y sin sabor para un bienestar óptimo.",
+ "details_en": "· Ingredients: Bovine hide collagen peptides\n· Flavor: Unflavored\n· Product quantity: 0.62 lb (280 g)\n· Made in USA",
+ "details_es": "· Ingredientes: Péptidos de colágeno de piel bovina\n· Sabor: Sin sabor\n· Cantidad del producto: 0,62 lb (280 g)\n· Fabricado en EE. UU.",
  "display_images": [
-  "assets/products/shop/73748f33b646caa9c5f7.jpg",
-  "assets/products/shop/77b71384b4772218a8d6.jpg",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206095432-lactose-free-2x.png",
-  "https://supliful.s3.amazonaws.com/categories/images/20221206101002-corn-free-2x.png"
+  "assets/products/shop/73748f33b646caa9c5f7.jpg"
  ],
  "draft": false,
  "fam": "peptidos-colageno-hidrolizados",
@@ -25,9 +35,10 @@
   "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
  ],
  "material": "",
- "name_en": "Péptidos Colágeno Collagen",
- "name_es": "Colágeno Péptidos Colágeno",
+ "name_en": "Hydrolyzed Collagen Peptides",
+ "name_es": "Péptidos de Colágeno Hidrolizado",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 35.99,
  "rank": 140,

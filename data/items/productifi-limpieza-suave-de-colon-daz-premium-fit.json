@@ -1,0 +1,63 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Psyllium husk, Tamarind fruit extract, Digestive Enzyme blend, Ginger root extract",
+ "ai_sizes": "30 sachets",
+ "ai_type": "supplement",
+ "ai_ver": 2,
+ "art_note": "High-end studio presentation with clean aesthetic and professional lighting suitable for premium wellness performance lines.",
+ "art_score": 9,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-limpieza-suave-de-colon-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Formulated with a curated blend of natural ingredients, this dietary supplement supports and maintains digestive health. Designed to promote regular bowel movements and alleviate digestive discomfort. It combines fiber, natural extracts, and digestive enzymes to gently cleanse the system. An effective solution for maintaining daily regularity and balance. Made to order with worldwide shipping.",
+ "desc_es": "Formulado con una cuidada mezcla de ingredientes naturales, este suplemento dietético apoya y mantiene la salud digestiva. Diseñado para promover movimientos intestinales regulares y aliviar el malestar digestivo. Combina fibra, extractos naturales y enzimas digestivas para limpiar suavemente el sistema. Una solución eficaz para mantener la regularidad y el equilibrio diario. Hecho a pedido y con envíos a todo el mundo.",
+ "details_en": "· Contains 30 sachets per container\n· Ingredients: Psyllium husk seed powder, Tamarind fruit extract, Digestive Enzyme blend from fermented cereals, Ginger root extract\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Contiene 30 sobres por envase\n· Ingredientes: Psyllium husk seed powder, Tamarind fruit extract, Digestive Enzyme blend from fermented cereals, Ginger root extract\n· Hecho a pedido\n· Envíos a todo el mundo",
+ "display_images": [
+  "assets/products/shop/208b730bedd0758debc8.jpg",
+  "assets/products/shop/385ba78190e59e363d96.jpg",
+  "assets/products/shop/6110300c5e71b4276455.jpg",
+  "assets/products/shop/99b3c2516e2c57dbb59e.jpg"
+ ],
+ "draft": true,
+ "fam": "limpieza-suave-colon",
+ "hidden": false,
+ "id": "productifi-limpieza-suave-de-colon-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Colon Gentle Cleanse",
+ "name_es": "Limpiador de Colon Suave",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 34.99,
+ "rank": 295,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos digestivos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "30 sachets"
+ ],
+ "source_title": "Limpieza suave de colon Daz Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/cNi9AU5Z26mweyW0Y61gY2x",
+ "supplier": "Productifi",
+ "supplier_id": "limpieza-suave-de-colon-daz-premium-fit",
+ "visual_verified": true
+}

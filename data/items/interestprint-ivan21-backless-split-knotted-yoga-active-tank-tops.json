@@ -1,0 +1,129 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "88% Polyester, 12% Spandex",
+ "ai_type": "Tank Top",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting with a textured backdrop, but the compositing on the model feels slightly standard for e-commerce.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "t-ivan21-backless-split-knotted-yoga-active-tank-tops",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Designed for fluid movement. This sleeveless top pairs a classic scoop-neck front with an open-back design and an asymmetrical pointed hem. The back structure allows it to be worn loose or tied for a versatile fit. Crafted from lightweight, silky-smooth fabric that accompanies every pose with total freedom. Made to order. Worldwide shipping available.",
+ "desc_es": "Diseñado para el movimiento fluido. Este top sin mangas combina un frente clásico de cuello redondo con un diseño abierto en la espalda y un dobladillo asimétrico. La estructura posterior permite llevarlo suelto o atado para un ajuste versátil. Fabricado en tejido ligero de tacto sedoso que acompaña cada postura con total libertad. Hecho a medida. Envío mundial disponible.",
+ "details_en": "· 88% polyester, 12% spandex\n· Hand or machine wash at temperatures <=45ºC\n· Do not bleach\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 88% poliéster, 12% elastano\n· Lavado a mano o a máquina a temperatura inferior o igual a 45ºC\n· No usar lejía\n· Hecho a medida\n· Envío mundial",
+ "display_images": [
+  "assets/products/shop/894ee6ec92593dab22ac.jpg",
+  "assets/products/shop/4e7d99a03ee999877fab.jpg",
+  "assets/products/shop/574d0dcd3215bbdb3c49.jpg"
+ ],
+ "draft": true,
+ "fam": "ivan21-backless-split",
+ "hidden": false,
+ "id": "interestprint-ivan21-backless-split-knotted-yoga-active-tank-tops",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Knotted Back Yoga Tank",
+ "name_es": "Top de Yoga Cruzado",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 239,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST(B)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A)",
+   "PECHO(B)"
+  ],
+  "notes_en": "Calculate your size from the measurement chart above.",
+  "notes_es": "Calcula tu talla en la tabla de medidas superior.",
+  "rows": [
+   [
+    "S",
+    "25.60",
+    "34.60"
+   ],
+   [
+    "M",
+    "26.00",
+    "36.20"
+   ],
+   [
+    "L",
+    "26.40",
+    "38.20"
+   ],
+   [
+    "XL",
+    "26.80",
+    "40.20"
+   ],
+   [
+    "2XL",
+    "27.20",
+    "42.20"
+   ],
+   [
+    "3XL",
+    "27.60",
+    "44.20"
+   ],
+   [
+    "4XL",
+    "28.00",
+    "46.20"
+   ],
+   [
+    "5XL",
+    "28.40",
+    "48.20"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/5206/info/image/20260126/99EF8094BFFC7D801AA358B545F5B972.png"
+ ],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "ivan21 Backless Split Knotted Yoga Active Tank Tops",
+ "stripe_payment_link": "https://buy.stripe.com/00w3cw87a3akbmK4ai1gX17",
+ "supplier": "InterestPrint",
+ "supplier_id": "ivan21-backless-split-knotted-yoga-active-tank-tops",
+ "visual_verified": true
+}

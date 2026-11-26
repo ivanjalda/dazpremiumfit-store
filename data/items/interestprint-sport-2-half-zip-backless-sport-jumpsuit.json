@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "80% polyester, 20% elastane",
+ "ai_type": "unitard",
+ "ai_ver": 2,
+ "art_note": "High-end fitness campaign imagery with consistent lighting, sophisticated gym and outdoor lifestyle backdrops, and professional models.",
+ "art_score": 9,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "t-mono-corto-deportivo-dpf-no-permission-con-espalda-abierta",
  "color": "",
  "created": "2026-11-25",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "This short unitard combines a streamlined silhouette, front black zip closure and an open back design. Engineered for training sessions, yoga or styling beyond the studio. Crafted to deliver flexibility and support through every movement. Made to order. Worldwide shipping.",
+ "desc_es": "Este mono corto combina una silueta ajustada, cremallera frontal negra y una amplia abertura en la espalda. Creado para sesiones de entrenamiento, yoga o para definir un conjunto de estilo deportivo fuera del estudio. Confeccionado para ofrecer flexibilidad y soporte en cada movimiento. Made to order. Worldwide shipping.",
+ "details_en": "· Composition: 80% polyester and 20% elastane\n· Lightweight, breathable and flexible fabric\n· Sleeveless design with high neck and short front zipper\n· Open back and side waist cutouts\n· Outline logo on the chest and text on the back waistband\n· Unpadded chest\n· Made to order",
+ "details_es": "· Composición: 80 % poliéster y 20 % elastano\n· Tejido ligero, transpirable y flexible\n· Diseño sin mangas con cuello alto y cremallera frontal corta\n· Espalda abierta y aberturas laterales en la cintura\n· Logotipo delineado en el pecho y texto en la cintura trasera\n· Pecho sin relleno\n· Hecho bajo demanda",
  "display_images": [
   "assets/products/shop/825ae39be232d79dd8ec.jpg",
   "assets/products/shop/bff1ecb57a7a24d232aa.jpg",
@@ -30,6 +44,7 @@
  "name_en": "No Permission Sport Short Unitard",
  "name_es": "Mono Corto Deportivo No Permission",
  "needs_review": false,
+ "needs_studio": false,
  "page": true,
  "price_usd": 36.99,
  "rank": 174,
@@ -37,7 +52,73 @@
  "shipping_worst_usd": 12.8,
  "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Leotardos y unitardos > Unitardos",
  "shop_verified": true,
- "size_chart": null,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (A)",
+   "Chest (B)",
+   "Waist (C)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (A)",
+   "Pecho (B)",
+   "Cintura (C)"
+  ],
+  "notes_en": "The original table identifies length (A), chest (B), and waist (C), but does not specify whether measurements correspond to the body or the garment.",
+  "notes_es": "La tabla original identifica largo (A), pecho (B) y cintura (C), pero no especifica si las medidas corresponden al cuerpo o a la prenda.",
+  "rows": [
+   [
+    "S",
+    "69,6 / 27,40",
+    "72,4 / 28,50",
+    "62,2 / 24,50"
+   ],
+   [
+    "M",
+    "70,9 / 27,90",
+    "76,2 / 30,00",
+    "66,0 / 26,00"
+   ],
+   [
+    "L",
+    "72,4 / 28,50",
+    "81,3 / 32,00",
+    "71,1 / 28,00"
+   ],
+   [
+    "XL",
+    "73,9 / 29,10",
+    "86,4 / 34,00",
+    "76,2 / 30,00"
+   ],
+   [
+    "2XL",
+    "75,4 / 29,70",
+    "91,4 / 36,00",
+    "81,3 / 32,00"
+   ],
+   [
+    "3XL",
+    "77,5 / 30,50",
+    "97,3 / 38,30",
+    "87,1 / 34,30"
+   ],
+   [
+    "4XL",
+    "79,5 / 31,30",
+    "103,1 / 40,60",
+    "93,7 / 36,90"
+   ],
+   [
+    "5XL",
+    "81,5 / 32,10",
+    "109,0 / 42,90",
+    "94,5 / 37,20"
+   ]
+  ],
+  "unit": "cm / inches"
+ },
  "size_guide": [],
  "sizes": [
   "S",

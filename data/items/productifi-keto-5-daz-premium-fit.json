@@ -1,0 +1,61 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cellulose (Vegetable Capsule)",
+ "ai_sizes": "60 capsules",
+ "ai_type": "Suplemento",
+ "ai_ver": 2,
+ "art_note": "Clean studio shot of the supplement bottle with clear labeling, though standard e-commerce presentation lacks high editorial flair.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-keto-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "Formulated to support metabolism and energy levels. Assists the body during the ketogenic process. Each bottle contains 60 capsules designed to complement your daily wellness routine. Manufactured in the united states with strict quality standards. Available for worldwide shipping made to order.",
+ "desc_es": "Formulado para apoyar el metabolismo y los niveles de energía. Ayuda al cuerpo durante el proceso cetogénico. Cada envase contiene 60 cápsulas diseñadas para complementar su rutina diaria de bienestar. Fabricado en los estados unidos con estrictos estándares de calidad. Disponible para envío a todo el mundo bajo pedido.",
+ "details_en": "· 60 vegetable capsules per bottle\n· Made in USA\n· Ingredients: Keto Blend, Raspberry Ketone, Green Tea, Caffeine Anhydrous, Green Coffee Bean, Garcinia Cambogia, Cellulose\n· Available with worldwide shipping",
+ "details_es": "· 60 cápsulas vegetales por envase\n· Fabricado en EE. UU.\n· Ingredientes: Keto Blend, Raspberry Ketone, Green Tea, Caffeine Anhydrous, Green Coffee Bean, Garcinia Cambogia, Cellulose\n· Disponible con envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/f28c55f746209d79ded3.jpg",
+  "assets/products/shop/daaf60deaa13489e90a5.jpg"
+ ],
+ "draft": true,
+ "fam": "keto-premium-fit",
+ "hidden": false,
+ "id": "productifi-keto-5-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Keto-5 Premium Supplement",
+ "name_es": "Keto-5 Suplemento Premium",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 30.99,
+ "rank": 290,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 capsules"
+ ],
+ "source_title": "Keto-5 DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/00w5kEgDGdOYduS7mu1gY2s",
+ "supplier": "Productifi",
+ "supplier_id": "keto-5-daz-premium-fit",
+ "visual_verified": true
+}

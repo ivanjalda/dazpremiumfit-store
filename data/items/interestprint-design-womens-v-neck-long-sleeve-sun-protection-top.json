@@ -1,0 +1,160 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White / Purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "95% polyester, 5% spandex",
+ "ai_type": "Top",
+ "ai_ver": 2,
+ "art_note": "Flat digital 3D renders with floating ghost-mannequin effect, lacking high-end campaign atmosphere.",
+ "art_score": 3,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "t-design-women-s-v-neck-long-sleeve-sun-protection-top",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "A refined silhouette engineered for everyday movement and urban performance. This long-sleeve top pairs a plunging V-neckline with a contemporary cropped cut. Crafted from a lightweight, breathable fabric, it delivers essential outdoor coverage without compromising minimalist elegance. Made to order with worldwide shipping.",
+ "desc_es": "Una silueta depurada diseñada para el movimiento diario y el rendimiento urbano. Este top de manga larga combina un cuello en V pronunciado con un corte corto y contemporáneo. Confeccionado en un tejido ligero y transpirable, ofrece una protección esencial para exteriores sin comprometer la elegancia minimalista. Diseñado bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 95% polyester, 5% spandex\n· Hand or machine washable\n· Do not bleach\n· Made to order",
+ "details_es": "· 95% poliéster, 5% spandex\n· Lavar a mano o a máquina\n· No usar blanqueador\n· Hecho bajo pedido",
+ "display_images": [
+  "assets/products/shop/19182cc91617b9d7d9a2.jpg",
+  "assets/products/shop/3fda202e845243cc2643.jpg",
+  "assets/products/shop/cb74054a1246029e84af.jpg",
+  "assets/products/shop/601649b76340d837f944.jpg",
+  "assets/products/shop/a9e23e1c8f387fb2573a.jpg",
+  "assets/products/shop/ad17292bd50cbd7fe82d.jpg"
+ ],
+ "draft": true,
+ "fam": "women-s-v",
+ "hidden": false,
+ "id": "interestprint-design-womens-v-neck-long-sleeve-sun-protection-top",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-81-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Long Sleeve Cropped Top",
+ "name_es": "Top Cropped de Manga Larga",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 22.99,
+ "rank": 219,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (A)",
+   "Chest (B)",
+   "Shoulder (C)",
+   "Sleeve (D)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (A)",
+   "Pecho (B)",
+   "Hombro (C)",
+   "Manga (D)"
+  ],
+  "notes_en": "",
+  "notes_es": "",
+  "rows": [
+   [
+    "XS",
+    "14.60",
+    "36.20",
+    "15.20",
+    "21.90"
+   ],
+   [
+    "S",
+    "15.00",
+    "37.80",
+    "15.70",
+    "22.00"
+   ],
+   [
+    "M",
+    "15.40",
+    "39.40",
+    "16.30",
+    "22.20"
+   ],
+   [
+    "L",
+    "15.70",
+    "40.90",
+    "16.90",
+    "22.40"
+   ],
+   [
+    "XL",
+    "16.10",
+    "42.50",
+    "17.50",
+    "22.60"
+   ],
+   [
+    "2XL",
+    "16.50",
+    "44.10",
+    "18.10",
+    "22.80"
+   ],
+   [
+    "3XL",
+    "16.90",
+    "45.70",
+    "18.70",
+    "23.00"
+   ],
+   [
+    "4XL",
+    "17.30",
+    "47.20",
+    "19.30",
+    "23.20"
+   ],
+   [
+    "5XL",
+    "17.70",
+    "48.80",
+    "19.90",
+    "23.40"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/6002/info/image/20260722/63D3C21E43C74E8FA850E7836992CEA4.png"
+ ],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "Design Women's V-Neck Long Sleeve Sun Protection Top",
+ "stripe_payment_link": "https://buy.stripe.com/7sY8wQdru26gaiG8qy1gX0G",
+ "supplier": "InterestPrint",
+ "supplier_id": "design-womens-v-neck-long-sleeve-sun-protection-top",
+ "visual_verified": true
+}

@@ -1,0 +1,60 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Gelatin (bovine), Microcrystalline Cellulose, Vegetable Magnesium Stearate, Silicon Dioxide",
+ "ai_type": "Supplement",
+ "ai_ver": 2,
+ "art_note": "Strong product styling with premium lighting and sophisticated brand presentation.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-women-s-vitality-formula-daz-premium-fit",
+ "color": "",
+ "created": "2026-11-25",
+ "desc_en": "The female body experiences natural changes over time. This formula is designed to contribute to hormonal balance, reproductive health, and general well-being. It features a carefully selected blend of botanical extracts such as dong quai, red clover, and black cohosh. It helps maintain a sense of balance as the body goes through different stages of life. It integrates seamlessly into a daily wellness routine to support hormonal function and vitality naturally.",
+ "desc_es": "El cuerpo femenino experimenta cambios naturales con el tiempo. Esta fórmula está diseñada para contribuir al equilibrio hormonal, la salud reproductiva y el bienestar general. Contiene extractos botánicos cuidadosamente seleccionados como dong quai, trébol rojo y cimicífuga. Ayuda a mantener una sensación de bienestar y equilibrio a medida que el cuerpo atraviesa las diferentes etapas de la vida. Se integra a la perfección en una rutina diaria de bienestar para apoyar la función hormonal y la vitalidad de forma natural.",
+ "details_en": "· Made to order\n· Worldwide shipping\n· 60 capsules\n· Contains soy",
+ "details_es": "· Hecho bajo pedido\n· Envíos a todo el mundo\n· 60 cápsulas\n· Contiene soja",
+ "display_images": [
+  "assets/products/shop/800ad238010d61c34460.jpg",
+  "assets/products/shop/c16c72836c747b451a26.jpg",
+  "assets/products/shop/d14294def98f6bd07878.jpg",
+  "assets/products/shop/de0b4d41b52712fbe141.jpg"
+ ],
+ "draft": true,
+ "fam": "women-s-vitality",
+ "hidden": false,
+ "id": "productifi-womens-vitality-formula-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Women's Vitality Formula",
+ "name_es": "Fórmula Vitalidad para Mujeres",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 27.99,
+ "rank": 272,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos herbales",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Women's Vitality Formula DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/7sY7sMafidOYgH45em1gY2a",
+ "supplier": "Productifi",
+ "supplier_id": "womens-vitality-formula-daz-premium-fit",
+ "visual_verified": true
+}

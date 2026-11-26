@@ -2786,8 +2786,8 @@
     },
     {
       "id": "productifi-peptidos-de-colageno-hidrolizados-daz-premium-fit-alimentados-con-pasto",
-      "name_es": "Colágeno Péptidos Colágeno",
-      "name_en": "Péptidos Colágeno Collagen",
+      "name_es": "Péptidos de Colágeno Hidrolizado",
+      "name_en": "Hydrolyzed Collagen Peptides",
       "price_usd": 35.99,
       "badge": "new",
       "categories": [
@@ -2800,6 +2800,7 @@
       "supplier_id": "peptidos-de-colageno-hidrolizados-daz-premium-fit-alimentados-con-pasto",
       "fam": "peptidos-colageno-hidrolizados",
       "cg": "t-peptidos-de-colageno-hidrolizados-daz-premium-fit-alimentados-con-pasto",
+      "art_score": 8,
       "img": "assets/products/shop/73748f33b646caa9c5f7.jpg"
     },
     {
@@ -3404,8 +3405,8 @@
     },
     {
       "id": "productifi-creatine-monohydrate-daz-premium-fit",
-      "name_es": "Creatina Creatine Monohydrate Daz",
-      "name_en": "Creatine Monohydrate Daz Creatine",
+      "name_es": "Creatina Monohidrato Pura",
+      "name_en": "Pure Creatine Monohydrate",
       "price_usd": 38.99,
       "badge": "new",
       "categories": [
@@ -3418,6 +3419,7 @@
       "supplier_id": "creatine-monohydrate-daz-premium-fit",
       "fam": "creatine-monohydrate-premium",
       "cg": "t-creatine-monohydrate-daz-premium-fit",
+      "art_score": 8,
       "img": "assets/products/shop/ffcc3d91debbbc9d8ff8.jpg"
     },
     {
@@ -3476,6 +3478,7 @@
       "supplier_id": "sport-2-half-zip-backless-sport-jumpsuit",
       "fam": "mono-corto-deportivo",
       "cg": "t-mono-corto-deportivo-dpf-no-permission-con-espalda-abierta",
+      "art_score": 9,
       "img": "assets/products/shop/825ae39be232d79dd8ec.jpg"
     },
     {
@@ -4361,6 +4364,1548 @@
       "color": "Multiple",
       "art_score": 8,
       "img": "assets/products/shop/5261ee6f01aa707b7440.jpg"
+    },
+    {
+      "id": "interestprint-design-womens-v-neck-long-sleeve-sun-protection-top",
+      "name_es": "Top Cropped de Manga Larga",
+      "name_en": "Long Sleeve Cropped Top",
+      "price_usd": 22.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 219,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "design-womens-v-neck-long-sleeve-sun-protection-top",
+      "fam": "women-s-v",
+      "cg": "t-design-women-s-v-neck-long-sleeve-sun-protection-top",
+      "art_score": 3,
+      "img": "assets/products/shop/19182cc91617b9d7d9a2.jpg"
+    },
+    {
+      "id": "productifi-gotas-dieteticas-ultra-daz-premium-fit-1-oz",
+      "name_es": "Gotas Dietéticas Ultra",
+      "name_en": "Diet Drops Ultra",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 220,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "gotas-dieteticas-ultra-daz-premium-fit-1-oz",
+      "fam": "gotas-dieteticas-ultra",
+      "cg": "t-gotas-dieteticas-ultra-daz-premium-fit-oz",
+      "art_score": 9,
+      "img": "assets/products/shop/6a1e7e4499d91726d834.jpg"
+    },
+    {
+      "id": "interestprint-descarga-31-racerback-sports-bra",
+      "name_es": "Top Deportivo Con Estampado Abstracto",
+      "name_en": "Abstract Print Sports Bra",
+      "price_usd": 22.99,
+      "badge": "new",
+      "categories": [
+        "mujer/ropa-interior"
+      ],
+      "available": true,
+      "rank": 221,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "descarga-31-racerback-sports-bra",
+      "fam": "descarga-racerback-sports",
+      "cg": "t-descarga-racerback-sports-bra",
+      "art_score": 6,
+      "img": "assets/products/shop/1dd26ae95740bac4b206.jpg"
+    },
+    {
+      "id": "productifi-ashwagandha-daz-premium-fit",
+      "name_es": "Ashwagandha Premium Fit",
+      "name_en": "Ashwagandha Premium Fit",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 222,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "ashwagandha-daz-premium-fit",
+      "fam": "ashwagandha-premium-fit",
+      "cg": "t-ashwagandha-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/2f3668768f731d452c44.jpg"
+    },
+    {
+      "id": "productifi-suero-de-vitamina-c-daz-premium-fit",
+      "name_es": "Suero de Vitamina C",
+      "name_en": "Vitamin C Serum",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 223,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "suero-de-vitamina-c-daz-premium-fit",
+      "fam": "suero-vitamina-c",
+      "cg": "t-suero-de-vitamina-c-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/449f1bc80a8933775098.jpg"
+    },
+    {
+      "id": "productifi-gotas-de-mango-africano-daz-premium-fit-60-ml-2-fl-oz",
+      "name_es": "Gotas de Mango Africano",
+      "name_en": "African Mango Drops",
+      "price_usd": 23.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 224,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "gotas-de-mango-africano-daz-premium-fit-60-ml-2-fl-oz",
+      "fam": "gotas-mango-africano",
+      "cg": "t-gotas-de-mango-africano-daz-premium-fit-ml-fl-oz",
+      "color": "Blue bottle + black dropper",
+      "art_score": 7,
+      "img": "assets/products/shop/1e9896f6a2a7901961f2.jpg"
+    },
+    {
+      "id": "productifi-mezcla-de-hierba-de-cabra-en-celo-daz-premium-fit",
+      "name_es": "Mezcla de Horny Goat Weed",
+      "name_en": "Horny Goat Weed Blend",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 225,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "mezcla-de-hierba-de-cabra-en-celo-daz-premium-fit",
+      "fam": "mezcla-hierba-cabra",
+      "cg": "t-mezcla-de-hierba-de-cabra-en-celo-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/ac7e6ddafb75e9533abf.jpg"
+    },
+    {
+      "id": "interestprint-conjunto-tough-bitch-womens-short-yoga-setmodelsets-03",
+      "name_es": "Conjunto Corto de Yoga",
+      "name_en": "Short Yoga Set",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "mujer/conjuntos"
+      ],
+      "available": true,
+      "rank": 226,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "conjunto-tough-bitch-womens-short-yoga-setmodelsets-03",
+      "fam": "conjunto-tough-bitch",
+      "cg": "t-conjunto-tough-bitch-women-s-short-yoga-set-modelsets",
+      "art_score": 3,
+      "img": "assets/products/shop/c9454bc34f016200ff7f.jpg"
+    },
+    {
+      "id": "productifi-salud-intestinal-daz-premium-fit",
+      "name_es": "Cápsulas de Salud Intestinal",
+      "name_en": "Gut Health Capsules",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 227,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "salud-intestinal-daz-premium-fit",
+      "fam": "salud-intestinal-premium",
+      "cg": "t-salud-intestinal-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/0bb428233b571b1eaf4e.jpg"
+    },
+    {
+      "id": "productifi-gomitas-de-curcuma-daz-premium-fit",
+      "name_es": "Gomitas de Cúrcuma Premium",
+      "name_en": "Premium Turmeric Gummies",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 228,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "gomitas-de-curcuma-daz-premium-fit",
+      "fam": "gomitas-curcuma-premium",
+      "cg": "t-gomitas-de-curcuma-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/29921548c32b3e675c7e.jpg"
+    },
+    {
+      "id": "productifi-tiras-para-la-resaca-daz-premium-fit",
+      "name_es": "Tiras para la Resaca",
+      "name_en": "Hangover Oral Strips",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 229,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "tiras-para-la-resaca-daz-premium-fit",
+      "fam": "tiras-la-resaca",
+      "cg": "t-tiras-para-la-resaca-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/3a2f88e5e0ae93d162fe.jpg"
+    },
+    {
+      "id": "productifi-frutas-y-verduras-daz-premium-fit",
+      "name_es": "Capsulas de Frutas y Verduras",
+      "name_en": "Fruits and Veggies Capsules",
+      "price_usd": 24.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 230,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "frutas-y-verduras-daz-premium-fit",
+      "fam": "frutas-verduras-premium",
+      "cg": "t-frutas-y-verduras-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/f82aa3ead4b9b890b5ab.jpg"
+    },
+    {
+      "id": "productifi-maca-plus-daz-premium-fit",
+      "name_es": "Maca Plus Cápsulas",
+      "name_en": "Maca Plus Capsules",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 231,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "maca-plus-daz-premium-fit",
+      "fam": "maca-plus-premium",
+      "cg": "t-maca-plus-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/8ac6a9da60d18e2a0559.jpg"
+    },
+    {
+      "id": "productifi-apoyo-al-higado-daz-premium-fit",
+      "name_es": "Cápsulas Soporte Hepático",
+      "name_en": "Liver Support Capsules",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 232,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "apoyo-al-higado-daz-premium-fit",
+      "fam": "apoyo-al-higado",
+      "cg": "t-apoyo-al-higado-daz-premium-fit",
+      "art_score": 9,
+      "img": "assets/products/shop/b9ac3f99e1e4f68b8035.jpg"
+    },
+    {
+      "id": "productifi-keto-bhb-daz-premium-fit",
+      "name_es": "Keto BHB Cápsulas Premium",
+      "name_en": "Keto BHB Premium Capsules",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 233,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "keto-bhb-daz-premium-fit",
+      "fam": "keto-bhb-premium",
+      "cg": "t-keto-bhb-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/3c3717f94c8266d745e7.jpg"
+    },
+    {
+      "id": "productifi-soporte-hepatico-daz-premium-fit",
+      "name_es": "Soporte Hepático Premium Fit",
+      "name_en": "Premium Fit Liver Support",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 234,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "soporte-hepatico-daz-premium-fit",
+      "fam": "soporte-hepatico-premium",
+      "cg": "t-soporte-hepatico-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/d0028039c78dcc4f5a18.jpg"
+    },
+    {
+      "id": "productifi-soporte-normal-de-azucar-en-sangre",
+      "name_es": "Soporte de Glucosa DAZ Premium Fit",
+      "name_en": "DAZ Premium Fit Blood Sugar Support",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 235,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "soporte-normal-de-azucar-en-sangre",
+      "fam": "soporte-normal-azucar",
+      "cg": "t-soporte-normal-de-azucar-en-sangre-daz-premium-fit",
+      "art_score": 7,
+      "img": "assets/products/shop/8f8abcd000a26285fb0d.jpg"
+    },
+    {
+      "id": "productifi-max-detox-daz-premium-fitacai-detox",
+      "name_es": "Max Detox Suplemento Dietético",
+      "name_en": "Max Detox Dietary Supplement",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 236,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "max-detox-daz-premium-fitacai-detox",
+      "fam": "max-detox-premium",
+      "cg": "t-max-detox-daz-premium-fit-acai-detox",
+      "art_score": 7,
+      "img": "assets/products/shop/c6b895852b7b6fe4e5c0.jpg"
+    },
+    {
+      "id": "productifi-raiz-de-remolacha",
+      "name_es": "Cápsulas de Remolacha DAZ Premium Fit",
+      "name_en": "DAZ Premium Fit Beetroot Capsules",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 237,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "raiz-de-remolacha",
+      "fam": "raiz-remolacha-premium",
+      "cg": "t-raiz-de-remolacha-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/ac11f95a0992b43ae166.jpg"
+    },
+    {
+      "id": "interestprint-descarga-79-cross-back-sports-bra",
+      "name_es": "Sujetador Deportivo Cruzado Mandala",
+      "name_en": "Mandala Cross Back Sports Bra",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "mujer/ropa-interior"
+      ],
+      "available": true,
+      "rank": 238,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "descarga-79-cross-back-sports-bra",
+      "fam": "descarga-cross-back",
+      "cg": "t-descarga-cross-back-sports-bra",
+      "art_score": 8,
+      "img": "assets/products/shop/0ba7127fc7ebf8ffabc9.jpg"
+    },
+    {
+      "id": "interestprint-ivan21-backless-split-knotted-yoga-active-tank-tops",
+      "name_es": "Top de Yoga Cruzado",
+      "name_en": "Knotted Back Yoga Tank",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 239,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "ivan21-backless-split-knotted-yoga-active-tank-tops",
+      "fam": "ivan21-backless-split",
+      "cg": "t-ivan21-backless-split-knotted-yoga-active-tank-tops",
+      "art_score": 6,
+      "img": "assets/products/shop/894ee6ec92593dab22ac.jpg"
+    },
+    {
+      "id": "productifi-ashwagandha-plus-daz-premium-fit",
+      "name_es": "Ashwagandha Plus Premium Fit",
+      "name_en": "DAZ Ashwagandha Plus",
+      "price_usd": 24.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 240,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "ashwagandha-plus-daz-premium-fit",
+      "fam": "ashwagandha-plus-premium",
+      "cg": "t-ashwagandha-plus-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/f1366607513f9b36b5c4.jpg"
+    },
+    {
+      "id": "productifi-duerme-bien-gomitas-daz-premium-fit-adulto",
+      "name_es": "Gomitas Sleep Well DAZ",
+      "name_en": "DAZ Sleep Well Gummies",
+      "price_usd": 24.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 241,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "duerme-bien-gomitas-daz-premium-fit-adulto",
+      "fam": "duerme-bien-gomitas",
+      "cg": "t-duerme-bien-gomitas-daz-premium-fit-adulto",
+      "art_score": 6,
+      "img": "assets/products/shop/051d889408ec3690cef4.jpg"
+    },
+    {
+      "id": "productifi-soporte-de-vision-daz-premium-fit",
+      "name_es": "Soporte de Visión DAZ",
+      "name_en": "DAZ Vision Support",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 242,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "soporte-de-vision-daz-premium-fit",
+      "fam": "soporte-vision-premium",
+      "cg": "t-soporte-de-vision-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/6145aa725e0fb492ae20.jpg"
+    },
+    {
+      "id": "interestprint-derfrf-cross-back-sports-bra-1",
+      "name_es": "Top Deportivo Onyx",
+      "name_en": "Onyx Sports Bra",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "mujer/ropa-interior"
+      ],
+      "available": true,
+      "rank": 243,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "derfrf-cross-back-sports-bra-1",
+      "fam": "onyx-top-deportivo",
+      "cg": "t-dpf-onyx-top-deportivo-de-espalda-cruzada",
+      "art_score": 8,
+      "img": "assets/products/shop/9e577a2edee3298b44a4.jpg"
+    },
+    {
+      "id": "interestprint-descarga-85-cross-back-sports-bra",
+      "name_es": "Sujetador Deportivo Cruzado Mandala",
+      "name_en": "Mandala Cross Back Sports Bra",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "mujer/ropa-interior"
+      ],
+      "available": true,
+      "rank": 244,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "descarga-85-cross-back-sports-bra",
+      "fam": "descarga-cross-back",
+      "cg": "t-descarga-cross-back-sports-bra",
+      "art_score": 6,
+      "img": "assets/products/shop/94ced5d0b894f0b45af2.jpg"
+    },
+    {
+      "id": "productifi-apoyo-cognitivo-daz-premium-fit",
+      "name_es": "Apoyo Cognitivo Premium",
+      "name_en": "Premium Cognitive Support",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 245,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "apoyo-cognitivo-daz-premium-fit",
+      "fam": "apoyo-cognitivo-premium",
+      "cg": "t-apoyo-cognitivo-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/963d2029560cc1bac383.jpg"
+    },
+    {
+      "id": "productifi-berberine-daz-premium-fit",
+      "name_es": "Cápsulas de Berberina Premium Fit",
+      "name_en": "Berberine Premium Fit Capsules",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 246,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "berberine-daz-premium-fit",
+      "fam": "berberine-premium-fit",
+      "cg": "t-berberine-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/5dc05e085aba97b1cc1e.jpg"
+    },
+    {
+      "id": "productifi-formula-para-dormir-daz-premium-fit",
+      "name_es": "Fórmula para Dormir DAZ Premium Fit",
+      "name_en": "DAZ Premium Fit Sleep Formula",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 247,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "formula-para-dormir-daz-premium-fit",
+      "fam": "formula-dormir-premium",
+      "cg": "t-formula-para-dormir-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/5456e6f6430d4bb7bdea.jpg"
+    },
+    {
+      "id": "productifi-probiotic-20-billion-daz-premium-fit",
+      "name_es": "Probiótico 20 Mil Millones",
+      "name_en": "Probiotic 20 Billion",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 248,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "probiotic-20-billion-daz-premium-fit",
+      "fam": "probiotic-billion-premium",
+      "cg": "t-probiotic-billion-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/1b27ee131252bd0f1615.jpg"
+    },
+    {
+      "id": "productifi-male-enhancement-daz-premium-fit",
+      "name_es": "Tabletas de Vitalidad Masculina",
+      "name_en": "Men's Vitality Tablets",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 249,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "male-enhancement-daz-premium-fit",
+      "fam": "men-s-vitality",
+      "cg": "t-men-s-vitality-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/ca9f6a5a0ef4d1ce5550.jpg"
+    },
+    {
+      "id": "productifi-gomitas-de-vinagre-de-sidra-de-manzana-daz-premium-fit-60-gomitas",
+      "name_es": "Gomitas de Vinagre de Sidra",
+      "name_en": "Apple Cider Vinegar Gummies",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 250,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "gomitas-de-vinagre-de-sidra-de-manzana-daz-premium-fit-60-gomitas",
+      "fam": "gomitas-vinagre-sidra",
+      "cg": "t-gomitas-de-vinagre-de-sidra-de-manzana-daz-premium-fit-gomitas",
+      "color": "Clear bottle + black cap",
+      "art_score": 9,
+      "img": "assets/products/shop/dc7387745bb4168b63df.jpg"
+    },
+    {
+      "id": "productifi-complejo-de-bayas-de-acai-daz-premium-fit-60-capsulas",
+      "name_es": "Complejo de Bayas de Acai",
+      "name_en": "Acai Berry Complex",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 251,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "complejo-de-bayas-de-acai-daz-premium-fit-60-capsulas",
+      "fam": "complejo-bayas-acai",
+      "cg": "t-complejo-de-bayas-de-acai-daz-premium-fit-capsulas",
+      "color": "White bottle + cap",
+      "art_score": 6,
+      "img": "assets/products/shop/5a1461ad2b2c9e84fba3.jpg"
+    },
+    {
+      "id": "productifi-tiras-de-apoyo-para-la-libido-daz-premium-fit",
+      "name_es": "Tiras de Apoyo para la Libido",
+      "name_en": "Libido Support Oral Strips",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 252,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "tiras-de-apoyo-para-la-libido-daz-premium-fit",
+      "fam": "tiras-apoyo-la",
+      "cg": "t-tiras-de-apoyo-para-la-libido-daz-premium-fit",
+      "art_score": 9,
+      "img": "assets/products/shop/7e996cb850b81c8bad28.jpg"
+    },
+    {
+      "id": "productifi-colostrum-powder-daz-premium-fit",
+      "name_es": "Polvo de Calostro Premium",
+      "name_en": "Premium Colostrum Powder",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 253,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "colostrum-powder-daz-premium-fit",
+      "fam": "colostrum-powder-premium",
+      "cg": "t-colostrum-powder-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/01fd81f5fe1bf61ec0c7.jpg"
+    },
+    {
+      "id": "productifi-ginkgo-biloba-ginseng-daz-premium-fit",
+      "name_es": "Cápsulas de Ginkgo Biloba y Ginseng",
+      "name_en": "Ginkgo Biloba and Ginseng Capsules",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 254,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "ginkgo-biloba-ginseng-daz-premium-fit",
+      "fam": "ginkgo-biloba-ginseng",
+      "cg": "t-ginkgo-biloba-ginseng-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/28ee31fb2e64b67966f7.jpg"
+    },
+    {
+      "id": "productifi-musgo-marino-daz-premium-fit",
+      "name_es": "Cápsulas de Musgo Marino Premium",
+      "name_en": "Premium Sea Moss Capsules",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 255,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "musgo-marino-daz-premium-fit",
+      "fam": "musgo-marino-premium",
+      "cg": "t-musgo-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/07eefba4c744519d3297.jpg"
+    },
+    {
+      "id": "productifi-super-quemador-de-grasa-con-mct-daz-premium-fit",
+      "name_es": "Quemador de Grasa con MCT",
+      "name_en": "Fat Burner with MCT",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 256,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "super-quemador-de-grasa-con-mct-daz-premium-fit",
+      "fam": "super-quemador-grasa",
+      "cg": "t-super-quemador-de-grasa-con-mct-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/062b7b1be356877ee2da.jpg"
+    },
+    {
+      "id": "productifi-apoyo-a-la-prostata-daz-premium-fit",
+      "name_es": "DAZ Apoyo a la Próstata",
+      "name_en": "DAZ Prostate Support",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 257,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "apoyo-a-la-prostata-daz-premium-fit",
+      "fam": "apoyo-a-la",
+      "cg": "t-apoyo-a-la-prostata-daz-premium-fit",
+      "art_score": 7,
+      "img": "assets/products/shop/2da8d6900b81604475cd.jpg"
+    },
+    {
+      "id": "interestprint-descarga-81-deep-v-neck-racerback-cutout-active-crop-tops",
+      "name_es": "Top Corto Escotado Racerback",
+      "name_en": "Deep V Racerback Crop Top",
+      "price_usd": 25.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 258,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "descarga-81-deep-v-neck-racerback-cutout-active-crop-tops",
+      "fam": "descarga-deep-v",
+      "cg": "t-descarga-deep-v-neck-racerback-cutout-active-crop-tops",
+      "art_score": 8,
+      "img": "assets/products/shop/02f25f5211caa515b5ea.jpg"
+    },
+    {
+      "id": "productifi-5-htp",
+      "name_es": "5-HTP Cápsulas Premium Fit",
+      "name_en": "5-HTP Premium Fit Capsules",
+      "price_usd": 28.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 259,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "5-htp",
+      "fam": "htp-premium-fit",
+      "cg": "t-htp-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/130deaa2bcd76e917b41.jpg"
+    },
+    {
+      "id": "productifi-spirulina-powder-daz-premium-fit",
+      "name_es": "Polvo de Spirulina Orgánica",
+      "name_en": "Organic Spirulina Powder",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 260,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "spirulina-powder-daz-premium-fit",
+      "fam": "spirulina-powder-premium",
+      "cg": "t-spirulina-powder-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/29787f33a7f6b885796f.jpg"
+    },
+    {
+      "id": "productifi-gomitas-de-apoyo-para-las-articulaciones-daz-premium-fit-adultos",
+      "name_es": "Gomitas de Apoyo Articular DAZ",
+      "name_en": "DAZ Joint Support Gummies",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 261,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "gomitas-de-apoyo-para-las-articulaciones-daz-premium-fit-adultos",
+      "fam": "gomitas-apoyo-las",
+      "cg": "t-gomitas-de-apoyo-para-las-articulaciones-daz-premium-fit-adultos",
+      "art_score": 8,
+      "img": "assets/products/shop/56f985ff0e48f989730f.jpg"
+    },
+    {
+      "id": "productifi-resveratrol-50-600mg-daz-premium-fit",
+      "name_es": "Resveratrol 600mg Premium Fit",
+      "name_en": "Resveratrol 600mg Premium Fit",
+      "price_usd": 28.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 262,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "resveratrol-50-600mg-daz-premium-fit",
+      "fam": "resveratrol-600mg-premium",
+      "cg": "t-resveratrol-600mg-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/726b4239fdebf5224430.jpg"
+    },
+    {
+      "id": "productifi-ayurvedic-complex",
+      "name_es": "Ayurvedic Complex DAZ Premium Fit",
+      "name_en": "Ayurvedic Complex DAZ Premium Fit",
+      "price_usd": 29.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 263,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "ayurvedic-complex",
+      "fam": "ayurvedic-complex-premium",
+      "cg": "t-ayurvedic-complex-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/b3c151452c688821d780.jpg"
+    },
+    {
+      "id": "productifi-polvo-de-remolacha-daz-premium-fit",
+      "name_es": "Polvo de Remolacha Premium",
+      "name_en": "Premium Beetroot Powder",
+      "price_usd": 29.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 264,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "polvo-de-remolacha-daz-premium-fit",
+      "fam": "polvo-remolacha-premium",
+      "cg": "t-polvo-de-remolacha-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/85435f2df7207fe485e9.jpg"
+    },
+    {
+      "id": "productifi-apoyo-para-huesos-y-corazon-daz-premium-fit",
+      "name_es": "Soporte Óseo y Cardíaco Premium",
+      "name_en": "Premium Bone And Heart Support",
+      "price_usd": 28.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 265,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "apoyo-para-huesos-y-corazon-daz-premium-fit",
+      "fam": "apoyo-huesos-corazon",
+      "cg": "t-apoyo-para-huesos-y-corazon-daz-premium-fit",
+      "art_score": 9,
+      "img": "assets/products/shop/442ebc8f325e5cb96054.jpg"
+    },
+    {
+      "id": "productifi-soporte-para-huesos-y-corazon-daz-premium-fit",
+      "name_es": "Soporte Óseo y Cardíaco",
+      "name_en": "Bone and Heart Support",
+      "price_usd": 28.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 266,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "soporte-para-huesos-y-corazon-daz-premium-fit",
+      "fam": "soporte-huesos-corazon",
+      "cg": "t-soporte-para-huesos-y-corazon-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/d3e5cea712403e9399ae.jpg"
+    },
+    {
+      "id": "productifi-colostrum-capsules-daz-premium-fit",
+      "name_es": "Cápsulas de Calostro Premium",
+      "name_en": "Premium Colostrum Capsules",
+      "price_usd": 29.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 267,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "colostrum-capsules-daz-premium-fit",
+      "fam": "colostrum-capsules-premium",
+      "cg": "t-colostrum-capsules-daz-premium-fit",
+      "art_score": 9,
+      "img": "assets/products/shop/80a01fc28681a7405306.jpg"
+    },
+    {
+      "id": "productifi-complejo-de-extracto-de-hongos-daz-premium-fit",
+      "name_es": "Complejo de Extracto de Hongos",
+      "name_en": "Mushroom Extract Complex",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 268,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "complejo-de-extracto-de-hongos-daz-premium-fit",
+      "fam": "complejo-extracto-hongos",
+      "cg": "t-complejo-de-extracto-de-hongos-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/0efc112bac3f346aa908.jpg"
+    },
+    {
+      "id": "productifi-formula-nootropica-para-el-cerebro-y-la-concentracion-daz-premium-fit",
+      "name_es": "Fórmula Nootrópica Cerebral",
+      "name_en": "Brain Nootropic Formula",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 269,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "formula-nootropica-para-el-cerebro-y-la-concentracion-daz-premium-fit",
+      "fam": "formula-nootropica-el",
+      "cg": "t-formula-nootropica-para-el-cerebro-y-la-concentracion-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/494bf6b6df83e7e1d536.jpg"
+    },
+    {
+      "id": "productifi-crema-de-sebo-de-naranja-y-bergamota-daz-premium-fit",
+      "name_es": "Crema de Sebo Naranja y Bergamota",
+      "name_en": "Orange and Bergamot Tallow Cream",
+      "price_usd": 31.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 270,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "crema-de-sebo-de-naranja-y-bergamota-daz-premium-fit",
+      "fam": "crema-sebo-naranja",
+      "cg": "t-de-sebo-de-y-bergamota-daz-premium-fit",
+      "art_score": 9,
+      "img": "assets/products/shop/733d8e5e3019eadb76f4.jpg"
+    },
+    {
+      "id": "productifi-probiotic-40-billion-daz-premium-fit-with-prebiotics",
+      "name_es": "Probióticos 40 Billones con Prebióticos",
+      "name_en": "Probiotic 40 Billion with Prebiotics",
+      "price_usd": 31.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 271,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "probiotic-40-billion-daz-premium-fit-with-prebiotics",
+      "fam": "probiotic-billion-premium",
+      "cg": "t-probiotic-billion-daz-premium-fit-with-prebiotics",
+      "art_score": 6,
+      "img": "assets/products/shop/6d2dfb9e6a501cb612f6.jpg"
+    },
+    {
+      "id": "productifi-womens-vitality-formula-daz-premium-fit",
+      "name_es": "Fórmula Vitalidad para Mujeres",
+      "name_en": "Women's Vitality Formula",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 272,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "womens-vitality-formula-daz-premium-fit",
+      "fam": "women-s-vitality",
+      "cg": "t-women-s-vitality-formula-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/800ad238010d61c34460.jpg"
+    },
+    {
+      "id": "productifi-gomitas-para-cabello-piel-y-unas-daz-premium-fit",
+      "name_es": "Gomitas Belleza Capilar Piel y Uñas",
+      "name_en": "Hair Skin And Nails Gummies",
+      "price_usd": 28.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 273,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "gomitas-para-cabello-piel-y-unas-daz-premium-fit",
+      "fam": "gomitas-cabello-piel",
+      "cg": "t-gomitas-para-cabello-piel-y-unas-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/b5bbcd4cc763987abd33.jpg"
+    },
+    {
+      "id": "productifi-curcuma-platino-daz-premium-fit",
+      "name_es": "Cápsulas Platinum Cúrcuma",
+      "name_en": "Platinum Turmeric Capsules",
+      "price_usd": 27.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 274,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "curcuma-platino-daz-premium-fit",
+      "fam": "curcuma-platino-premium",
+      "cg": "t-curcuma-platino-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/4648cd07b2bd364420a5.jpg"
+    },
+    {
+      "id": "interestprint-0-black-and-grey-feathers-pattern-lilipinso-cross-back-string-sports-bra-high-waist-shorts-active-sets",
+      "name_es": "Conjunto Deportivo Plumas",
+      "name_en": "Feather Active Set",
+      "price_usd": 28.99,
+      "badge": "new",
+      "categories": [
+        "mujer/ropa-interior"
+      ],
+      "available": true,
+      "rank": 275,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "0-black-and-grey-feathers-pattern-lilipinso-cross-back-string-sports-bra-high-waist-shorts-active-sets",
+      "fam": "feathers-pattern-lilipinso",
+      "cg": "t-and-feathers-pattern-lilipinso-cross-back-string-sports-bra-high-waist-shorts",
+      "art_score": 3,
+      "img": "assets/products/shop/de7ff50fab020c101d90.jpg"
+    },
+    {
+      "id": "interestprint-action-painting-i-mila-blau-womens-all-over-print-sports-bra-model-t52",
+      "name_es": "Sujetador Deportivo Mila Blau",
+      "name_en": "Mila Blau Sports Bra",
+      "price_usd": 28.99,
+      "badge": "new",
+      "categories": [
+        "mujer/ropa-interior"
+      ],
+      "available": true,
+      "rank": 276,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "action-painting-i-mila-blau-womens-all-over-print-sports-bra-model-t52",
+      "fam": "action-painting-i",
+      "cg": "t-action-painting-i-mila-blau-women-s-all-over-print-sports-bra",
+      "art_score": 4,
+      "img": "assets/products/shop/7218c1154c17a1fda892.jpg"
+    },
+    {
+      "id": "productifi-gel-crema-para-ojos-con-peptidos-daz-premium-fit",
+      "name_es": "Gel Crema Para Ojos con Péptidos",
+      "name_en": "Peptide Eye Gel Cream",
+      "price_usd": 34.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 277,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "gel-crema-para-ojos-con-peptidos-daz-premium-fit",
+      "fam": "gel-crema-ojos",
+      "cg": "t-gel-para-ojos-con-peptidos-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/9c698a744c56e5c26bc3.jpg"
+    },
+    {
+      "id": "productifi-mezcla-profesional-de-enzimas-digestivas-daz-premium-fit",
+      "name_es": "Mezcla de Enzimas Digestivas Pro",
+      "name_en": "Digestive Enzyme Pro Blend",
+      "price_usd": 28.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 278,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "mezcla-profesional-de-enzimas-digestivas-daz-premium-fit",
+      "fam": "mezcla-profesional-enzimas",
+      "cg": "t-mezcla-profesional-de-enzimas-digestivas-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/d3cff026a6c4543e6073.jpg"
+    },
+    {
+      "id": "productifi-alpha-energy-daz-premium-fit",
+      "name_es": "Alpha Energy Cápsulas",
+      "name_en": "Alpha Energy Capsules",
+      "price_usd": 30.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 279,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "alpha-energy-daz-premium-fit",
+      "fam": "alpha-energy-premium",
+      "cg": "t-alpha-energy-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/9504ec37e84452ccde8b.jpg"
+    },
+    {
+      "id": "productifi-potenciador-de-testosterona-daz-premium-fit",
+      "name_es": "Suplemento de Testosterona Premium",
+      "name_en": "Premium Testosterone Supplement",
+      "price_usd": 30.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 280,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "potenciador-de-testosterona-daz-premium-fit",
+      "fam": "potenciador-testosterona-premium",
+      "cg": "t-potenciador-de-testosterona-daz-premium-fit",
+      "art_score": 7,
+      "img": "assets/products/shop/357019a7852a1de5e701.jpg"
+    },
+    {
+      "id": "productifi-capsulas-de-bienestar-del-microbioma-de-birch-chaga-daz-premium-fit",
+      "name_es": "Cápsulas de Bienestar Birch Chaga",
+      "name_en": "Birch Chaga Wellness Capsules",
+      "price_usd": 30.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 281,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "capsulas-de-bienestar-del-microbioma-de-birch-chaga-daz-premium-fit",
+      "fam": "capsulas-bienestar-del",
+      "cg": "t-capsulas-de-bienestar-del-microbioma-de-birch-chaga-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/ca81dffa411025d945f2.jpg"
+    },
+    {
+      "id": "productifi-crema-de-colageno-sleep-plus-daz-premium-fit",
+      "name_es": "Crema de Colágeno Sleep Plus",
+      "name_en": "Sleep Plus Collagen Cream",
+      "price_usd": 30.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 282,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "crema-de-colageno-sleep-plus-daz-premium-fit",
+      "fam": "crema-colageno-sleep",
+      "cg": "t-de-colageno-sleep-plus-daz-premium-fit",
+      "art_score": 4,
+      "img": "assets/products/shop/d8d7908670c87ea1caf5.jpg"
+    },
+    {
+      "id": "productifi-natural-gut-wellness-capsules",
+      "name_es": "Cápsulas de Bienestar Intestinal Natural",
+      "name_en": "Natural Gut Wellness Capsules",
+      "price_usd": 30.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 283,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "natural-gut-wellness-capsules",
+      "fam": "capsulas-naturales-el",
+      "cg": "t-capsulas-naturales-para-el-bienestar-intestinal-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/f922a8e0a11870d356c4.jpg"
+    },
+    {
+      "id": "productifi-polvo-de-bienestar-del-microbioma-birch-chaga-daz-premium-fit",
+      "name_es": "Polvo Birch Chaga Premium",
+      "name_en": "Birch Chaga Premium Powder",
+      "price_usd": 38.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 284,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "polvo-de-bienestar-del-microbioma-birch-chaga-daz-premium-fit",
+      "fam": "polvo-bienestar-del",
+      "cg": "t-polvo-de-bienestar-del-microbioma-birch-chaga-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/5fab4639108f13014f35.jpg"
+    },
+    {
+      "id": "productifi-polvo-natural-para-el-bienestar-intestinal-daz",
+      "name_es": "Polvo Natural Gut Wellness",
+      "name_en": "Natural Gut Wellness Powder",
+      "price_usd": 37.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 285,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "polvo-natural-para-el-bienestar-intestinal-daz",
+      "fam": "polvo-natural-el",
+      "cg": "t-polvo-natural-para-el-bienestar-intestinal-daz",
+      "art_score": 6,
+      "img": "assets/products/shop/a03d297ae162ae70f806.jpg"
+    },
+    {
+      "id": "productifi-focus-powder-daz-premium-fitcaramelos-acidos",
+      "name_es": "Focus Powder Caramelos Ácidos",
+      "name_en": "Focus Powder Sour Candy",
+      "price_usd": 35.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 286,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "focus-powder-daz-premium-fitcaramelos-acidos",
+      "fam": "focus-powder-premium",
+      "cg": "t-focus-powder-daz-premium-fit-caramelos-acidos",
+      "art_score": 9,
+      "img": "assets/products/shop/1663a909973f52eebe4e.jpg"
+    },
+    {
+      "id": "productifi-focus-powder-daz-premium-fitgusano-de-goma-agria",
+      "name_es": "Focus Powder Sour Gummi Worm",
+      "name_en": "Focus Powder Sour Gummi Worm",
+      "price_usd": 35.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 287,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "focus-powder-daz-premium-fitgusano-de-goma-agria",
+      "fam": "focus-powder-premium",
+      "cg": "t-focus-powder-daz-premium-fit-gusano-de-goma-agria",
+      "art_score": 8,
+      "img": "assets/products/shop/013a78991838d0740e32.jpg"
+    },
+    {
+      "id": "productifi-focus-powder-daz-premium-fituva-agria",
+      "name_es": "Focus Powder Uva Agria",
+      "name_en": "Focus Powder Sour Grape",
+      "price_usd": 35.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 288,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "focus-powder-daz-premium-fituva-agria",
+      "fam": "focus-powder-premium",
+      "cg": "t-focus-powder-daz-premium-fit-uva-agria",
+      "art_score": 8,
+      "img": "assets/products/shop/e62711c7755aecda31bf.jpg"
+    },
+    {
+      "id": "productifi-coq10-ubiquinone-daz-premium-fit",
+      "name_es": "CoQ10 Ubiquinona Premium",
+      "name_en": "CoQ10 Ubiquinone Premium",
+      "price_usd": 29.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 289,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "coq10-ubiquinone-daz-premium-fit",
+      "fam": "coq10-ubiquinone-premium",
+      "cg": "t-coq10-ubiquinone-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/6bddc9b93ee0da1c4e52.jpg"
+    },
+    {
+      "id": "productifi-keto-5-daz-premium-fit",
+      "name_es": "Keto-5 Suplemento Premium",
+      "name_en": "Keto-5 Premium Supplement",
+      "price_usd": 30.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 290,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "keto-5-daz-premium-fit",
+      "fam": "keto-premium-fit",
+      "cg": "t-keto-daz-premium-fit",
+      "art_score": 6,
+      "img": "assets/products/shop/f28c55f746209d79ded3.jpg"
+    },
+    {
+      "id": "interestprint-descarga-4-cross-back-pocket-sport-dress",
+      "name_es": "Vestido deportivo cruzado con bolsillo",
+      "name_en": "Cross back pocket sport dress",
+      "price_usd": 35.99,
+      "badge": "new",
+      "categories": [
+        "mujer/vestidos-monos-petos"
+      ],
+      "available": true,
+      "rank": 291,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "descarga-4-cross-back-pocket-sport-dress",
+      "fam": "descarga-cross-back",
+      "cg": "t-descarga-cross-back-pocket-sport-dress",
+      "art_score": 4,
+      "img": "assets/products/shop/3bd53c1f016debd5ed7c.jpg"
+    },
+    {
+      "id": "interestprint-descarga-4-cross-back-pocket-sport-dress-1",
+      "name_es": "Vestido deportivo cruzado con bolsillo",
+      "name_en": "Cross back pocket sport dress",
+      "price_usd": 35.99,
+      "badge": "new",
+      "categories": [
+        "mujer/vestidos-monos-petos"
+      ],
+      "available": true,
+      "rank": 292,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "descarga-4-cross-back-pocket-sport-dress-1",
+      "fam": "descarga-cross-back",
+      "cg": "t-descarga-cross-back-pocket-sport-dress",
+      "art_score": 4,
+      "img": "assets/products/shop/bd22b703cc431b9f0cfc.jpg"
+    },
+    {
+      "id": "productifi-mezcla-de-champinones-fermentados-daz-premium-fit",
+      "name_es": "Mezcla de Hongos Fermentados Premium",
+      "name_en": "Premium Fermented Mushroom Blend",
+      "price_usd": 45.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 293,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "mezcla-de-champinones-fermentados-daz-premium-fit",
+      "fam": "mezcla-champinones-fermentados",
+      "cg": "t-mezcla-de-champinones-fermentados-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/4b8f2bb7a93dbca5341d.jpg"
+    },
+    {
+      "id": "productifi-cordyceps-mushroom-daz-premium-fit",
+      "name_es": "Cordyceps Mushroom Premium Fit",
+      "name_en": "Cordyceps Mushroom Premium Fit",
+      "price_usd": 30.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 294,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "cordyceps-mushroom-daz-premium-fit",
+      "fam": "cordyceps-mushroom-premium",
+      "cg": "t-cordyceps-mushroom-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/95ddfd047cb8031f4870.jpg"
+    },
+    {
+      "id": "productifi-limpieza-suave-de-colon-daz-premium-fit",
+      "name_es": "Limpiador de Colon Suave",
+      "name_en": "Colon Gentle Cleanse",
+      "price_usd": 34.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 295,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "limpieza-suave-de-colon-daz-premium-fit",
+      "fam": "limpieza-suave-colon",
+      "cg": "t-limpieza-suave-de-colon-daz-premium-fit",
+      "art_score": 9,
+      "img": "assets/products/shop/208b730bedd0758debc8.jpg"
+    },
+    {
+      "id": "productifi-suero-para-el-crecimiento-del-cabello-con-peptidos-daz-premium-fit",
+      "name_es": "Sérum Capilar con Péptidos",
+      "name_en": "Peptide Hair Growth Serum",
+      "price_usd": 30.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 296,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "suero-para-el-crecimiento-del-cabello-con-peptidos-daz-premium-fit",
+      "fam": "suero-el-crecimiento",
+      "cg": "t-suero-para-el-crecimiento-del-cabello-con-peptidos-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/595f7d55d1d42a8352cb.jpg"
+    },
+    {
+      "id": "interestprint-abstract-organic-pattern-design-background-free-vector-front-zip-racer-back-sports-skirt-shorts-set",
+      "name_es": "Conjunto Deportivo con Vestido",
+      "name_en": "Athletic Skirt and Shorts Set",
+      "price_usd": 39.99,
+      "badge": "new",
+      "categories": [
+        "mujer/falda"
+      ],
+      "available": true,
+      "rank": 297,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "abstract-organic-pattern-design-background-_-free-vector-front-zip-racer-back-sports-skirt-shorts-set",
+      "fam": "abstract-organic-pattern",
+      "cg": "t-abstract-organic-pattern-design-background-free-vector-front-zip-racer-back-sports",
+      "art_score": 4,
+      "img": "assets/products/shop/52f6b2f19769aab5dccf.jpg"
+    },
+    {
+      "id": "productifi-trufas-de-birch-chaga-daz-premium-fit",
+      "name_es": "Trufas de abedul Chaga",
+      "name_en": "Birch Chaga Truffles",
+      "price_usd": 36.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 298,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "trufas-de-birch-chaga-daz-premium-fit",
+      "fam": "trufas-birch-chaga",
+      "cg": "t-trufas-de-birch-chaga-daz-premium-fit",
+      "art_score": 5,
+      "img": "assets/products/shop/231c37597e5126d790b7.jpg"
+    },
+    {
+      "id": "productifi-polvo-de-pan-de-abeja-daz-premium-fit",
+      "name_es": "Polvo de Pan de Abeja",
+      "name_en": "Bee Bread Powder",
+      "price_usd": 34.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 299,
+      "created": "2026-11-25",
+      "page": true,
+      "supplier_id": "polvo-de-pan-de-abeja-daz-premium-fit",
+      "fam": "polvo-pan-abeja",
+      "cg": "t-polvo-de-pan-de-abeja-daz-premium-fit",
+      "art_score": 8,
+      "img": "assets/products/shop/c4005d73fd811629c959.jpg"
     }
   ]
 }

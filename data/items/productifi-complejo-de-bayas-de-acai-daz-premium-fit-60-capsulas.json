@@ -1,0 +1,62 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "capsules",
+ "ai_type": "Food Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots of supplement bottle with professional lighting.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-complejo-de-bayas-de-acai-daz-premium-fit-capsulas",
+ "color": "White bottle + cap",
+ "created": "2026-11-25",
+ "desc_en": "Optimize your daily wellness with an advanced formula designed to support your active lifestyle. This complex combines selected ingredients to integrate seamlessly into your health and physical activity routine. Manufactured under rigorous standards in the United States, it offers a reliable and pure solution to complement your daily nutrition with complete peace of mind.",
+ "desc_es": "Optimiza tu bienestar diario con una fórmula avanzada diseñada para apoyar tu ritmo de vida. Este complejo combina ingredientes seleccionados para integrarse perfectamente en tu rutina de salud y actividad física. Fabricado bajo rigurosos estándares en Estados Unidos, ofrece una solución confiable y pura para complementar tu nutrición diaria con total tranquilidad.",
+ "details_en": "· 60 capsules per container\n· Ingredients: psyllium powder, acai berry fruit extract, inulin, slippery elm bark, aloe ferox powder 18%, chlorella, black walnut hulls powder, ginger root, hyssop leaf, papaya fruit powder, and lycopene 5%\n· Inactive ingredients: cellulose, vegetable magnesium stearate\n· Contains tree nuts\n· Encapsulated in USA\n· Made to order and worldwide shipping",
+ "details_es": "· 60 cápsulas por envase\n· Ingredientes: psyllium en polvo, extracto de baya de acai, inulina, corteza de olmo resbaladizo, aloe ferox en polvo al 18 %, clorella, cáscaras de nuez negra en polvo, raíz de jengibre, hoja de hisopo, papaya en polvo y licopeno al 5 %\n· Ingredientes inactivos: celulosa, estearato de magnesio vegetal\n· Contiene frutos secos\n· Encapsulado en EE. UU.\n· Elaborado para pedidos y envíos a todo el mundo",
+ "display_images": [
+  "assets/products/shop/5a1461ad2b2c9e84fba3.jpg",
+  "assets/products/shop/7be0ee2e22fe0dfbbcb0.jpg",
+  "assets/products/shop/2fef3e93ac8c7ee07dff.jpg",
+  "assets/products/shop/66ee79e2ea84a17789a6.jpg",
+  "assets/products/shop/63a879b4ee63f7b5cb2d.jpg"
+ ],
+ "draft": true,
+ "fam": "complejo-bayas-acai",
+ "hidden": false,
+ "id": "productifi-complejo-de-bayas-de-acai-daz-premium-fit-60-capsulas",
+ "look": [
+  "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+ ],
+ "material": "",
+ "name_en": "Acai Berry Complex",
+ "name_es": "Complejo de Bayas de Acai",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 251,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 Vegetable capsules"
+ ],
+ "source_title": "Complejo de bayas de acai DAZ Premium Fit (60 cápsulas)",
+ "stripe_payment_link": "https://buy.stripe.com/5kQ14objmeT2eyWayG1gX1k",
+ "supplier": "Productifi",
+ "supplier_id": "complejo-de-bayas-de-acai-daz-premium-fit-60-capsulas",
+ "visual_verified": true
+}
