@@ -101,6 +101,7 @@ SUPP_NAMES = [(r"advanced whey protein chocolate", "Proteína Whey Advanced · C
                "Creatine Monohydrate · 50 servings (281 g)"),
               (r"hydration electrolyte", "Electrolitos Hidratación · 30 dosis (174 g)",
                "Hydration Electrolyte · 30 servings (174 g)")]
+SUPP_MIN_PRICE = [(r"advanced whey protein chocolate", 49.0)]  # aprobado por el dueño el 26/11/2026
 SUPP_DESC = {
     "es": "Suplemento DAZ Premium Fit® (marca registrada en EE. UU., Reg. 8,056,872). Fórmula analizada en laboratorio y "
           "fabricada en EE. UU. en instalaciones certificadas GMP. Se prepara bajo pedido y se envía con seguimiento.",
@@ -109,7 +110,8 @@ SUPP_DESC = {
 }
 
 
-def store_rules(cfg, products, hide):
+def store_rules(cfg, products, hide, hide_fixes=None):
+    hide_fixes = hide_fixes if hide_fixes is not None else []
     """Solo ropa deportiva, calzado deportivo, accesorios de entreno y los suplementos permitidos."""
     r = cfg.get("store_rules") or {}
     if not r.get("enabled"):
@@ -131,6 +133,13 @@ def store_rules(cfg, products, hide):
                         if p.get("supplier") == "Productifi" and str(p.get("supplier_id", "")).startswith("wish4-"):
                             p["desc_es"], p["desc_en"] = SUPP_DESC["es"], SUPP_DESC["en"]
                         break
+                # precio mínimo aprobado por el dueño (nunca vender por debajo del coste de wish4 + envío)
+                for pat, floor in SUPP_MIN_PRICE:
+                    if re.search(pat, name) and (p.get("price_usd") or 0) < floor:
+                        p["price_usd"], p["locked_price"] = float(floor), True
+                        p.pop("stripe_payment_link", None)  # el motor crea el botón de pago nuevo y apaga el viejo
+                        p.pop("offer", None)
+                        hide_fixes.append(f"precio de «{p.get('name_es')}» subido a {floor} $")
             continue
         if re.search(NOT_SPORT, name) or (extra_block and re.search(extra_block, name)):
             hide(p, "no es de tienda deportiva")
@@ -196,7 +205,7 @@ def main():
         if p["id"] in st["hidden"]:
             p["hidden"] = True
 
-    store_rules(cfg, products, hide)
+    store_rules(cfg, products, hide, fixes)
 
     seen = {}
     for p in products:
