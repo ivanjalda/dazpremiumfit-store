@@ -1,0 +1,74 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Tank Top",
+ "ai_ver": 2,
+ "art_note": "Flat vector mockup style graphics that lack realism and high-end studio photography standards.",
+ "art_score": 2,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b089514edc552ae3508711c",
+ "color": "Black",
+ "created": "2026-11-26",
+ "desc_en": "Engineered for the demands of contemporary training. This racerback tank top combines a technical silhouette with a bold, streamlined aesthetic. The athletic cut promotes absolute freedom of movement during every high-intensity session. An essential garment created for those who demand uncompromised performance. Each piece is crafted to order to ensure an impeccable finish. Available with worldwide shipping.",
+ "desc_es": "Diseñada para la exigencia del entrenamiento contemporáneo. Esta camiseta de tirantes combina una silueta técnica con una estética audaz y depurada. Su corte racerback favorece la libertad de movimiento absoluta durante cada sesión de alta intensidad. Una prenda esencial concebida para quienes buscan rendimiento sin concesiones. Cada pieza se elabora bajo pedido especial para garantizar un acabado impecable. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order exclusively",
+ "details_es": "· Hecho a pedido exclusivamente",
+ "display_images": [
+  "https://images.printify.com/mockup/6b089514edc552ae3508711c/251657/126156/tough-bitch-elite-racerback-tank.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b089514edc552ae3508711c/251657/126157/tough-bitch-elite-racerback-tank.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "tough-bitch-elite",
+ "hidden": false,
+ "id": "printify-6b089514edc552ae3508711c",
+ "img_checked": "2026-11-26",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Tough Elite Racerback Tank",
+ "name_es": "Camiseta de tirantes Tough Elite",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 34.99,
+ "rank": 302,
+ "shipping_usd": 5.39,
+ "shipping_worst_usd": 13.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "27138551019297052455",
+  "14531368473993295721",
+  "11068129263437266334",
+  "19578490444490957709",
+  "14291109354571103304",
+  "15215850893556534763"
+ ],
+ "source_title": "Tough Bitch Elite Racerback Tank",
+ "stripe_payment_link": "https://buy.stripe.com/5kQfZicnq26gfD08qy1gY2Z",
+ "supplier": "Printify",
+ "supplier_id": "6b089514edc552ae3508711c",
+ "visual_verified": false
+}

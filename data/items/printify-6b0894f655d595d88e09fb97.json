@@ -1,0 +1,144 @@
+{
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "crewneck",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but lacks model imagery and features flat mockup styling.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printify-6b0894f655d595d88e09fb97",
+ "color": "Black",
+ "created": "2026-11-26",
+ "desc_en": "Engineered for absolute intensity. This silhouette combines commanding presence with superior performance. Its impeccable structure delivers unwavering comfort during training or recovery. The striking front detail defines a bold and determined aesthetic. An essential piece made to order with worldwide shipping.",
+ "desc_es": "Diseñada para la intensidad absoluta. Esta silueta combina presencia imponente y rendimiento superior. Su estructura impecable ofrece comodidad inquebrantable durante el entrenamiento o el descanso. El detalle frontal define una estética audaz y decidida. Una pieza esencial creada bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
+ "display_images": [
+  "https://images.printify.com/mockup/6b0894f655d595d88e09fb97/25459/98502/immortal-warrior-gold-crewneck.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b0894f655d595d88e09fb97/25459/98503/immortal-warrior-gold-crewneck.jpg?camera_label=back",
+  "https://images.printify.com/mockup/6b0894f655d595d88e09fb97/25459/100648/immortal-warrior-gold-crewneck.jpg?camera_label=folded"
+ ],
+ "draft": false,
+ "fam": "immortal-warrior-crewneck",
+ "hidden": false,
+ "id": "printify-6b0894f655d595d88e09fb97",
+ "img_checked": "2026-11-26",
+ "look": [
+  "printful-359535579",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "",
+ "name_en": "Immortal Warrior Gold Crewneck",
+ "name_es": "Sudadera Immortal Warrior Gold",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 45.99,
+ "rank": 310,
+ "shipping_usd": 8.79,
+ "shipping_worst_usd": 8.79,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "headers_es": [
+   "Talla",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación.",
+  "rows": [
+   [
+    "Width",
+    "-",
+    "20.0",
+    "22.0",
+    "24.0",
+    "26.0",
+    "28.0",
+    "30.0",
+    "32.0",
+    "34.0"
+   ],
+   [
+    "Length",
+    "-",
+    "27.0",
+    "28.0",
+    "29.0",
+    "30.0",
+    "31.0",
+    "32.0",
+    "33.0",
+    "34.0"
+   ],
+   [
+    "Sleeve length",
+    "-",
+    "33.5",
+    "34.5",
+    "35.5",
+    "36.5",
+    "37.5",
+    "38.5",
+    "39.5",
+    "40.5"
+   ]
+  ],
+  "unit": "inches / centimeters"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b0894f655d595d88e09fb97/25459/110127/immortal-warrior-gold-crewneck.jpg?camera_label=size-chart"
+ ],
+ "sizes": [
+  "2XL",
+  "XL",
+  "S",
+  "L",
+  "M",
+  "3XL",
+  "5XL",
+  "4XL"
+ ],
+ "skus": [
+  "22229651711083519853",
+  "14154681775966359629",
+  "14084164009420224453",
+  "63352359674184028054",
+  "30647409224232111645",
+  "28492699195687845357",
+  "28444043062219627128",
+  "17230025981357799134"
+ ],
+ "source_title": "Immortal Warrior Gold Crewneck",
+ "stripe_payment_link": "https://buy.stripe.com/6oU28s1IMbGQfD0eOW1gY33",
+ "supplier": "Printify",
+ "supplier_id": "6b0894f655d595d88e09fb97",
+ "visual_verified": false
+}

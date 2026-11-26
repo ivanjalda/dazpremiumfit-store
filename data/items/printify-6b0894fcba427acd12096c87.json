@@ -1,0 +1,187 @@
+{
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Tee",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography and styled flat-lay, maintaining a balanced presentation.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b0894fcba427acd12096c87",
+ "color": "White",
+ "created": "2026-11-26",
+ "desc_en": "A refined silhouette engineered for the demands of daily movement. The Immortal Warrior White Edition tee fuses minimalist aesthetics with commanding presence. The pure white tone acts as a canvas for a defining front graphic. Each piece is meticulously crafted to order to ensure ultimate exclusivity. The design prioritizes functionality without compromising a sophisticated visual line. Available with worldwide shipping.",
+ "desc_es": "Una silueta depurada diseñada para la exigencia del movimiento diario. La camiseta Immortal Warrior White Edition fusiona una estética minimalista con una presencia imponente. El tono blanco puro actúa como lienzo para una gráfica frontal de carácter definitorio. Cada pieza se elabora meticulosamente bajo pedido para garantizar la máxima exclusividad. El diseño prioriza la funcionalidad sin comprometer una línea visual sofisticada. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
+ "display_images": [
+  "https://images.printify.com/mockup/6b0894fcba427acd12096c87/12100/102005/immortal-warrior-white-edition-white-tee.jpg?camera_label=front-2",
+  "https://images.printify.com/mockup/6b0894fcba427acd12096c87/12100/102006/immortal-warrior-white-edition-white-tee.jpg?camera_label=back-2",
+  "https://images.printify.com/mockup/6b0894fcba427acd12096c87/12100/102001/immortal-warrior-white-edition-white-tee.jpg?camera_label=folded"
+ ],
+ "draft": false,
+ "fam": "immortal-warrior-edition",
+ "hidden": false,
+ "id": "printify-6b0894fcba427acd12096c87",
+ "img_checked": "2026-11-26",
+ "look": [
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "",
+ "name_en": "Immortal Warrior White Edition Tee",
+ "name_es": "Camiseta Immortal Warrior White Edition",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 28.99,
+ "rank": 318,
+ "shipping_usd": 7.99,
+ "shipping_worst_usd": 7.99,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Width (in)",
+   "Length (in)",
+   "Sleeve length (in)",
+   "Width (cm)",
+   "Length (cm)",
+   "Sleeve length (cm)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Ancho (in)",
+   "Largo (in)",
+   "Largo de manga (in)",
+   "Ancho (cm)",
+   "Largo (cm)",
+   "Largo de manga (cm)"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación.",
+  "rows": [
+   [
+    "XS",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "S",
+    "18.0",
+    "29.0",
+    "16.5",
+    "46.0",
+    "73.7",
+    "42.0"
+   ],
+   [
+    "M",
+    "20.0",
+    "30.0",
+    "18.0",
+    "50.8",
+    "76.2",
+    "45.7"
+   ],
+   [
+    "L",
+    "22.0",
+    "31.0",
+    "19.5",
+    "56.0",
+    "79.0",
+    "49.5"
+   ],
+   [
+    "XL",
+    "24.0",
+    "32.0",
+    "21.0",
+    "61.0",
+    "81.3",
+    "53.3"
+   ],
+   [
+    "2XL",
+    "26.0",
+    "33.0",
+    "22.4",
+    "66.0",
+    "84.0",
+    "57.0"
+   ],
+   [
+    "3XL",
+    "28.0",
+    "34.0",
+    "23.7",
+    "71.1",
+    "86.4",
+    "60.2"
+   ],
+   [
+    "4XL",
+    "30.0",
+    "35.0",
+    "25.0",
+    "76.2",
+    "89.0",
+    "63.5"
+   ],
+   [
+    "5XL",
+    "32.0",
+    "-",
+    "-",
+    "81.3",
+    "-",
+    "-"
+   ]
+  ],
+  "unit": "inches / cm"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b0894fcba427acd12096c87/12100/101998/immortal-warrior-white-edition-white-tee.jpg?camera_label=size-chart"
+ ],
+ "sizes": [
+  "S",
+  "XL",
+  "L",
+  "M",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "skus": [
+  "27619632782053413831",
+  "12501152178901945959",
+  "30472343935109880200",
+  "26123541396365062328",
+  "12034029651211619395",
+  "62236426988628262584",
+  "70773978716480504703",
+  "23808556699699864700"
+ ],
+ "source_title": "Immortal Warrior White Edition White Tee",
+ "stripe_payment_link": "https://buy.stripe.com/cNiaEYgDGfX6duScGO1gY36",
+ "supplier": "Printify",
+ "supplier_id": "6b0894fcba427acd12096c87",
+ "visual_verified": false
+}

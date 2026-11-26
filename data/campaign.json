@@ -6,15 +6,15 @@
   "discount_pct": 25,
   "es": {
     "eyebrow": "Black Week",
-    "title": "Black Week en la Maison",
-    "text": "Una semana, piezas seleccionadas con condiciones excepcionales. Solo en piezas elegidas y hasta agotar existencias.",
-    "cta": "Ver la selección"
+    "title": "Black Week DPF",
+    "text": "Una semana para equiparte con descuento. Prendas seleccionadas hasta agotar existencias.",
+    "cta": "Ver ofertas"
   },
   "en": {
     "eyebrow": "Black Week",
-    "title": "Black Week at the Maison",
-    "text": "One week only: selected pieces on exceptional terms. Selected pieces only, while availability lasts.",
-    "cta": "View the selection"
+    "title": "DPF Black Week",
+    "text": "One week to gear up for less. Selected items while stock lasts.",
+    "cta": "Shop the deals"
   },
   "offers": [],
   "gifts": [],

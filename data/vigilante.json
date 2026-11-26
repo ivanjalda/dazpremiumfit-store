@@ -218,15 +218,16 @@
     "productifi-polvo-de-pan-de-abeja-daz-premium-fit": "suplemento que no es del proveedor autorizado",
     "productifi-polvo-de-perla-de-abeja-daz-premium-fit": "suplemento que no es del proveedor autorizado",
     "productifi-plan-basico-de-20-mes": "suplemento que no es del proveedor autorizado",
-    "productifi-plan-premium-de-50-mes": "suplemento que no es del proveedor autorizado"
+    "productifi-plan-premium-de-50-mes": "suplemento que no es del proveedor autorizado",
+    "printify-tarro-de-cristal-con-diseno-de-diamante-y-pajita": "no es de tienda deportiva"
   },
   "checked": {},
-  "cursor": 170,
+  "cursor": 147,
   "last": {
-    "date": "2026-11-26T20:15+00:00",
-    "fixes": 219,
+    "date": "2026-11-26T20:27+00:00",
+    "fixes": 1,
     "checked_images": 80,
     "broken": 0,
-    "visible": 92
+    "visible": 103
   }
 }

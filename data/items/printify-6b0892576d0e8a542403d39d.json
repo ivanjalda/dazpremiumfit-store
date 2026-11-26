@@ -30,13 +30,13 @@
  ],
  "draft": false,
  "fam": "immortal-warrior-tank",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-6b0892576d0e8a542403d39d",
  "img_checked": "2026-11-26",
  "look": [
   "productifi-gel-refrescante-polar-flex-daz-premium-fit",
   "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
-  "productifi-apoyo-conjunto-daz-premium-fit",
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "",
@@ -44,6 +44,7 @@
  "name_es": "Camiseta sin mangas Immortal Warrior",
  "needs_review": false,
  "needs_studio": true,
+ "page": true,
  "price_usd": 33.99,
  "rank": 299,
  "shipping_usd": 4.95,

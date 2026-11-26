@@ -46,5 +46,125 @@
       32925
     ],
     "position": "front"
+  },
+  "sudadera": {
+    "blueprint_id": 49,
+    "blueprint": "Unisex Heavy Blend™ Crewneck Sweatshirt",
+    "provider_id": 99,
+    "provider": "Printify Choice",
+    "variant_ids": [
+      25397,
+      25428,
+      25459,
+      25490,
+      25521,
+      25552,
+      25583,
+      25614
+    ],
+    "position": "front"
+  },
+  "camiseta-blanca": {
+    "blueprint_id": 6,
+    "blueprint": "Unisex Heavy Cotton Tee",
+    "provider_id": 99,
+    "provider": "Printify Choice",
+    "variant_ids": [
+      12100,
+      12101,
+      12102,
+      12103,
+      12104,
+      12105,
+      24031,
+      24164
+    ],
+    "position": "front"
+  },
+  "tirantes-hombre-blanca": {
+    "blueprint_id": 39,
+    "blueprint": "Unisex Jersey Tank",
+    "provider_id": 3,
+    "provider": "Marco Fine Arts",
+    "variant_ids": [
+      24831,
+      24832,
+      24833
+    ],
+    "position": "front"
+  },
+  "tirantes-mujer": {
+    "blueprint_id": 1326,
+    "blueprint": "Women's Racerback Tank",
+    "provider_id": 217,
+    "provider": "Fulfill Engine",
+    "variant_ids": [
+      251654,
+      251655,
+      251656,
+      251657,
+      251658,
+      251659
+    ],
+    "position": "front"
+  },
+  "camiseta-mujer": {
+    "blueprint_id": 88,
+    "blueprint": "Women's Softstyle Tee",
+    "provider_id": 402,
+    "provider": "Atelier Katanga",
+    "variant_ids": [
+      33843,
+      33856,
+      33869,
+      33882,
+      33895
+    ],
+    "position": "front"
+  },
+  "sudadera-mujer": {
+    "blueprint_id": 673,
+    "blueprint": "Women’s Cropped Hooded Sweatshirt",
+    "provider_id": 99,
+    "provider": "Printify Choice",
+    "variant_ids": [
+      72692,
+      72700,
+      72708,
+      72716,
+      72724,
+      72732
+    ],
+    "position": "front"
+  },
+  "tirantes-mujer-blanca": {
+    "blueprint_id": 1326,
+    "blueprint": "Women's Racerback Tank",
+    "provider_id": 217,
+    "provider": "Fulfill Engine",
+    "variant_ids": [
+      251726,
+      251727,
+      251728,
+      251729,
+      251730,
+      251731,
+      251732
+    ],
+    "position": "front"
+  },
+  "camiseta-mujer-blanca": {
+    "blueprint_id": 88,
+    "blueprint": "Women's Softstyle Tee",
+    "provider_id": 402,
+    "provider": "Atelier Katanga",
+    "variant_ids": [
+      33841,
+      33854,
+      33867,
+      33880,
+      33893
+    ],
+    "position": "front"
   }
 }

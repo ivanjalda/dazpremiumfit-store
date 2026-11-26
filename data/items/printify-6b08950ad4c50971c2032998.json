@@ -1,0 +1,74 @@
+{
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Standard flat mockups and a basic composited model shot that lack high-end campaign atmosphere.",
+ "art_score": 4,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printify-6b08950ad4c50971c2032998",
+ "color": "Black",
+ "created": "2026-11-26",
+ "desc_en": "Elevate your wardrobe with this classic cropped hoodie designed to offer a seamless balance between relaxed comfort and urban sophistication. Its cropped silhouette defines the figure with modernity, while its deep black tone brings a timeless and versatile elegance. Crafted to accompany your movements with absolute fluidity, it stands as an essential piece for those who value refined design and uncompromising functionality. A garment of understated character that redefines the codes of contemporary style.",
+ "desc_es": "Eleva tu fondo de armario con esta sudadera cropped clásica diseñada para ofrecer un equilibrio perfecto entre comodidad relajada y sofisticación urbana. Su silueta recortada define la figura con modernidad, mientras que su tono negro profundo aporta una elegancia atemporal y versátil. Creada para acompañar tus movimientos con total fluidez, se posiciona como una pieza esencial para quienes valoran el diseño depurado y la funcionalidad sin concesiones. Una prenda de carácter sobrio que redefine los códigos del estilo contemporáneo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b08950ad4c50971c2032998/72716/16566/tough-bitch-classic-cropped-hoodie.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b08950ad4c50971c2032998/72716/16575/tough-bitch-classic-cropped-hoodie.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "tough-bitch-classic",
+ "hidden": false,
+ "id": "printify-6b08950ad4c50971c2032998",
+ "img_checked": "2026-11-26",
+ "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Classic Cropped Hoodie",
+ "name_es": "Sudadera Cropped Clásica",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 61.99,
+ "rank": 311,
+ "shipping_usd": 8.79,
+ "shipping_worst_usd": 8.79,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "65187507423951546018",
+  "24922036603821234581",
+  "31280939903416164036",
+  "24087523902486442392",
+  "27565967030817310716",
+  "13735056614083531143"
+ ],
+ "source_title": "Tough Bitch Classic Cropped Hoodie",
+ "stripe_payment_link": "https://buy.stripe.com/5kQ7sMgDG5is9eC36e1gY34",
+ "supplier": "Printify",
+ "supplier_id": "6b08950ad4c50971c2032998",
+ "visual_verified": false
+}

@@ -1,0 +1,181 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Tee",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots with flat graphic placement, standard e-commerce presentation.",
+ "art_score": 5,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b089526d4c50971c20329b9",
+ "color": "White",
+ "created": "2026-11-26",
+ "desc_en": "A refined silhouette engineered for daily demands. This essential piece combines a luminous white tone with a bold front graphic design. The construction prioritizes clean structure and distraction-free comfort. Designed to accompany every movement with absolute confidence. Available made to order with worldwide shipping.",
+ "desc_es": "Una silueta depurada diseñada para la exigencia diaria. Esta pieza esencial combina un tono blanco luminoso con un diseño frontal de gran carácter. La confección prioriza la estructura limpia y la comodidad sin distracciones. Pensada para acompañar cada movimiento con absoluta seguridad. Disponible bajo demanda con envíos a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
+ "display_images": [
+  "https://images.printify.com/mockup/6b089526d4c50971c20329b9/33867/137313/tough-bitch-white-edition-womens-white-tee.jpg?camera_label=left-sleeve",
+  "https://images.printify.com/mockup/6b089526d4c50971c20329b9/33867/137314/tough-bitch-white-edition-womens-white-tee.jpg?camera_label=right-sleeve",
+  "https://images.printify.com/mockup/6b089526d4c50971c20329b9/33867/101402/tough-bitch-white-edition-womens-white-tee.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b089526d4c50971c20329b9/33867/101403/tough-bitch-white-edition-womens-white-tee.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "tough-bitch-edition",
+ "hidden": false,
+ "id": "printify-6b089526d4c50971c20329b9",
+ "img_checked": "2026-11-26",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Tough Bitch White Tee",
+ "name_es": "Camiseta Blanca Tough Bitch",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 45.99,
+ "rank": 309,
+ "shipping_usd": 23.99,
+ "shipping_worst_usd": 23.99,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Width (in)",
+   "Length (in)",
+   "Sleeve length (in)",
+   "Width (cm)",
+   "Length (cm)",
+   "Sleeve length (cm)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Ancho (in)",
+   "Largo (in)",
+   "Largo de manga (in)",
+   "Ancho (cm)",
+   "Largo (cm)",
+   "Largo de manga (cm)"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by +/-1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +/-1.5 in (3.8 cm) debido a las tolerancias de fabricación.",
+  "rows": [
+   [
+    "XS",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "S",
+    "17.0",
+    "25.5",
+    "13.8",
+    "43.2",
+    "64.8",
+    "34.9"
+   ],
+   [
+    "M",
+    "19.0",
+    "26.0",
+    "14.5",
+    "48.3",
+    "66.0",
+    "36.8"
+   ],
+   [
+    "L",
+    "21.0",
+    "27.0",
+    "15.3",
+    "53.3",
+    "68.6",
+    "38.7"
+   ],
+   [
+    "XL",
+    "23.0",
+    "28.0",
+    "16.3",
+    "58.4",
+    "71.1",
+    "41.3"
+   ],
+   [
+    "2XL",
+    "25.0",
+    "28.5",
+    "17.0",
+    "63.5",
+    "72.4",
+    "43.2"
+   ],
+   [
+    "3XL",
+    "27.0",
+    "29.0",
+    "18.0",
+    "68.5",
+    "73.7",
+    "45.7"
+   ],
+   [
+    "4XL",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "5XL",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-"
+   ]
+  ],
+  "unit": "inches / centimeters"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b089526d4c50971c20329b9/33867/118009/tough-bitch-white-edition-womens-white-tee.jpg?camera_label=size-chart"
+ ],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "20942441028117783159",
+  "14361573878877346984",
+  "23055495115425776431",
+  "55826872582998237117",
+  "13487469769302671050"
+ ],
+ "source_title": "Tough Bitch White Edition Women's White Tee",
+ "stripe_payment_link": "https://buy.stripe.com/28E6oI5Z2cKU3UieOW1gY32",
+ "supplier": "Printify",
+ "supplier_id": "6b089526d4c50971c20329b9",
+ "visual_verified": false
+}

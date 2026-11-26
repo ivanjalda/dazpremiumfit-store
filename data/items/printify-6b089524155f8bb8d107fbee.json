@@ -1,0 +1,76 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Tank Top",
+ "ai_ver": 2,
+ "art_note": "The images are flat supplier mockups rather than professional campaign or studio shots.",
+ "art_score": 2,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b089524155f8bb8d107fbee",
+ "color": "White",
+ "created": "2026-11-26",
+ "desc_en": "This racerback tank top combines a bold design with an essential athletic silhouette. Its sporty cut is engineered to provide complete freedom of movement during every workout. The piece features a distinct front graphic that brings character and attitude to your performance wear. Each item is made to order and features worldwide shipping to ensure maximum exclusivity and quality with every delivery.",
+ "desc_es": "Esta camiseta sin mangas combina un diseño audaz con una silueta atlética esencial. Su corte deportivo está pensado para ofrecer total libertad de movimiento en cada entrenamiento. La pieza presenta un gráfico frontal distintivo que aporta carácter y actitud a tu indumentaria de rendimiento. Cada prenda se elabora bajo pedido y cuenta con envío a todo el mundo para garantizar la máxima exclusividad y calidad en cada entrega.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
+ "display_images": [
+  "https://images.printify.com/mockup/6b089524155f8bb8d107fbee/251729/126156/tough-bitch-white-edition-white-racerback-tank.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b089524155f8bb8d107fbee/251729/126157/tough-bitch-white-edition-white-racerback-tank.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "tough-bitch-edition",
+ "hidden": false,
+ "id": "printify-6b089524155f8bb8d107fbee",
+ "img_checked": "2026-11-26",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Tough Bitch Racerback Tank",
+ "name_es": "Camiseta sin mangas Tough Bitch",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 38.99,
+ "rank": 304,
+ "shipping_usd": 5.39,
+ "shipping_worst_usd": 13.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL"
+ ],
+ "skus": [
+  "15259812805334621209",
+  "14224273487293017233",
+  "32551351469050059029",
+  "17484964580822961665",
+  "13196716012559632810",
+  "26075454007950903337",
+  "24818990220974013073"
+ ],
+ "source_title": "Tough Bitch White Edition White Racerback Tank",
+ "stripe_payment_link": "https://buy.stripe.com/eVq8wQ4UY4eo9eCgX41gY31",
+ "supplier": "Printify",
+ "supplier_id": "6b089524155f8bb8d107fbee",
+ "visual_verified": false
+}

@@ -721,26 +721,6 @@
       "img": "assets/products/shop/48bf5428ceb50f1ca674.jpg"
     },
     {
-      "id": "printify-tarro-de-cristal-con-diseno-de-diamante-y-pajita",
-      "name_es": "Tarro de vidrio esmerilado",
-      "name_en": "Frosted glass jar",
-      "price_usd": 27.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 112,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "tarro-de-cristal-con-diseno-de-diamante-y-pajita",
-      "fam": "tarro-cristal-diseno",
-      "cg": "t-tarro-de-cristal-con-diseno-de-diamante-y-pajita",
-      "color": "Transparent",
-      "art_score": 8,
-      "img": "assets/products/shop/5e5ce222a5880d721c6c.jpg"
-    },
-    {
       "id": "interestprint-descarga-81-deep-v-neck-racerback-cutout-active-crop-tops",
       "name_es": "Top Corto Escotado Racerback",
       "name_en": "Deep V Racerback Crop Top",
@@ -1599,13 +1579,13 @@
       "available": true,
       "rank": 297,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b08923128a05af49e00a257",
       "fam": "emblem-tank-top",
       "cg": "printify-6b08923128a05af49e00a257",
       "color": "Black",
       "art_score": 4,
-      "img": "https://images.printify.com/mockup/6b08923128a05af49e00a257/24639/101889/dpf-emblem-tank-top.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b08923128a05af49e00a257/24639/101889/dpf-emblem-tank-top.jpg?camera_label=front"
     },
     {
       "id": "printify-6b0892436a219864bc0f11dd",
@@ -1619,13 +1599,13 @@
       "available": true,
       "rank": 298,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b0892436a219864bc0f11dd",
       "fam": "immortal-warrior-classic",
       "cg": "printify-6b0892436a219864bc0f11dd",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b0892436a219864bc0f11dd/24639/101889/immortal-warrior-classic-tank-top.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b0892436a219864bc0f11dd/24639/101889/immortal-warrior-classic-tank-top.jpg?camera_label=front"
     },
     {
       "id": "printify-6b0892576d0e8a542403d39d",
@@ -1640,12 +1620,113 @@
       "available": true,
       "rank": 299,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b0892576d0e8a542403d39d",
       "fam": "immortal-warrior-tank",
       "cg": "printify-6b0892576d0e8a542403d39d",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b0892576d0e8a542403d39d/24639/101889/immortal-warrior-gold-tank-top.jpg?camera_label=front",
+      "img": "https://images.printify.com/mockup/6b0892576d0e8a542403d39d/24639/101889/immortal-warrior-gold-tank-top.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b0894ffedc552ae350870fd",
+      "name_es": "Camiseta sin mangas Immortal Warrior White",
+      "name_en": "Immortal Warrior White Tank Top",
+      "price_usd": 37.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta",
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 300,
+      "created": "2026-11-26",
+      "supplier_id": "6b0894ffedc552ae350870fd",
+      "fam": "immortal-warrior-edition",
+      "cg": "printify-6b0894ffedc552ae350870fd",
+      "color": "White",
+      "art_score": 4,
+      "img": "https://images.printify.com/mockup/6b0894ffedc552ae350870fd/24828/101889/immortal-warrior-white-edition-white-tank-top.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b089504d4c50971c2032992",
+      "name_es": "Camiseta de Tirantes Classic",
+      "name_en": "Classic Racerback Tank",
+      "price_usd": 34.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 301,
+      "created": "2026-11-26",
+      "supplier_id": "6b089504d4c50971c2032992",
+      "fam": "tough-bitch-classic",
+      "cg": "printify-6b089504d4c50971c2032992",
+      "color": "Black",
+      "art_score": 2,
+      "img": "https://images.printify.com/mockup/6b089504d4c50971c2032992/251657/126156/tough-bitch-classic-racerback-tank.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b089514edc552ae3508711c",
+      "name_es": "Camiseta de tirantes Tough Elite",
+      "name_en": "Tough Elite Racerback Tank",
+      "price_usd": 34.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 302,
+      "created": "2026-11-26",
+      "supplier_id": "6b089514edc552ae3508711c",
+      "fam": "tough-bitch-elite",
+      "cg": "printify-6b089514edc552ae3508711c",
+      "color": "Black",
+      "art_score": 2,
+      "img": "https://images.printify.com/mockup/6b089514edc552ae3508711c/251657/126156/tough-bitch-elite-racerback-tank.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b08951c155f8bb8d107fbe2",
+      "name_es": "Camiseta Deportiva Tough Bitch Gold",
+      "name_en": "Tough Bitch Gold Racerback Tank",
+      "price_usd": 34.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 303,
+      "created": "2026-11-26",
+      "supplier_id": "6b08951c155f8bb8d107fbe2",
+      "fam": "tough-bitch-racerback",
+      "cg": "printify-6b08951c155f8bb8d107fbe2",
+      "color": "Black",
+      "art_score": 2,
+      "img": "https://images.printify.com/mockup/6b08951c155f8bb8d107fbe2/251657/126156/tough-bitch-gold-racerback-tank.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b089524155f8bb8d107fbee",
+      "name_es": "Camiseta sin mangas Tough Bitch",
+      "name_en": "Tough Bitch Racerback Tank",
+      "price_usd": 38.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 304,
+      "created": "2026-11-26",
+      "supplier_id": "6b089524155f8bb8d107fbee",
+      "fam": "tough-bitch-edition",
+      "cg": "printify-6b089524155f8bb8d107fbee",
+      "color": "White",
+      "art_score": 2,
+      "img": "https://images.printify.com/mockup/6b089524155f8bb8d107fbee/251729/126156/tough-bitch-white-edition-white-racerback-tank.jpg?camera_label=front",
       "page": true
     },
     {
@@ -1659,15 +1740,15 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 300,
+      "rank": 305,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b0892336a219864bc0f11ce",
       "fam": "emblem-hoodie",
       "cg": "printify-6b0892336a219864bc0f11ce",
       "color": "Black",
       "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b0892336a219864bc0f11ce/32920/98424/dpf-emblem-hoodie.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b0892336a219864bc0f11ce/32920/98424/dpf-emblem-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08923b75d150be770301a3",
@@ -1680,15 +1761,15 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 301,
+      "rank": 306,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b08923b75d150be770301a3",
       "fam": "emblem-hoodie",
       "cg": "printify-6b08923b75d150be770301a3",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b08923b75d150be770301a3/32920/98424/dpf-gold-emblem-hoodie.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b08923b75d150be770301a3/32920/98424/dpf-gold-emblem-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08924655d595d88e09f9a9",
@@ -1701,15 +1782,15 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 302,
+      "rank": 307,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b08924655d595d88e09f9a9",
       "fam": "immortal-warrior-classic",
       "cg": "printify-6b08924655d595d88e09f9a9",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b08924655d595d88e09f9a9/32920/98424/immortal-warrior-classic-hoodie.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b08924655d595d88e09f9a9/32920/98424/immortal-warrior-classic-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08924a6d0e8a542403d393",
@@ -1722,14 +1803,95 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 303,
+      "rank": 308,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b08924a6d0e8a542403d393",
       "fam": "immortal-warrior-elite",
       "cg": "printify-6b08924a6d0e8a542403d393",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b08924a6d0e8a542403d393/32920/98424/immortal-warrior-elite-hoodie.jpg?camera_label=front",
+      "img": "https://images.printify.com/mockup/6b08924a6d0e8a542403d393/32920/98424/immortal-warrior-elite-hoodie.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b089526d4c50971c20329b9",
+      "name_es": "Camiseta Blanca Tough Bitch",
+      "name_en": "Tough Bitch White Tee",
+      "price_usd": 45.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 309,
+      "created": "2026-11-26",
+      "supplier_id": "6b089526d4c50971c20329b9",
+      "fam": "tough-bitch-edition",
+      "cg": "printify-6b089526d4c50971c20329b9",
+      "color": "White",
+      "art_score": 5,
+      "img": "https://images.printify.com/mockup/6b089526d4c50971c20329b9/33867/137313/tough-bitch-white-edition-womens-white-tee.jpg?camera_label=left-sleeve",
+      "page": true
+    },
+    {
+      "id": "printify-6b0894f655d595d88e09fb97",
+      "name_es": "Sudadera Immortal Warrior Gold",
+      "name_en": "Immortal Warrior Gold Crewneck",
+      "price_usd": 45.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 310,
+      "created": "2026-11-26",
+      "supplier_id": "6b0894f655d595d88e09fb97",
+      "fam": "immortal-warrior-crewneck",
+      "cg": "printify-6b0894f655d595d88e09fb97",
+      "color": "Black",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b0894f655d595d88e09fb97/25459/98502/immortal-warrior-gold-crewneck.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b08950ad4c50971c2032998",
+      "name_es": "Sudadera Cropped Clásica",
+      "name_en": "Classic Cropped Hoodie",
+      "price_usd": 61.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 311,
+      "created": "2026-11-26",
+      "supplier_id": "6b08950ad4c50971c2032998",
+      "fam": "tough-bitch-classic",
+      "cg": "printify-6b08950ad4c50971c2032998",
+      "color": "Black",
+      "art_score": 4,
+      "img": "https://images.printify.com/mockup/6b08950ad4c50971c2032998/72716/16566/tough-bitch-classic-cropped-hoodie.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b089511a6afac34150de014",
+      "name_es": "Sudadera con Capucha Elite",
+      "name_en": "Elite Cropped Hoodie",
+      "price_usd": 61.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 312,
+      "created": "2026-11-26",
+      "supplier_id": "6b089511a6afac34150de014",
+      "fam": "tough-bitch-elite",
+      "cg": "printify-6b089511a6afac34150de014",
+      "color": "Black",
+      "art_score": 5,
+      "img": "https://images.printify.com/mockup/6b089511a6afac34150de014/72716/16566/tough-bitch-elite-cropped-hoodie.jpg?camera_label=front",
       "page": true
     },
     {
@@ -1743,15 +1905,15 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 304,
+      "rank": 313,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b08922d75d150be77030196",
       "fam": "emblem-tee",
       "cg": "printify-6b08922d75d150be77030196",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b08922d75d150be77030196/12124/102005/dpf-emblem-tee.jpg?camera_label=front-2",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b08922d75d150be77030196/12124/102005/dpf-emblem-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b08923855d595d88e09f999",
@@ -1764,15 +1926,15 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 305,
+      "rank": 314,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b08923855d595d88e09f999",
       "fam": "emblem-tee",
       "cg": "printify-6b08923855d595d88e09f999",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b08923855d595d88e09f999/12124/102005/dpf-gold-emblem-tee.jpg?camera_label=front-2",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b08923855d595d88e09f999/12124/102005/dpf-gold-emblem-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b089240c9d405a582022ee0",
@@ -1785,15 +1947,15 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 306,
+      "rank": 315,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b089240c9d405a582022ee0",
       "fam": "immortal-warrior-classic",
       "cg": "printify-6b089240c9d405a582022ee0",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b089240c9d405a582022ee0/12124/102005/immortal-warrior-classic-tee.jpg?camera_label=front-2",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b089240c9d405a582022ee0/12124/102005/immortal-warrior-classic-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b08924d75d150be770301be",
@@ -1806,15 +1968,15 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 307,
+      "rank": 316,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b08924d75d150be770301be",
       "fam": "immortal-warrior-elite",
       "cg": "printify-6b08924d75d150be770301be",
       "color": "Black",
       "art_score": 8,
-      "img": "https://images.printify.com/mockup/6b08924d75d150be770301be/12124/102005/immortal-warrior-elite-tee.jpg?camera_label=front-2",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b08924d75d150be770301be/12124/102005/immortal-warrior-elite-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b089254ba427acd12096a99",
@@ -1827,27 +1989,88 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 308,
+      "rank": 317,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b089254ba427acd12096a99",
       "fam": "immortal-warrior-tee",
       "cg": "printify-6b089254ba427acd12096a99",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b089254ba427acd12096a99/12124/102005/immortal-warrior-gold-tee.jpg?camera_label=front-2",
+      "img": "https://images.printify.com/mockup/6b089254ba427acd12096a99/12124/102005/immortal-warrior-gold-tee.jpg?camera_label=front-2"
+    },
+    {
+      "id": "printify-6b0894fcba427acd12096c87",
+      "name_es": "Camiseta Immortal Warrior White Edition",
+      "name_en": "Immortal Warrior White Edition Tee",
+      "price_usd": 28.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta",
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 318,
+      "created": "2026-11-26",
+      "supplier_id": "6b0894fcba427acd12096c87",
+      "fam": "immortal-warrior-edition",
+      "cg": "printify-6b0894fcba427acd12096c87",
+      "color": "White",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b0894fcba427acd12096c87/12100/102005/immortal-warrior-white-edition-white-tee.jpg?camera_label=front-2",
+      "page": true
+    },
+    {
+      "id": "printify-6b0895076a219864bc0f1429",
+      "name_es": "Camiseta clásica Tough Bitch",
+      "name_en": "Tough Bitch Classic Tee",
+      "price_usd": 46.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 319,
+      "created": "2026-11-26",
+      "supplier_id": "6b0895076a219864bc0f1429",
+      "fam": "tough-bitch-classic",
+      "cg": "printify-6b0895076a219864bc0f1429",
+      "color": "Black",
+      "art_score": 4,
+      "img": "https://images.printify.com/mockup/6b0895076a219864bc0f1429/33869/137313/tough-bitch-classic-womens-tee.jpg?camera_label=left-sleeve",
+      "page": true
+    },
+    {
+      "id": "printify-6b08951fedc552ae35087130",
+      "name_es": "Camiseta Tough Bitch Gold",
+      "name_en": "Tough Bitch Gold Tee",
+      "price_usd": 46.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 320,
+      "created": "2026-11-26",
+      "supplier_id": "6b08951fedc552ae35087130",
+      "fam": "tough-bitch-women",
+      "cg": "printify-6b08951fedc552ae35087130",
+      "color": "Black",
+      "art_score": 4,
+      "img": "https://images.printify.com/mockup/6b08951fedc552ae35087130/33869/137313/tough-bitch-gold-womens-tee.jpg?camera_label=left-sleeve",
       "page": true
     },
     {
       "id": "productifi-advanced-whey-protein-chocolate",
-      "name_es": "Proteína de Sueero de Chocolate",
-      "name_en": "Advanced Chocolate Whey Protein",
+      "name_es": "Proteína Whey Advanced · Chocolate (877 g)",
+      "name_en": "Advanced Whey Protein · Chocolate (877 g)",
       "price_usd": 22.9,
       "badge": "new",
       "categories": [
         "decor"
       ],
       "available": true,
-      "rank": 309,
+      "rank": 321,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "advanced-whey-protein-chocolate",

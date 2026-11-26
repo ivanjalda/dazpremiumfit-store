@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "",
-  "updated": "2026-11-26 20:11 UTC",
+  "updated": "2026-11-26 20:23 UTC",
   "totals": {
-    "catalogo": 311,
-    "a_la_vista": 311,
-    "disenos_a_la_vista": 281,
+    "catalogo": 323,
+    "a_la_vista": 323,
+    "disenos_a_la_vista": 293,
     "ocultos": 0,
-    "ia_revisados": 311,
+    "ia_revisados": 323,
     "ia_pendientes": 0,
-    "con_boton_de_pago": 311,
+    "con_boton_de_pago": 323,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 58,
     "ventas_30_dias": 0,
@@ -31,7 +31,7 @@
       "ocultos": 0
     },
     "Printify": {
-      "visibles": 37,
+      "visibles": 49,
       "ocultos": 0
     }
   },
@@ -46,10 +46,11 @@
     },
     {
       "date": "2026-11-26",
-      "n": 2,
+      "n": 3,
       "fixes": [
         "Mezcla de Café de Cáñamo: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
-        "Top Deportivo con Cremallera: inspección IA: era sports bra (women) → mujer/ropa-interior"
+        "Top Deportivo con Cremallera: inspección IA: era sports bra (women) → mujer/ropa-interior",
+        "DAZ Joint Support Capsules: inspección IA: era supplement (unisex) → decor"
       ]
     }
   ],
@@ -525,32 +526,33 @@
   "log": [
     "Dirección de la tienda: https://dazpremiumfit.com",
     "CSV leído: shopify_productos.csv",
-    "Printify: 12 piezas leídas",
+    "Printify: 24 piezas leídas",
     "Printful: 18 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 2 s",
-    "Productos en catálogo: 311 · a la vista: 311 · archivados: 0",
+    "⏱ lectura de proveedores: 4 s",
+    "Productos en catálogo: 323 · a la vista: 323 · archivados: 0",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "⏱ ventas, visitas y cupones: 0 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
     "IA: 12 productos revisados (fotos, guía de tallas y textos) · quedan 0",
-    "⏱ revisión con IA: 140 s",
-    "⏱ vigilante: 84 s",
+    "⏱ revisión con IA: 162 s",
+    "Vigilante: 1 correcciones en esta hora",
+    "⏱ vigilante: 85 s",
     "⏱ estudio de fotos: 0 s",
-    "Stripe: enlace normal listo para printify-6b08923128a05af49e00a257",
-    "Stripe: enlace normal listo para printify-6b0892436a219864bc0f11dd",
-    "Stripe: enlace normal listo para printify-6b0892576d0e8a542403d39d",
-    "Stripe: enlace normal listo para printify-6b0892336a219864bc0f11ce",
-    "Stripe: enlace normal listo para printify-6b08923b75d150be770301a3",
-    "Stripe: enlace normal listo para printify-6b08924655d595d88e09f9a9",
-    "Stripe: enlace normal listo para printify-6b08924a6d0e8a542403d393",
-    "Stripe: enlace normal listo para printify-6b08922d75d150be77030196",
-    "Stripe: enlace normal listo para printify-6b08923855d595d88e09f999",
-    "Stripe: enlace normal listo para printify-6b089240c9d405a582022ee0",
-    "Stripe: enlace normal listo para printify-6b08924d75d150be770301be",
-    "Stripe: enlace normal listo para printify-6b089254ba427acd12096a99",
+    "Stripe: enlace normal listo para printify-6b0894ffedc552ae350870fd",
+    "Stripe: enlace normal listo para printify-6b089504d4c50971c2032992",
+    "Stripe: enlace normal listo para printify-6b089514edc552ae3508711c",
+    "Stripe: enlace normal listo para printify-6b08951c155f8bb8d107fbe2",
+    "Stripe: enlace normal listo para printify-6b089524155f8bb8d107fbee",
+    "Stripe: enlace normal listo para printify-6b089526d4c50971c20329b9",
+    "Stripe: enlace normal listo para printify-6b0894f655d595d88e09fb97",
+    "Stripe: enlace normal listo para printify-6b08950ad4c50971c2032998",
+    "Stripe: enlace normal listo para printify-6b089511a6afac34150de014",
+    "Stripe: enlace normal listo para printify-6b0894fcba427acd12096c87",
+    "Stripe: enlace normal listo para printify-6b0895076a219864bc0f1429",
+    "Stripe: enlace normal listo para printify-6b08951fedc552ae35087130",
     "Stripe: 12 productos con enlace de pago nuevo en esta hora",
-    "⏱ enlaces de pago: 9 s",
+    "⏱ enlaces de pago: 10 s",
     "Cambio actualizado: 1 USD = 0.9112 EUR",
     "Listo."
   ]

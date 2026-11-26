@@ -1,0 +1,74 @@
+{
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean ghost mannequin product shots, but the model photo uses a low-quality digital mockup composite.",
+ "art_score": 5,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printify-6b089511a6afac34150de014",
+ "color": "Black",
+ "created": "2026-11-26",
+ "desc_en": "Engineered for uncompromised performance. This cropped hoodie combines refined proportions with a clean, functional aesthetic. The structured silhouette delivers freedom of movement without sacrificing elegance. An essential piece for those who demand excellence in every training session and throughout daily life. Made to order with worldwide shipping available.",
+ "desc_es": "Diseñada para un rendimiento sin concesiones. Esta sudadera corta combina proporciones refinadas con una estética depurada y funcional. Su silueta estructurada ofrece libertad de movimiento sin sacrificar la elegancia. Una prenda esencial para quienes exigen excelencia en cada entrenamiento y en su día a día. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
+ "display_images": [
+  "https://images.printify.com/mockup/6b089511a6afac34150de014/72716/16566/tough-bitch-elite-cropped-hoodie.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b089511a6afac34150de014/72716/16575/tough-bitch-elite-cropped-hoodie.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "tough-bitch-elite",
+ "hidden": false,
+ "id": "printify-6b089511a6afac34150de014",
+ "img_checked": "2026-11-26",
+ "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Elite Cropped Hoodie",
+ "name_es": "Sudadera con Capucha Elite",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 61.99,
+ "rank": 312,
+ "shipping_usd": 8.79,
+ "shipping_worst_usd": 8.79,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "15837580571002196673",
+  "23520897737093868690",
+  "20894338738477203288",
+  "45313866609797259316",
+  "22348112705086838203",
+  "23055278255457737434"
+ ],
+ "source_title": "Tough Bitch Elite Cropped Hoodie",
+ "stripe_payment_link": "https://buy.stripe.com/4gM00kfzCfX64Ym0Y61gY35",
+ "supplier": "Printify",
+ "supplier_id": "6b089511a6afac34150de014",
+ "visual_verified": false
+}

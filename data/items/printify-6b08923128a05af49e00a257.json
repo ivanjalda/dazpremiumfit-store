@@ -30,13 +30,13 @@
  ],
  "draft": false,
  "fam": "emblem-tank-top",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-6b08923128a05af49e00a257",
  "img_checked": "2026-11-26",
  "look": [
   "productifi-gel-refrescante-polar-flex-daz-premium-fit",
   "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
-  "productifi-apoyo-conjunto-daz-premium-fit",
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "",
@@ -44,6 +44,7 @@
  "name_es": "Camiseta sin mangas Dpf Emblem",
  "needs_review": false,
  "needs_studio": true,
+ "page": true,
  "price_usd": 33.99,
  "rank": 297,
  "shipping_usd": 4.95,

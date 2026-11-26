@@ -39,12 +39,59 @@
       "date": "2026-11-26"
     },
     "immortal-warrior-gold__camiseta-tirantes-hombre-sudadera.png": {
-      "status": "pendiente",
+      "status": "hecho",
       "products": {
         "camiseta": "6b089254ba427acd12096a99",
-        "tirantes-hombre": "6b0892576d0e8a542403d39d"
+        "tirantes-hombre": "6b0892576d0e8a542403d39d",
+        "sudadera": "6b0894f655d595d88e09fb97"
       },
       "image_id": "6b0892506d27d1b54294d1f7",
+      "date": "2026-11-26"
+    },
+    "immortal-warrior-white-edition__camiseta-blanca-tirantes-hombre-blanca.png": {
+      "status": "hecho",
+      "products": {
+        "camiseta-blanca": "6b0894fcba427acd12096c87",
+        "tirantes-hombre-blanca": "6b0894ffedc552ae350870fd"
+      },
+      "image_id": "6b0894fad1c1b35441913906",
+      "date": "2026-11-26"
+    },
+    "tough-bitch-classic__tirantes-mujer-camiseta-mujer-sudadera-mujer.png": {
+      "status": "hecho",
+      "products": {
+        "tirantes-mujer": "6b089504d4c50971c2032992",
+        "camiseta-mujer": "6b0895076a219864bc0f1429",
+        "sudadera-mujer": "6b08950ad4c50971c2032998"
+      },
+      "image_id": "6b089502c965123fc5822105",
+      "date": "2026-11-26"
+    },
+    "tough-bitch-elite__sudadera-mujer-tirantes-mujer.png": {
+      "status": "hecho",
+      "products": {
+        "sudadera-mujer": "6b089511a6afac34150de014",
+        "tirantes-mujer": "6b089514edc552ae3508711c"
+      },
+      "image_id": "6b08950d4abf409640e8ef51",
+      "date": "2026-11-26"
+    },
+    "tough-bitch-gold__tirantes-mujer-camiseta-mujer.png": {
+      "status": "hecho",
+      "products": {
+        "tirantes-mujer": "6b08951c155f8bb8d107fbe2",
+        "camiseta-mujer": "6b08951fedc552ae35087130"
+      },
+      "image_id": "6b0895179ea226fe54fdc969",
+      "date": "2026-11-26"
+    },
+    "tough-bitch-white-edition__tirantes-mujer-blanca-camiseta-mujer-blanca.png": {
+      "status": "hecho",
+      "products": {
+        "tirantes-mujer-blanca": "6b089524155f8bb8d107fbee",
+        "camiseta-mujer-blanca": "6b089526d4c50971c20329b9"
+      },
+      "image_id": "6b089522b3f07d6e6603511d",
       "date": "2026-11-26"
     }
   }

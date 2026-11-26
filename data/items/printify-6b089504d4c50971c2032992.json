@@ -1,0 +1,74 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Tank",
+ "ai_ver": 2,
+ "art_note": "Flat supplier mockup style lacking professional studio lighting and model photography.",
+ "art_score": 2,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b089504d4c50971c2032992",
+ "color": "Black",
+ "created": "2026-11-26",
+ "desc_en": "Engineered for the demands of daily training. This racerback silhouette delivers total freedom of movement and a precise fit. The refined aesthetic combines technical performance with an imposing presence. Each piece is made to order to ensure the highest standards of quality. Available for worldwide shipping.",
+ "desc_es": "Diseñada para la exigencia del entrenamiento diario. Esta silueta de espalda nadadora ofrece libertad de movimiento total y un ajuste preciso. Su estética depurada combina rendimiento técnico con una presencia imponente. Cada pieza es elaborada bajo pedido para garantizar los más altos estándares de calidad. Disponible para envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b089504d4c50971c2032992/251657/126156/tough-bitch-classic-racerback-tank.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b089504d4c50971c2032992/251657/126157/tough-bitch-classic-racerback-tank.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "tough-bitch-classic",
+ "hidden": false,
+ "id": "printify-6b089504d4c50971c2032992",
+ "img_checked": "2026-11-26",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Classic Racerback Tank",
+ "name_es": "Camiseta de Tirantes Classic",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 34.99,
+ "rank": 301,
+ "shipping_usd": 5.39,
+ "shipping_worst_usd": 13.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "13968691973557952782",
+  "30953709444254440013",
+  "62936331053508508325",
+  "21512629560227447206",
+  "25054513392861762886",
+  "28511811968870960050"
+ ],
+ "source_title": "Tough Bitch Classic Racerback Tank",
+ "stripe_payment_link": "https://buy.stripe.com/5kQ14ocnqh1a9eC22a1gY2Y",
+ "supplier": "Printify",
+ "supplier_id": "6b089504d4c50971c2032992",
+ "visual_verified": false
+}
