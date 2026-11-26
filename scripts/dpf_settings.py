@@ -18,7 +18,8 @@ from dz_common import load_json, save_json  # noqa: E402
 VERSION = 3
 RULES = {
     "enabled": True,
-    "allowed_supplements": ["advanced whey protein chocolate"],
+    "allowed_supplements": ["advanced whey protein chocolate", "advanced whey protein vanilla",
+                            "creatine monohydrate powder", "hydration electrolyte"],
     "nota": "Suplementos: SOLO los de Productifi (wish4.com). Supliful es de pago y no se usa.",
 }
 CAMPAIGN_TEXT = {
@@ -52,7 +53,7 @@ def apply():
         return
     before = repr(cfg)
     rules = dict(RULES)
-    rules.update({k: v for k, v in (cfg.get("store_rules") or {}).items() if k not in ("enabled", "nota")})
+    rules.update({k: v for k, v in (cfg.get("store_rules") or {}).items() if k not in ("enabled", "nota", "allowed_supplements")})
     rules["enabled"] = True
     cfg["store_rules"] = rules
     camps = []

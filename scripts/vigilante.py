@@ -94,7 +94,19 @@ SUPPLEMENT_WORDS = (r"supplement|suplement|prote[ií]na|protein|whey|creatin|pre
                     r"nitric oxide|melena de le[oó]n|chaga|perla de abeja|bee (pearl|bread)|remolacha|beet")
 
 SUPP_NAMES = [(r"advanced whey protein chocolate", "Proteína Whey Advanced · Chocolate (877 g)",
-               "Advanced Whey Protein · Chocolate (877 g)")]
+               "Advanced Whey Protein · Chocolate (877 g)"),
+              (r"advanced whey protein vanilla", "Proteína Whey Advanced · Vainilla (805 g)",
+               "Advanced Whey Protein · Vanilla (805 g)"),
+              (r"creatine monohydrate", "Creatina Monohidrato · 50 dosis (281 g)",
+               "Creatine Monohydrate · 50 servings (281 g)"),
+              (r"hydration electrolyte", "Electrolitos Hidratación · 30 dosis (174 g)",
+               "Hydration Electrolyte · 30 servings (174 g)")]
+SUPP_DESC = {
+    "es": "Suplemento DAZ Premium Fit® (marca registrada en EE. UU., Reg. 8,056,872). Fórmula analizada en laboratorio y "
+          "fabricada en EE. UU. en instalaciones certificadas GMP. Se prepara bajo pedido y se envía con seguimiento.",
+    "en": "DAZ Premium Fit® supplement (U.S. registered trademark, Reg. 8,056,872). Lab-tested formula made in the USA "
+          "in a GMP-certified facility. Prepared to order and shipped with tracking.",
+}
 
 
 def store_rules(cfg, products, hide):
@@ -116,6 +128,8 @@ def store_rules(cfg, products, hide):
                 for pat, es, en in SUPP_NAMES:
                     if re.search(pat, name):
                         p["name_es"], p["name_en"] = es, en
+                        if p.get("supplier") == "Productifi" and str(p.get("supplier_id", "")).startswith("wish4-"):
+                            p["desc_es"], p["desc_en"] = SUPP_DESC["es"], SUPP_DESC["en"]
                         break
             continue
         if re.search(NOT_SPORT, name) or (extra_block and re.search(extra_block, name)):

@@ -147,6 +147,10 @@ def send_interestprint(p, size, qty, a, ref, amount):
 
 def manual(p, head, size, qty, a, ref):
     sku = (p.get("sku_map") or {}).get(size or "unica") or ""
+    if (p.get("supplier") or "").lower() == "productifi":
+        head += ("\n💊 Suplemento de wish4 (Productifi): entra en https://wish4.com/marketplace/orders → «New order», "
+                 "elige el producto" + (f" n.º {p['supplier_product_id']}" if p.get("supplier_product_id") else "")
+                 + " y la dirección de abajo. Se paga a precio de coste con tu tarjeta de wish4.")
     notify(f"{head}\n\n👉 Haz este pedido tú en {p.get('supplier')}:\n"
            f"{p.get('source_title', '')}\nTalla: {size or '-'} · Cantidad: {qty}"
            f"{(' · SKU: ' + str(sku)) if sku else ''}\n\n"
