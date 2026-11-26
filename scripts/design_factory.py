@@ -67,6 +67,7 @@ def resolve_template(key, tpl, cache, catalog):
 def parse_name(filename):
     stem = os.path.splitext(filename)[0]
     name, _, tpls = stem.partition("__")
+    name = re.sub(r"^\d{4}-\d{2}-\d{2}_", "", name)  # la fecha del archivo no va en el nombre del producto
     title = " ".join(w.capitalize() for w in re.split(r"[-_ ]+", name) if w)
     keys = [k for k in re.split(r"[-,]+", tpls) if k] if tpls else []
     return title or "DPF", keys

@@ -13,7 +13,8 @@ Estilo de la marca: deportivo y llamativo, para prendas negras.
   - Atlético:   número grande de equipo con contorno y texto de club.
   - Escudo:     emblema hexagonal DPF grande con la frase debajo.
 Colores: rojo neón, azul eléctrico, lima, naranja, oro y blanco.
-Diseños de hombre (Immortal Warrior) y de mujer (Tough Bitch) alternados.
+Diseños de hombre (Immortal Warrior) y de mujer (Tough Bitch) alternados; los de escudo van a
+la colección DPF Emblem. Todos llevan el emblema hexagonal DPF. Archivo: FECHA_coleccion-frase__plantillas.png
 No usa marcas, personajes ni obras de nadie. Guarda lo hecho en data/design_studio.json.
 """
 
@@ -256,7 +257,10 @@ def style_atletico(rng, slogan, pal):
     m = mask_text(slogan, fit(slogan, F_BIG, W - 500, 380), spacing=18)
     paint(c, m, main, (W - m.width) / 2, y)
     y += m.height + 70
-    small_tag(c, rng.choice(TAGS), y, (190, 190, 190), 100, 36)
+    y = small_tag(c, rng.choice(TAGS), y, (190, 190, 190), 100, 36)
+    e = emblem(380)
+    if e:
+        c.alpha_composite(e, ((W - e.width) // 2, int(y + 90)))
     return c
 
 
@@ -273,6 +277,9 @@ def style_escudo(rng, slogan, pal):
     y += m.height + 60
     small_tag(c, "DAZ PREMIUM FIT", y, acc, 120, 60)
     return c
+
+
+COLLECTIONS = {"men": "Immortal Warrior", "women": "Tough Bitch", "emblem": "DPF Emblem"}
 
 
 def make(rng, n, used):
@@ -324,10 +331,14 @@ def main():
         rng = random.Random(f"dpf-sport-{n}-{today}")
         slogan, style, gender, art = make(rng, n, used)
         edition = sum(1 for x in state["made"] if x.get("slogan") == slogan) + 1
-        title = slogan.replace(">", "over").replace("&", "and") + ("" if edition == 1 else f" {edition}")
-        fname = f"{slug(title)}__{TEMPLATES[gender]}.png"
+        coll = COLLECTIONS["emblem"] if style == "escudo" else COLLECTIONS[gender]
+        clean = slogan.replace(">", "over").replace("&", "and")
+        title = f"{coll} {clean}" if clean.upper() != coll.upper() else coll
+        title += "" if edition == 1 else f" {edition}"
+        # Orden: fecha + colección + frase (la fecha no sale en el nombre del producto)
+        fname = f"{today}_{slug(title)}__{TEMPLATES[gender]}.png"
         art.save(os.path.join(OUT, fname), optimize=True)
-        state["made"].append({"name": title, "slogan": slogan, "style": style, "gender": gender,
+        state["made"].append({"name": title, "collection": coll, "slogan": slogan, "style": style, "gender": gender,
                               "file": fname, "date": today})
         used.add(slogan)
         made += 1
