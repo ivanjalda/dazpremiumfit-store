@@ -290,6 +290,28 @@
     return list.filter(p => { const k = p.cg || p.id; if (seen.has(k)) return false; seen.add(k); return true; });
   }
   const grid = list => list.length ? list.map(card).join('') : `<p class="empty">${t('empty')}</p>`;
+  /* Fuera repetidos: misma foto principal o mismo nombre = mismo producto a la vista */
+  function dedupe(list) {
+    const seen = new Set();
+    return list.filter(p => {
+      const a = 'i:' + (imgs(p)[0] || p.id), b = 'n:' + (p.name_es || p.name_en || p.id).toLowerCase().trim();
+      if (seen.has(a) || seen.has(b)) return false;
+      seen.add(a); seen.add(b); return true;
+    });
+  }
+  /* Escaparate variado: nunca dos seguidos del mismo diseño ni (si se puede) del mismo tipo de prenda */
+  function spread(list) {
+    const rest = list.slice(), out = [];
+    const des = p => p.fam || p.cg || p.id, typ = p => (p.categories || [''])[0];
+    while (rest.length) {
+      const last = out[out.length - 1];
+      let i = last ? rest.findIndex(p => des(p) !== des(last) && typ(p) !== typ(last)) : 0;
+      if (i < 0) i = rest.findIndex(p => des(p) !== des(last));
+      if (i < 0) i = 0;
+      out.push(rest.splice(i, 1)[0]);
+    }
+    return out;
+  }
   const picks = ids => (ids || []).map(id => S.byId[id]).filter(Boolean);
   const grp = p => ((p.categories || [''])[0].split('/')[0] || '').replace(/^calzado-.*/, 'calzado');
   /* Selección variada: como mucho 1 pieza por diseño y 2 por sección, alternando Mujer, Hombre, Calzado y Decor */
@@ -453,7 +475,8 @@
       if (v.sort === 'low') list.sort((a, b) => priceNow(a) - priceNow(b));
       if (v.sort === 'high') list.sort((a, b) => priceNow(b) - priceNow(a));
       if (v.sort === 'new') list.sort((a, b) => (b.created || '').localeCompare(a.created || ''));
-      list = collapse(list);
+      list = dedupe(collapse(list));
+      if (!v.sort || v.sort === 'featured') list = spread(list);
       let shown = 48;  // se muestran de 48 en 48 para que el móvil vaya rápido
       const paint = () => {
         $('#listGrid').innerHTML = grid(list.slice(0, shown));
