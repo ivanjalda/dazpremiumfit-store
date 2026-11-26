@@ -1,7 +1,7 @@
 {
   "key": "",
   "owner": "",
-  "updated": "2026-11-26 20:59 UTC",
+  "updated": "2026-11-26 22:16 UTC",
   "totals": {
     "catalogo": 338,
     "a_la_vista": 338,
@@ -46,11 +46,13 @@
     },
     {
       "date": "2026-11-26",
-      "n": 3,
+      "n": 5,
       "fixes": [
         "Mezcla de Café de Cáñamo: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
         "Top Deportivo con Cremallera: inspección IA: era sports bra (women) → mujer/ropa-interior",
-        "DAZ Joint Support Capsules: inspección IA: era supplement (unisex) → decor"
+        "DAZ Joint Support Capsules: inspección IA: era supplement (unisex) → decor",
+        "Café de Cáñamo Tostado Medio: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
+        "Shorts de doble capa Tough: inspección IA: era shorts (women) → mujer/pantalones-cortos"
       ]
     }
   ],
@@ -454,7 +456,7 @@
       "n": "Café de Cáñamo Tostado Medio",
       "s": "Productifi",
       "img": "assets/products/shop/a3aea3a4943060ddc022.jpg",
-      "c": "hombre/camiseta",
+      "c": "hombre/bolsos-carteras",
       "pr": 36.99
     },
     {
@@ -535,21 +537,11 @@
     "Stripe: ventas leídas de 0 productos",
     "⏱ ventas, visitas y cupones: 0 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: 9 productos revisados (fotos, guía de tallas y textos) · quedan 0",
-    "⏱ revisión con IA: 84 s",
-    "⏱ vigilante: 108 s",
+    "⏱ revisión con IA: 0 s",
+    "Vigilante: 2 correcciones en esta hora",
+    "⏱ vigilante: 172 s",
     "⏱ estudio de fotos: 0 s",
-    "Stripe: enlace normal listo para productifi-wish4-2562",
-    "Stripe: enlace normal listo para productifi-wish4-2564",
-    "Stripe: enlace normal listo para productifi-wish4-2563",
-    "Stripe: enlace normal listo para printify-6b089b3b155f8bb8d10801be",
-    "Stripe: enlace normal listo para printify-6b089b42c9d405a5820236ee",
-    "Stripe: enlace normal listo para printify-6b089b3e155f8bb8d10801c1",
-    "Stripe: enlace normal listo para printify-6b089b47867aed6ed008c5e1",
-    "Stripe: enlace normal listo para printify-6b089b38c9d405a5820236ea",
-    "Stripe: enlace normal listo para printify-6b089b44c9d405a5820236f1",
-    "Stripe: 9 productos con enlace de pago nuevo en esta hora",
-    "⏱ enlaces de pago: 7 s",
+    "⏱ enlaces de pago: 0 s",
     "Cambio actualizado: 1 USD = 0.9112 EUR",
     "Listo."
   ]

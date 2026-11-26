@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:59:26Z",
+  "updated": "2026-11-26T22:16:53Z",
   "products": [
     {
       "id": "productifi-wish4-2562",
@@ -14,7 +14,7 @@
       "needs_review": false,
       "created": "2026-11-26",
       "material": "",
-      "color": "",
+      "color": "red",
       "shop_category": "",
       "raw_images": [
         "assets/verified/wish4/creatine.jpg"
@@ -25,7 +25,7 @@
       "shop_verified": true,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DAZ Premium Fit Creatine Monohydrate Powder 281g 50 servings supplement creatine supplement",
+      "source_text": "DAZ Premium Fit Creatine Monohydrate Powder 281g 50 servings supplement creatine supplement supplement red",
       "name_es": "Creatina Monohidrato · 50 dosis (281 g)",
       "name_en": "Creatine Monohydrate · 50 servings (281 g)",
       "desc_es": "Suplemento DAZ Premium Fit® (marca registrada en EE. UU., Reg. 8,056,872). Fórmula analizada en laboratorio y fabricada en EE. UU. en instalaciones certificadas GMP. Se prepara bajo pedido y se envía con seguimiento.",
@@ -101,7 +101,7 @@
       "needs_review": false,
       "created": "2026-11-26",
       "material": "",
-      "color": "",
+      "color": "red",
       "shop_category": "",
       "raw_images": [
         "assets/verified/wish4/electrolyte.jpg"
@@ -112,7 +112,7 @@
       "shop_verified": true,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DAZ Premium Fit Hydration Electrolyte 174g 30 servings supplement electrolyte supplement",
+      "source_text": "DAZ Premium Fit Hydration Electrolyte 174g 30 servings supplement electrolyte supplement supplement red",
       "name_es": "Electrolitos Hidratación · 30 dosis (174 g)",
       "name_en": "Hydration Electrolyte · 30 servings (174 g)",
       "desc_es": "Suplemento DAZ Premium Fit® (marca registrada en EE. UU., Reg. 8,056,872). Fórmula analizada en laboratorio y fabricada en EE. UU. en instalaciones certificadas GMP. Se prepara bajo pedido y se envía con seguimiento.",
@@ -188,7 +188,7 @@
       "needs_review": false,
       "created": "2026-11-26",
       "material": "",
-      "color": "",
+      "color": "red",
       "shop_category": "",
       "raw_images": [
         "assets/verified/wish4/whey-vanilla.jpg"
@@ -199,7 +199,7 @@
       "shop_verified": true,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DAZ Premium Fit Advanced Whey Protein Vanilla 805g protein supplement whey protein supplement",
+      "source_text": "DAZ Premium Fit Advanced Whey Protein Vanilla 805g protein supplement whey protein supplement protein supplement red",
       "name_es": "Proteína Whey Advanced · Vainilla (805 g)",
       "name_en": "Advanced Whey Protein · Vanilla (805 g)",
       "desc_es": "Suplemento DAZ Premium Fit® (marca registrada en EE. UU., Reg. 8,056,872). Fórmula analizada en laboratorio y fabricada en EE. UU. en instalaciones certificadas GMP. Se prepara bajo pedido y se envía con seguimiento.",
@@ -27734,7 +27734,8 @@
       "stripe_payment_link": "https://buy.stripe.com/dRmfZi3QUaCM8ay4ai1gW3f",
       "stripe_link_id": "plink_1Ufq24LJVU4oTPuXpmvzkufv",
       "stripe_price_cents": 3499,
-      "stripe_site": "https://dazpremiumfit.com"
+      "stripe_site": "https://dazpremiumfit.com",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-potenciador-de-testosterona-daz-premium-fit",
@@ -27853,7 +27854,8 @@
       "details_en": "· Content: 90 vegetable capsules\n· Ingredients: Magnesium, Zinc, Tribulus Terrestris, Chrysin, Horny Goat Weed, Longjack, Saw Palmetto Berries, Hawthorn Berries, Cissus Quadrangularis\n· Vegetable cellulose capsule, rice flour, magnesium stearate\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "men"
+      "gender": "men",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-polvo-hidratante-daz-premium-fit-limonada",
@@ -27988,7 +27990,8 @@
       "details_en": "· Lemonade flavor\n· Caffeine-free\n· Keto-friendly\n· Net weight: 5.78oz (164g)\n· Worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-polvo-hidratante-daz-premium-fit-lychee",
@@ -28130,7 +28133,8 @@
       "details_en": "· Flavor: Lychee\n· Net weight: 5.29 oz (150 g)\n· Caffeine-free and sugar-free\n· Keto-friendly\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-polvo-hidratante-daz-premium-fit-maracuya",
@@ -28248,7 +28252,8 @@
       "details_en": "· Serving Size: 1 Scoop (5g)\n· Servings Per Container: 30\n· Net wt: 5.78oz (164g)\n· Caffeine-free and sugar-free\n· Keto-friendly\n· Made to order",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-polvo-hidratante-daz-premium-fit-melocoton-y-mango",
@@ -28365,7 +28370,8 @@
       "details_en": "· Peach and mango flavor\n· Caffeine and sugar free\n· Net weight 5.78 oz (164 g)\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-polvo-hidratante-daz-premium-fit-te-verde-matcha",
@@ -28505,7 +28511,8 @@
       "details_en": "· Net weight 5.29 oz / 150 g\n· Serving size 1 scoop (5 g)\n· 30 servings per container\n· Made to order\n· Worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "printful-484195395-black",
@@ -28638,7 +28645,8 @@
         "assets/products/shop/1758572d3f568c0917c4.jpg",
         "assets/products/shop/769a5dabb946b2901b1e.jpg",
         "assets/products/shop/6d92dd6b715799c56466.jpg"
-      ]
+      ],
+      "audited": "2026-11-26"
     },
     {
       "id": "printful-484195395-white",
@@ -28771,7 +28779,8 @@
         "assets/products/shop/047d2c9f6921a556ce88.jpg",
         "assets/products/shop/769a5dabb946b2901b1e.jpg",
         "assets/products/shop/6d92dd6b715799c56466.jpg"
-      ]
+      ],
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz",
@@ -28779,7 +28788,8 @@
       "supplier_id": "mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz",
       "source_title": "Mezcla de café de cáñamo DAZ Premium Fit - Tostado medio 16oz",
       "categories": [
-        "hombre/camiseta"
+        "hombre/bolsos-carteras",
+        "mujer/bolsos-carteras"
       ],
       "cost_usd": 19.0,
       "sizes": [
@@ -28857,8 +28867,8 @@
       "fam": "mezcla-cafe-canamo",
       "cg": "t-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz",
       "look": [
+        "printful-359535579",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
       "page": false,
@@ -28886,7 +28896,7 @@
         ],
         "guides": []
       },
-      "ai_type": "Coffee",
+      "ai_type": "coffee bag",
       "ai_gender": "unisex",
       "ai_color": "Brown",
       "ai_material": "90% USDA Organic Arabica Coffee + 10% USDA Organic Hemp Protein Powder",
@@ -28904,7 +28914,12 @@
       "stripe_payment_link": "https://buy.stripe.com/8x2dRaafi6mwgH422a1gW3n",
       "stripe_link_id": "plink_1Ufq29LJVU4oTPuXe7ZQchoG",
       "stripe_price_cents": 3699,
-      "stripe_site": "https://dazpremiumfit.com"
+      "stripe_site": "https://dazpremiumfit.com",
+      "audited": "2026-11-26",
+      "ai_cats": [
+        "hombre/bolsos-carteras",
+        "mujer/bolsos-carteras"
+      ]
     },
     {
       "id": "interestprint-descarga-63-womens-high-waisted-leggings-model-l36",
@@ -29094,7 +29109,8 @@
       "details_en": "· Composition: 94% polyester and 6% elastane.\n· Cut: high waist, wide waistband, and full length.\n· Fit: fitted and stretchy.\n· Design: red on black print and DPF graphic details.\n· Care: machine wash cold at max 40 °C, do not bleach, iron with a protective cloth, do not tumble dry, avoid direct sunlight when drying.\n· Made to order and worldwide shipping.",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-26"
     },
     {
       "id": "printify-vaso-gator-de-32-oz-daz-premium-fit",
@@ -29231,7 +29247,8 @@
       "details_en": "· Stainless steel bottle\n· Black plastic screw-on lid\n· One size: 32 oz (0.95 l)\n· Double insulation construction\n· Interior plastic straw included\n· Hand wash only\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-capsulas-de-bienestar-del-microbioma-de-birch-chaga-daz-premium-fit",
@@ -29349,7 +29366,8 @@
       "details_en": "· 30 capsules per container\n· Ingredients: Birch Chaga, wood extract with humic substance\n· 25% humic acid and 75% fulvic acid\n· Plant-based cellulose capsule\n· Gross weight 0.05 lb (24 g)\n· Made in Latvia\n· Made to order with worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-crema-de-colageno-sleep-plus-daz-premium-fit",
@@ -29459,7 +29477,8 @@
       "details_en": "· Net weight: 2 oz / 56 g\n· Key ingredients: Melatonin, hyaluronic acid, collagen, avocado oil, lavender oil\n· Made in USA\n· Made to order with worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-natural-gut-wellness-capsules",
@@ -29580,7 +29599,8 @@
       "details_en": "· 30 capsules per container\n· Plant-based cellulose capsule\n· Ingredients: Birch Chaga and Pine Bark extract\n· Containing humic and fulvic acid\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "printify-botella-termica-de-20-oz-perfecta-para-la-hidratacion-sobre-la-marcha",
@@ -29701,7 +29721,8 @@
       "details_en": "· 590 ml capacity\n· Corrosion-resistant stainless steel construction\n· Leak-proof design\n· Double-wall insulation\n· Hand wash only",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-polvo-de-bienestar-del-microbioma-birch-chaga-daz-premium-fit",
@@ -29821,7 +29842,8 @@
       "details_en": "· Composition: Birch Chaga, wood extract containing humic substance (25% humic acid, 75% fulvic acid)\n· Content: 60 servings, gross weight 0.08 lb (36 g)\n· Suggested use: 1/3 teaspoon per day mixed with water, juice, tea, or coffee\n· Made to order with worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-barro-del-mar-muerto-daz-premium-fit",
@@ -30199,7 +30221,8 @@
       "details_en": "· Ingredients: Bovine hide collagen peptides\n· Flavor: Unflavored\n· Product quantity: 0.62 lb (280 g)\n· Made in USA",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-polvo-natural-para-el-bienestar-intestinal-daz",
@@ -30320,7 +30343,8 @@
       "details_en": "· Ingredients: Chaga birch and pine bark extract\n· Contains humic and fulvic acid\n· Easy-to-mix powder format\n· Made to order\n· Worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "interestprint-action-painting-i-mila-blau-elastic-waist-double-layered-active-shorts",
@@ -30328,7 +30352,7 @@
       "supplier_id": "action-painting-i-mila-blau-elastic-waist-double-layered-active-shorts",
       "source_title": "Shorts deportivos de mujer DPF Tough Bitch de doble capa",
       "categories": [
-        "mujer/chaqueta-sudadera-sueter"
+        "mujer/pantalones-cortos"
       ],
       "cost_usd": 13.97,
       "sizes": [
@@ -30460,9 +30484,9 @@
       "cg": "t-shorts-deportivos-de-mujer-dpf-tough-bitch-de-doble-capa",
       "look": [
         "interestprint-design-womens-crop-rugby-jersey",
+        "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
         "interestprint-design-custom-womens-high-waist-legging",
-        "interestprint-design-womens-high-waist-layered-sport-skirt",
-        "interestprint-descarga-31-racerback-sports-bra"
+        "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
       "page": true,
       "stripe_product_id": "prod_VhAREXK0yHWtG0",
@@ -30519,13 +30543,14 @@
       "ai_color": "black",
       "ai_material": "96% poliéster, 4% elastano",
       "ai_cats": [
-        "mujer/chaqueta-sudadera-sueter"
+        "mujer/pantalones-cortos"
       ],
       "details_es": "· 96 % poliéster y 4 % elastano\n· Cintura alta con banda elástica ancha\n· Diseño de doble capa con bajo tipo pétalo y abertura lateral\n· Lavar a mano o a máquina a un máximo de 45 °C\n· Hecho bajo demanda y disponible con envío mundial",
       "details_en": "· 96% polyester and 4% elastane\n· High waist with wide elastic band\n· Double-layer design with petal hem and side slit\n· Hand or machine wash at a maximum of 45 °C\n· Made to order and available with worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-26"
     },
     {
       "id": "printful-484199287-black",
@@ -44323,7 +44348,7 @@
         "notes_en": "Please note that size chart measurements may vary by +-1.0 in (2.5 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +-1.0 in (2.5 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Immortal Warrior No Days Off Tank Top Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
+      "source_text": "Immortal Warrior No Days Off Tank Top Tank Top Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
       "name_es": "Camiseta sin mangas Immortal Warrior",
       "name_en": "Immortal Warrior Tank Top",
       "desc_es": "Defina su disciplina con una silueta diseñada para el rendimiento absoluto. Esta prenda combina una estética minimalista con un enfoque implacable en la fuerza. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad y precisión. El diseño frontal transmite una presencia imponente sin distracciones. Pensado para quienes exigen excelencia en cada sesión de entrenamiento. Una declaración de compromiso eterno con sus objetivos físicos. Disponible con envíos a todo el mundo.",
@@ -44403,7 +44428,8 @@
       "stripe_link_id": "plink_1Ug9obLJVU4oTPuX3iKftnio",
       "stripe_price_cents": 3399,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b0894ffedc552ae350870fd",
@@ -45153,7 +45179,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Tough Bitch Queen Of Iron Racerback Tank Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
+      "source_text": "Tough Bitch Queen Of Iron Racerback Tank racerback tank Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
       "name_es": "Camiseta de tirantes Queen of Iron",
       "name_en": "Queen of Iron Tank",
       "desc_es": "Diseñada para quienes dominan el entrenamiento con determinación absoluta. Esta camiseta de tirantes combina una silueta técnica con una presencia imponente. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta en cada envío internacional. La estética limpia se encuentra con el rendimiento puro. Eleve su equipamiento de entrenamiento con una prenda creada para destacar en cualquier entorno de alta exigencia.",
@@ -45231,7 +45257,8 @@
       "stripe_link_id": "plink_1Ug9obLJVU4oTPuXEpH0hKjl",
       "stripe_price_cents": 3499,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "printify-6b089524155f8bb8d107fbee",
@@ -46753,7 +46780,7 @@
         "notes_en": "Please note that size chart measurements may vary by +-1.5 in (3.8 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +-1.5 in (3.8 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Immortal Warrior No Days Off Hoodie Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
+      "source_text": "Immortal Warrior No Days Off Hoodie Hoodie Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
       "name_es": "Sudadera Immortal Warrior No Days Off",
       "name_en": "Immortal Warrior No Days Off Hoodie",
       "desc_es": "Esta sudadera combina funcionalidad atlética con un diseño depurado. Confeccionada para ofrecer un confort superior durante el entrenamiento o el descanso. Su silueta estructurada aporta una presencia imponente. Cada pieza se elabora bajo pedido y cuenta con envíos a todo el mundo. La estética minimalista se une al rendimiento diario.",
@@ -46850,7 +46877,8 @@
       "stripe_link_id": "plink_1Ug9ocLJVU4oTPuXJmQ30nJ1",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b089526d4c50971c20329b9",
@@ -47777,7 +47805,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Tough Bitch Queen Of Iron Cropped Hoodie Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
+      "source_text": "Tough Bitch Queen Of Iron Cropped Hoodie hoodie Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
       "name_es": "Sudadera corta Queen of Iron",
       "name_en": "Queen of Iron Cropped Hoodie",
       "desc_es": "Una silueta audaz definida por una estructura corta y un diseño depurado. La capucha estructurada aporta una presencia imponente. El negro profundo absorbe la luz con sobriedad. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad. Envíos disponibles a todo el mundo. La fusión definitiva entre la fuerza interior y la estética contemporánea.",
@@ -47788,7 +47816,8 @@
       "shipping_worst_usd": 8.79,
       "images_original": [
         "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front",
-        "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16575/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=back"
+        "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16575/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16690/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=on-person"
       ],
       "images_model": [
         "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16690/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=on-person"
@@ -47862,7 +47891,8 @@
       "stripe_link_id": "plink_1Ug9odLJVU4oTPuXblEt1znd",
       "stripe_price_cents": 6199,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "printify-6b08922d75d150be77030196",
@@ -49720,7 +49750,7 @@
         "notes_en": "Please note that size chart measurements may vary by +-1.5 in (3.8 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +-1.5 in (3.8 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Immortal Warrior No Days Off Tee Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
+      "source_text": "Immortal Warrior No Days Off Tee T-Shirt Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
       "name_es": "Camiseta Immortal Warrior No Days Off",
       "name_en": "Immortal Warrior No Days Off Tee",
       "desc_es": "Defina su disciplina diaria con esta pieza esencial de rendimiento. Diseñada para mantener el enfoque absoluto durante las sesiones más exigentes, combina una estética depurada con una presencia imponente. Cada prenda se confecciona bajo pedido para garantizar un estándar superior de exclusividad. Disponible con envío a todo el mundo.",
@@ -49816,7 +49846,8 @@
       "stripe_link_id": "plink_1Ug9oeLJVU4oTPuXx37AwfEn",
       "stripe_price_cents": 2899,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b0895076a219864bc0f1429",
@@ -50603,7 +50634,7 @@
         "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Tough Bitch Queen Of Iron Women's Tee Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
+      "source_text": "Tough Bitch Queen Of Iron Women's Tee T-Shirt Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
       "name_es": "Camiseta Queen Of Iron",
       "name_en": "Queen Of Iron Tee",
       "desc_es": "Esta pieza encarna la fuerza y la disciplina en su forma más pura. Diseñada para acompañar cada sesión de entrenamiento con una presencia imponente. El tono negro profundo define una estética depurada y directa. La silueta ofrece un ajuste preciso que acompaña el movimiento sin distracciones. Fabricada bajo demanda para garantizar una exclusividad absoluta. Envío disponible a todo el mundo.",
@@ -50697,7 +50728,8 @@
       "stripe_link_id": "plink_1Ug9ofLJVU4oTPuXEgBYW1mS",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "productifi-advanced-whey-protein-chocolate",
@@ -50735,7 +50767,7 @@
       "name_en": "Advanced Whey Protein · Chocolate (877 g)",
       "desc_es": "Forma avanzada de proteína diseñada para apoyar la recuperación muscular y el rendimiento diario. Elaborada con proteína de suero de alta calidad y un suave perfil de chocolate, esta mezcla nutre estilos de vida activos. Disponible con envíos a todo el mundo y fabricada bajo demanda.",
       "desc_en": "Advanced high-quality protein formula designed to support muscle recovery, strength, and everyday performance. Made with premium whey protein and a smooth chocolate flavor, this blend helps fuel workouts and promote lean muscle growth. Available with worldwide shipping and made to order.",
-      "price_usd": 22.9,
+      "price_usd": 49.0,
       "margin_pct": null,
       "fixed_price": true,
       "images_original": [
@@ -50766,7 +50798,6 @@
       "page": true,
       "stripe_product_id": "prod_VhASlBb0CjXIEd",
       "size_values": {},
-      "stripe_payment_link": "https://buy.stripe.com/5kQdRabjm9yIgH436e1gX0y",
       "stripe_link_id": "plink_1Ufq2vLJVU4oTPuXmEovpCic",
       "stripe_price_cents": 2290,
       "stripe_site": "https://dazpremiumfit.com",
@@ -50801,7 +50832,8 @@
       "details_en": "· Made to order\n· Worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "locked_price": true
     },
     {
       "id": "productifi-plan-basico-de-20-mes",

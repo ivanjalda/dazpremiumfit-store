@@ -33,6 +33,7 @@
  "gender": "unisex",
  "hidden": false,
  "id": "productifi-advanced-whey-protein-chocolate",
+ "locked_price": true,
  "look": [
   "productifi-wish4-2562"
  ],
@@ -42,7 +43,7 @@
  "needs_review": false,
  "needs_studio": true,
  "page": true,
- "price_usd": 22.9,
+ "price_usd": 49.0,
  "rank": 336,
  "shop_category": "",
  "shop_verified": true,
@@ -52,7 +53,6 @@
   "30.94 oz"
  ],
  "source_title": "ADVANCED WHEY PROTEIN CHOCOLATE",
- "stripe_payment_link": "https://buy.stripe.com/5kQdRabjm9yIgH436e1gX0y",
  "supplier": "Productifi",
  "supplier_id": "advanced-whey-protein-chocolate",
  "visual_verified": true

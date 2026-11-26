@@ -12,12 +12,13 @@
       "available": true,
       "rank": 1,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "wish4-2562",
       "fam": "premium-fit-creatine",
       "cg": "t-daz-premium-fit-creatine-monohydrate-powder-281g-servings-supplement",
+      "color": "red",
       "art_score": 6,
-      "img": "assets/verified/wish4/creatine.jpg",
-      "page": true
+      "img": "assets/verified/wish4/creatine.jpg"
     },
     {
       "id": "productifi-wish4-2564",
@@ -31,12 +32,13 @@
       "available": true,
       "rank": 2,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "wish4-2564",
       "fam": "premium-fit-hydration",
       "cg": "t-daz-premium-fit-hydration-electrolyte-174g-servings-supplement",
+      "color": "red",
       "art_score": 3,
-      "img": "assets/verified/wish4/electrolyte.jpg",
-      "page": true
+      "img": "assets/verified/wish4/electrolyte.jpg"
     },
     {
       "id": "productifi-wish4-2563",
@@ -50,12 +52,13 @@
       "available": true,
       "rank": 3,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "wish4-2563",
       "fam": "premium-fit-advanced",
       "cg": "t-daz-premium-fit-advanced-whey-protein-vanilla-805g-protein-supplement",
+      "color": "red",
       "art_score": 6,
-      "img": "assets/verified/wish4/whey-vanilla.jpg",
-      "page": true
+      "img": "assets/verified/wish4/whey-vanilla.jpg"
     },
     {
       "id": "printful-359535579",
@@ -946,7 +949,7 @@
       "price_usd": 29.99,
       "badge": "new",
       "categories": [
-        "mujer/chaqueta-sudadera-sueter"
+        "mujer/pantalones-cortos"
       ],
       "available": true,
       "rank": 211,
@@ -1719,13 +1722,13 @@
       "available": true,
       "rank": 304,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b089b3b155f8bb8d10801be",
       "fam": "immortal-warrior-no",
       "cg": "printify-6b089b3b155f8bb8d10801be",
       "color": "Black",
       "art_score": 4,
-      "img": "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front"
     },
     {
       "id": "printify-6b0894ffedc552ae350870fd",
@@ -1840,13 +1843,13 @@
       "available": true,
       "rank": 310,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b089b42c9d405a5820236ee",
       "fam": "tough-bitch-queen",
       "cg": "printify-6b089b42c9d405a5820236ee",
       "color": "Black",
       "art_score": 2,
-      "img": "https://images.printify.com/mockup/6b089b42c9d405a5820236ee/251657/126156/tough-bitch-queen-of-iron-racerback-tank.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b089b42c9d405a5820236ee/251657/126156/tough-bitch-queen-of-iron-racerback-tank.jpg?camera_label=front"
     },
     {
       "id": "printify-6b089524155f8bb8d107fbee",
@@ -1986,13 +1989,13 @@
       "available": true,
       "rank": 317,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b089b3e155f8bb8d10801c1",
       "fam": "immortal-warrior-no",
       "cg": "printify-6b089b3e155f8bb8d10801c1",
       "color": "Black",
       "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98424/immortal-warrior-no-days-off-hoodie.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98424/immortal-warrior-no-days-off-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b089526d4c50971c20329b9",
@@ -2107,13 +2110,13 @@
       "available": true,
       "rank": 323,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b089b47867aed6ed008c5e1",
       "fam": "tough-bitch-queen",
       "cg": "printify-6b089b47867aed6ed008c5e1",
       "color": "Black",
       "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08922d75d150be77030196",
@@ -2275,13 +2278,13 @@
       "available": true,
       "rank": 331,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b089b38c9d405a5820236ea",
       "fam": "immortal-warrior-no",
       "cg": "printify-6b089b38c9d405a5820236ea",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102005/immortal-warrior-no-days-off-tee.jpg?camera_label=front-2",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102005/immortal-warrior-no-days-off-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b0895076a219864bc0f1429",
@@ -2355,19 +2358,19 @@
       "available": true,
       "rank": 335,
       "created": "2026-11-26",
+      "page": true,
       "supplier_id": "6b089b44c9d405a5820236f1",
       "fam": "tough-bitch-queen",
       "cg": "printify-6b089b44c9d405a5820236f1",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/137313/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=left-sleeve",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/137313/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=left-sleeve"
     },
     {
       "id": "productifi-advanced-whey-protein-chocolate",
       "name_es": "Proteína Whey Advanced · Chocolate (877 g)",
       "name_en": "Advanced Whey Protein · Chocolate (877 g)",
-      "price_usd": 22.9,
+      "price_usd": 49.0,
       "badge": "new",
       "categories": [
         "decor"

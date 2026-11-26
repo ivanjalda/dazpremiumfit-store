@@ -17,7 +17,7 @@
   "decor"
  ],
  "cg": "t-daz-premium-fit-advanced-whey-protein-vanilla-805g-protein-supplement",
- "color": "",
+ "color": "red",
  "created": "2026-11-26",
  "desc_en": "DAZ Premium Fit® supplement (U.S. registered trademark, Reg. 8,056,872). Lab-tested formula made in the USA in a GMP-certified facility. Prepared to order and shipped with tracking.",
  "desc_es": "Suplemento DAZ Premium Fit® (marca registrada en EE. UU., Reg. 8,056,872). Fórmula analizada en laboratorio y fabricada en EE. UU. en instalaciones certificadas GMP. Se prepara bajo pedido y se envía con seguimiento.",
@@ -39,6 +39,7 @@
  "name_es": "Proteína Whey Advanced · Vainilla (805 g)",
  "needs_review": false,
  "needs_studio": true,
+ "page": true,
  "price_usd": 48.99,
  "rank": 3,
  "shipping_usd": 9.0,

@@ -1,6 +1,6 @@
 {
  "ai_cats": [
-  "mujer/chaqueta-sudadera-sueter"
+  "mujer/pantalones-cortos"
  ],
  "ai_color": "black",
  "ai_copy": true,
@@ -11,10 +11,11 @@
  "ai_ver": 2,
  "art_note": "The lifestyle gym photography is high-end and professional, though the isolated product renders look flat.",
  "art_score": 8,
+ "audited": "2026-11-26",
  "available": true,
  "badge": "new",
  "categories": [
-  "mujer/chaqueta-sudadera-sueter"
+  "mujer/pantalones-cortos"
  ],
  "cg": "t-shorts-deportivos-de-mujer-dpf-tough-bitch-de-doble-capa",
  "color": "black",
@@ -35,9 +36,9 @@
  "id": "interestprint-action-painting-i-mila-blau-elastic-waist-double-layered-active-shorts",
  "look": [
   "interestprint-design-womens-crop-rugby-jersey",
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
   "interestprint-design-custom-womens-high-waist-legging",
-  "interestprint-design-womens-high-waist-layered-sport-skirt",
-  "interestprint-descarga-31-racerback-sports-bra"
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
  ],
  "material": "96% poliéster, 4% elastano",
  "name_en": "Tough Double-Layer Shorts",
