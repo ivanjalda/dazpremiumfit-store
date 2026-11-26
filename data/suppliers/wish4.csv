@@ -1,0 +1,4 @@
+supplier,supplier_id,title,type,cost_usd,shipping_usd,images,gender,verified,supplier_product_id
+Productifi,wish4-2562,DAZ Premium Fit Creatine Monohydrate Powder 281g 50 servings supplement,creatine supplement,9.75,8,assets/verified/wish4/creatine.jpg,unisex,yes,2562
+Productifi,wish4-2563,DAZ Premium Fit Advanced Whey Protein Vanilla 805g protein supplement,whey protein supplement,27.00,9,assets/verified/wish4/whey-vanilla.jpg,unisex,yes,2563
+Productifi,wish4-2564,DAZ Premium Fit Hydration Electrolyte 174g 30 servings supplement,electrolyte supplement,8.50,8,assets/verified/wish4/electrolyte.jpg,unisex,yes,2564
