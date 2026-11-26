@@ -28,8 +28,9 @@ from dz_common import load_json, notify, save_json  # noqa: E402
 GRAPH = "https://graph.facebook.com/v23.0"
 DEFAULTS = {
     "enabled": True,
-    "page_id": "",
-    "ig_user_id": "",
+    "page_id": "1491111907418427",   # página de Facebook "DAZ Premium Fit"
+    "page_name": "DAZ Premium Fit",
+    "ig_user_id": "",                # se busca solo: el Instagram conectado a la página
     "slots_utc": [17, 1],          # 12:00 y 20:00 en Nueva York (invierno)
     "products_per_post": 3,
 }
@@ -99,6 +100,9 @@ def caption(items, site):
     head = names[0] if len(names) == 1 else " · ".join(names[:3])
     if BRAND == "dpf":
         return f"{head}\n\nBuilt to train. DAZ Premium Fit.\n{site.replace('https://', '')}\n\n{TAGS}"
+    if BRAND == "valmont":
+        return (f"{head}\n\nAprende a invertir con método · Learn to invest with a method.\n"
+                f"Valmont & Co. · {site.replace('https://', '')}\n\n{TAGS}")
     return f"{head}\n\nDAZMOND — American Luxury House.\nMade to order · {site.replace('https://', '')}\n\n{TAGS}"
 
 
@@ -129,6 +133,16 @@ def upload_photo(page, ptoken, jpg_bytes, published=False, message=""):
         raise RuntimeError(e.read().decode()[:400])
 
 
+def kicker_for(p):
+    if BRAND == "dpf":
+        women = any(str(c).startswith("mujer") for c in p.get("categories") or [])
+        return p.get("line") or ("TOUGH BITCH" if women else "IMMORTAL WARRIOR")
+    if BRAND == "valmont":
+        return {"book": "THE VALMONT LIBRARY", "guide": "VALMONT GUIDES", "course": "VALMONT ACADEMY",
+                "free": "FREE RESOURCE", "subscription": "VALMONT MEMBERS"}.get(p.get("kind"), "VALMONT & CO.")
+    return "NEW IN"
+
+
 def campaign_cards(items, site):
     """Convierte la foto de cada producto en una pieza de campaña (estilo de la marca)."""
     import io
@@ -144,7 +158,7 @@ def campaign_cards(items, site):
                 raw = r.read()
             from PIL import Image
             img = Image.open(io.BytesIO(raw))
-            kicker = "NEW IN" if BRAND != "dpf" else (p.get("line") or "IMMORTAL WARRIOR")
+            kicker = kicker_for(p)
             pic = card(BRAND, img, p.get("name_en") or "", kicker)
             buf = io.BytesIO()
             pic.save(buf, "JPEG", quality=92)
@@ -281,13 +295,46 @@ def publish_facebook(page, token, p, site, card_jpg=None):
     return r.get("post_id") or r.get("id")
 
 
+SETUP_V = 1
+
+
+def auto_setup(cfg):
+    """Deja la publicación diaria activada (2 al día, con vídeo) sin tocar nada a mano."""
+    mp = cfg.get("meta_publisher") or {}
+    if mp.get("setup_v") == SETUP_V:
+        return cfg
+    mp.update({"enabled": True, "max_per_day": 2, "min_gap_hours": 5, "reels": True, "setup_v": SETUP_V})
+    mp.setdefault("page_id", DEFAULTS["page_id"])
+    cfg["meta_publisher"] = mp
+    save_json("config.json", cfg)
+    log("Publicación diaria activada en config.json.")
+    return cfg
+
+
+def discover(conf, token):
+    """Encuentra la página por su nombre y el Instagram conectado a ella (no hace falta copiar números)."""
+    try:
+        acc = api("me/accounts", {"fields": "id,name,instagram_business_account", "limit": 100,
+                                   "access_token": token}, "GET").get("data", [])
+    except Exception as e:
+        log(f"No pude listar las páginas: {str(e)[:120]}")
+        return conf
+    page = next((a for a in acc if str(a.get("id")) == str(conf.get("page_id"))), None) or \
+        next((a for a in acc if (a.get("name") or "").strip().lower() == conf.get("page_name", "").lower()), None)
+    if page:
+        conf["page_id"] = page["id"]
+        if not conf.get("ig_user_id") and page.get("instagram_business_account"):
+            conf["ig_user_id"] = page["instagram_business_account"]["id"]
+    return conf
+
+
 def main():
     token = os.environ.get("META_PAGE_TOKEN", "").strip()
     if not token:
         log("Falta el secreto META_PAGE_TOKEN: hoy no publico.")
         return 0
-    cfg = load_json("config.json", {})
-    conf = {**DEFAULTS, **cfg.get("meta_publisher", {})}
+    cfg = auto_setup(load_json("config.json", {}))
+    conf = {**DEFAULTS, **{k: v for k, v in cfg.get("meta_publisher", {}).items() if v not in ("", None)}}
     if not conf.get("enabled", True):
         return 0
     site = (cfg.get("site_url") or "https://dazpremiumfit.com").rstrip("/")
@@ -318,8 +365,11 @@ def main():
         log("No hay productos con foto para publicar.")
         return 0
     result = {"slot": slot, "ids": [p["id"] for p in items]}
+    conf = discover(conf, token)
     ptoken = page_token(conf["page_id"], token)
-    if passed[-1] == conf.get("reel_slot_utc", 1) and conf.get("reels", True):
+    if not conf.get("ig_user_id"):
+        log("La página aún no tiene Instagram conectado: hoy publico solo en Facebook.")
+    if passed[-1] == conf.get("reel_slot_utc", 1) and conf.get("reels", True) and conf.get("ig_user_id"):
         try:
             r = publish_reel(conf["page_id"], conf["ig_user_id"], token, ptoken, items, site, slot)
             result.update({"reel": True, "instagram": r.get("instagram"), "facebook": r.get("facebook_video")})
@@ -335,6 +385,8 @@ def main():
     except Exception as e:
         log(f"Piezas de campaña no disponibles, uso las fotos normales: {str(e)[:150]}")
     try:
+        if not conf.get("ig_user_id"):
+            raise RuntimeError("sin Instagram conectado a la página")
         result["instagram"] = publish_instagram(conf["ig_user_id"], token, items, site, urls)
         log(f"Instagram publicado: {result['instagram']}")
     except Exception as e:

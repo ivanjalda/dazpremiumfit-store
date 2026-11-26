@@ -19,7 +19,7 @@ import urllib.request
 
 from PIL import Image, ImageDraw
 
-from social_studio import SANS, SERIF, card, f, spaced, diamond
+from social_studio import SANS, SERIF, brand_logo, card, f, spaced, diamond
 
 VW, VH, FPS = 1080, 1920, 30
 PEXELS = "https://videos.pexels.com/video-files/"
@@ -79,6 +79,9 @@ def overlay_text(brand, big, small, path):
         col = (233, 220, 190) if brand == "dazmond" else (230, 200, 140)
         spaced(d, (VW / 2, VH - 300), big, f(SERIF, 70), col, 14)
         spaced(d, (VW / 2, VH - 210), small, f(SANS, 24, 500), (230, 230, 230), 9)
+    logo = brand_logo(brand, 130)
+    if logo:  # sello de la marca en todos los planos del vídeo
+        im.alpha_composite(logo, (VW - 60 - logo.width, 70))
     im.save(path)
 
 
@@ -93,13 +96,21 @@ def end_card(brand, path):
         spaced(d, (VW / 2, 1160), "DAZMOND", f(SERIF, 64), gold, 18)
         spaced(d, (VW / 2, 1240), "AMERICAN LUXURY HOUSE", f(SANS, 22, 500), (170, 160, 140), 8)
     elif brand == "dpf":
-        d.text((VW / 2, 860), "DPF", font=f(SANS, 260, 900), fill=(255, 255, 255), anchor="mm")
+        logo = brand_logo("dpf", 420)
+        if logo:
+            im.paste(logo, ((VW - logo.width) // 2, 860 - logo.height // 2 - 40), logo)
+        else:
+            d.text((VW / 2, 860), "DPF", font=f(SANS, 260, 900), fill=(255, 255, 255), anchor="mm")
         d.rectangle([VW / 2 - 60, 1010, VW / 2 + 60, 1020], fill=(214, 30, 38))
         d.text((VW / 2, 1100), "DAZ PREMIUM FIT", font=f(SANS, 40, 800), fill=(200, 200, 200), anchor="mm")
     else:
         gold = (201, 164, 92)
-        d.rectangle([VW / 2 - 140, 640, VW / 2 + 140, 920], outline=gold, width=4)
-        d.text((VW / 2, 785), "V", font=f(SERIF, 220), fill=gold, anchor="mm")
+        logo = brand_logo("valmont", 300)
+        if logo:
+            im.paste(logo, ((VW - logo.width) // 2, 780 - logo.height // 2), logo)
+        else:
+            d.rectangle([VW / 2 - 140, 640, VW / 2 + 140, 920], outline=gold, width=4)
+            d.text((VW / 2, 785), "V", font=f(SERIF, 220), fill=gold, anchor="mm")
         spaced(d, (VW / 2, 1060), "VALMONT & CO.", f(SERIF, 56), gold, 14)
     d.text((VW / 2, VH - 260), SITES[brand], font=f(SANS, 30, 500), fill=(190, 190, 190), anchor="mm")
     im.save(path)

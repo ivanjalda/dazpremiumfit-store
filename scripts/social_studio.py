@@ -21,6 +21,18 @@ FONTS = os.path.join(HERE, "..", "assets", "fonts")
 SERIF = os.path.join(FONTS, "Cardo.ttf")
 SANS = os.path.join(FONTS, "Montserrat.ttf")
 W, H = 1080, 1350
+BRAND_DIR = os.path.join(HERE, "..", "assets", "brand")
+LOGOS = {"dpf": "dpf-hex.png", "valmont": "valmont-logo.png"}
+
+
+def brand_logo(brand, size):
+    """Logo oficial de la marca (todo lo que se publica lo lleva). None si no está el archivo."""
+    path = os.path.join(BRAND_DIR, LOGOS.get(brand, ""))
+    if not LOGOS.get(brand) or not os.path.exists(path):
+        return None
+    im = Image.open(path).convert("RGBA")
+    im.thumbnail((size, size), Image.LANCZOS)
+    return im
 
 
 def f(path, size, weight=None):
@@ -131,8 +143,13 @@ def card_dpf(img, title, kicker="IMMORTAL WARRIOR"):
     d.rectangle([60, 1185, 140, 1193], fill=(214, 30, 38))
     d.text((60, 1215), kicker.upper(), font=f(SANS, 30, 800), fill=(255, 255, 255), anchor="la")
     d.text((60, 1258), (title or "").upper()[:40], font=f(SANS, 22, 500), fill=(170, 170, 170), anchor="la")
-    d.text((W - 60, 72), "DPF", font=f(SANS, 42, 900), fill=(255, 255, 255), anchor="rm")
+    logo = brand_logo("dpf", 120)
+    if logo:
+        can.alpha_composite(logo, (W - 60 - logo.width, 72 - logo.height // 2 + 20))
+    else:
+        d.text((W - 60, 72), "DPF", font=f(SANS, 42, 900), fill=(255, 255, 255), anchor="rm")
     d.text((60, 72), "DAZ PREMIUM FIT", font=f(SANS, 18, 600), fill=(150, 150, 150), anchor="lm")
+    d.text((W - 60, 1258), "DAZPREMIUMFIT.COM", font=f(SANS, 20, 600), fill=(214, 30, 38), anchor="ra")
     return can.convert("RGB")
 
 
@@ -142,10 +159,16 @@ def card_valmont(img, title, kicker="THE VALMONT LIBRARY"):
     d = ImageDraw.Draw(can)
     gold, ivory = (201, 164, 92), (233, 237, 245)
     d.rectangle([40, 40, W - 40, H - 40], outline=(40, 52, 80), width=1)
-    spaced(d, (W / 2, 110), "VALMONT & CO.", f(SERIF, 40), gold, 12)
+    logo = brand_logo("valmont", 110)
+    if logo:
+        can.alpha_composite(logo, ((W - logo.width) // 2, 62))
+        d = ImageDraw.Draw(can)
+        spaced(d, (W / 2, 205), "VALMONT & CO.", f(SERIF, 30), gold, 12)
+    else:
+        spaced(d, (W / 2, 110), "VALMONT & CO.", f(SERIF, 40), gold, 12)
     cover = img.convert("RGBA")
-    p = fit(cover, 620, 820)
-    shadow(can, p, (W - p.width) // 2, 190 + (820 - p.height) // 2, strength=200, blur=34, dy=30)
+    p = fit(cover, 600, 780)
+    shadow(can, p, (W - p.width) // 2, 245 + (780 - p.height) // 2, strength=200, blur=34, dy=30)
     d = ImageDraw.Draw(can)
     spaced(d, (W / 2, 1105), kicker.upper(), f(SANS, 18, 600), gold, 6)
     t = (title or "")[:60]
