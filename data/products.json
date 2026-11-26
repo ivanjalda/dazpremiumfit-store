@@ -1,6 +1,267 @@
 {
-  "updated": "2026-11-26T20:43:54Z",
+  "updated": "2026-11-26T20:59:26Z",
   "products": [
+    {
+      "id": "productifi-wish4-2562",
+      "supplier": "Productifi",
+      "supplier_id": "wish4-2562",
+      "source_title": "DAZ Premium Fit Creatine Monohydrate Powder 281g 50 servings supplement",
+      "categories": [
+        "decor"
+      ],
+      "cost_usd": 9.75,
+      "sizes": [],
+      "needs_review": false,
+      "created": "2026-11-26",
+      "material": "",
+      "color": "",
+      "shop_category": "",
+      "raw_images": [
+        "assets/verified/wish4/creatine.jpg"
+      ],
+      "draft": false,
+      "supplier_product_id": "2562",
+      "gender": "unisex",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "DAZ Premium Fit Creatine Monohydrate Powder 281g 50 servings supplement creatine supplement",
+      "name_es": "Creatina Monohidrato · 50 dosis (281 g)",
+      "name_en": "Creatine Monohydrate · 50 servings (281 g)",
+      "desc_es": "Suplemento DAZ Premium Fit® (marca registrada en EE. UU., Reg. 8,056,872). Fórmula analizada en laboratorio y fabricada en EE. UU. en instalaciones certificadas GMP. Se prepara bajo pedido y se envía con seguimiento.",
+      "desc_en": "DAZ Premium Fit® supplement (U.S. registered trademark, Reg. 8,056,872). Lab-tested formula made in the USA in a GMP-certified facility. Prepared to order and shipped with tracking.",
+      "price_usd": 25.99,
+      "margin_pct": 26.1,
+      "shipping_usd": 8.0,
+      "shipping_worst_usd": 12.8,
+      "images_original": [
+        "assets/verified/wish4/creatine.jpg"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/verified/wish4/creatine.jpg"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-26": 25.99
+      },
+      "hidden": false,
+      "score": 26.61,
+      "rank": 1,
+      "badge": "new",
+      "art_score": 6,
+      "art_note": "Clean product render on dark background, but lacks high-end campaign lighting and depth.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/verified/wish4/creatine.jpg",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "supplement",
+      "ai_gender": "unisex",
+      "ai_color": "red",
+      "ai_cats": [
+        "decor"
+      ],
+      "details_es": "· 50 porciones\n· 281 g\n· 5 g por porción\n· Fabricado bajo pedido",
+      "details_en": "· 50 servings\n· 281 g\n· 5 g per scoop\n· Made to order",
+      "ai_copy": true,
+      "ai_done": true,
+      "audited": "2026-11-26",
+      "fam": "premium-fit-creatine",
+      "cg": "t-daz-premium-fit-creatine-monohydrate-powder-281g-servings-supplement",
+      "look": [
+        "productifi-wish4-2564"
+      ],
+      "stripe_product_id": "prod_VhYwe9gK5U4ma6",
+      "size_values": {},
+      "stripe_payment_link": "https://buy.stripe.com/9B614o4UY3akgH4ayG1gY3A",
+      "stripe_link_id": "plink_1Ug9oYLJVU4oTPuXRQoTxOOd",
+      "stripe_price_cents": 2599,
+      "stripe_site": "https://dazpremiumfit.com",
+      "page": true
+    },
+    {
+      "id": "productifi-wish4-2564",
+      "supplier": "Productifi",
+      "supplier_id": "wish4-2564",
+      "source_title": "DAZ Premium Fit Hydration Electrolyte 174g 30 servings supplement",
+      "categories": [
+        "decor"
+      ],
+      "cost_usd": 8.5,
+      "sizes": [],
+      "needs_review": false,
+      "created": "2026-11-26",
+      "material": "",
+      "color": "",
+      "shop_category": "",
+      "raw_images": [
+        "assets/verified/wish4/electrolyte.jpg"
+      ],
+      "draft": false,
+      "supplier_product_id": "2564",
+      "gender": "unisex",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "DAZ Premium Fit Hydration Electrolyte 174g 30 servings supplement electrolyte supplement",
+      "name_es": "Electrolitos Hidratación · 30 dosis (174 g)",
+      "name_en": "Hydration Electrolyte · 30 servings (174 g)",
+      "desc_es": "Suplemento DAZ Premium Fit® (marca registrada en EE. UU., Reg. 8,056,872). Fórmula analizada en laboratorio y fabricada en EE. UU. en instalaciones certificadas GMP. Se prepara bajo pedido y se envía con seguimiento.",
+      "desc_en": "DAZ Premium Fit® supplement (U.S. registered trademark, Reg. 8,056,872). Lab-tested formula made in the USA in a GMP-certified facility. Prepared to order and shipped with tracking.",
+      "price_usd": 23.99,
+      "margin_pct": 25.5,
+      "shipping_usd": 8.0,
+      "shipping_worst_usd": 12.8,
+      "images_original": [
+        "assets/verified/wish4/electrolyte.jpg"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/verified/wish4/electrolyte.jpg"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-26": 23.99
+      },
+      "hidden": false,
+      "score": 26.55,
+      "rank": 2,
+      "badge": "new",
+      "art_score": 3,
+      "art_note": "The image appears as a basic digital render with a generic composited product design against a flat black background.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/verified/wish4/electrolyte.jpg",
+            "k": "product",
+            "q": "cheap"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "supplement",
+      "ai_gender": "unisex",
+      "ai_color": "red",
+      "ai_cats": [
+        "decor"
+      ],
+      "details_es": "· 174 gramos\n· 30 porciones\n· Made to order piece\n· Worldwide shipping",
+      "details_en": "· 174g\n· 30 servings\n· Made to order piece\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true,
+      "audited": "2026-11-26",
+      "fam": "premium-fit-hydration",
+      "cg": "t-daz-premium-fit-hydration-electrolyte-174g-servings-supplement",
+      "look": [
+        "productifi-wish4-2562"
+      ],
+      "stripe_product_id": "prod_VhYwYCcQmmRWhw",
+      "size_values": {},
+      "stripe_payment_link": "https://buy.stripe.com/9B6cN61IMeT21Ma7mu1gY3B",
+      "stripe_link_id": "plink_1Ug9oZLJVU4oTPuXt4zX7D65",
+      "stripe_price_cents": 2399,
+      "stripe_site": "https://dazpremiumfit.com",
+      "page": true
+    },
+    {
+      "id": "productifi-wish4-2563",
+      "supplier": "Productifi",
+      "supplier_id": "wish4-2563",
+      "source_title": "DAZ Premium Fit Advanced Whey Protein Vanilla 805g protein supplement",
+      "categories": [
+        "decor"
+      ],
+      "cost_usd": 27.0,
+      "sizes": [],
+      "needs_review": false,
+      "created": "2026-11-26",
+      "material": "",
+      "color": "",
+      "shop_category": "",
+      "raw_images": [
+        "assets/verified/wish4/whey-vanilla.jpg"
+      ],
+      "draft": false,
+      "supplier_product_id": "2563",
+      "gender": "unisex",
+      "shop_verified": true,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "DAZ Premium Fit Advanced Whey Protein Vanilla 805g protein supplement whey protein supplement",
+      "name_es": "Proteína Whey Advanced · Vainilla (805 g)",
+      "name_en": "Advanced Whey Protein · Vanilla (805 g)",
+      "desc_es": "Suplemento DAZ Premium Fit® (marca registrada en EE. UU., Reg. 8,056,872). Fórmula analizada en laboratorio y fabricada en EE. UU. en instalaciones certificadas GMP. Se prepara bajo pedido y se envía con seguimiento.",
+      "desc_en": "DAZ Premium Fit® supplement (U.S. registered trademark, Reg. 8,056,872). Lab-tested formula made in the USA in a GMP-certified facility. Prepared to order and shipped with tracking.",
+      "price_usd": 48.99,
+      "margin_pct": 21.4,
+      "shipping_usd": 9.0,
+      "shipping_worst_usd": 14.4,
+      "images_original": [
+        "assets/verified/wish4/whey-vanilla.jpg"
+      ],
+      "images_model": [],
+      "visual_verified": true,
+      "display_images": [
+        "assets/verified/wish4/whey-vanilla.jpg"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-26": 48.99
+      },
+      "hidden": false,
+      "score": 26.14,
+      "rank": 3,
+      "badge": "new",
+      "art_score": 6,
+      "art_note": "Clean studio product shot on a dark background, simple vector-style rendering.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "assets/verified/wish4/whey-vanilla.jpg",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "protein supplement",
+      "ai_gender": "unisex",
+      "ai_color": "red",
+      "ai_cats": [
+        "decor"
+      ],
+      "details_es": "· Suplemento proteico de proteina whey\n· Sabor vainilla\n· Contenido neto de 805 gramos\n· Producto elaborado bajo pedido\n· Envio disponible a todo el mundo",
+      "details_en": "· Whey protein supplement\n· Vanilla flavor\n· Net content 805 grams\n· Made-to-order piece\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true,
+      "audited": "2026-11-26",
+      "fam": "premium-fit-advanced",
+      "cg": "t-daz-premium-fit-advanced-whey-protein-vanilla-805g-protein-supplement",
+      "look": [
+        "productifi-wish4-2562"
+      ],
+      "stripe_product_id": "prod_VhYwWFxgOUVRb4",
+      "size_values": {},
+      "stripe_payment_link": "https://buy.stripe.com/bJedRacnq8uE76u7mu1gY3C",
+      "stripe_link_id": "plink_1Ug9oaLJVU4oTPuX55gxnBbN",
+      "stripe_price_cents": 4899,
+      "stripe_site": "https://dazpremiumfit.com",
+      "page": true
+    },
     {
       "id": "printful-359535579",
       "supplier": "Printful",
@@ -57,7 +318,7 @@
       },
       "hidden": false,
       "score": 26.11,
-      "rank": 1,
+      "rank": 4,
       "badge": "new",
       "art_score": 5,
       "art_note": "Clean product presentation showing the top surface design, but lacks lifestyle context and professional lighting.",
@@ -279,7 +540,7 @@
       },
       "hidden": false,
       "score": 25.46,
-      "rank": 2,
+      "rank": 5,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "women-s-crop",
@@ -524,7 +785,7 @@
       },
       "hidden": false,
       "score": 25.46,
-      "rank": 3,
+      "rank": 6,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "women-s-crop",
@@ -772,7 +1033,7 @@
       },
       "hidden": false,
       "score": 25.46,
-      "rank": 4,
+      "rank": 7,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "women-s-crop",
@@ -1020,7 +1281,7 @@
       },
       "hidden": false,
       "score": 25.46,
-      "rank": 5,
+      "rank": 8,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "women-s-crop",
@@ -1166,7 +1427,7 @@
       },
       "hidden": false,
       "score": 25.44,
-      "rank": 6,
+      "rank": 9,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "aesthetic-icon-women",
@@ -1387,7 +1648,7 @@
       },
       "hidden": false,
       "score": 25.44,
-      "rank": 7,
+      "rank": 10,
       "badge": "new",
       "ai_fail": 1,
       "fam": "sudadera-corta-mujer",
@@ -1581,7 +1842,7 @@
       },
       "hidden": false,
       "score": 25.43,
-      "rank": 8,
+      "rank": 11,
       "badge": "new",
       "ai_fail": 1,
       "fam": "leggings-cintura-alta",
@@ -1770,7 +2031,7 @@
       },
       "hidden": false,
       "score": 25.43,
-      "rank": 9,
+      "rank": 12,
       "badge": "new",
       "ai_fail": 1,
       "fam": "citron-leggings-cintura",
@@ -1964,7 +2225,7 @@
       },
       "hidden": false,
       "score": 25.43,
-      "rank": 10,
+      "rank": 13,
       "badge": "new",
       "ai_fail": 2,
       "ai_priority": true,
@@ -2163,7 +2424,7 @@
       },
       "hidden": false,
       "score": 25.42,
-      "rank": 11,
+      "rank": 14,
       "badge": "new",
       "ai_priority": true,
       "img_checked": "2026-11-25",
@@ -2381,7 +2642,7 @@
       },
       "hidden": false,
       "score": 25.41,
-      "rank": 12,
+      "rank": 15,
       "badge": "new",
       "ai_priority": true,
       "img_checked": "2026-11-25",
@@ -2630,7 +2891,7 @@
       },
       "hidden": false,
       "score": 25.41,
-      "rank": 13,
+      "rank": 16,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "women-s-v",
@@ -2835,7 +3096,7 @@
       },
       "hidden": false,
       "score": 25.4,
-      "rank": 14,
+      "rank": 17,
       "badge": "new",
       "ai_fail": 1,
       "fam": "premium-fit-immortal",
@@ -3017,7 +3278,7 @@
       },
       "hidden": false,
       "score": 25.4,
-      "rank": 15,
+      "rank": 18,
       "badge": "new",
       "ai_fail": 1,
       "fam": "premium-fit-camiseta",
@@ -3204,7 +3465,7 @@
       },
       "hidden": false,
       "score": 25.37,
-      "rank": 16,
+      "rank": 19,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "premium-fit-plume",
@@ -3397,7 +3658,7 @@
       },
       "hidden": false,
       "score": 25.32,
-      "rank": 17,
+      "rank": 20,
       "badge": "new",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
@@ -3590,7 +3851,7 @@
       },
       "hidden": false,
       "score": 25.32,
-      "rank": 18,
+      "rank": 21,
       "badge": "new",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
@@ -3792,7 +4053,7 @@
       },
       "hidden": false,
       "score": 25.31,
-      "rank": 19,
+      "rank": 22,
       "badge": "new",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-classic-camiseta-sin-mangas-de-hombre",
@@ -3938,7 +4199,7 @@
       },
       "hidden": true,
       "score": 25.3,
-      "rank": 20,
+      "rank": 23,
       "badge": "new",
       "ai_fail": 1,
       "fam": "suero-acido-hialuronico",
@@ -4105,7 +4366,7 @@
       },
       "hidden": false,
       "score": 25.27,
-      "rank": 21,
+      "rank": 24,
       "badge": "new",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
@@ -4292,7 +4553,7 @@
       },
       "hidden": false,
       "score": 25.27,
-      "rank": 22,
+      "rank": 25,
       "badge": "new",
       "fam": "ink-leggings-yoga",
       "cg": "t-dpf-ink-leggings-de-yoga",
@@ -4486,7 +4747,7 @@
       },
       "hidden": false,
       "score": 25.27,
-      "rank": 23,
+      "rank": 26,
       "badge": "new",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-oliva-camiseta-de-tirantes-de-hombre",
@@ -4683,7 +4944,7 @@
       },
       "hidden": false,
       "score": 25.27,
-      "rank": 24,
+      "rank": 27,
       "badge": "new",
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
@@ -4811,12 +5072,12 @@
       },
       "hidden": true,
       "score": 25.26,
-      "rank": 25,
+      "rank": 28,
       "badge": "new",
       "fam": "gotas-la-salud",
       "cg": "t-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit",
       "look": [
-        "productifi-jabon-de-acido-kojico-y-curcuma"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -4933,7 +5194,7 @@
       },
       "hidden": true,
       "score": 25.25,
-      "rank": 26,
+      "rank": 29,
       "badge": "new",
       "ai_fail": 1,
       "fam": "exfoliante-cafe-menta",
@@ -5050,12 +5311,12 @@
       },
       "hidden": true,
       "score": 25.23,
-      "rank": 27,
+      "rank": 30,
       "badge": "new",
       "fam": "jabon-acido-kojico",
       "cg": "t-jabon-de-acido-kojico-y-curcuma",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -5174,12 +5435,12 @@
       },
       "hidden": true,
       "score": 25.22,
-      "rank": 28,
+      "rank": 31,
       "badge": "new",
       "fam": "gotas-azul-metileno",
       "cg": "t-gotas-de-de-metileno-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -5278,13 +5539,13 @@
       },
       "hidden": true,
       "score": 25.21,
-      "rank": 29,
+      "rank": 32,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "gomitas-oso-multivitaminicas",
       "cg": "t-gomitas-de-oso-multivitaminicas-daz-premium-fit-adultos",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "art_score": 6,
@@ -5391,12 +5652,12 @@
       },
       "hidden": true,
       "score": 25.19,
-      "rank": 30,
+      "rank": 33,
       "badge": "new",
       "fam": "capsulas-vinagre-sidra",
       "cg": "t-capsulas-de-vinagre-de-sidra-de-manzana-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -5584,7 +5845,7 @@
       },
       "hidden": false,
       "score": 25.18,
-      "rank": 31,
+      "rank": 34,
       "badge": "new",
       "fam": "descarga-sleeveless-yoga",
       "cg": "t-descarga-sleeveless-yoga-crop-active-tank-tops",
@@ -5739,7 +6000,7 @@
       },
       "hidden": true,
       "score": 25.17,
-      "rank": 32,
+      "rank": 35,
       "badge": "new",
       "ai_priority": true,
       "fam": "gel-refrescante-polar",
@@ -5867,12 +6128,12 @@
       },
       "hidden": true,
       "score": 25.17,
-      "rank": 33,
+      "rank": 36,
       "badge": "new",
       "fam": "gotas-dieteticas-ultra",
       "cg": "t-gotas-dieteticas-ultra-daz-premium-fit-oz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -6002,7 +6263,7 @@
       },
       "hidden": true,
       "score": 25.17,
-      "rank": 34,
+      "rank": 37,
       "badge": "new",
       "ai_fail": 1,
       "fam": "limpiador-facial-carbon",
@@ -6190,7 +6451,7 @@
       },
       "hidden": true,
       "score": 25.16,
-      "rank": 35,
+      "rank": 38,
       "badge": "new",
       "fam": "descarga-racerback-sports",
       "cg": "t-descarga-racerback-sports-bra",
@@ -6410,7 +6671,7 @@
       },
       "hidden": true,
       "score": 25.16,
-      "rank": 36,
+      "rank": 39,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "premium-fit-volt",
@@ -6571,12 +6832,12 @@
       },
       "hidden": true,
       "score": 25.16,
-      "rank": 37,
+      "rank": 40,
       "badge": "new",
       "fam": "ashwagandha-premium-fit",
       "cg": "t-ashwagandha-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -6730,7 +6991,7 @@
       },
       "hidden": true,
       "score": 25.16,
-      "rank": 38,
+      "rank": 41,
       "badge": "new",
       "art_score": 8,
       "art_note": "Clean, sophisticated studio product photography with refined lighting and professional branding standards.",
@@ -6844,12 +7105,12 @@
       },
       "hidden": true,
       "score": 25.16,
-      "rank": 39,
+      "rank": 42,
       "badge": "new",
       "fam": "suero-vitamina-c",
       "cg": "t-suero-de-vitamina-c-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -7014,7 +7275,7 @@
       },
       "hidden": false,
       "score": 25.15,
-      "rank": 40,
+      "rank": 43,
       "badge": "new",
       "ai_priority": true,
       "fam": "yoga-top-xg005kn07",
@@ -7163,7 +7424,7 @@
       },
       "hidden": true,
       "score": 25.15,
-      "rank": 41,
+      "rank": 44,
       "badge": "new",
       "ai_fail": 1,
       "fam": "aceite-facial-gua",
@@ -7308,7 +7569,7 @@
       },
       "hidden": true,
       "score": 25.15,
-      "rank": 42,
+      "rank": 45,
       "badge": "new",
       "ai_fail": 1,
       "fam": "jabon-aloe-pepino",
@@ -7471,13 +7732,13 @@
       },
       "hidden": true,
       "score": 25.15,
-      "rank": 43,
+      "rank": 46,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "combinacion-l-citrulina",
       "cg": "t-combinacion-de-l-citrulina-y-l-arginina-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "art_score": 9,
@@ -7615,7 +7876,7 @@
       },
       "hidden": true,
       "score": 25.15,
-      "rank": 44,
+      "rank": 47,
       "badge": "new",
       "ai_fail": 2,
       "fam": "jabon-breathe-clear",
@@ -7744,7 +8005,7 @@
       },
       "hidden": true,
       "score": 25.15,
-      "rank": 45,
+      "rank": 48,
       "badge": "new",
       "ai_fail": 1,
       "fam": "jabon-calmante-lavanda",
@@ -7908,7 +8169,7 @@
       },
       "hidden": true,
       "score": 25.15,
-      "rank": 46,
+      "rank": 49,
       "badge": "new",
       "ai_fail": 1,
       "fam": "jabon-carbon-premium",
@@ -8029,7 +8290,7 @@
       },
       "hidden": true,
       "score": 25.15,
-      "rank": 47,
+      "rank": 50,
       "badge": "new",
       "ai_fail": 1,
       "fam": "jabon-limoncillo-salvia",
@@ -8147,7 +8408,7 @@
       },
       "hidden": true,
       "score": 25.15,
-      "rank": 48,
+      "rank": 51,
       "badge": "new",
       "ai_fail": 1,
       "fam": "jabon-miel-leche",
@@ -8263,7 +8524,7 @@
       },
       "hidden": true,
       "score": 25.15,
-      "rank": 49,
+      "rank": 52,
       "badge": "new",
       "ai_fail": 1,
       "fam": "jabon-playa-coco",
@@ -8379,7 +8640,7 @@
       },
       "hidden": true,
       "score": 25.15,
-      "rank": 50,
+      "rank": 53,
       "badge": "new",
       "art_score": 5,
       "art_note": "Clean product shot of the soap bar against a plain background, but secondary images are low-quality icons.",
@@ -8494,7 +8755,7 @@
       },
       "hidden": true,
       "score": 25.15,
-      "rank": 51,
+      "rank": 54,
       "badge": "new",
       "ai_fail": 2,
       "fam": "jabon-rico-en",
@@ -8601,12 +8862,12 @@
       },
       "hidden": true,
       "score": 25.12,
-      "rank": 52,
+      "rank": 55,
       "badge": "new",
       "fam": "gotas-mango-africano",
       "cg": "t-gotas-de-mango-africano-daz-premium-fit-ml-fl-oz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhATGWveprmvpN",
@@ -8732,12 +8993,12 @@
       },
       "hidden": true,
       "score": 25.12,
-      "rank": 53,
+      "rank": 56,
       "badge": "new",
       "fam": "mezcla-hierba-cabra",
       "cg": "t-mezcla-de-hierba-de-cabra-en-celo-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -8906,7 +9167,7 @@
       },
       "hidden": false,
       "score": 25.1,
-      "rank": 54,
+      "rank": 57,
       "badge": "new",
       "ai_priority": true,
       "fam": "yoga-top-yj053",
@@ -9107,7 +9368,7 @@
       },
       "hidden": false,
       "score": 25.09,
-      "rank": 55,
+      "rank": 58,
       "badge": "new",
       "fam": "conjunto-blanco-yoga",
       "cg": "t-conjunto-de-yoga-dpf-tough-bitch",
@@ -9322,7 +9583,7 @@
       },
       "hidden": false,
       "score": 25.09,
-      "rank": 56,
+      "rank": 59,
       "badge": "new",
       "fam": "conjunto-tough-bitch",
       "cg": "t-conjunto-tough-bitch-women-s-short-yoga-set-modelsets",
@@ -9542,7 +9803,7 @@
       },
       "hidden": false,
       "score": 25.09,
-      "rank": 57,
+      "rank": 60,
       "badge": "new",
       "fam": "conjunto-violeta-camiseta",
       "cg": "t-conjunto-violeta-de-camiseta-y-shorts-dpf-tough-bitch",
@@ -9695,7 +9956,7 @@
       },
       "hidden": true,
       "score": 25.09,
-      "rank": 58,
+      "rank": 61,
       "badge": "new",
       "ai_fail": 1,
       "fam": "cafe-fruity-bloom",
@@ -9838,12 +10099,12 @@
       },
       "hidden": true,
       "score": 25.09,
-      "rank": 59,
+      "rank": 62,
       "badge": "new",
       "fam": "salud-intestinal-premium",
       "cg": "t-salud-intestinal-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -10049,7 +10310,7 @@
       },
       "hidden": false,
       "score": 25.08,
-      "rank": 60,
+      "rank": 63,
       "badge": "new",
       "fam": "monochrome-star-leggings",
       "cg": "t-dpf-monochrome-star-leggings-de-cintura-alta",
@@ -10236,7 +10497,7 @@
       },
       "hidden": false,
       "score": 25.08,
-      "rank": 61,
+      "rank": 64,
       "badge": "new",
       "fam": "amethyst-leggings-yoga",
       "cg": "t-dpf-amethyst-leggings-de-yoga-de-cintura-alta",
@@ -10442,7 +10703,7 @@
       },
       "hidden": false,
       "score": 25.08,
-      "rank": 62,
+      "rank": 65,
       "badge": "new",
       "fam": "kaleido-leggings-yoga",
       "cg": "t-dpf-kaleido-leggings-de-yoga-de-cintura-alta",
@@ -10592,12 +10853,12 @@
       },
       "hidden": true,
       "score": 25.08,
-      "rank": 63,
+      "rank": 66,
       "badge": "new",
       "fam": "gomitas-curcuma-premium",
       "cg": "t-gomitas-de-curcuma-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -10718,7 +10979,7 @@
       },
       "hidden": true,
       "score": 25.08,
-      "rank": 64,
+      "rank": 67,
       "badge": "new",
       "ai_fail": 1,
       "fam": "mezcla-cafe-canamo",
@@ -10846,7 +11107,7 @@
       },
       "hidden": true,
       "score": 25.07,
-      "rank": 65,
+      "rank": 68,
       "badge": "new",
       "ai_fail": 1,
       "fam": "barra-exfoliante-luffa",
@@ -10942,7 +11203,7 @@
       },
       "hidden": true,
       "score": 25.07,
-      "rank": 66,
+      "rank": 69,
       "badge": "new",
       "ai_fail": 1,
       "fam": "suero-manchas-oscuras",
@@ -11040,7 +11301,7 @@
       },
       "hidden": true,
       "score": 25.07,
-      "rank": 67,
+      "rank": 70,
       "badge": "new",
       "ai_fail": 1,
       "fam": "suero-manchas-oscuras",
@@ -11159,12 +11420,12 @@
       },
       "hidden": true,
       "score": 25.07,
-      "rank": 68,
+      "rank": 71,
       "badge": "new",
       "fam": "tiras-la-resaca",
       "cg": "t-tiras-para-la-resaca-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -11288,13 +11549,13 @@
       },
       "hidden": true,
       "score": 25.05,
-      "rank": 69,
+      "rank": 72,
       "badge": "new",
       "ai_fail": 1,
       "fam": "complejo-hongos-10x",
       "cg": "t-complejo-de-hongos-10x-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "art_score": 7,
@@ -11400,12 +11661,12 @@
       },
       "hidden": true,
       "score": 25.05,
-      "rank": 70,
+      "rank": 73,
       "badge": "new",
       "fam": "frutas-verduras-premium",
       "cg": "t-frutas-y-verduras-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -11507,13 +11768,13 @@
       },
       "hidden": true,
       "score": 25.05,
-      "rank": 71,
+      "rank": 74,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "gomitas-colageno-premium",
       "cg": "t-gomitas-de-colageno-daz-premium-fit-adultos",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARyViZQG9FC3",
@@ -11631,12 +11892,12 @@
       },
       "hidden": true,
       "score": 25.05,
-      "rank": 72,
+      "rank": 75,
       "badge": "new",
       "fam": "maca-plus-premium",
       "cg": "t-maca-plus-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -11753,7 +12014,7 @@
       },
       "hidden": true,
       "score": 25.05,
-      "rank": 73,
+      "rank": 76,
       "badge": "new",
       "art_score": 5,
       "art_note": "Clean studio product render, but supplementary icons lack high-end art direction.",
@@ -11790,7 +12051,7 @@
       "fam": "moringa-pure-premium",
       "cg": "t-moringa-pure-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "gender": "unisex",
@@ -11931,7 +12192,7 @@
       },
       "hidden": false,
       "score": 25.04,
-      "rank": 74,
+      "rank": 77,
       "badge": "new",
       "fam": "rebel-hearts-leggings",
       "cg": "t-dpf-rebel-hearts-leggings-con-bolsillos",
@@ -12158,7 +12419,7 @@
       },
       "hidden": false,
       "score": 25.04,
-      "rank": 75,
+      "rank": 78,
       "badge": "new",
       "fam": "star-pocket-leggings",
       "cg": "t-dpf-star-pocket-leggings-con-bolsillos",
@@ -12307,7 +12568,7 @@
       },
       "hidden": true,
       "score": 25.03,
-      "rank": 76,
+      "rank": 79,
       "badge": "new",
       "ai_fail": 1,
       "fam": "aceite-capilar-hidratante",
@@ -12418,12 +12679,12 @@
       },
       "hidden": true,
       "score": 25.03,
-      "rank": 77,
+      "rank": 80,
       "badge": "new",
       "fam": "apoyo-al-higado",
       "cg": "t-apoyo-al-higado-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -12558,7 +12819,7 @@
       },
       "hidden": true,
       "score": 25.03,
-      "rank": 78,
+      "rank": 81,
       "badge": "new",
       "ai_fail": 1,
       "fam": "gel-iluminador-aloe",
@@ -12658,12 +12919,12 @@
       },
       "hidden": true,
       "score": 25.03,
-      "rank": 79,
+      "rank": 82,
       "badge": "new",
       "fam": "keto-bhb-premium",
       "cg": "t-keto-bhb-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhATl30kB6bafb",
@@ -12762,12 +13023,12 @@
       },
       "hidden": true,
       "score": 25.03,
-      "rank": 80,
+      "rank": 83,
       "badge": "new",
       "fam": "soporte-hepatico-premium",
       "cg": "t-soporte-hepatico-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -12863,12 +13124,12 @@
       },
       "hidden": true,
       "score": 25.03,
-      "rank": 81,
+      "rank": 84,
       "badge": "new",
       "fam": "soporte-normal-azucar",
       "cg": "t-soporte-normal-de-azucar-en-sangre-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -13046,7 +13307,7 @@
       },
       "hidden": true,
       "score": 25.01,
-      "rank": 82,
+      "rank": 85,
       "badge": "new",
       "ai_priority": true,
       "fam": "yoga-zipper-vest",
@@ -13195,13 +13456,13 @@
       },
       "hidden": true,
       "score": 25.01,
-      "rank": 83,
+      "rank": 86,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "glicinato-magnesio-premium",
       "cg": "t-glicinato-de-magnesio-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAR7v8l2onrym",
@@ -13312,12 +13573,12 @@
       },
       "hidden": true,
       "score": 25.01,
-      "rank": 84,
+      "rank": 87,
       "badge": "new",
       "fam": "max-detox-premium",
       "cg": "t-max-detox-daz-premium-fit-acai-detox",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -13432,12 +13693,12 @@
       },
       "hidden": true,
       "score": 25.01,
-      "rank": 85,
+      "rank": 88,
       "badge": "new",
       "fam": "raiz-remolacha-premium",
       "cg": "t-raiz-de-remolacha-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -13551,7 +13812,7 @@
       },
       "hidden": true,
       "score": 24.99,
-      "rank": 86,
+      "rank": 89,
       "badge": "new",
       "ai_fail": 1,
       "fam": "balsamo-patas-perro",
@@ -13738,7 +13999,7 @@
       },
       "hidden": true,
       "score": 24.98,
-      "rank": 87,
+      "rank": 90,
       "badge": "new",
       "fam": "descarga-cross-back",
       "cg": "t-descarga-cross-back-sports-bra",
@@ -13892,7 +14153,7 @@
       },
       "hidden": true,
       "score": 24.98,
-      "rank": 88,
+      "rank": 91,
       "badge": "new",
       "ai_fail": 1,
       "fam": "manteca-karite-cruda",
@@ -14009,13 +14270,13 @@
       },
       "hidden": true,
       "score": 24.98,
-      "rank": 89,
+      "rank": 92,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "sleep-strips-premium",
       "cg": "t-sleep-strips-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARMFmKV0JjPW",
@@ -14136,13 +14397,13 @@
       },
       "hidden": true,
       "score": 24.98,
-      "rank": 90,
+      "rank": 93,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "tiras-energeticas-premium",
       "cg": "t-tiras-energeticas-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARMBmMt4w9wi",
@@ -14295,13 +14556,13 @@
       },
       "hidden": true,
       "score": 24.98,
-      "rank": 91,
+      "rank": 94,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "tiras-energeticas-premium",
       "cg": "t-tiras-energeticas-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARcgtC6PhI5m",
@@ -14510,7 +14771,7 @@
       },
       "hidden": false,
       "score": 24.97,
-      "rank": 92,
+      "rank": 95,
       "badge": "new",
       "fam": "ivan21-backless-split",
       "cg": "t-ivan21-backless-split-knotted-yoga-active-tank-tops",
@@ -14669,7 +14930,7 @@
       },
       "hidden": true,
       "score": 24.97,
-      "rank": 93,
+      "rank": 96,
       "badge": "new",
       "ai_fail": 3,
       "fam": "aceite-capilar-la",
@@ -14765,12 +15026,12 @@
       },
       "hidden": true,
       "score": 24.97,
-      "rank": 94,
+      "rank": 97,
       "badge": "new",
       "fam": "ashwagandha-plus-premium",
       "cg": "t-ashwagandha-plus-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -14883,13 +15144,13 @@
       },
       "hidden": true,
       "score": 24.97,
-      "rank": 95,
+      "rank": 98,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "multivitaminico-completo-premium",
       "cg": "t-multivitaminico-completo-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARO9g4RAt6ng",
@@ -14999,12 +15260,12 @@
       },
       "hidden": true,
       "score": 24.97,
-      "rank": 96,
+      "rank": 99,
       "badge": "new",
       "fam": "duerme-bien-gomitas",
       "cg": "t-duerme-bien-gomitas-daz-premium-fit-adulto",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -15102,13 +15363,13 @@
       },
       "hidden": true,
       "score": 24.97,
-      "rank": 97,
+      "rank": 100,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "vitamin-d3-premium",
       "cg": "t-vitamin-d3-daz-premium-fit-iu",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARi13ghoZt97",
@@ -15207,12 +15468,12 @@
       },
       "hidden": true,
       "score": 24.96,
-      "rank": 98,
+      "rank": 101,
       "badge": "new",
       "fam": "soporte-vision-premium",
       "cg": "t-soporte-de-vision-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -15387,7 +15648,7 @@
       },
       "hidden": true,
       "score": 24.95,
-      "rank": 99,
+      "rank": 102,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "violette-top-deportivo",
@@ -15585,7 +15846,7 @@
       },
       "hidden": true,
       "score": 24.95,
-      "rank": 100,
+      "rank": 103,
       "badge": "new",
       "fam": "onyx-top-deportivo",
       "cg": "t-dpf-onyx-top-deportivo-de-espalda-cruzada",
@@ -15783,7 +16044,7 @@
       },
       "hidden": true,
       "score": 24.95,
-      "rank": 101,
+      "rank": 104,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "sel-ne-top",
@@ -15982,7 +16243,7 @@
       },
       "hidden": true,
       "score": 24.95,
-      "rank": 102,
+      "rank": 105,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "amethyste-top-deportivo",
@@ -16183,7 +16444,7 @@
       },
       "hidden": true,
       "score": 24.95,
-      "rank": 103,
+      "rank": 106,
       "badge": "new",
       "fam": "descarga-cross-back",
       "cg": "t-descarga-cross-back-sports-bra",
@@ -16310,12 +16571,12 @@
       },
       "hidden": true,
       "score": 24.95,
-      "rank": 104,
+      "rank": 107,
       "badge": "new",
       "fam": "apoyo-cognitivo-premium",
       "cg": "t-apoyo-cognitivo-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -16432,12 +16693,12 @@
       },
       "hidden": true,
       "score": 24.95,
-      "rank": 105,
+      "rank": 108,
       "badge": "new",
       "fam": "berberine-premium-fit",
       "cg": "t-berberine-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -16551,12 +16812,12 @@
       },
       "hidden": true,
       "score": 24.95,
-      "rank": 106,
+      "rank": 109,
       "badge": "new",
       "fam": "formula-dormir-premium",
       "cg": "t-formula-para-dormir-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -16673,13 +16934,13 @@
       },
       "hidden": true,
       "score": 24.95,
-      "rank": 107,
+      "rank": 110,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "oxido-nitrico-premium",
       "cg": "t-oxido-nitrico-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAR541OHsRzYi",
@@ -16813,12 +17074,12 @@
       },
       "hidden": true,
       "score": 24.95,
-      "rank": 108,
+      "rank": 111,
       "badge": "new",
       "fam": "probiotic-billion-premium",
       "cg": "t-probiotic-billion-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -17000,7 +17261,7 @@
       },
       "hidden": true,
       "score": 24.94,
-      "rank": 109,
+      "rank": 112,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "astrale-top-deportivo",
@@ -17211,7 +17472,7 @@
       },
       "hidden": true,
       "score": 24.94,
-      "rank": 110,
+      "rank": 113,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "rosea-top-deportivo",
@@ -17418,7 +17679,7 @@
       },
       "hidden": false,
       "score": 24.94,
-      "rank": 111,
+      "rank": 114,
       "badge": "new",
       "ai_priority": true,
       "fam": "top",
@@ -17557,12 +17818,12 @@
       },
       "hidden": true,
       "score": 24.94,
-      "rank": 112,
+      "rank": 115,
       "badge": "new",
       "fam": "tarro-cristal-diseno",
       "cg": "t-tarro-de-cristal-con-diseno-de-diamante-y-pajita",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -17692,12 +17953,12 @@
       },
       "hidden": true,
       "score": 24.94,
-      "rank": 113,
+      "rank": 116,
       "badge": "new",
       "fam": "men-s-vitality",
       "cg": "t-men-s-vitality-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUVj1YQIposX",
@@ -17805,12 +18066,12 @@
       },
       "hidden": true,
       "score": 24.93,
-      "rank": 114,
+      "rank": 117,
       "badge": "new",
       "fam": "gomitas-vinagre-sidra",
       "cg": "t-gomitas-de-vinagre-de-sidra-de-manzana-daz-premium-fit-gomitas",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUKvRVdZmjeR",
@@ -17924,13 +18185,13 @@
       },
       "hidden": true,
       "score": 24.92,
-      "rank": 115,
+      "rank": 118,
       "badge": "new",
       "ai_priority": true,
       "fam": "apoyo-conjunto-premium",
       "cg": "t-apoyo-conjunto-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "art_score": 6,
@@ -18051,7 +18312,7 @@
       },
       "hidden": true,
       "score": 24.92,
-      "rank": 116,
+      "rank": 119,
       "badge": "new",
       "ai_fail": 1,
       "fam": "balsamo-corporal-elevador",
@@ -18176,7 +18437,7 @@
       },
       "hidden": true,
       "score": 24.92,
-      "rank": 117,
+      "rank": 120,
       "badge": "new",
       "ai_fail": 1,
       "fam": "balsamo-corporal-energetico",
@@ -18301,7 +18562,7 @@
       },
       "hidden": true,
       "score": 24.92,
-      "rank": 118,
+      "rank": 121,
       "badge": "new",
       "ai_fail": 1,
       "fam": "balsamo-corporal-dormir",
@@ -18426,7 +18687,7 @@
       },
       "hidden": true,
       "score": 24.92,
-      "rank": 119,
+      "rank": 122,
       "badge": "new",
       "ai_fail": 1,
       "fam": "balsamo-corporal-relajante",
@@ -18551,7 +18812,7 @@
       },
       "hidden": true,
       "score": 24.92,
-      "rank": 120,
+      "rank": 123,
       "badge": "new",
       "ai_fail": 1,
       "fam": "balsamo-corporal-sin",
@@ -18664,12 +18925,12 @@
       },
       "hidden": true,
       "score": 24.92,
-      "rank": 121,
+      "rank": 124,
       "badge": "new",
       "fam": "complejo-bayas-acai",
       "cg": "t-complejo-de-bayas-de-acai-daz-premium-fit-capsulas",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAU0ayTIiz231",
@@ -18802,12 +19063,12 @@
       },
       "hidden": true,
       "score": 24.91,
-      "rank": 122,
+      "rank": 125,
       "badge": "new",
       "fam": "tiras-apoyo-la",
       "cg": "t-tiras-de-apoyo-para-la-libido-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUzByZYEp2XI",
@@ -18948,7 +19209,7 @@
       },
       "hidden": true,
       "score": 24.9,
-      "rank": 123,
+      "rank": 126,
       "badge": "new",
       "ai_fail": 1,
       "fam": "cafe-miel-manuka",
@@ -19093,12 +19354,12 @@
       },
       "hidden": true,
       "score": 24.9,
-      "rank": 124,
+      "rank": 127,
       "badge": "new",
       "fam": "colostrum-powder-premium",
       "cg": "t-colostrum-powder-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUdODjL1FEa0",
@@ -19204,13 +19465,13 @@
       },
       "hidden": true,
       "score": 24.9,
-      "rank": 125,
+      "rank": 128,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "esenciales-premium-fit",
       "cg": "t-esenciales-daz-premium-fit-para-cabello-piel-y-unas",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARxAvp4LecfL",
@@ -19332,7 +19593,7 @@
       },
       "hidden": true,
       "score": 24.9,
-      "rank": 126,
+      "rank": 129,
       "badge": "new",
       "ai_fail": 1,
       "fam": "fusion-cafe-champinones",
@@ -19456,12 +19717,12 @@
       },
       "hidden": true,
       "score": 24.9,
-      "rank": 127,
+      "rank": 130,
       "badge": "new",
       "fam": "ginkgo-biloba-ginseng",
       "cg": "t-ginkgo-biloba-ginseng-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUCNR6R0TtVO",
@@ -19570,12 +19831,12 @@
       },
       "hidden": true,
       "score": 24.9,
-      "rank": 128,
+      "rank": 131,
       "badge": "new",
       "fam": "musgo-marino-premium",
       "cg": "t-musgo-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAU6m1QgBPVDZ",
@@ -19674,12 +19935,12 @@
       },
       "hidden": true,
       "score": 24.9,
-      "rank": 129,
+      "rank": 132,
       "badge": "new",
       "fam": "super-quemador-grasa",
       "cg": "t-super-quemador-de-grasa-con-mct-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUTE09yV9QHp",
@@ -19778,12 +20039,12 @@
       },
       "hidden": true,
       "score": 24.89,
-      "rank": 130,
+      "rank": 133,
       "badge": "new",
       "fam": "apoyo-a-la",
       "cg": "t-apoyo-a-la-prostata-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAU5LaQHaqcev",
@@ -19961,7 +20222,7 @@
       },
       "hidden": false,
       "score": 24.88,
-      "rank": 131,
+      "rank": 134,
       "badge": "new",
       "fam": "descarga-deep-v",
       "cg": "t-descarga-deep-v-neck-racerback-cutout-active-crop-tops",
@@ -20100,12 +20361,12 @@
       },
       "hidden": true,
       "score": 24.88,
-      "rank": 132,
+      "rank": 135,
       "badge": "new",
       "fam": "htp-premium-fit",
       "cg": "t-htp-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUIXopFM3gr3",
@@ -20212,12 +20473,12 @@
       },
       "hidden": true,
       "score": 24.88,
-      "rank": 133,
+      "rank": 136,
       "badge": "new",
       "fam": "vitamina-k2-d3",
       "cg": "t-vitamina-k2-d3-daz-premium-fit-capsulas",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARJUFTYD2cSs",
@@ -20347,7 +20608,7 @@
       },
       "hidden": true,
       "score": 24.87,
-      "rank": 134,
+      "rank": 137,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product shot against a neutral background, though standard e-commerce style rather than high fashion.",
@@ -20499,12 +20760,12 @@
       },
       "hidden": true,
       "score": 24.87,
-      "rank": 135,
+      "rank": 138,
       "badge": "new",
       "fam": "spirulina-powder-premium",
       "cg": "t-spirulina-powder-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUH582lmzD5D",
@@ -20617,7 +20878,7 @@
       },
       "hidden": true,
       "score": 24.87,
-      "rank": 136,
+      "rank": 139,
       "badge": "new",
       "art_score": 4,
       "art_note": "The primary photo is a clean product shot, but secondary images are low-quality black placeholders and basic graphic icons.",
@@ -20743,7 +21004,7 @@
       },
       "hidden": true,
       "score": 24.87,
-      "rank": 137,
+      "rank": 140,
       "badge": "new",
       "ai_fail": 1,
       "fam": "toallitas-limpiadoras-oidos",
@@ -20862,7 +21123,7 @@
       },
       "hidden": true,
       "score": 24.87,
-      "rank": 138,
+      "rank": 141,
       "badge": "new",
       "art_score": 5,
       "art_note": "Clean studio product shot but features generic marketplace styling.",
@@ -20964,12 +21225,12 @@
       },
       "hidden": true,
       "score": 24.86,
-      "rank": 139,
+      "rank": 142,
       "badge": "new",
       "fam": "gomitas-apoyo-las",
       "cg": "t-gomitas-de-apoyo-para-las-articulaciones-daz-premium-fit-adultos",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUSU3W4vAWwJ",
@@ -21084,7 +21345,7 @@
       },
       "hidden": true,
       "score": 24.85,
-      "rank": 140,
+      "rank": 143,
       "badge": "new",
       "ai_fail": 1,
       "fam": "gel-crema-hidro",
@@ -21233,7 +21494,7 @@
       },
       "hidden": true,
       "score": 24.85,
-      "rank": 141,
+      "rank": 144,
       "badge": "new",
       "ai_fail": 1,
       "fam": "hidratante-sandia-premium",
@@ -21379,7 +21640,7 @@
       },
       "hidden": true,
       "score": 24.84,
-      "rank": 142,
+      "rank": 145,
       "badge": "new",
       "ai_fail": 1,
       "fam": "crema-calmante-la",
@@ -21490,12 +21751,12 @@
       },
       "hidden": true,
       "score": 24.84,
-      "rank": 143,
+      "rank": 146,
       "badge": "new",
       "fam": "resveratrol-600mg-premium",
       "cg": "t-resveratrol-600mg-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUcBLtUva4Gq",
@@ -21610,12 +21871,12 @@
       },
       "hidden": true,
       "score": 24.83,
-      "rank": 144,
+      "rank": 147,
       "badge": "new",
       "fam": "ayurvedic-complex-premium",
       "cg": "t-ayurvedic-complex-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUm7fpHuyWWm",
@@ -21739,7 +22000,7 @@
       },
       "hidden": true,
       "score": 24.83,
-      "rank": 145,
+      "rank": 148,
       "badge": "new",
       "ai_fail": 1,
       "fam": "cafe-mezcla-brasilena",
@@ -21846,12 +22107,12 @@
       },
       "hidden": true,
       "score": 24.83,
-      "rank": 146,
+      "rank": 149,
       "badge": "new",
       "fam": "polvo-remolacha-premium",
       "cg": "t-polvo-de-remolacha-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAU4Oi0caYG7x",
@@ -21961,12 +22222,12 @@
       },
       "hidden": true,
       "score": 24.81,
-      "rank": 147,
+      "rank": 150,
       "badge": "new",
       "fam": "apoyo-huesos-corazon",
       "cg": "t-apoyo-para-huesos-y-corazon-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUrnVeOmTXO4",
@@ -22086,12 +22347,12 @@
       },
       "hidden": true,
       "score": 24.81,
-      "rank": 148,
+      "rank": 151,
       "badge": "new",
       "fam": "soporte-huesos-corazon",
       "cg": "t-soporte-para-huesos-y-corazon-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUQxD951fOaQ",
@@ -22200,12 +22461,12 @@
       },
       "hidden": true,
       "score": 24.8,
-      "rank": 149,
+      "rank": 152,
       "badge": "new",
       "fam": "colostrum-capsules-premium",
       "cg": "t-colostrum-capsules-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUD7i04vQ7ZM",
@@ -22321,12 +22582,12 @@
       },
       "hidden": true,
       "score": 24.8,
-      "rank": 150,
+      "rank": 153,
       "badge": "new",
       "fam": "complejo-extracto-hongos",
       "cg": "t-complejo-de-extracto-de-hongos-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAU99V4dKliHb",
@@ -22430,12 +22691,12 @@
       },
       "hidden": true,
       "score": 24.8,
-      "rank": 151,
+      "rank": 154,
       "badge": "new",
       "fam": "formula-nootropica-el",
       "cg": "t-formula-nootropica-para-el-cerebro-y-la-concentracion-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAUQZKvtbkSbo",
@@ -22549,7 +22810,7 @@
       },
       "hidden": true,
       "score": 24.8,
-      "rank": 152,
+      "rank": 155,
       "badge": "new",
       "ai_fail": 1,
       "fam": "hidratante-antienvejecimiento-piel",
@@ -22661,7 +22922,7 @@
       },
       "hidden": true,
       "score": 24.8,
-      "rank": 153,
+      "rank": 156,
       "badge": "new",
       "ai_fail": 1,
       "fam": "hidratante-antienvejecimiento-pieles",
@@ -22781,13 +23042,13 @@
       },
       "hidden": true,
       "score": 24.8,
-      "rank": 154,
+      "rank": 157,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "omega-epa-180mg",
       "cg": "t-omega-epa-180mg-dha-120mg-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARhdVlhxk0js",
@@ -22922,13 +23183,13 @@
       },
       "hidden": true,
       "score": 24.8,
-      "rank": 155,
+      "rank": 158,
       "badge": "new",
       "ai_fail": 1,
       "fam": "perla-abeja-premium",
       "cg": "t-perla-de-abeja-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "art_score": 8,
@@ -23044,7 +23305,7 @@
       },
       "hidden": true,
       "score": 24.79,
-      "rank": 156,
+      "rank": 159,
       "badge": "new",
       "ai_fail": 1,
       "fam": "hidratante-peptidos-premium",
@@ -23203,7 +23464,7 @@
       },
       "hidden": true,
       "score": 24.79,
-      "rank": 157,
+      "rank": 160,
       "badge": "new",
       "art_score": 5,
       "art_note": "Clean product studio shots provide adequate clarity, but lifestyle and splash visuals appear heavily composited and lack high-end campaign authenticity.",
@@ -23342,13 +23603,13 @@
       },
       "hidden": true,
       "score": 24.78,
-      "rank": 158,
+      "rank": 161,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "bcaa-shock-powder",
       "cg": "t-bcaa-shock-powder-daz-premium-fit-ponche-de-frutas",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARdQyePrcuMu",
@@ -23467,12 +23728,12 @@
       },
       "hidden": true,
       "score": 24.78,
-      "rank": 159,
+      "rank": 162,
       "badge": "new",
       "fam": "crema-sebo-naranja",
       "cg": "t-de-sebo-de-y-bergamota-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -23598,7 +23859,7 @@
       },
       "hidden": true,
       "score": 24.78,
-      "rank": 160,
+      "rank": 163,
       "badge": "new",
       "ai_fail": 1,
       "fam": "crema-sebo-limoncillo",
@@ -23728,7 +23989,7 @@
       },
       "hidden": true,
       "score": 24.78,
-      "rank": 161,
+      "rank": 164,
       "badge": "new",
       "ai_fail": 1,
       "fam": "crema-sebo-noche",
@@ -23887,7 +24148,7 @@
       },
       "hidden": true,
       "score": 24.77,
-      "rank": 162,
+      "rank": 165,
       "badge": "new",
       "ai_fail": 1,
       "fam": "gel-limpiador-suave",
@@ -24012,12 +24273,12 @@
       },
       "hidden": true,
       "score": 24.77,
-      "rank": 163,
+      "rank": 166,
       "badge": "new",
       "fam": "l-arginina-premium",
       "cg": "t-l-arginina-daz-premium-fit-capsulas",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARlcdTJnbgjX",
@@ -24123,12 +24384,12 @@
       },
       "hidden": true,
       "score": 24.77,
-      "rank": 164,
+      "rank": 167,
       "badge": "new",
       "fam": "probiotic-billion-premium",
       "cg": "t-probiotic-billion-daz-premium-fit-with-prebiotics",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -24243,7 +24504,7 @@
       },
       "hidden": true,
       "score": 24.76,
-      "rank": 165,
+      "rank": 168,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product shot of the serum bottle against a neutral background.",
@@ -24390,7 +24651,7 @@
       },
       "hidden": true,
       "score": 24.76,
-      "rank": 166,
+      "rank": 169,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product shot on a plain background, though presented as a standard render.",
@@ -24538,7 +24799,7 @@
       },
       "hidden": true,
       "score": 24.76,
-      "rank": 167,
+      "rank": 170,
       "badge": "new",
       "ai_fail": 1,
       "fam": "suero-niacinamida-al",
@@ -24677,12 +24938,12 @@
       },
       "hidden": true,
       "score": 24.76,
-      "rank": 168,
+      "rank": 171,
       "badge": "new",
       "fam": "women-s-vitality",
       "cg": "t-women-s-vitality-formula-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -24805,12 +25066,12 @@
       },
       "hidden": false,
       "score": 24.75,
-      "rank": 169,
+      "rank": 172,
       "badge": "new",
       "fam": "botella-deportiva-oregon",
       "cg": "t-botella-deportiva-oregon-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": true,
       "missing_days": 2,
@@ -24878,7 +25139,8 @@
       "details_en": "· One size: 13.5 oz (400 ml)\n· Width: 2.56 in\n· Height: 6.89 in\n· Material: aluminum\n· Screw cap with included carabiner\n· Made especially for you on demand",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-reds-superfood-daz-premium-fit",
@@ -24937,13 +25199,13 @@
       },
       "hidden": true,
       "score": 24.75,
-      "rank": 170,
+      "rank": 173,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "reds-superfood-premium",
       "cg": "t-reds-superfood-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAR1vAdn9env4",
@@ -24982,7 +25244,8 @@
       "details_en": "· Net weight 120 grams\n· Made to order\n· Worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-superalimento-verde-daz-premium-fit",
@@ -25047,13 +25310,13 @@
       },
       "hidden": true,
       "score": 24.75,
-      "rank": 171,
+      "rank": 174,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "superalimento-verde-premium",
       "cg": "t-superalimento-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAR7yZ9wE55Rp",
@@ -25092,7 +25355,8 @@
       "details_en": "· Net weight: 0.28 lb (126 g)\n· Ingredients: Barley Grass Powder (leaf), Broccoli Powder (Brassica oleracea)(leaf), Spirulina Powder (Arthrospira plutentis)(whole plant), Green Tea Powder (leaf), Alfalfa Extract (whole herb), Wheat Grass (Triticum aestivum L.)(leaf), Beet Root Powder (Beta vulgaris)(root), Hibiscus Powder (flower), Strawberry Juice Powder (fruit), Cranberry Powder (Vaccinium macrocarpon L.)(fruit), Acai Juice Powder (fruit), Blueberry Extract (berry), Pomegranate Powder (fruit), Cinnamon (Cinnamomum cassia)(bark), Turmeric Extract (root), Panax ginseng Powder (root), Ashwagandha Powder (root), Mangosteen Extract (Garcinia Mangostana L.)(pericarp), Black Pepper Extract (fruit), Inulin (from Helianthus tuberosus)(root), Ginger Powder (root), Sodium Alginate, Citric Acid, Stevia Extract (leaf)\n· Made in USA\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-tonico-equilibrante-suave-daz-premium-fit",
@@ -25164,7 +25428,7 @@
       },
       "hidden": true,
       "score": 24.75,
-      "rank": 172,
+      "rank": 175,
       "badge": "new",
       "ai_fail": 1,
       "fam": "tonico-equilibrante-suave",
@@ -25237,7 +25501,8 @@
       "stripe_payment_link": "https://buy.stripe.com/7sY14o1IM9yI0I636e1gW37",
       "stripe_link_id": "plink_1Ufq20LJVU4oTPuXTayqkhSJ",
       "stripe_price_cents": 2999,
-      "stripe_site": "https://dazpremiumfit.com"
+      "stripe_site": "https://dazpremiumfit.com",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-tonico-perfeccionador-de-poros-con-hamamelis-daz-premium-fit",
@@ -25312,7 +25577,7 @@
       },
       "hidden": true,
       "score": 24.75,
-      "rank": 173,
+      "rank": 176,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product shot with simple lighting, lacks dynamic campaign styling.",
@@ -25458,13 +25723,13 @@
       },
       "hidden": true,
       "score": 24.74,
-      "rank": 174,
+      "rank": 177,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "creatine-hydration-powder",
       "cg": "t-creatine-hydration-powder-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARokjRdS0nNe",
@@ -25498,7 +25763,8 @@
       "details_en": "· Creatine as Creatine Monohydrate 5,000 mg\n· Magnesium as Magnesium Malate 60 mg\n· Sodium as Sea Salt 1,000 mg\n· Potassium as Potassium Chloride 200 mg\n· Lemon flavor\n· Made to order pieces\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-gomitas-para-cabello-piel-y-unas-daz-premium-fit",
@@ -25558,12 +25824,12 @@
       },
       "hidden": true,
       "score": 24.74,
-      "rank": 175,
+      "rank": 178,
       "badge": "new",
       "fam": "gomitas-cabello-piel",
       "cg": "t-gomitas-para-cabello-piel-y-unas-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -25607,7 +25873,8 @@
       "details_en": "· Made to order and worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-crema-de-hidratacion-de-la-piel-daz-premium-fit",
@@ -25681,7 +25948,7 @@
       },
       "hidden": true,
       "score": 24.73,
-      "rank": 176,
+      "rank": 179,
       "badge": "new",
       "ai_fail": 1,
       "fam": "crema-hidratacion-la",
@@ -25723,7 +25990,8 @@
       "stripe_payment_link": "https://buy.stripe.com/fZueVe4UY6mw9eC8qy1gW3a",
       "stripe_link_id": "plink_1Ufq21LJVU4oTPuXLNDXr2ZJ",
       "stripe_price_cents": 2799,
-      "stripe_site": "https://dazpremiumfit.com"
+      "stripe_site": "https://dazpremiumfit.com",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-curcuma-platino-daz-premium-fit",
@@ -25788,12 +26056,12 @@
       },
       "hidden": true,
       "score": 24.73,
-      "rank": 177,
+      "rank": 180,
       "badge": "new",
       "fam": "curcuma-platino-premium",
       "cg": "t-curcuma-platino-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -25834,7 +26102,8 @@
       "details_en": "· Contains 60 capsules\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-suero-botanico-para-el-crecimiento-del-cabello-daz-premium-fit",
@@ -25912,7 +26181,7 @@
       },
       "hidden": true,
       "score": 24.73,
-      "rank": 178,
+      "rank": 181,
       "badge": "new",
       "ai_fail": 1,
       "fam": "suero-botanico-el",
@@ -25961,7 +26230,8 @@
       "stripe_payment_link": "https://buy.stripe.com/fZu5kEgDGcKU9eC36e1gW3b",
       "stripe_link_id": "plink_1Ufq22LJVU4oTPuXdi8grVYb",
       "stripe_price_cents": 3099,
-      "stripe_site": "https://dazpremiumfit.com"
+      "stripe_site": "https://dazpremiumfit.com",
+      "audited": "2026-11-26"
     },
     {
       "id": "interestprint-0-black-and-grey-feathers-pattern-lilipinso-cross-back-string-sports-bra-high-waist-shorts-active-sets",
@@ -26130,7 +26400,7 @@
       },
       "hidden": true,
       "score": 24.71,
-      "rank": 179,
+      "rank": 182,
       "badge": "new",
       "fam": "feathers-pattern-lilipinso",
       "cg": "t-and-feathers-pattern-lilipinso-cross-back-string-sports-bra-high-waist-shorts",
@@ -26205,7 +26475,8 @@
       "details_en": "· Composition: Polyester\n· Compression fit with four-way stretch\n· Sports bra with removable pads\n· High-waist shorts with tummy control\n· Machine wash or hand wash",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-26"
     },
     {
       "id": "interestprint-action-painting-i-mila-blau-womens-all-over-print-sports-bra-model-t52",
@@ -26288,7 +26559,7 @@
       },
       "hidden": true,
       "score": 24.71,
-      "rank": 180,
+      "rank": 183,
       "badge": "new",
       "fam": "action-painting-i",
       "cg": "t-action-painting-i-mila-blau-women-s-all-over-print-sports-bra",
@@ -26374,7 +26645,8 @@
       "details_en": "· 94% polyester, 6% spandex\n· No chest pads\n· Elastic hem\n· Machine wash cold\n· Made to order with worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-26"
     },
     {
       "id": "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
@@ -26498,7 +26770,7 @@
       },
       "hidden": false,
       "score": 24.71,
-      "rank": 181,
+      "rank": 184,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "premium-fit-immortal",
@@ -26568,7 +26840,8 @@
       "details_en": "· Composition: 100% polyester\n· Relaxed fit\n· Elastic waistband with inner drawcord\n· Two side pockets\n· Unlined\n· Machine wash cold, maximum 40 °C\n· Do not bleach\n· Iron with a protective cloth\n· Do not tumble dry, dry in the shade\n· Made to order",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "men"
+      "gender": "men",
+      "audited": "2026-11-26"
     },
     {
       "id": "interestprint-immortal-warrior-short-2-mens-all-over-print-baggy-shorts-model-l37",
@@ -26689,7 +26962,7 @@
       },
       "hidden": false,
       "score": 24.71,
-      "rank": 182,
+      "rank": 185,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "premium-fit-immortal",
@@ -26754,7 +27027,8 @@
       "details_en": "· 100% polyester, unlined\n· Loose, long fit falling below the knee\n· Elastic waistband with adjustable inner drawstring\n· Two side pockets\n· Machine wash cold, maximum 40 °C\n· Do not bleach\n· Iron with a protective cloth\n· Do not tumble dry, dry in the shade",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "men"
+      "gender": "men",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-crema-para-ojos-con-peptidos-daz-premium-fit",
@@ -26829,7 +27103,7 @@
       },
       "hidden": true,
       "score": 24.71,
-      "rank": 183,
+      "rank": 186,
       "badge": "new",
       "ai_fail": 1,
       "fam": "crema-ojos-peptidos",
@@ -26907,7 +27181,8 @@
       "stripe_payment_link": "https://buy.stripe.com/28E5kE1IM4eoeyWbCK1gW3e",
       "stripe_link_id": "plink_1Ufq24LJVU4oTPuX4A636HSb",
       "stripe_price_cents": 3499,
-      "stripe_site": "https://dazpremiumfit.com"
+      "stripe_site": "https://dazpremiumfit.com",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-gel-crema-para-ojos-con-peptidos-daz-premium-fit",
@@ -26990,12 +27265,12 @@
       },
       "hidden": true,
       "score": 24.71,
-      "rank": 184,
+      "rank": 187,
       "badge": "new",
       "fam": "gel-crema-ojos",
       "cg": "t-gel-para-ojos-con-peptidos-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -27073,7 +27348,8 @@
       "details_en": "· Volume: 1 fl oz / 30 ml\n· Ingredients: Aqua, Vitis Vinifera (Grape) Seed Oil, Cetearyl Alcohol, Cetearyl Glucoside, Acacia Senegal Gum, Xanthan Gum, Acetyl Tetrapeptide-5, Sodium Hyaluronate, 1,2-Hexanediol, Phyllostachys Bambusoides Extract\n· Suggested use: Apply once or twice daily\n· Country of origin: USA\n· Made to order",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-mezcla-profesional-de-enzimas-digestivas-daz-premium-fit",
@@ -27145,12 +27421,12 @@
       },
       "hidden": true,
       "score": 24.7,
-      "rank": 185,
+      "rank": 188,
       "badge": "new",
       "fam": "mezcla-profesional-enzimas",
       "cg": "t-mezcla-profesional-de-enzimas-digestivas-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -27206,7 +27482,8 @@
       "details_en": "· 60 vegetable capsules per bottle\n· Made in USA\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-alpha-energy-daz-premium-fit",
@@ -27277,12 +27554,12 @@
       },
       "hidden": true,
       "score": 24.69,
-      "rank": 186,
+      "rank": 189,
       "badge": "new",
       "fam": "alpha-energy-premium",
       "cg": "t-alpha-energy-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -27323,7 +27600,8 @@
       "details_en": "· 90 capsules per container\n· Serving size: 3 capsules\n· Ingredients: magnesium, zinc, tribulus terrestris, chrysin, horny goat weed, longjack, saw palmetto berries, hawthorn berries, cissus quadrangularis\n· Vegetable cellulose capsule, rice flour, and magnesium stearate\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "men"
+      "gender": "men",
+      "audited": "2026-11-26"
     },
     {
       "id": "productifi-polvo-de-matcha-ceremonial-daz-premium-fit",
@@ -27402,7 +27680,7 @@
       },
       "hidden": true,
       "score": 24.69,
-      "rank": 187,
+      "rank": 190,
       "badge": "new",
       "ai_fail": 1,
       "fam": "polvo-matcha-ceremonial",
@@ -27529,12 +27807,12 @@
       },
       "hidden": true,
       "score": 24.69,
-      "rank": 188,
+      "rank": 191,
       "badge": "new",
       "fam": "potenciador-testosterona-premium",
       "cg": "t-potenciador-de-testosterona-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -27655,13 +27933,13 @@
       },
       "hidden": true,
       "score": 24.68,
-      "rank": 189,
+      "rank": 192,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "polvo-hidratante-premium",
       "cg": "t-polvo-hidratante-daz-premium-fit-limonada",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARUG5H7NIJoS",
@@ -27792,13 +28070,13 @@
       },
       "hidden": true,
       "score": 24.68,
-      "rank": 190,
+      "rank": 193,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "polvo-hidratante-premium",
       "cg": "t-polvo-hidratante-daz-premium-fit-lychee",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAR3qo1noprUA",
@@ -27925,13 +28203,13 @@
       },
       "hidden": true,
       "score": 24.68,
-      "rank": 191,
+      "rank": 194,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "polvo-hidratante-premium",
       "cg": "t-polvo-hidratante-daz-premium-fit-maracuya",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARkooAWZxZ88",
@@ -28043,13 +28321,13 @@
       },
       "hidden": true,
       "score": 24.68,
-      "rank": 192,
+      "rank": 195,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "polvo-hidratante-premium",
       "cg": "t-polvo-hidratante-daz-premium-fit-melocoton-y-mango",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAR7nXrtgHJqr",
@@ -28167,13 +28445,13 @@
       },
       "hidden": true,
       "score": 24.68,
-      "rank": 193,
+      "rank": 196,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "polvo-hidratante-premium",
       "cg": "t-polvo-hidratante-daz-premium-fit-te-matcha",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARSWORnn4tyz",
@@ -28298,7 +28576,7 @@
       },
       "hidden": false,
       "score": 24.67,
-      "rank": 194,
+      "rank": 197,
       "badge": "new",
       "ai_priority": true,
       "img_checked": "2026-11-25",
@@ -28431,7 +28709,7 @@
       },
       "hidden": false,
       "score": 24.67,
-      "rank": 195,
+      "rank": 198,
       "badge": "new",
       "ai_priority": true,
       "img_checked": "2026-11-25",
@@ -28573,7 +28851,7 @@
       },
       "hidden": true,
       "score": 24.67,
-      "rank": 196,
+      "rank": 199,
       "badge": "new",
       "ai_fail": 1,
       "fam": "mezcla-cafe-canamo",
@@ -28748,7 +29026,7 @@
       },
       "hidden": false,
       "score": 24.66,
-      "rank": 197,
+      "rank": 200,
       "badge": "new",
       "fam": "wire-leggings-cintura",
       "cg": "t-dpf-wire-leggings-de-cintura-alta",
@@ -28885,12 +29163,12 @@
       },
       "hidden": true,
       "score": 24.66,
-      "rank": 198,
+      "rank": 201,
       "badge": "new",
       "fam": "vaso-gator-oz",
       "cg": "t-vaso-gator-de-oz-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -29026,12 +29304,12 @@
       },
       "hidden": true,
       "score": 24.66,
-      "rank": 199,
+      "rank": 202,
       "badge": "new",
       "fam": "capsulas-bienestar-del",
       "cg": "t-capsulas-de-bienestar-del-microbioma-de-birch-chaga-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -29141,12 +29419,12 @@
       },
       "hidden": true,
       "score": 24.66,
-      "rank": 200,
+      "rank": 203,
       "badge": "new",
       "fam": "crema-colageno-sleep",
       "cg": "t-de-colageno-sleep-plus-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -29257,12 +29535,12 @@
       },
       "hidden": true,
       "score": 24.66,
-      "rank": 201,
+      "rank": 204,
       "badge": "new",
       "fam": "capsulas-naturales-el",
       "cg": "t-capsulas-naturales-para-el-bienestar-intestinal-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -29365,12 +29643,12 @@
       },
       "hidden": false,
       "score": 24.65,
-      "rank": 202,
+      "rank": 205,
       "badge": "new",
       "fam": "botella-termica-oz",
       "cg": "t-botella-termica-de-oz-perfecta-para-la-hidratacion-sobre-la-marcha",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": true,
       "missing_days": 2,
@@ -29500,12 +29778,12 @@
       },
       "hidden": true,
       "score": 24.64,
-      "rank": 203,
+      "rank": 206,
       "badge": "new",
       "fam": "polvo-bienestar-del",
       "cg": "t-polvo-de-bienestar-del-microbioma-birch-chaga-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -29619,7 +29897,7 @@
       },
       "hidden": true,
       "score": 24.63,
-      "rank": 204,
+      "rank": 207,
       "badge": "new",
       "art_score": 5,
       "art_note": "Clean product studio shot with standard cosmetic packaging presentation, supported by generic icon graphics.",
@@ -29772,7 +30050,7 @@
       },
       "hidden": true,
       "score": 24.63,
-      "rank": 205,
+      "rank": 208,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product photography of the supplement bottle, standard ecommerce presentation.",
@@ -29809,7 +30087,7 @@
       "fam": "hongo-reishi-premium",
       "cg": "t-hongo-reishi-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "gender": "unisex",
@@ -29880,13 +30158,13 @@
       },
       "hidden": true,
       "score": 24.63,
-      "rank": 206,
+      "rank": 209,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "peptidos-colageno-hidrolizados",
       "cg": "t-peptidos-de-colageno-hidrolizados-daz-premium-fit-alimentados-con-pasto",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAR9cbf9Dz7v6",
@@ -29996,12 +30274,12 @@
       },
       "hidden": true,
       "score": 24.63,
-      "rank": 207,
+      "rank": 210,
       "badge": "new",
       "fam": "polvo-natural-el",
       "cg": "t-polvo-natural-para-el-bienestar-intestinal-daz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -30176,7 +30454,7 @@
       },
       "hidden": false,
       "score": 24.62,
-      "rank": 208,
+      "rank": 211,
       "badge": "new",
       "fam": "shorts-deportivos-mujer",
       "cg": "t-shorts-deportivos-de-mujer-dpf-tough-bitch-de-doble-capa",
@@ -30317,7 +30595,7 @@
       },
       "hidden": false,
       "score": 24.62,
-      "rank": 209,
+      "rank": 212,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "sudadera-corta-mujer",
@@ -30448,7 +30726,7 @@
       },
       "hidden": false,
       "score": 24.62,
-      "rank": 210,
+      "rank": 213,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "sudadera-corta-mujer",
@@ -30631,12 +30909,12 @@
       },
       "hidden": false,
       "score": 24.62,
-      "rank": 211,
+      "rank": 214,
       "badge": "new",
       "fam": "botella-agua-acero",
       "cg": "t-botella-de-agua-de-acero-inoxidable-vibrante-con-tapa-estandar-perfecta-para",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": true,
       "missing_days": 2,
@@ -30794,12 +31072,12 @@
       },
       "hidden": true,
       "score": 24.62,
-      "rank": 212,
+      "rank": 215,
       "badge": "new",
       "fam": "focus-powder-premium",
       "cg": "t-focus-powder-daz-premium-fit-caramelos-acidos",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -30928,12 +31206,12 @@
       },
       "hidden": true,
       "score": 24.62,
-      "rank": 213,
+      "rank": 216,
       "badge": "new",
       "fam": "focus-powder-premium",
       "cg": "t-focus-powder-daz-premium-fit-gusano-de-goma-agria",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -31060,12 +31338,12 @@
       },
       "hidden": true,
       "score": 24.62,
-      "rank": 214,
+      "rank": 217,
       "badge": "new",
       "fam": "focus-powder-premium",
       "cg": "t-focus-powder-daz-premium-fit-uva-agria",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -31260,7 +31538,7 @@
       },
       "hidden": false,
       "score": 24.61,
-      "rank": 215,
+      "rank": 218,
       "badge": "new",
       "fam": "smoke-leggings-estampados",
       "cg": "t-dpf-smoke-leggings-estampados",
@@ -31459,7 +31737,7 @@
       },
       "hidden": false,
       "score": 24.61,
-      "rank": 216,
+      "rank": 219,
       "badge": "new",
       "fam": "essential-leggings-negros",
       "cg": "t-dpf-essential-leggings-negros",
@@ -31603,7 +31881,7 @@
       },
       "hidden": false,
       "score": 24.61,
-      "rank": 217,
+      "rank": 220,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "sudadera-mujer-tough",
@@ -31749,7 +32027,7 @@
       },
       "hidden": false,
       "score": 24.61,
-      "rank": 218,
+      "rank": 221,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "sudadera-mujer-tough",
@@ -31894,12 +32172,12 @@
       },
       "hidden": true,
       "score": 24.61,
-      "rank": 219,
+      "rank": 222,
       "badge": "new",
       "fam": "coq10-ubiquinone-premium",
       "cg": "t-coq10-ubiquinone-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -32045,13 +32323,13 @@
       },
       "hidden": true,
       "score": 24.61,
-      "rank": 220,
+      "rank": 223,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-algodon-de-azucar",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARrNitVG4Ei2",
@@ -32177,13 +32455,13 @@
       },
       "hidden": true,
       "score": 24.61,
-      "rank": 221,
+      "rank": 224,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-melon-creamsicle",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARxBIxs9kglL",
@@ -32295,13 +32573,13 @@
       },
       "hidden": true,
       "score": 24.61,
-      "rank": 222,
+      "rank": 225,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-tarta-de-fresas",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARfxI1Kc0vHQ",
@@ -32411,13 +32689,13 @@
       },
       "hidden": true,
       "score": 24.61,
-      "rank": 223,
+      "rank": 226,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-yuzu-flavor",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARDgCFyvzGkH",
@@ -32529,13 +32807,13 @@
       },
       "hidden": true,
       "score": 24.61,
-      "rank": 224,
+      "rank": 227,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-fruit-punch",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARZ9mV6a1wuC",
@@ -32644,13 +32922,13 @@
       },
       "hidden": true,
       "score": 24.61,
-      "rank": 225,
+      "rank": 228,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-guava-berry",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAReeT4nTcBTN",
@@ -32759,13 +33037,13 @@
       },
       "hidden": true,
       "score": 24.61,
-      "rank": 226,
+      "rank": 229,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "energy-powder-premium",
       "cg": "t-energy-powder-daz-premium-fit-lychee-splash-energy",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhARIQBGtNEKpD",
@@ -32878,7 +33156,7 @@
       },
       "hidden": true,
       "score": 24.61,
-      "rank": 227,
+      "rank": 230,
       "badge": "new",
       "ai_fail": 1,
       "fam": "fusion-cafe-champinones",
@@ -32985,13 +33263,13 @@
       },
       "hidden": true,
       "score": 24.61,
-      "rank": 228,
+      "rank": 231,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "l-glutamina-premium",
       "cg": "t-l-glutamina-daz-premium-fit-en-polvo",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhASgbAizbqbTc",
@@ -33097,12 +33375,12 @@
       },
       "hidden": true,
       "score": 24.61,
-      "rank": 229,
+      "rank": 232,
       "badge": "new",
       "fam": "pre-entrenamiento-premium",
       "cg": "t-pre-entrenamiento-daz-premium-fit-sandia-g-oz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAShI7R5J8yOT",
@@ -33223,13 +33501,13 @@
       },
       "hidden": true,
       "score": 24.61,
-      "rank": 230,
+      "rank": 233,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "proteina-vegetal-premium",
       "cg": "t-proteina-vegetal-daz-premium-fit-chocolate",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhASFk12vw6zrD",
@@ -33333,13 +33611,13 @@
       },
       "hidden": true,
       "score": 24.61,
-      "rank": 231,
+      "rank": 234,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "proteina-vegetal-premium",
       "cg": "t-proteina-vegetal-daz-premium-fit-vainilla",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhASVqJUTX58VL",
@@ -33448,7 +33726,7 @@
       },
       "hidden": false,
       "score": 24.6,
-      "rank": 232,
+      "rank": 235,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "immortal-shorts-vellon",
@@ -33579,7 +33857,7 @@
       },
       "hidden": false,
       "score": 24.6,
-      "rank": 233,
+      "rank": 236,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "immortal-shorts-vellon",
@@ -33710,7 +33988,7 @@
       },
       "hidden": false,
       "score": 24.6,
-      "rank": 234,
+      "rank": 237,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "immortal-shorts-vellon",
@@ -33826,12 +34104,12 @@
       },
       "hidden": true,
       "score": 24.6,
-      "rank": 235,
+      "rank": 238,
       "badge": "new",
       "fam": "vaso-diseno-diamante",
       "cg": "t-vaso-con-diseno-de-diamante-de-oz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -33937,7 +34215,7 @@
       },
       "hidden": true,
       "score": 24.6,
-      "rank": 236,
+      "rank": 239,
       "badge": "new",
       "ai_fail": 1,
       "fam": "crema-reafirmante-la",
@@ -34046,12 +34324,12 @@
       },
       "hidden": true,
       "score": 24.6,
-      "rank": 237,
+      "rank": 240,
       "badge": "new",
       "fam": "keto-premium-fit",
       "cg": "t-keto-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -34233,7 +34511,7 @@
       },
       "hidden": false,
       "score": 24.59,
-      "rank": 238,
+      "rank": 241,
       "badge": "new",
       "fam": "descarga-cross-back",
       "cg": "t-descarga-cross-back-pocket-sport-dress",
@@ -34447,7 +34725,7 @@
       },
       "hidden": false,
       "score": 24.59,
-      "rank": 239,
+      "rank": 242,
       "badge": "new",
       "fam": "descarga-cross-back",
       "cg": "t-descarga-cross-back-pocket-sport-dress",
@@ -34652,7 +34930,7 @@
       },
       "hidden": false,
       "score": 24.59,
-      "rank": 240,
+      "rank": 243,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "premium-fit-tough",
@@ -34857,7 +35135,7 @@
       },
       "hidden": false,
       "score": 24.59,
-      "rank": 241,
+      "rank": 244,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "premium-fit-tough",
@@ -35016,12 +35294,12 @@
       },
       "hidden": false,
       "score": 24.59,
-      "rank": 242,
+      "rank": 245,
       "badge": "new",
       "fam": "botella-termica-20oz",
       "cg": "t-botella-termica-de-20oz-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": true,
       "missing_days": 2,
@@ -35137,12 +35415,12 @@
       },
       "hidden": true,
       "score": 24.59,
-      "rank": 243,
+      "rank": 246,
       "badge": "new",
       "fam": "vaso-40oz",
       "cg": "t-vaso-de-40oz-daz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -35258,13 +35536,13 @@
       },
       "hidden": true,
       "score": 24.59,
-      "rank": 244,
+      "rank": 247,
       "badge": "new",
       "ai_fail": 2,
       "fam": "batido-verduras-ultra",
       "cg": "t-batido-de-verduras-ultra-limpio-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "art_score": 8,
@@ -35365,13 +35643,13 @@
       },
       "hidden": true,
       "score": 24.59,
-      "rank": 245,
+      "rank": 248,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "creatine-monohydrate-premium",
       "cg": "t-creatine-monohydrate-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhASVmthYQURs2",
@@ -35495,12 +35773,12 @@
       },
       "hidden": false,
       "score": 24.58,
-      "rank": 246,
+      "rank": 249,
       "badge": "new",
       "fam": "botella-agua-ecologica",
       "cg": "t-botella-de-agua-ecologica-de-acero-inoxidable-con-pajita-hidratacion-esencial-de",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": true,
       "missing_days": 2,
@@ -35698,7 +35976,7 @@
       },
       "hidden": false,
       "score": 24.57,
-      "rank": 247,
+      "rank": 250,
       "badge": "new",
       "fam": "mono-corto-deportivo",
       "cg": "t-mono-corto-deportivo-dpf-no-permission-con-espalda-abierta",
@@ -35905,7 +36183,7 @@
       },
       "hidden": false,
       "score": 24.57,
-      "rank": 248,
+      "rank": 251,
       "badge": "new",
       "fam": "mono-corto-deportivo",
       "cg": "t-mono-corto-deportivo-dpf-no-permission-con-espalda-abierta",
@@ -36054,7 +36332,7 @@
       },
       "hidden": false,
       "score": 24.57,
-      "rank": 249,
+      "rank": 252,
       "badge": "new",
       "ai_priority": true,
       "img_checked": "2026-11-25",
@@ -36174,7 +36452,7 @@
       },
       "hidden": false,
       "score": 24.57,
-      "rank": 250,
+      "rank": 253,
       "badge": "new",
       "ai_priority": true,
       "img_checked": "2026-11-25",
@@ -36312,12 +36590,12 @@
       },
       "hidden": false,
       "score": 24.57,
-      "rank": 251,
+      "rank": 254,
       "badge": "new",
       "fam": "botella-agua-acero",
       "cg": "t-botella-de-agua-de-acero-inoxidable-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": true,
       "missing_days": 2,
@@ -36455,12 +36733,12 @@
       },
       "hidden": true,
       "score": 24.57,
-      "rank": 252,
+      "rank": 255,
       "badge": "new",
       "fam": "mezcla-champinones-fermentados",
       "cg": "t-mezcla-de-champinones-fermentados-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -36589,13 +36867,13 @@
       },
       "hidden": true,
       "score": 24.56,
-      "rank": 253,
+      "rank": 256,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "premium-fit-advanced",
       "cg": "t-daz-premium-fit-advanced-whey-protein-isolate-vanilla",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhASEsIgvrXORr",
@@ -36695,7 +36973,7 @@
       },
       "hidden": true,
       "score": 24.56,
-      "rank": 254,
+      "rank": 257,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio renders of packaging, adequate product representation but standard mockup appearance.",
@@ -36825,12 +37103,12 @@
       },
       "hidden": true,
       "score": 24.56,
-      "rank": 255,
+      "rank": 258,
       "badge": "new",
       "fam": "cordyceps-mushroom-premium",
       "cg": "t-cordyceps-mushroom-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -36937,13 +37215,13 @@
       },
       "hidden": true,
       "score": 24.56,
-      "rank": 256,
+      "rank": 259,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "crema-colageno-premium",
       "cg": "t-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhASI4xDaRNjDa",
@@ -37042,13 +37320,13 @@
       },
       "hidden": true,
       "score": 24.56,
-      "rank": 257,
+      "rank": 260,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "premium-fit-advanced",
       "cg": "t-daz-premium-fit-advanced-whey-protein-isolate-chocolate",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhASsl6HDsG1oG",
@@ -37164,13 +37442,13 @@
       },
       "hidden": true,
       "score": 24.56,
-      "rank": 258,
+      "rank": 261,
       "badge": "new",
       "ai_fail": 1,
       "fam": "hongo-cordyceps-premium",
       "cg": "t-hongo-cordyceps-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "art_score": 8,
@@ -37288,12 +37566,12 @@
       },
       "hidden": true,
       "score": 24.56,
-      "rank": 259,
+      "rank": 262,
       "badge": "new",
       "fam": "limpieza-suave-colon",
       "cg": "t-limpieza-suave-de-colon-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -37410,13 +37688,13 @@
       },
       "hidden": true,
       "score": 24.56,
-      "rank": 260,
+      "rank": 263,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "pure3-whey-protein",
       "cg": "t-pure3-whey-protein-isolate-daz-premium-fit-vanilla",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhASg4vDSyg6i2",
@@ -37524,13 +37802,13 @@
       },
       "hidden": true,
       "score": 24.56,
-      "rank": 261,
+      "rank": 264,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "pure3-whey-protein",
       "cg": "t-pure3-whey-protein-isolate-daz-premium-fit-chocolate",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhASNuS50bfSPp",
@@ -37649,12 +37927,12 @@
       },
       "hidden": true,
       "score": 24.56,
-      "rank": 262,
+      "rank": 265,
       "badge": "new",
       "fam": "suero-el-crecimiento",
       "cg": "t-suero-para-el-crecimiento-del-cabello-con-peptidos-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -37769,12 +38047,12 @@
       },
       "hidden": true,
       "score": 24.56,
-      "rank": 263,
+      "rank": 266,
       "badge": "new",
       "fam": "suplemento-electrolitos-ion",
       "cg": "t-suplemento-de-electrolitos-ion-select-daz-premium-fit-g-oz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhASos6JHkB3d7",
@@ -37913,7 +38191,7 @@
       },
       "hidden": true,
       "score": 24.55,
-      "rank": 264,
+      "rank": 267,
       "badge": "new",
       "art_score": 8,
       "art_note": "Clean studio product shot with professional lighting, though secondary images are low quality black icons.",
@@ -38115,7 +38393,7 @@
       },
       "hidden": false,
       "score": 24.54,
-      "rank": 265,
+      "rank": 268,
       "badge": "new",
       "fam": "abstract-organic-pattern",
       "cg": "t-abstract-organic-pattern-design-background-free-vector-front-zip-racer-back-sports",
@@ -38360,7 +38638,7 @@
       },
       "hidden": false,
       "score": 24.54,
-      "rank": 266,
+      "rank": 269,
       "badge": "new",
       "fam": "violet-star-leggings",
       "cg": "t-dpf-violet-star-leggings-de-tiro-bajo",
@@ -38521,12 +38799,12 @@
       },
       "hidden": false,
       "score": 24.54,
-      "rank": 267,
+      "rank": 270,
       "badge": "new",
       "fam": "botella-agua-acero",
       "cg": "t-botella-de-agua-de-acero-inoxidable-daz-premium-fit-con-pajita-20oz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": true,
       "missing_days": 2,
@@ -38670,7 +38948,7 @@
       },
       "hidden": true,
       "score": 24.54,
-      "rank": 268,
+      "rank": 271,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product shot on plain background, though the label design feels standard.",
@@ -38832,12 +39110,12 @@
       },
       "hidden": true,
       "score": 24.53,
-      "rank": 269,
+      "rank": 272,
       "badge": "new",
       "fam": "correa-reloj-apple",
       "cg": "t-correa-de-reloj-apple-watch-daz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -39040,12 +39318,12 @@
       },
       "hidden": true,
       "score": 24.53,
-      "rank": 270,
+      "rank": 273,
       "badge": "new",
       "fam": "correa-reloj-apple",
       "cg": "t-correa-de-reloj-apple-watch-daz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -39248,12 +39526,12 @@
       },
       "hidden": true,
       "score": 24.53,
-      "rank": 271,
+      "rank": 274,
       "badge": "new",
       "fam": "correa-reloj-apple",
       "cg": "t-correa-de-reloj-apple-watch-daz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -39456,12 +39734,12 @@
       },
       "hidden": true,
       "score": 24.53,
-      "rank": 272,
+      "rank": 275,
       "badge": "new",
       "fam": "correa-reloj-apple",
       "cg": "t-correa-de-reloj-apple-watch-daz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -39634,12 +39912,12 @@
       },
       "hidden": true,
       "score": 24.53,
-      "rank": 273,
+      "rank": 276,
       "badge": "new",
       "fam": "correa-reloj-apple",
       "cg": "t-correa-de-reloj-apple-watch-daz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -39838,12 +40116,12 @@
       },
       "hidden": true,
       "score": 24.53,
-      "rank": 274,
+      "rank": 277,
       "badge": "new",
       "fam": "correa-reloj-apple",
       "cg": "t-correa-de-reloj-apple-watch-daz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -40042,12 +40320,12 @@
       },
       "hidden": true,
       "score": 24.53,
-      "rank": 275,
+      "rank": 278,
       "badge": "new",
       "fam": "correa-reloj-apple",
       "cg": "t-correa-de-reloj-apple-watch-daz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -40246,12 +40524,12 @@
       },
       "hidden": true,
       "score": 24.53,
-      "rank": 276,
+      "rank": 279,
       "badge": "new",
       "fam": "correa-reloj-apple",
       "cg": "t-correa-de-reloj-apple-watch-daz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -40394,13 +40672,13 @@
       },
       "hidden": true,
       "score": 24.53,
-      "rank": 277,
+      "rank": 280,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "bcaa-en-polvo",
       "cg": "t-bcaa-en-polvo-para-despues-del-entrenamiento-melaza-sandia",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhAS6pUAl8xYDK",
@@ -40515,7 +40793,7 @@
       },
       "hidden": true,
       "score": 24.53,
-      "rank": 278,
+      "rank": 281,
       "badge": "new",
       "ai_fail": 1,
       "fam": "cafe-miel-manuka",
@@ -40627,13 +40905,13 @@
       },
       "hidden": true,
       "score": 24.53,
-      "rank": 279,
+      "rank": 282,
       "badge": "new",
       "ai_fail": 1,
       "fam": "hongo-melena-leon",
       "cg": "t-hongo-melena-de-leon-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "art_score": 6,
@@ -40733,13 +41011,13 @@
       },
       "hidden": true,
       "score": 24.53,
-      "rank": 280,
+      "rank": 283,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "polvo-peptidos-colageno",
       "cg": "t-polvo-de-peptidos-de-colageno-daz-premium-fit-alimentados-con-pasto-chocolate",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhASM8my5UOVmk",
@@ -40846,13 +41124,13 @@
       },
       "hidden": true,
       "score": 24.53,
-      "rank": 281,
+      "rank": 284,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "pre-entrenamiento-choque",
       "cg": "t-pre-entrenamiento-de-choque-nitrico-daz-premium-fit-ponche-de-frutas",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "stripe_product_id": "prod_VhASkixkpiG9PU",
@@ -40956,7 +41234,7 @@
       },
       "hidden": false,
       "score": 24.52,
-      "rank": 282,
+      "rank": 285,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "sudadera-capucha-mujer",
@@ -41081,7 +41359,7 @@
       },
       "hidden": false,
       "score": 24.52,
-      "rank": 283,
+      "rank": 286,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "sudadera-capucha-mujer",
@@ -41227,12 +41505,12 @@
       },
       "hidden": true,
       "score": 24.52,
-      "rank": 284,
+      "rank": 287,
       "badge": "new",
       "fam": "elegante-taza-viaje",
       "cg": "t-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-oz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -41400,12 +41678,12 @@
       },
       "hidden": true,
       "score": 24.52,
-      "rank": 285,
+      "rank": 288,
       "badge": "new",
       "fam": "elegante-taza-viaje",
       "cg": "t-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-oz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -41573,12 +41851,12 @@
       },
       "hidden": true,
       "score": 24.52,
-      "rank": 286,
+      "rank": 289,
       "badge": "new",
       "fam": "elegante-taza-viaje",
       "cg": "t-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-oz",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "missing_days": 2,
@@ -41737,12 +42015,12 @@
       },
       "hidden": true,
       "score": 24.52,
-      "rank": 287,
+      "rank": 290,
       "badge": "new",
       "fam": "trufas-birch-chaga",
       "cg": "t-trufas-de-birch-chaga-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -41851,7 +42129,7 @@
       },
       "hidden": false,
       "score": 24.51,
-      "rank": 288,
+      "rank": 291,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "chaqueta-corta-mujer",
@@ -41982,7 +42260,7 @@
       },
       "hidden": false,
       "score": 24.51,
-      "rank": 289,
+      "rank": 292,
       "badge": "new",
       "img_checked": "2026-11-25",
       "fam": "chaqueta-corta-mujer",
@@ -42103,12 +42381,12 @@
       },
       "hidden": false,
       "score": 24.51,
-      "rank": 290,
+      "rank": 293,
       "badge": "new",
       "fam": "botella-agua-delgada",
       "cg": "t-botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": true,
       "missing_days": 2,
@@ -42249,12 +42527,12 @@
       },
       "hidden": false,
       "score": 24.51,
-      "rank": 291,
+      "rank": 294,
       "badge": "new",
       "fam": "elegante-botella-cobre",
       "cg": "t-elegante-botella-de-cobre-de-oz-con-aislamiento-al-vacio-diseno-de",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": true,
       "missing_days": 2,
@@ -42402,12 +42680,12 @@
       },
       "hidden": false,
       "score": 24.51,
-      "rank": 292,
+      "rank": 295,
       "badge": "new",
       "fam": "elegante-botella-cobre",
       "cg": "t-elegante-botella-de-cobre-de-oz-con-aislamiento-al-vacio-diseno-de",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": true,
       "missing_days": 2,
@@ -42551,7 +42829,7 @@
       },
       "hidden": false,
       "score": 24.5,
-      "rank": 293,
+      "rank": 296,
       "badge": "new",
       "ai_priority": true,
       "img_checked": "2026-11-25",
@@ -42688,7 +42966,7 @@
       },
       "hidden": false,
       "score": 24.5,
-      "rank": 294,
+      "rank": 297,
       "badge": "new",
       "ai_priority": true,
       "img_checked": "2026-11-25",
@@ -42833,12 +43111,12 @@
       },
       "hidden": true,
       "score": 24.5,
-      "rank": 295,
+      "rank": 298,
       "badge": "new",
       "fam": "polvo-pan-abeja",
       "cg": "t-polvo-de-pan-de-abeja-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "img_checked": "2026-11-25",
@@ -42964,7 +43242,7 @@
       },
       "hidden": true,
       "score": 24.5,
-      "rank": 296,
+      "rank": 299,
       "badge": "new",
       "art_score": 5,
       "art_note": "Standard product packaging shot with clean lighting, lacks high-end lifestyle context.",
@@ -42999,7 +43277,7 @@
       "fam": "polvo-perla-abeja",
       "cg": "t-polvo-de-perla-de-abeja-daz-premium-fit",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": false,
       "gender": "unisex",
@@ -43186,7 +43464,7 @@
       },
       "hidden": false,
       "score": 24.17,
-      "rank": 297,
+      "rank": 300,
       "badge": "new",
       "art_score": 4,
       "art_note": "Mockup images reduce the perceived quality of the garment and brand identity.",
@@ -43418,7 +43696,7 @@
       },
       "hidden": false,
       "score": 24.17,
-      "rank": 298,
+      "rank": 301,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio flat-lay product shots with clear graphics, but lacks dynamic model presentation.",
@@ -43650,7 +43928,7 @@
       },
       "hidden": false,
       "score": 24.17,
-      "rank": 299,
+      "rank": 302,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean digital product mockups with a clear presentation, but lacking dynamic lifestyle or model context.",
@@ -43821,7 +44099,7 @@
         "notes_en": "Please note that size chart measurements may vary by ±1.0 in (2.5 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.0 in (2.5 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Immortal Warrior No Days Off Tank Top Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
+      "source_text": "Immortal Warrior No Days Off Tank Top Tank Top Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
       "name_es": "Camiseta sin mangas Immortal Warrior",
       "name_en": "Immortal Warrior Tank Top",
       "desc_es": "Una pieza esencial diseñada para la máxima exigencia en el entrenamiento diario. Esta silueta ofrece una presencia imponente y una total libertad de movimiento en cada sesión. Con un diseño depurado y la declaración gráfica distintiva, equilibra la fuerza atlética con una estética sobria y moderna. Cada prenda se confecciona individualmente bajo demanda, garantizando exclusividad y un compromiso absoluto con la calidad superior.",
@@ -43847,7 +44125,7 @@
       },
       "hidden": false,
       "score": 24.17,
-      "rank": 300,
+      "rank": 303,
       "badge": "new",
       "art_score": 5,
       "art_note": "Standard flat mockups lacking high-end campaign context and model imagery.",
@@ -43899,6 +44177,230 @@
       },
       "stripe_payment_link": "https://buy.stripe.com/00w00k5Z2eT22QedKS1gY3f",
       "stripe_link_id": "plink_1Ug9a7LJVU4oTPuXXFE6yS7T",
+      "stripe_price_cents": 3399,
+      "stripe_site": "https://dazpremiumfit.com",
+      "page": true,
+      "gender": "unisex"
+    },
+    {
+      "id": "printify-6b089b3b155f8bb8d10801be",
+      "supplier": "Printify",
+      "supplier_id": "6b089b3b155f8bb8d10801be",
+      "source_title": "Immortal Warrior No Days Off Tank Top",
+      "categories": [
+        "hombre/camiseta",
+        "mujer/camisetas-blusas-tops"
+      ],
+      "cost_usd": 16.44,
+      "sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS"
+      ],
+      "needs_review": false,
+      "created": "2026-11-26",
+      "material": "",
+      "color": "Black",
+      "shop_category": "",
+      "raw_images": [
+        "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101892/immortal-warrior-no-days-off-tank-top.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/119051/immortal-warrior-no-days-off-tank-top.jpg?camera_label=size-chart"
+      ],
+      "variant_map": {
+        "L": 24639,
+        "M": 24640,
+        "S": 24641,
+        "XL": 24642,
+        "XS": 24643
+      },
+      "skus": [
+        "81513092173077074679",
+        "12075505085341796792",
+        "97502874208881348039",
+        "53590221541853789917",
+        "93971576735520027085"
+      ],
+      "draft": false,
+      "supplier_product_id": "6b089b3b155f8bb8d10801be",
+      "shop_verified": false,
+      "size_guide": [
+        "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/119051/immortal-warrior-no-days-off-tank-top.jpg?camera_label=size-chart"
+      ],
+      "size_chart": {
+        "unit": "inches / centimeters",
+        "headers": [
+          "Size",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "headers_es": [
+          "Talla",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "rows": [
+          [
+            "Width",
+            "16.3",
+            "18.2",
+            "20.2",
+            "22.4",
+            "24.3",
+            "26.2",
+            "-",
+            "-",
+            "-",
+            "41.3",
+            "46.3",
+            "51.4",
+            "56.5",
+            "61.6",
+            "66.6",
+            "-",
+            "-",
+            "-"
+          ],
+          [
+            "Length",
+            "26.0",
+            "27.0",
+            "28.0",
+            "29.0",
+            "30.0",
+            "31.0",
+            "-",
+            "-",
+            "-",
+            "66.0",
+            "68.5",
+            "71.1",
+            "73.6",
+            "76.2",
+            "78.7",
+            "-",
+            "-",
+            "-"
+          ],
+          [
+            "Arm opening",
+            "9.5",
+            "10.1",
+            "10.8",
+            "11.6",
+            "12.5",
+            "13.4",
+            "-",
+            "-",
+            "-",
+            "24.1",
+            "25.7",
+            "27.3",
+            "29.5",
+            "31.8",
+            "34.0",
+            "-",
+            "-",
+            "-"
+          ]
+        ],
+        "notes_en": "Please note that size chart measurements may vary by +-1.0 in (2.5 cm) due to manufacturing tolerances.",
+        "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +-1.0 in (2.5 cm) debido a tolerancias de fabricación."
+      },
+      "source_text": "Immortal Warrior No Days Off Tank Top Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
+      "name_es": "Camiseta sin mangas Immortal Warrior",
+      "name_en": "Immortal Warrior Tank Top",
+      "desc_es": "Defina su disciplina con una silueta diseñada para el rendimiento absoluto. Esta prenda combina una estética minimalista con un enfoque implacable en la fuerza. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad y precisión. El diseño frontal transmite una presencia imponente sin distracciones. Pensado para quienes exigen excelencia en cada sesión de entrenamiento. Una declaración de compromiso eterno con sus objetivos físicos. Disponible con envíos a todo el mundo.",
+      "desc_en": "Define your discipline with a silhouette engineered for absolute performance. This piece merges minimalist aesthetics with an uncompromising focus on strength. Each item is made to order to guarantee ultimate exclusivity and precision. The front graphic projects an imposing presence without distraction. Designed for those who demand excellence in every training session. A statement of eternal commitment to your physical goals. Available with worldwide shipping.",
+      "price_usd": 33.99,
+      "margin_pct": 31.7,
+      "shipping_usd": 4.95,
+      "shipping_worst_usd": 13.49,
+      "images_original": [
+        "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101892/immortal-warrior-no-days-off-tank-top.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/119051/immortal-warrior-no-days-off-tank-top.jpg?camera_label=size-chart"
+      ],
+      "images_model": [],
+      "visual_verified": false,
+      "display_images": [
+        "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101892/immortal-warrior-no-days-off-tank-top.jpg?camera_label=back"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-26": 33.99
+      },
+      "hidden": false,
+      "score": 24.17,
+      "rank": 304,
+      "badge": "new",
+      "art_score": 4,
+      "art_note": "Flat mockup presentation lacks high-end campaign atmosphere and depth.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101892/immortal-warrior-no-days-off-tank-top.jpg?camera_label=back",
+            "k": "product",
+            "q": "cheap"
+          }
+        ],
+        "guides": [
+          "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/119051/immortal-warrior-no-days-off-tank-top.jpg?camera_label=size-chart"
+        ]
+      },
+      "ai_type": "Tank Top",
+      "ai_gender": "unisex",
+      "ai_color": "Black",
+      "ai_cats": [
+        "hombre/camiseta",
+        "mujer/camisetas-blusas-tops"
+      ],
+      "details_es": "· Hecho a pedido",
+      "details_en": "· Made to order",
+      "ai_copy": true,
+      "ai_done": true,
+      "img_checked": "2026-11-26",
+      "fam": "immortal-warrior-no",
+      "cg": "printify-6b089b3b155f8bb8d10801be",
+      "look": [
+        "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+      ],
+      "stripe_product_id": "prod_VhYwg35AspB52l",
+      "size_values": {
+        "L": "L",
+        "M": "M",
+        "S": "S",
+        "XL": "XL",
+        "XS": "XS"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/00w4gAgDG8uEaiG22a1gY3D",
+      "stripe_link_id": "plink_1Ug9obLJVU4oTPuX3iKftnio",
       "stripe_price_cents": 3399,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true
@@ -44037,7 +44539,7 @@
       },
       "hidden": false,
       "score": 23.99,
-      "rank": 301,
+      "rank": 305,
       "badge": "new",
       "art_score": 4,
       "art_note": "Flat supplier mockup images lack lifestyle depth and professional lighting.",
@@ -44164,7 +44666,7 @@
       },
       "hidden": false,
       "score": 23.89,
-      "rank": 302,
+      "rank": 306,
       "badge": "new",
       "art_score": 2,
       "art_note": "Flat supplier mockup style lacking professional studio lighting and model photography.",
@@ -44292,7 +44794,7 @@
       },
       "hidden": false,
       "score": 23.89,
-      "rank": 303,
+      "rank": 307,
       "badge": "new",
       "art_score": 2,
       "art_note": "Flat vector mockup style graphics that lack realism and high-end studio photography standards.",
@@ -44420,7 +44922,7 @@
       },
       "hidden": false,
       "score": 23.89,
-      "rank": 304,
+      "rank": 308,
       "badge": "new",
       "art_score": 2,
       "art_note": "",
@@ -44523,7 +45025,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Tough Bitch Queen Of Iron Racerback Tank Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
+      "source_text": "Tough Bitch Queen Of Iron Racerback Tank racerback tank Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
       "name_es": "Camiseta Racerback Queen of Iron",
       "name_en": "Queen of Iron Racerback Tank",
       "desc_es": "Diseñada para la exigencia del entrenamiento diario. Esta silueta racerback ofrece libertad total de movimiento en cada repetición. El diseño frontal aporta identidad a tu rendimiento físico. Líneas limpias y construcción precisa para quienes buscan destacar en el gimnasio. Cada pieza se confecciona bajo demanda para garantizar exclusividad y menor desperdicio textil. Disponible con envíos a todo el mundo. Eleva tu equipamiento deportivo con esta prenda esencial.",
@@ -44548,7 +45050,7 @@
       },
       "hidden": false,
       "score": 23.89,
-      "rank": 305,
+      "rank": 309,
       "badge": "new",
       "art_score": 2,
       "art_note": "Flat vector mockups lacking real photography or professional depth.",
@@ -44599,6 +45101,134 @@
       },
       "stripe_payment_link": "https://buy.stripe.com/14A7sMevycKUaiG36e1gY3g",
       "stripe_link_id": "plink_1Ug9a8LJVU4oTPuXP7VoB5ar",
+      "stripe_price_cents": 3499,
+      "stripe_site": "https://dazpremiumfit.com",
+      "page": true,
+      "gender": "women"
+    },
+    {
+      "id": "printify-6b089b42c9d405a5820236ee",
+      "supplier": "Printify",
+      "supplier_id": "6b089b42c9d405a5820236ee",
+      "source_title": "Tough Bitch Queen Of Iron Racerback Tank",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "cost_usd": 17.6,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-26",
+      "material": "",
+      "color": "Black",
+      "shop_category": "",
+      "raw_images": [
+        "https://images.printify.com/mockup/6b089b42c9d405a5820236ee/251657/126156/tough-bitch-queen-of-iron-racerback-tank.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b42c9d405a5820236ee/251657/126157/tough-bitch-queen-of-iron-racerback-tank.jpg?camera_label=back"
+      ],
+      "variant_map": {
+        "XS": 251654,
+        "S": 251655,
+        "M": 251656,
+        "L": 251657,
+        "XL": 251658,
+        "2XL": 251659
+      },
+      "skus": [
+        "27535253975651173611",
+        "48889812575146741672",
+        "10363853296614897825",
+        "56024570044016134274",
+        "27348333052246086441",
+        "22213759582519212446"
+      ],
+      "draft": false,
+      "supplier_product_id": "6b089b42c9d405a5820236ee",
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "Tough Bitch Queen Of Iron Racerback Tank Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
+      "name_es": "Camiseta de tirantes Queen of Iron",
+      "name_en": "Queen of Iron Tank",
+      "desc_es": "Diseñada para quienes dominan el entrenamiento con determinación absoluta. Esta camiseta de tirantes combina una silueta técnica con una presencia imponente. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta en cada envío internacional. La estética limpia se encuentra con el rendimiento puro. Eleve su equipamiento de entrenamiento con una prenda creada para destacar en cualquier entorno de alta exigencia.",
+      "desc_en": "Designed for those who command training with absolute determination. This racerback tank combines a technical silhouette with an imposing presence. Each piece is crafted on demand to ensure absolute exclusivity with every worldwide shipment. Clean aesthetics meet pure performance. Elevate your training equipment with a garment created to stand out in any high-demand environment.",
+      "price_usd": 34.99,
+      "margin_pct": 28.9,
+      "shipping_usd": 5.39,
+      "shipping_worst_usd": 13.49,
+      "images_original": [
+        "https://images.printify.com/mockup/6b089b42c9d405a5820236ee/251657/126156/tough-bitch-queen-of-iron-racerback-tank.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b42c9d405a5820236ee/251657/126157/tough-bitch-queen-of-iron-racerback-tank.jpg?camera_label=back"
+      ],
+      "images_model": [],
+      "visual_verified": false,
+      "display_images": [
+        "https://images.printify.com/mockup/6b089b42c9d405a5820236ee/251657/126156/tough-bitch-queen-of-iron-racerback-tank.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b42c9d405a5820236ee/251657/126157/tough-bitch-queen-of-iron-racerback-tank.jpg?camera_label=back"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-26": 34.99
+      },
+      "hidden": false,
+      "score": 23.89,
+      "rank": 310,
+      "badge": "new",
+      "art_score": 2,
+      "art_note": "Flat vector mockups lacking realistic lighting, depth, or professional photography standards.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b089b42c9d405a5820236ee/251657/126156/tough-bitch-queen-of-iron-racerback-tank.jpg?camera_label=front",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b089b42c9d405a5820236ee/251657/126157/tough-bitch-queen-of-iron-racerback-tank.jpg?camera_label=back",
+            "k": "product",
+            "q": "cheap"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "racerback tank",
+      "ai_gender": "women",
+      "ai_color": "black",
+      "ai_cats": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "details_es": "· Hecho a pedido\n· Envío mundial disponible",
+      "details_en": "· Made to order\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true,
+      "img_checked": "2026-11-26",
+      "fam": "tough-bitch-queen",
+      "cg": "printify-6b089b42c9d405a5820236ee",
+      "look": [
+        "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+        "interestprint-design-custom-womens-high-waist-legging",
+        "interestprint-design-womens-high-waist-layered-sport-skirt",
+        "interestprint-descarga-31-racerback-sports-bra"
+      ],
+      "stripe_product_id": "prod_VhYwG3NPnPX6zS",
+      "size_values": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "2XL": "2XL"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/eVqdRa87afX63UiayG1gY3E",
+      "stripe_link_id": "plink_1Ug9obLJVU4oTPuXEpH0hKjl",
       "stripe_price_cents": 3499,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true
@@ -44678,7 +45308,7 @@
       },
       "hidden": false,
       "score": 23.73,
-      "rank": 306,
+      "rank": 311,
       "badge": "new",
       "art_score": 2,
       "art_note": "The images are flat supplier mockups rather than professional campaign or studio shots.",
@@ -44929,7 +45559,7 @@
       },
       "hidden": false,
       "score": 23.14,
-      "rank": 307,
+      "rank": 312,
       "badge": "new",
       "art_score": 5,
       "art_note": "Clean studio flat-lay product shots with standard e-commerce presentation, lacking dynamic campaign models.",
@@ -45154,7 +45784,7 @@
       },
       "hidden": false,
       "score": 23.14,
-      "rank": 308,
+      "rank": 313,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean digital product renders on a flat background, professional composition but lacking human context.",
@@ -45439,7 +46069,7 @@
       },
       "hidden": false,
       "score": 23.14,
-      "rank": 309,
+      "rank": 314,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product photography against a neutral background, but lacks model imagery and dynamic campaign lighting.",
@@ -45703,7 +46333,7 @@
       },
       "hidden": false,
       "score": 23.14,
-      "rank": 310,
+      "rank": 315,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product photography with accurate lighting, lacking lifestyle presence.",
@@ -45898,7 +46528,7 @@
         "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Immortal Warrior No Days Off Hoodie Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
+      "source_text": "Immortal Warrior No Days Off Hoodie hoodie Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
       "name_es": "Sudadera Immortal Warrior No Days Off",
       "name_en": "Immortal Warrior No Days Off Hoodie",
       "desc_es": "Diseñada para un rendimiento sin concesiones. Esta sudadera combina una estética depurada con una presencia imponente. El diseño frontal transmite disciplina absoluta. Cada pieza se confecciona bajo pedido. Disponible con envío a todo el mundo.",
@@ -45928,7 +46558,7 @@
       },
       "hidden": false,
       "score": 23.14,
-      "rank": 311,
+      "rank": 316,
       "badge": "new",
       "art_score": 5,
       "art_note": "Clean digital product flatlays with standard mockup presentation.",
@@ -45993,6 +46623,231 @@
       },
       "stripe_payment_link": "https://buy.stripe.com/aFa00k3QUbGQduS4ai1gY3h",
       "stripe_link_id": "plink_1Ug9a9LJVU4oTPuXWmLaoYNB",
+      "stripe_price_cents": 4699,
+      "stripe_site": "https://dazpremiumfit.com",
+      "page": true,
+      "gender": "unisex"
+    },
+    {
+      "id": "printify-6b089b3e155f8bb8d10801c1",
+      "supplier": "Printify",
+      "supplier_id": "6b089b3e155f8bb8d10801c1",
+      "source_title": "Immortal Warrior No Days Off Hoodie",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "cost_usd": 25.71,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "S",
+        "2XL",
+        "4XL",
+        "5XL",
+        "3XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-26",
+      "material": "",
+      "color": "Black",
+      "shop_category": "",
+      "raw_images": [
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98424/immortal-warrior-no-days-off-hoodie.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98425/immortal-warrior-no-days-off-hoodie.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98426/immortal-warrior-no-days-off-hoodie.jpg?camera_label=back-2",
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98432/immortal-warrior-no-days-off-hoodie.jpg?camera_label=folded",
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/110151/immortal-warrior-no-days-off-hoodie.jpg?camera_label=size-chart"
+      ],
+      "variant_map": {
+        "M": 32919,
+        "L": 32920,
+        "XL": 32921,
+        "S": 32918,
+        "2XL": 32922,
+        "4XL": 32924,
+        "5XL": 32925,
+        "3XL": 32923
+      },
+      "skus": [
+        "19635919070721668890",
+        "14875144728111881557",
+        "20482503904519022667",
+        "20263892946953445180",
+        "28871921088427678713",
+        "11713489872172427618",
+        "68463250945056288571",
+        "29713901267315023694"
+      ],
+      "draft": false,
+      "supplier_product_id": "6b089b3e155f8bb8d10801c1",
+      "shop_verified": false,
+      "size_guide": [
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/110151/immortal-warrior-no-days-off-hoodie.jpg?camera_label=size-chart"
+      ],
+      "size_chart": {
+        "unit": "inches / centimeters",
+        "headers": [
+          "Size",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "headers_es": [
+          "Talla",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "rows": [
+          [
+            "Width",
+            "-",
+            "20.0",
+            "22.0",
+            "24.0",
+            "26.0",
+            "28.0",
+            "30.0",
+            "32.0",
+            "34.0"
+          ],
+          [
+            "Length",
+            "-",
+            "27.1",
+            "28.0",
+            "29.1",
+            "30.0",
+            "31.0",
+            "32.0",
+            "33.0",
+            "34.0"
+          ],
+          [
+            "Sleeve length",
+            "-",
+            "33.5",
+            "34.5",
+            "35.5",
+            "36.5",
+            "37.5",
+            "38.5",
+            "39.5",
+            "40.5"
+          ]
+        ],
+        "notes_en": "Please note that size chart measurements may vary by +-1.5 in (3.8 cm) due to manufacturing tolerances.",
+        "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +-1.5 in (3.8 cm) debido a tolerancias de fabricación."
+      },
+      "source_text": "Immortal Warrior No Days Off Hoodie Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
+      "name_es": "Sudadera Immortal Warrior No Days Off",
+      "name_en": "Immortal Warrior No Days Off Hoodie",
+      "desc_es": "Esta sudadera combina funcionalidad atlética con un diseño depurado. Confeccionada para ofrecer un confort superior durante el entrenamiento o el descanso. Su silueta estructurada aporta una presencia imponente. Cada pieza se elabora bajo pedido y cuenta con envíos a todo el mundo. La estética minimalista se une al rendimiento diario.",
+      "desc_en": "This hoodie merges athletic functionality with a refined design. Engineered to deliver superior comfort during training or recovery. Its structured silhouette commands presence. Each piece is made to order with worldwide shipping available. Minimalist aesthetics meet daily performance.",
+      "price_usd": 46.99,
+      "margin_pct": 21.4,
+      "shipping_usd": 8.79,
+      "shipping_worst_usd": 8.79,
+      "images_original": [
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98424/immortal-warrior-no-days-off-hoodie.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98425/immortal-warrior-no-days-off-hoodie.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98426/immortal-warrior-no-days-off-hoodie.jpg?camera_label=back-2",
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98432/immortal-warrior-no-days-off-hoodie.jpg?camera_label=folded",
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/110151/immortal-warrior-no-days-off-hoodie.jpg?camera_label=size-chart"
+      ],
+      "images_model": [],
+      "visual_verified": false,
+      "display_images": [
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98424/immortal-warrior-no-days-off-hoodie.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98425/immortal-warrior-no-days-off-hoodie.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98426/immortal-warrior-no-days-off-hoodie.jpg?camera_label=back-2",
+        "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98432/immortal-warrior-no-days-off-hoodie.jpg?camera_label=folded"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-26": 46.99
+      },
+      "hidden": false,
+      "score": 23.14,
+      "rank": 317,
+      "badge": "new",
+      "art_score": 5,
+      "art_note": "Clean studio product shots on white background, but lacks lifestyle or model imagery to elevate it to a campaign level.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98424/immortal-warrior-no-days-off-hoodie.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98425/immortal-warrior-no-days-off-hoodie.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98426/immortal-warrior-no-days-off-hoodie.jpg?camera_label=back-2",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98432/immortal-warrior-no-days-off-hoodie.jpg?camera_label=folded",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": [
+          "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/110151/immortal-warrior-no-days-off-hoodie.jpg?camera_label=size-chart"
+        ]
+      },
+      "ai_type": "Hoodie",
+      "ai_gender": "unisex",
+      "ai_color": "Black",
+      "ai_cats": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "details_es": "· Hecho bajo pedido.\n· Envíos a todo el mundo.",
+      "details_en": "· Made to order.\n· Worldwide shipping.",
+      "ai_copy": true,
+      "ai_done": true,
+      "img_checked": "2026-11-26",
+      "fam": "immortal-warrior-no",
+      "cg": "printify-6b089b3e155f8bb8d10801c1",
+      "look": [
+        "printful-359535579",
+        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+      ],
+      "stripe_product_id": "prod_VhYw9xvjPVdi0z",
+      "size_values": {
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "S": "S",
+        "2XL": "2XL",
+        "4XL": "4XL",
+        "5XL": "5XL",
+        "3XL": "3XL"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/14A6oIdruh1a76ufT01gY3F",
+      "stripe_link_id": "plink_1Ug9ocLJVU4oTPuXJmQ30nJ1",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true
@@ -46181,7 +47036,7 @@
       },
       "hidden": false,
       "score": 23.08,
-      "rank": 312,
+      "rank": 318,
       "badge": "new",
       "art_score": 5,
       "art_note": "Clean studio product shots with flat graphic placement, standard e-commerce presentation.",
@@ -46402,7 +47257,7 @@
       },
       "hidden": false,
       "score": 23.07,
-      "rank": 313,
+      "rank": 319,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product shots, but lacks model imagery and features flat mockup styling.",
@@ -46539,7 +47394,7 @@
       },
       "hidden": false,
       "score": 23.06,
-      "rank": 314,
+      "rank": 320,
       "badge": "new",
       "art_score": 4,
       "art_note": "Standard flat mockups and a basic composited model shot that lack high-end campaign atmosphere.",
@@ -46676,7 +47531,7 @@
       },
       "hidden": false,
       "score": 23.06,
-      "rank": 315,
+      "rank": 321,
       "badge": "new",
       "art_score": 5,
       "art_note": "Clean ghost mannequin product shots, but the model photo uses a low-quality digital mockup composite.",
@@ -46785,7 +47640,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Tough Bitch Queen Of Iron Cropped Hoodie Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
+      "source_text": "Tough Bitch Queen Of Iron Cropped Hoodie hoodie Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
       "name_es": "Sudadera Corta Queen Of Iron",
       "name_en": "Queen Of Iron Cropped Hoodie",
       "desc_es": "Redefine tu presencia con una pieza esencial diseñada para el movimiento y la actitud. Esta sudadera corta combina líneas limpias con una silueta audaz. Confeccionada con atención al detalle, ofrece un equilibrio perfecto entre comodidad y sofisticación urbana. Una prenda versátil que trasciende los estándares tradicionales de entrenamiento. Disponible exclusivamente bajo pedido con envíos a todo el mundo.",
@@ -46796,7 +47651,8 @@
       "shipping_worst_usd": 8.79,
       "images_original": [
         "https://images.printify.com/mockup/6b089a07db66d9659e068f9a/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front",
-        "https://images.printify.com/mockup/6b089a07db66d9659e068f9a/72716/16575/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=back"
+        "https://images.printify.com/mockup/6b089a07db66d9659e068f9a/72716/16575/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b089a07db66d9659e068f9a/72716/16690/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=on-person"
       ],
       "images_model": [
         "https://images.printify.com/mockup/6b089a07db66d9659e068f9a/72716/16690/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=on-person"
@@ -46812,7 +47668,7 @@
       },
       "hidden": false,
       "score": 23.06,
-      "rank": 316,
+      "rank": 322,
       "badge": "new",
       "art_score": 5,
       "art_note": "Standard flat vector-style product photography paired with a basic digital model composite lacks high-end campaign presence.",
@@ -46868,6 +47724,142 @@
       },
       "stripe_payment_link": "https://buy.stripe.com/3cI4gAfzC9yI1MagX41gY3i",
       "stripe_link_id": "plink_1Ug9a9LJVU4oTPuXaVbwqYY2",
+      "stripe_price_cents": 6199,
+      "stripe_site": "https://dazpremiumfit.com",
+      "page": true,
+      "gender": "women"
+    },
+    {
+      "id": "printify-6b089b47867aed6ed008c5e1",
+      "supplier": "Printify",
+      "supplier_id": "6b089b47867aed6ed008c5e1",
+      "source_title": "Tough Bitch Queen Of Iron Cropped Hoodie",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "cost_usd": 37.33,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-26",
+      "material": "",
+      "color": "Black",
+      "shop_category": "",
+      "raw_images": [
+        "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16575/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16690/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=on-person"
+      ],
+      "variant_map": {
+        "XS": 72692,
+        "S": 72700,
+        "M": 72708,
+        "L": 72716,
+        "XL": 72724,
+        "2XL": 72732
+      },
+      "skus": [
+        "16162260656838689407",
+        "20945634795677743476",
+        "26902852382984535658",
+        "14456261951117048842",
+        "46845732317341001562",
+        "29367659061130650707"
+      ],
+      "draft": false,
+      "supplier_product_id": "6b089b47867aed6ed008c5e1",
+      "shop_verified": false,
+      "size_guide": [],
+      "size_chart": null,
+      "source_text": "Tough Bitch Queen Of Iron Cropped Hoodie Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
+      "name_es": "Sudadera corta Queen of Iron",
+      "name_en": "Queen of Iron Cropped Hoodie",
+      "desc_es": "Una silueta audaz definida por una estructura corta y un diseño depurado. La capucha estructurada aporta una presencia imponente. El negro profundo absorbe la luz con sobriedad. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad. Envíos disponibles a todo el mundo. La fusión definitiva entre la fuerza interior y la estética contemporánea.",
+      "desc_en": "A bold silhouette defined by a cropped structure and a refined design. The structured hood brings an imposing presence. Deep black absorbs light with sobriety. Each piece is made to order to ensure ultimate exclusivity. Worldwide shipping available. The ultimate fusion between inner strength and contemporary aesthetics.",
+      "price_usd": 61.99,
+      "margin_pct": 20.6,
+      "shipping_usd": 8.79,
+      "shipping_worst_usd": 8.79,
+      "images_original": [
+        "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16575/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=back"
+      ],
+      "images_model": [
+        "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16690/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=on-person"
+      ],
+      "visual_verified": false,
+      "display_images": [
+        "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16575/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=back"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-26": 61.99
+      },
+      "hidden": false,
+      "score": 23.06,
+      "rank": 323,
+      "badge": "new",
+      "art_score": 5,
+      "art_note": "Standard flat mockups and a basic digital model composite lack high-end campaign appeal.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16575/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16690/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=on-person",
+            "k": "model",
+            "q": "cheap"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "hoodie",
+      "ai_gender": "women",
+      "ai_color": "black",
+      "ai_cats": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "details_es": "· Confección bajo pedido\n· Envíos a todo el mundo",
+      "details_en": "· Made to order\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true,
+      "img_checked": "2026-11-26",
+      "fam": "tough-bitch-queen",
+      "cg": "printify-6b089b47867aed6ed008c5e1",
+      "look": [
+        "interestprint-design-womens-crop-rugby-jersey",
+        "interestprint-design-custom-womens-high-waist-legging",
+        "interestprint-design-womens-high-waist-layered-sport-skirt",
+        "interestprint-descarga-31-racerback-sports-bra"
+      ],
+      "stripe_product_id": "prod_VhYwYwisLPM87a",
+      "size_values": {
+        "XS": "XS",
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "2XL": "2XL"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/14A8wQ87adOYeyWbCK1gY3G",
+      "stripe_link_id": "plink_1Ug9odLJVU4oTPuXblEt1znd",
       "stripe_price_cents": 6199,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true
@@ -47086,7 +48078,7 @@
       },
       "hidden": false,
       "score": 23.04,
-      "rank": 317,
+      "rank": 324,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product shots with accurate color representation, though lacking dynamic model context.",
@@ -47305,7 +48297,7 @@
       },
       "hidden": false,
       "score": 23.04,
-      "rank": 318,
+      "rank": 325,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio flat-lays with consistent lighting, though standard e-commerce presentation lacks dynamic campaign storytelling.",
@@ -47563,7 +48555,7 @@
       },
       "hidden": false,
       "score": 23.04,
-      "rank": 319,
+      "rank": 326,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product shots, but lacks model imagery and features marketplace-style flat lays.",
@@ -47782,7 +48774,7 @@
       },
       "hidden": false,
       "score": 23.04,
-      "rank": 320,
+      "rank": 327,
       "badge": "new",
       "art_score": 8,
       "art_note": "Clean studio styling and lifestyle flat lays elevate the visual presentation.",
@@ -48001,7 +48993,7 @@
       },
       "hidden": false,
       "score": 23.04,
-      "rank": 321,
+      "rank": 328,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product shots with well-lit flat lays, maintaining a professional e-commerce standard.",
@@ -48264,7 +49256,7 @@
       },
       "hidden": false,
       "score": 23.04,
-      "rank": 322,
+      "rank": 329,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product photography and styled flat-lay, maintaining a balanced presentation.",
@@ -48504,7 +49496,7 @@
         "notes_en": "Please note that size chart measurements may vary by +/-1.5 in (3.8 cm) due to manufacturing tolerances",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +/-1.5 in (3.8 cm) debido a tolerancias de fabricación"
       },
-      "source_text": "Immortal Warrior No Days Off Tee Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
+      "source_text": "Immortal Warrior No Days Off Tee T-shirt Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
       "name_es": "Camiseta Immortal Warrior No Days Off",
       "name_en": "Immortal Warrior No Days Off Tee",
       "desc_es": "Eleve su disciplina diaria con esta pieza esencial de alto rendimiento. Diseñada para quienes exigen excelencia inquebrantable en cada sesión de entrenamiento. La silueta depurada ofrece un ajuste impecable que acompaña cada movimiento con precisión absoluta. Una declaración contundente de determinación pura y enfoque inquebrantable. Confeccionada bajo pedido para garantizar exclusividad en cada entrega. Disponible para envío a todo el mundo.",
@@ -48533,7 +49525,7 @@
       },
       "hidden": false,
       "score": 23.04,
-      "rank": 323,
+      "rank": 330,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio and lifestyle flats, though standard mockups prevent a top luxury feel.",
@@ -48598,6 +49590,230 @@
       },
       "stripe_payment_link": "https://buy.stripe.com/3cI28s4UY6mwgH45em1gY3j",
       "stripe_link_id": "plink_1Ug9aALJVU4oTPuXQuYow6rr",
+      "stripe_price_cents": 2899,
+      "stripe_site": "https://dazpremiumfit.com",
+      "page": true,
+      "gender": "unisex"
+    },
+    {
+      "id": "printify-6b089b38c9d405a5820236ea",
+      "supplier": "Printify",
+      "supplier_id": "6b089b38c9d405a5820236ea",
+      "source_title": "Immortal Warrior No Days Off Tee",
+      "categories": [
+        "hombre/camiseta",
+        "mujer/camisetas-blusas-tops"
+      ],
+      "cost_usd": 13.47,
+      "sizes": [
+        "M",
+        "S",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-26",
+      "material": "",
+      "color": "Black",
+      "shop_category": "",
+      "raw_images": [
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102005/immortal-warrior-no-days-off-tee.jpg?camera_label=front-2",
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102006/immortal-warrior-no-days-off-tee.jpg?camera_label=back-2",
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102001/immortal-warrior-no-days-off-tee.jpg?camera_label=folded",
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/127735/immortal-warrior-no-days-off-tee.jpg?camera_label=folded-2",
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/101998/immortal-warrior-no-days-off-tee.jpg?camera_label=size-chart"
+      ],
+      "variant_map": {
+        "M": 12125,
+        "S": 12126,
+        "L": 12124,
+        "XL": 12127,
+        "2XL": 12128,
+        "3XL": 12129,
+        "4XL": 24039,
+        "5XL": 24171
+      },
+      "skus": [
+        "12288257305799113041",
+        "14547649129803678585",
+        "16533424874328878672",
+        "47562360819844696880",
+        "18473056013242503544",
+        "28505962323526559586",
+        "15267677552060151005",
+        "77724007262752105716"
+      ],
+      "draft": false,
+      "supplier_product_id": "6b089b38c9d405a5820236ea",
+      "shop_verified": false,
+      "size_guide": [
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/101998/immortal-warrior-no-days-off-tee.jpg?camera_label=size-chart"
+      ],
+      "size_chart": {
+        "unit": "inches / centimeters",
+        "headers": [
+          "Size",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "headers_es": [
+          "Talla",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "rows": [
+          [
+            "Width / Ancho",
+            "-",
+            "18.0 / 46.0",
+            "20.0 / 50.8",
+            "22.0 / 56.0",
+            "24.0 / 61.0",
+            "26.0 / 66.0",
+            "28.0 / 71.1",
+            "30.0 / 76.2",
+            "32.0 / 81.3"
+          ],
+          [
+            "Length / Largo",
+            "-",
+            "28.0 / 71.1",
+            "29.0 / 73.7",
+            "30.0 / 76.2",
+            "31.0 / 79.0",
+            "32.0 / 81.3",
+            "33.0 / 84.0",
+            "34.0 / 86.4",
+            "35.0 / 89.0"
+          ],
+          [
+            "Sleeve length / Largo de manga",
+            "-",
+            "15.1 / 38.4",
+            "16.5 / 42.0",
+            "18.0 / 45.7",
+            "19.5 / 49.5",
+            "21.0 / 53.3",
+            "22.4 / 57.0",
+            "23.7 / 60.2",
+            "25.0 / 63.5"
+          ]
+        ],
+        "notes_en": "Please note that size chart measurements may vary by +-1.5 in (3.8 cm) due to manufacturing tolerances.",
+        "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +-1.5 in (3.8 cm) debido a tolerancias de fabricación."
+      },
+      "source_text": "Immortal Warrior No Days Off Tee Black DAZ Premium Fit — Immortal Warrior No Days Off. Made to order.",
+      "name_es": "Camiseta Immortal Warrior No Days Off",
+      "name_en": "Immortal Warrior No Days Off Tee",
+      "desc_es": "Defina su disciplina diaria con esta pieza esencial de rendimiento. Diseñada para mantener el enfoque absoluto durante las sesiones más exigentes, combina una estética depurada con una presencia imponente. Cada prenda se confecciona bajo pedido para garantizar un estándar superior de exclusividad. Disponible con envío a todo el mundo.",
+      "desc_en": "Define your daily discipline with this essential performance piece. Engineered to maintain absolute focus during the most demanding sessions, it combines a refined aesthetic with an imposing presence. Each garment is made to order to ensure a superior standard of exclusivity. Available with worldwide shipping.",
+      "price_usd": 28.99,
+      "margin_pct": 20.4,
+      "shipping_usd": 7.99,
+      "shipping_worst_usd": 7.99,
+      "images_original": [
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102005/immortal-warrior-no-days-off-tee.jpg?camera_label=front-2",
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102006/immortal-warrior-no-days-off-tee.jpg?camera_label=back-2",
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102001/immortal-warrior-no-days-off-tee.jpg?camera_label=folded",
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/127735/immortal-warrior-no-days-off-tee.jpg?camera_label=folded-2",
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/101998/immortal-warrior-no-days-off-tee.jpg?camera_label=size-chart"
+      ],
+      "images_model": [],
+      "visual_verified": false,
+      "display_images": [
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102005/immortal-warrior-no-days-off-tee.jpg?camera_label=front-2",
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102006/immortal-warrior-no-days-off-tee.jpg?camera_label=back-2",
+        "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102001/immortal-warrior-no-days-off-tee.jpg?camera_label=folded"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-26": 28.99
+      },
+      "hidden": false,
+      "score": 23.04,
+      "rank": 331,
+      "badge": "new",
+      "art_score": 6,
+      "art_note": "Clean studio and lifestyle flats, but features a low-quality supplier-style size guide.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102005/immortal-warrior-no-days-off-tee.jpg?camera_label=front-2",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102006/immortal-warrior-no-days-off-tee.jpg?camera_label=back-2",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102001/immortal-warrior-no-days-off-tee.jpg?camera_label=folded",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/127735/immortal-warrior-no-days-off-tee.jpg?camera_label=folded-2",
+            "k": "model",
+            "q": "ok"
+          }
+        ],
+        "guides": [
+          "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/101998/immortal-warrior-no-days-off-tee.jpg?camera_label=size-chart"
+        ]
+      },
+      "ai_type": "T-Shirt",
+      "ai_gender": "unisex",
+      "ai_color": "Black",
+      "ai_cats": [
+        "hombre/camiseta",
+        "mujer/camisetas-blusas-tops"
+      ],
+      "details_es": "· Hecho a pedido",
+      "details_en": "· Made to order",
+      "ai_copy": true,
+      "ai_done": true,
+      "img_checked": "2026-11-26",
+      "fam": "immortal-warrior-no",
+      "cg": "printify-6b089b38c9d405a5820236ea",
+      "look": [
+        "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+      ],
+      "stripe_product_id": "prod_VhYwxInmbFMTF4",
+      "size_values": {
+        "M": "M",
+        "S": "S",
+        "L": "L",
+        "XL": "XL",
+        "2XL": "2XL",
+        "3XL": "3XL",
+        "4XL": "4XL",
+        "5XL": "5XL"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/cNi5kE0EIeT262q5em1gY3H",
+      "stripe_link_id": "plink_1Ug9oeLJVU4oTPuXx37AwfEn",
       "stripe_price_cents": 2899,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true
@@ -48747,7 +49963,7 @@
       },
       "hidden": false,
       "score": 23.0,
-      "rank": 324,
+      "rank": 332,
       "badge": "new",
       "art_score": 4,
       "art_note": "Flat mockup style standard presentation lacks lifestyle direction and real model imagery.",
@@ -48957,7 +50173,7 @@
       },
       "hidden": false,
       "score": 23.0,
-      "rank": 325,
+      "rank": 333,
       "badge": "new",
       "art_score": 4,
       "art_note": "Flat product mockups and basic detail crops lacking a real campaign aesthetic.",
@@ -49175,7 +50391,7 @@
         "notes_en": "Please note that size chart measurements may vary by +-1.5 in (3.8 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +-1.5 in (3.8 cm) debido a tolerancias de fabricacion."
       },
-      "source_text": "Tough Bitch Queen Of Iron Women's Tee Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
+      "source_text": "Tough Bitch Queen Of Iron Women's Tee T-Shirt Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
       "name_es": "Camiseta Queen of Iron",
       "name_en": "Queen of Iron Tee",
       "desc_es": "Disenada para la fuerza pura. Esta silueta ofrece una presencia imponente en cada sesion de entrenamiento. Lineas limpias y un ajuste preciso que acompanan el movimiento sin restricciones. Confeccionada bajo demanda con envios a todo el mundo.",
@@ -49205,7 +50421,7 @@
       },
       "hidden": false,
       "score": 23.0,
-      "rank": 326,
+      "rank": 334,
       "badge": "new",
       "art_score": 6,
       "art_note": "Clean studio product shots with accurate garment representation, though standard flat lay display lacks dynamic model imagery.",
@@ -49269,6 +50485,218 @@
       "stripe_link_id": "plink_1Ug9aBLJVU4oTPuXEFHByRxS",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazpremiumfit.com",
+      "page": true,
+      "gender": "women"
+    },
+    {
+      "id": "printify-6b089b44c9d405a5820236f1",
+      "supplier": "Printify",
+      "supplier_id": "6b089b44c9d405a5820236f1",
+      "source_title": "Tough Bitch Queen Of Iron Women's Tee",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "cost_usd": 11.17,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "needs_review": false,
+      "created": "2026-11-26",
+      "material": "",
+      "color": "Black",
+      "shop_category": "",
+      "raw_images": [
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/137313/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=left-sleeve",
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/137314/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=right-sleeve",
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/101402/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/101403/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/118009/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=size-chart"
+      ],
+      "variant_map": {
+        "S": 33843,
+        "M": 33856,
+        "L": 33869,
+        "XL": 33882,
+        "2XL": 33895
+      },
+      "skus": [
+        "22503714189494988710",
+        "14354139515155721199",
+        "43225362179385133028",
+        "15343835859058262870",
+        "22106955142729057760"
+      ],
+      "draft": false,
+      "supplier_product_id": "6b089b44c9d405a5820236f1",
+      "shop_verified": false,
+      "size_guide": [
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/118009/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=size-chart"
+      ],
+      "size_chart": {
+        "unit": "inches / centimeters",
+        "headers": [
+          "Size",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "headers_es": [
+          "Talla",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "rows": [
+          [
+            "Width",
+            "-",
+            "17.0",
+            "19.0",
+            "21.0",
+            "23.0",
+            "25.0",
+            "27.0",
+            "-",
+            "-"
+          ],
+          [
+            "Length",
+            "-",
+            "25.5",
+            "26.0",
+            "27.0",
+            "28.0",
+            "28.5",
+            "29.0",
+            "-",
+            "-"
+          ],
+          [
+            "Sleeve length",
+            "-",
+            "13.8",
+            "14.5",
+            "15.3",
+            "16.3",
+            "17.0",
+            "18.0",
+            "-",
+            "-"
+          ]
+        ],
+        "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
+        "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación."
+      },
+      "source_text": "Tough Bitch Queen Of Iron Women's Tee Black DAZ Premium Fit — Tough Bitch Queen Of Iron. Made to order.",
+      "name_es": "Camiseta Queen Of Iron",
+      "name_en": "Queen Of Iron Tee",
+      "desc_es": "Esta pieza encarna la fuerza y la disciplina en su forma más pura. Diseñada para acompañar cada sesión de entrenamiento con una presencia imponente. El tono negro profundo define una estética depurada y directa. La silueta ofrece un ajuste preciso que acompaña el movimiento sin distracciones. Fabricada bajo demanda para garantizar una exclusividad absoluta. Envío disponible a todo el mundo.",
+      "desc_en": "This piece embodies strength and discipline in its purest form. Designed to accompany every training session with an imposing presence. The deep black tone defines a refined and direct aesthetic. The silhouette offers a precise fit that follows movement without distractions. Made to order to ensure absolute exclusivity. Worldwide shipping available.",
+      "price_usd": 46.99,
+      "margin_pct": 20.0,
+      "shipping_usd": 23.99,
+      "shipping_worst_usd": 23.99,
+      "images_original": [
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/137313/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=left-sleeve",
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/137314/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=right-sleeve",
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/101402/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/101403/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/118009/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=size-chart"
+      ],
+      "images_model": [],
+      "visual_verified": false,
+      "display_images": [
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/137313/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=left-sleeve",
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/137314/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=right-sleeve",
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/101402/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=front",
+        "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/101403/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=back"
+      ],
+      "available": true,
+      "price_history": {
+        "2026-11-26": 46.99
+      },
+      "hidden": false,
+      "score": 23.0,
+      "rank": 335,
+      "badge": "new",
+      "art_score": 6,
+      "art_note": "Clean studio product shots with clear graphic details, though standard flat-lay style lacks lifestyle atmosphere.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/137313/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=left-sleeve",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/137314/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=right-sleeve",
+            "k": "detail",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/101402/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/101403/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          }
+        ],
+        "guides": [
+          "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/118009/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=size-chart"
+        ]
+      },
+      "ai_type": "T-Shirt",
+      "ai_gender": "women",
+      "ai_color": "Black",
+      "ai_cats": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "details_es": "· Hecho a pedido\n· Envío mundial disponible",
+      "details_en": "· Made to order\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true,
+      "img_checked": "2026-11-26",
+      "fam": "tough-bitch-queen",
+      "cg": "printify-6b089b44c9d405a5820236f1",
+      "look": [
+        "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+        "interestprint-design-custom-womens-high-waist-legging",
+        "interestprint-design-womens-high-waist-layered-sport-skirt",
+        "interestprint-descarga-31-racerback-sports-bra"
+      ],
+      "stripe_product_id": "prod_VhYwvGvdQV692S",
+      "size_values": {
+        "S": "S",
+        "M": "M",
+        "L": "L",
+        "XL": "XL",
+        "2XL": "2XL"
+      },
+      "stripe_payment_link": "https://buy.stripe.com/14A8wQcnq8uEaiG5em1gY3I",
+      "stripe_link_id": "plink_1Ug9ofLJVU4oTPuXEgBYW1mS",
+      "stripe_price_cents": 4699,
+      "stripe_site": "https://dazpremiumfit.com",
       "page": true
     },
     {
@@ -49328,12 +50756,12 @@
       },
       "hidden": false,
       "score": 22.5,
-      "rank": 327,
+      "rank": 336,
       "badge": "new",
       "fam": "advanced-whey-protein",
       "cg": "t-advanced-whey-protein-chocolate",
       "look": [
-        "productifi-gotas-para-la-salud-respiratoria-y-pulmonar-daz-premium-fit"
+        "productifi-wish4-2562"
       ],
       "page": true,
       "stripe_product_id": "prod_VhASlBb0CjXIEd",
@@ -49454,7 +50882,7 @@
       },
       "hidden": true,
       "score": 22.5,
-      "rank": 328,
+      "rank": 337,
       "badge": "new",
       "ai_fail": 1,
       "fam": "blueprint-series-nutritional",
@@ -49600,7 +51028,7 @@
       },
       "hidden": true,
       "score": 22.5,
-      "rank": 329,
+      "rank": 338,
       "badge": "new",
       "ai_fail": 1,
       "fam": "prestige-protocol-biometric",

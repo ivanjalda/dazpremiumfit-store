@@ -1,0 +1,56 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "supplement",
+ "ai_ver": 2,
+ "art_note": "Clean product render on dark background, but lacks high-end campaign lighting and depth.",
+ "art_score": 6,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-daz-premium-fit-creatine-monohydrate-powder-281g-servings-supplement",
+ "color": "",
+ "created": "2026-11-26",
+ "desc_en": "DAZ Premium Fit® supplement (U.S. registered trademark, Reg. 8,056,872). Lab-tested formula made in the USA in a GMP-certified facility. Prepared to order and shipped with tracking.",
+ "desc_es": "Suplemento DAZ Premium Fit® (marca registrada en EE. UU., Reg. 8,056,872). Fórmula analizada en laboratorio y fabricada en EE. UU. en instalaciones certificadas GMP. Se prepara bajo pedido y se envía con seguimiento.",
+ "details_en": "· 50 servings\n· 281 g\n· 5 g per scoop\n· Made to order",
+ "details_es": "· 50 porciones\n· 281 g\n· 5 g por porción\n· Fabricado bajo pedido",
+ "display_images": [
+  "assets/verified/wish4/creatine.jpg"
+ ],
+ "draft": false,
+ "fam": "premium-fit-creatine",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-wish4-2562",
+ "look": [
+  "productifi-wish4-2564"
+ ],
+ "material": "",
+ "name_en": "Creatine Monohydrate · 50 servings (281 g)",
+ "name_es": "Creatina Monohidrato · 50 dosis (281 g)",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 25.99,
+ "rank": 1,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "DAZ Premium Fit Creatine Monohydrate Powder 281g 50 servings supplement",
+ "stripe_payment_link": "https://buy.stripe.com/9B614o4UY3akgH4ayG1gY3A",
+ "supplier": "Productifi",
+ "supplier_id": "wish4-2562",
+ "visual_verified": true
+}

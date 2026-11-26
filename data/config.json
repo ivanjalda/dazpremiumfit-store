@@ -288,7 +288,10 @@
   "store_rules": {
     "enabled": true,
     "allowed_supplements": [
-      "advanced whey protein chocolate"
+      "advanced whey protein chocolate",
+      "advanced whey protein vanilla",
+      "creatine monohydrate powder",
+      "hydration electrolyte"
     ],
     "nota": "Suplementos: SOLO los de Productifi (wish4.com). Supliful es de pago y no se usa."
   },

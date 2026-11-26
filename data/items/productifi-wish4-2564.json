@@ -1,0 +1,56 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "supplement",
+ "ai_ver": 2,
+ "art_note": "The image appears as a basic digital render with a generic composited product design against a flat black background.",
+ "art_score": 3,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-daz-premium-fit-hydration-electrolyte-174g-servings-supplement",
+ "color": "",
+ "created": "2026-11-26",
+ "desc_en": "DAZ Premium Fit® supplement (U.S. registered trademark, Reg. 8,056,872). Lab-tested formula made in the USA in a GMP-certified facility. Prepared to order and shipped with tracking.",
+ "desc_es": "Suplemento DAZ Premium Fit® (marca registrada en EE. UU., Reg. 8,056,872). Fórmula analizada en laboratorio y fabricada en EE. UU. en instalaciones certificadas GMP. Se prepara bajo pedido y se envía con seguimiento.",
+ "details_en": "· 174g\n· 30 servings\n· Made to order piece\n· Worldwide shipping",
+ "details_es": "· 174 gramos\n· 30 porciones\n· Made to order piece\n· Worldwide shipping",
+ "display_images": [
+  "assets/verified/wish4/electrolyte.jpg"
+ ],
+ "draft": false,
+ "fam": "premium-fit-hydration",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-wish4-2564",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "",
+ "name_en": "Hydration Electrolyte · 30 servings (174 g)",
+ "name_es": "Electrolitos Hidratación · 30 dosis (174 g)",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 23.99,
+ "rank": 2,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "DAZ Premium Fit Hydration Electrolyte 174g 30 servings supplement",
+ "stripe_payment_link": "https://buy.stripe.com/9B6cN61IMeT21Ma7mu1gY3B",
+ "supplier": "Productifi",
+ "supplier_id": "wish4-2564",
+ "visual_verified": true
+}

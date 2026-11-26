@@ -1,0 +1,56 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "protein supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a dark background, simple vector-style rendering.",
+ "art_score": 6,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-daz-premium-fit-advanced-whey-protein-vanilla-805g-protein-supplement",
+ "color": "",
+ "created": "2026-11-26",
+ "desc_en": "DAZ Premium Fit® supplement (U.S. registered trademark, Reg. 8,056,872). Lab-tested formula made in the USA in a GMP-certified facility. Prepared to order and shipped with tracking.",
+ "desc_es": "Suplemento DAZ Premium Fit® (marca registrada en EE. UU., Reg. 8,056,872). Fórmula analizada en laboratorio y fabricada en EE. UU. en instalaciones certificadas GMP. Se prepara bajo pedido y se envía con seguimiento.",
+ "details_en": "· Whey protein supplement\n· Vanilla flavor\n· Net content 805 grams\n· Made-to-order piece\n· Worldwide shipping available",
+ "details_es": "· Suplemento proteico de proteina whey\n· Sabor vainilla\n· Contenido neto de 805 gramos\n· Producto elaborado bajo pedido\n· Envio disponible a todo el mundo",
+ "display_images": [
+  "assets/verified/wish4/whey-vanilla.jpg"
+ ],
+ "draft": false,
+ "fam": "premium-fit-advanced",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-wish4-2563",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "",
+ "name_en": "Advanced Whey Protein · Vanilla (805 g)",
+ "name_es": "Proteína Whey Advanced · Vainilla (805 g)",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 48.99,
+ "rank": 3,
+ "shipping_usd": 9.0,
+ "shipping_worst_usd": 14.4,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "DAZ Premium Fit Advanced Whey Protein Vanilla 805g protein supplement",
+ "stripe_payment_link": "https://buy.stripe.com/bJedRacnq8uE76u7mu1gY3C",
+ "supplier": "Productifi",
+ "supplier_id": "wish4-2563",
+ "visual_verified": true
+}

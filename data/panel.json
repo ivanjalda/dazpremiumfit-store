@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "",
-  "updated": "2026-11-26 20:43 UTC",
+  "updated": "2026-11-26 20:59 UTC",
   "totals": {
-    "catalogo": 329,
-    "a_la_vista": 329,
-    "disenos_a_la_vista": 299,
+    "catalogo": 338,
+    "a_la_vista": 338,
+    "disenos_a_la_vista": 308,
     "ocultos": 0,
-    "ia_revisados": 329,
+    "ia_revisados": 338,
     "ia_pendientes": 0,
-    "con_boton_de_pago": 329,
+    "con_boton_de_pago": 338,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 58,
     "ventas_30_dias": 0,
@@ -18,6 +18,10 @@
   },
   "reasons": {},
   "suppliers": {
+    "Productifi": {
+      "visibles": 196,
+      "ocultos": 0
+    },
     "Printful": {
       "visibles": 18,
       "ocultos": 0
@@ -26,12 +30,8 @@
       "visibles": 63,
       "ocultos": 0
     },
-    "Productifi": {
-      "visibles": 193,
-      "ocultos": 0
-    },
     "Printify": {
-      "visibles": 55,
+      "visibles": 61,
       "ocultos": 0
     }
   },
@@ -526,26 +526,30 @@
   "log": [
     "Dirección de la tienda: https://dazpremiumfit.com",
     "CSV leído: shopify_productos.csv",
-    "Printify: 30 piezas leídas",
+    "CSV leído: wish4.csv",
+    "Printify: 36 piezas leídas",
     "Printful: 18 piezas (0 actualizadas ahora)",
     "⏱ lectura de proveedores: 5 s",
-    "Productos en catálogo: 329 · a la vista: 329 · archivados: 0",
+    "Productos en catálogo: 338 · a la vista: 338 · archivados: 0",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "⏱ ventas, visitas y cupones: 0 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: 6 productos revisados (fotos, guía de tallas y textos) · quedan 0",
-    "⏱ revisión con IA: 81 s",
-    "⏱ vigilante: 149 s",
+    "IA: 9 productos revisados (fotos, guía de tallas y textos) · quedan 0",
+    "⏱ revisión con IA: 84 s",
+    "⏱ vigilante: 108 s",
     "⏱ estudio de fotos: 0 s",
-    "Stripe: enlace normal listo para printify-6b0899f96bfabea2f3021a8e",
-    "Stripe: enlace normal listo para printify-6b089a02867aed6ed008c517",
-    "Stripe: enlace normal listo para printify-6b0899fc6bfabea2f3021a91",
-    "Stripe: enlace normal listo para printify-6b089a07db66d9659e068f9a",
-    "Stripe: enlace normal listo para printify-6b0899f655d595d88e0a00d7",
-    "Stripe: enlace normal listo para printify-6b089a056a219864bc0f18e4",
-    "Stripe: 6 productos con enlace de pago nuevo en esta hora",
-    "⏱ enlaces de pago: 5 s",
+    "Stripe: enlace normal listo para productifi-wish4-2562",
+    "Stripe: enlace normal listo para productifi-wish4-2564",
+    "Stripe: enlace normal listo para productifi-wish4-2563",
+    "Stripe: enlace normal listo para printify-6b089b3b155f8bb8d10801be",
+    "Stripe: enlace normal listo para printify-6b089b42c9d405a5820236ee",
+    "Stripe: enlace normal listo para printify-6b089b3e155f8bb8d10801c1",
+    "Stripe: enlace normal listo para printify-6b089b47867aed6ed008c5e1",
+    "Stripe: enlace normal listo para printify-6b089b38c9d405a5820236ea",
+    "Stripe: enlace normal listo para printify-6b089b44c9d405a5820236f1",
+    "Stripe: 9 productos con enlace de pago nuevo en esta hora",
+    "⏱ enlaces de pago: 7 s",
     "Cambio actualizado: 1 USD = 0.9112 EUR",
     "Listo."
   ]
