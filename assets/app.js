@@ -36,7 +36,7 @@
       sub_eyebrow: 'Club DPF', sub_title: 'Acceso anticipado a lanzamientos exclusivos',
       sub_text: 'Recibe lanzamientos, ofertas y consejos de entrenamiento antes que nadie.', sub_ph: 'Tu correo electrónico', sub_btn: 'Unirme',
       sub_ok: 'Gracias. Ya formas parte del Club DPF.', sub_soon: 'La suscripción estará disponible muy pronto.',
-      f_house: 'La marca', f_identity: 'La Identidad', f_campaigns: 'Campañas y Publicidad', f_decor: 'Suplementos',
+      f_house: 'La marca', f_identity: 'La Identidad', f_campaigns: 'Campañas y Publicidad', f_decor: 'Accesorios y suplementos',
       f_help: 'Ayuda', f_account: 'Mi cuenta', f_legal: 'Legal',
       l_aviso: 'Aviso legal', l_privacidad: 'Privacidad', l_terminos: 'Términos y condiciones', l_cookies: 'Cookies',
       l_envios: 'Envíos', l_devoluciones: 'Devoluciones',
@@ -90,7 +90,7 @@
       sub_eyebrow: 'The DPF Club', sub_title: 'Early access to exclusive releases',
       sub_text: 'Get launches, offers and training tips before anyone else.', sub_ph: 'Your email address', sub_btn: 'Join',
       sub_ok: 'Thank you. You are now part of the DPF Club.', sub_soon: 'Subscriptions will open very soon.',
-      f_house: 'The brand', f_identity: 'Our Identity', f_campaigns: 'Campaigns & Advertising', f_decor: 'Supplements',
+      f_house: 'The brand', f_identity: 'Our Identity', f_campaigns: 'Campaigns & Advertising', f_decor: 'Gear & Supplements',
       f_help: 'Help', f_account: 'My account', f_legal: 'Legal',
       l_aviso: 'Legal notice', l_privacidad: 'Privacy', l_terminos: 'Terms & conditions', l_cookies: 'Cookies',
       l_envios: 'Shipping', l_devoluciones: 'Returns',
@@ -162,6 +162,43 @@
     try { const r = await fetch(url, { cache: 'no-cache' }); return r.ok ? await r.json() : d; } catch (e) { return d; }
   }
 
+  /* ---------- Suplementos (solo wish4) y Accesorios de entreno: secciones propias ---------- */
+  const SUPP_OK = new Set(['productifi-advanced-whey-protein-chocolate', 'productifi-wish4-2562', 'productifi-wish4-2563', 'productifi-wish4-2564']);
+  const DECOR_SUBS = [
+    ['suplementos', 'proteina', 'Proteína', 'Protein', /whey|protein|prote[ií]na/i],
+    ['suplementos', 'creatina', 'Creatina', 'Creatine', /creatin/i],
+    ['suplementos', 'hidratacion', 'Hidratación y electrolitos', 'Hydration & electrolytes', /electrol|hydrat|hidrat/i],
+    ['accesorios', 'bolsas', 'Bolsas y mochilas', 'Bags & backpacks', /bag|bolsa|duffel|mochila|backpack|tote/i],
+    ['accesorios', 'calcetines', 'Calcetines', 'Socks', /sock|calcet/i],
+    ['accesorios', 'toallas', 'Toallas', 'Towels', /towel|toalla/i],
+    ['accesorios', 'gorras', 'Gorras', 'Caps', /\bcaps?\b|gorra|\bhat\b|beanie/i],
+    ['accesorios', 'botellas', 'Botellas y shakers', 'Bottles & shakers', /bottle|botella|shaker/i],
+    ['suplementos', 'otros', 'Más suplementos', 'More supplements', null],
+    ['accesorios', 'equipo', 'Equipo de entreno', 'Training gear', null]];
+  const isSupp = p => /^productifi-/.test(p.id || '');
+  function decorCat(p) {
+    const c = (p.categories || [])[0] || '';
+    if (!(c === 'decor' || c.startsWith('decor/') || isSupp(p))) return null;
+    const g = isSupp(p) ? 'suplementos' : 'accesorios';
+    const txt = [p.name_es, p.name_en, p.id].join(' ');
+    const hit = DECOR_SUBS.find(d => d[0] === g && d[4] && d[4].test(txt)) || DECOR_SUBS.find(d => d[0] === g && !d[4]);
+    return g + '/' + hit[1];
+  }
+  function dpfSupplements() {
+    S.products = S.products.filter(p => !isSupp(p) || SUPP_OK.has(p.id));  // fuera todo lo de Supliful
+    const count = {};
+    S.products.forEach(p => { const c = decorCat(p); if (c) { p.categories = [c]; count[c] = (count[c] || 0) + 1; } });
+    const groups = [['suplementos', 'Suplementos', 'Supplements'], ['accesorios', 'Accesorios de entreno', 'Training gear']]
+      .map(([id, es, en]) => ({ id, es, en, items: DECOR_SUBS.filter(d => d[0] === id && count[id + '/' + d[1]]).map(d => ({ id: d[1], es: d[2], en: d[3] })) }))
+      .filter(g => g.items.length);
+    S.catalog.menus = (S.catalog.menus || []).filter(m => m.id !== 'decor');
+    if (groups.length) {
+      const menu = { id: 'decor', es: 'Accesorios y suplementos', en: 'Gear & Supplements', groups };
+      const at = S.catalog.menus.findIndex(m => m.id === 'identidad');
+      S.catalog.menus.splice(at < 0 ? S.catalog.menus.length : at, 0, menu);
+    }
+  }
+
   async function init() {
     const [cfg, catalog, prod, camp] = await Promise.all([
       getJSON(BASE + 'data/config.json', {}), getJSON(BASE + 'data/catalog.json', { menus: [] }), getJSON(BASE + 'data/index.json', null).then(x => x || getJSON(BASE + 'data/products.json', { products: [] })),
@@ -179,6 +216,7 @@
         seenImg.add(k); return true;
       });
     }
+    dpfSupplements();
     S.byCg = {};
     S.products.forEach(p => { S.byId[p.id] = p; const k = p.cg || p.id; (S.byCg[k] = S.byCg[k] || []).push(p); });
     try {  // enlaces de Google Shopping: ?lang=en&cur=USD (solo para esa visita, no se guarda)
@@ -328,7 +366,7 @@
   function varied(list, n) {
     const fams = new Set(), subs = {}, buckets = {};
     list.forEach(p => { (buckets[grp(p)] = buckets[grp(p)] || []).push(p); });
-    const order = ['mujer', 'hombre', 'calzado', 'decor'].filter(k => buckets[k]);
+    const order = ['mujer', 'hombre', 'calzado', 'suplementos', 'accesorios'].filter(k => buckets[k]);
     const out = [];
     let guard = 0;
     while (out.length < n && guard++ < 500) {
@@ -441,6 +479,7 @@
     return (p.categories || []).some(c => {
       if (sub) return c === group + '/' + sub;
       if (group === 'calzado') return c.startsWith('calzado-');
+      if (group === 'decor') return /^(suplementos|accesorios)\//.test(c);
       return c === group || c.startsWith(group + '/');
     });
   }
@@ -458,7 +497,7 @@
   function listView(group, sub) {
     const info = findNames(group, sub);
     document.title = info.title + ' — DAZ Premium Fit';
-    const subs = group === 'calzado' ? info.menu.groups.map(g => ({ id: g.id, href: '#/c/' + g.id, name: L(g) }))
+    const subs = (group === 'calzado' || group === 'decor') && info.menu ? info.menu.groups.map(g => ({ id: g.id, href: '#/c/' + g.id, name: L(g) }))
       : (info.g ? info.g.items.map(i => ({ id: i.id, href: `#/c/${info.g.id}/${i.id}`, name: L(i) })) : []);
     const f = store.get('dz_filters', { avail: 'all', min: '', max: '', sort: 'featured' });
     app.innerHTML = `<section>
@@ -506,7 +545,7 @@
     const p = S.byId[id];
     if (!p || p._full) return p;
     const item = await getJSON(BASE + 'data/items/' + encodeURIComponent(id) + '.json', null);
-    if (item) Object.assign(p, item);
+    if (item) { const keep = p.categories; Object.assign(p, item); if (decorCat(p)) p.categories = keep; }
     p._full = true;
     return p;
   }
