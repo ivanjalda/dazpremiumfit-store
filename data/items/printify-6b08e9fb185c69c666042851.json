@@ -1,0 +1,75 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Tank Top",
+ "ai_ver": 2,
+ "art_note": "Flat vector product mockups lacking realistic photography standards.",
+ "art_score": 4,
+ "audited": "2026-11-27",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b08e9fb185c69c666042851",
+ "color": "Black",
+ "created": "2026-11-27",
+ "desc_en": "Designed for daily performance. This tank top combines a streamlined silhouette with distinctive branding details. Crafted exclusively through a made-to-order process ensuring mindful production. It delivers absolute freedom of movement during your most demanding training session. Worldwide shipping available globally.",
+ "desc_es": "Disenada para el rendimiento diario. Esta camiseta de tirantes combina una silueta aerodinamica con detalles distintivos de la marca. Confeccionada mediante un proceso exclusivo bajo pedido garantizando una produccion consciente. Ofrece libertad de movimiento absoluta durante el entrenamiento mas exigente. Envios internacionales disponibles para todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho bajo pedido\n· Envio mundial disponible",
+ "display_images": [
+  "https://images.printify.com/mockup/6b08e9fb185c69c666042851/251657/126156/dpf-emblem-built-different-racerback-tank.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b08e9fb185c69c666042851/251657/126157/dpf-emblem-built-different-racerback-tank.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "emblem-built-different",
+ "hidden": false,
+ "id": "printify-6b08e9fb185c69c666042851",
+ "img_checked": "2026-11-27",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Emblem Built Different Tank Top",
+ "name_es": "Camiseta de tirantes Emblem Built Different",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 43.99,
+ "rank": 133,
+ "shipping_usd": 5.39,
+ "shipping_worst_usd": 13.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "16763763897324639730",
+  "17110424433716408997",
+  "26480953162727450966",
+  "30478816347047552691",
+  "13700417639448151048",
+  "16616016300979422943"
+ ],
+ "source_title": "Dpf Emblem Built Different Racerback Tank",
+ "stripe_payment_link": "https://buy.stripe.com/eVq6oI3QU3ak1MacGO1gY40",
+ "supplier": "Printify",
+ "supplier_id": "6b08e9fb185c69c666042851",
+ "visual_verified": false
+}

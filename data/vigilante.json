@@ -219,15 +219,29 @@
     "productifi-polvo-de-perla-de-abeja-daz-premium-fit": "suplemento que no es del proveedor autorizado",
     "productifi-plan-basico-de-20-mes": "suplemento que no es del proveedor autorizado",
     "productifi-plan-premium-de-50-mes": "suplemento que no es del proveedor autorizado",
-    "printify-tarro-de-cristal-con-diseno-de-diamante-y-pajita": "no es de tienda deportiva"
+    "printify-tarro-de-cristal-con-diseno-de-diamante-y-pajita": "no es de tienda deportiva",
+    "interestprint-design-womens-crop-rugby-jersey-1": "repetido de interestprint-design-womens-crop-rugby-jersey",
+    "interestprint-design-womens-crop-rugby-jersey-2": "repetido de interestprint-design-womens-crop-rugby-jersey",
+    "interestprint-design-womens-crop-rugby-jersey-3": "repetido de interestprint-design-womens-crop-rugby-jersey",
+    "interestprint-camiseta-immortal-warrior-2-mens-all-over-print-tank-top-model-t57": "repetido de interestprint-design-mens-tank-tops",
+    "interestprint-immortal-warrior-3-mens-all-over-print-tank-top-model-t57": "repetido de interestprint-design-all-over-print-tank-top-bkrev1",
+    "interestprint-design-yoga-top-yj053": "repetido de interestprint-design-yoga-top-a6k",
+    "interestprint-descarga-4-cross-back-pocket-sport-dress-1": "repetido de interestprint-descarga-4-cross-back-pocket-sport-dress",
+    "printify-6b0892576d0e8a542403d39d": "repetido de interestprint-design-all-over-print-tank-top-bkrev1",
+    "printify-6b0899f96bfabea2f3021a8e": "repetido de interestprint-design-all-over-print-tank-top-bkrev1",
+    "printify-6b089b3b155f8bb8d10801be": "repetido de interestprint-design-all-over-print-tank-top-bkrev1",
+    "printify-6b089b3e155f8bb8d10801c1": "repetido de printify-6b0899fc6bfabea2f3021a91",
+    "printify-6b089b47867aed6ed008c5e1": "repetido de printify-6b089a07db66d9659e068f9a",
+    "printify-6b089b38c9d405a5820236ea": "repetido de printify-6b0899f655d595d88e0a00d7",
+    "printify-6b089b44c9d405a5820236f1": "repetido de printify-6b089a056a219864bc0f18e4"
   },
   "checked": {},
-  "cursor": 137,
+  "cursor": 117,
   "last": {
-    "date": "2026-11-26T22:19+00:00",
-    "fixes": 1,
+    "date": "2026-11-27T02:29+00:00",
+    "fixes": 14,
     "checked_images": 80,
     "broken": 0,
-    "visible": 118
+    "visible": 100
   }
 }

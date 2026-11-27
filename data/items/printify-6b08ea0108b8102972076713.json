@@ -1,0 +1,74 @@
+{
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but the model image features a composited look typical of basic print-on-demand suppliers.",
+ "art_score": 5,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printify-6b08ea0108b8102972076713",
+ "color": "Black",
+ "created": "2026-11-27",
+ "desc_en": "Designed for the modern woman who demands performance without compromising style. This cropped hoodie combines precise proportions with a clean silhouette. Each piece is made to order to ensure absolute exclusivity and a reduced environmental footprint. The minimalist aesthetic reflects confidence and sophistication in any environment. Ideal for completing a dynamic wardrobe with a touch of timeless elegance. Worldwide shipping available.",
+ "desc_es": "Diseñada para la mujer moderna que exige rendimiento sin comprometer el estilo. Esta sudadera corta combina proporciones precisas con una silueta depurada. Cada pieza se confecciona bajo demanda para garantizar una exclusividad absoluta y un impacto ambiental reducido. La estética minimalista refleja confianza y sofisticación en cualquier entorno. Ideal para completar un vestuario dinámico con un toque de elegancia atemporal. Envío disponible a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Confección bajo demanda",
+ "display_images": [
+  "https://images.printify.com/mockup/6b08ea0108b8102972076713/72716/16566/dpf-emblem-built-different-cropped-hoodie.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b08ea0108b8102972076713/72716/16575/dpf-emblem-built-different-cropped-hoodie.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "emblem-built-different",
+ "hidden": false,
+ "id": "printify-6b08ea0108b8102972076713",
+ "img_checked": "2026-11-27",
+ "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Emblem Cropped Hoodie",
+ "name_es": "Sudadera Corta Emblem",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 71.99,
+ "rank": 272,
+ "shipping_usd": 8.79,
+ "shipping_worst_usd": 8.79,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "44200329877842022100",
+  "20895003208974408168",
+  "17718240038424466393",
+  "16545016590135185499",
+  "28683277103351140956",
+  "41315508038994802829"
+ ],
+ "source_title": "Dpf Emblem Built Different Cropped Hoodie",
+ "stripe_payment_link": "https://buy.stripe.com/4gMcN6dru3ak0I6dKS1gY43",
+ "supplier": "Printify",
+ "supplier_id": "6b08ea0108b8102972076713",
+ "visual_verified": false
+}

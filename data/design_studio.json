@@ -17,9 +17,28 @@
    "gender": "women",
    "file": "2026-11-26_tough-bitch-queen-of-iron__tirantes-mujer-camiseta-mujer-sudadera-mujer.png",
    "date": "2026-11-26"
+  },
+  {
+   "name": "DPF Emblem BEAST MODE",
+   "collection": "DPF Emblem",
+   "slogan": "BEAST MODE",
+   "style": "escudo",
+   "gender": "men",
+   "file": "2026-11-27_dpf-emblem-beast-mode__camiseta-tirantes-hombre-sudadera-capucha.png",
+   "date": "2026-11-27"
+  },
+  {
+   "name": "DPF Emblem BUILT DIFFERENT",
+   "collection": "DPF Emblem",
+   "slogan": "BUILT DIFFERENT",
+   "style": "escudo",
+   "gender": "women",
+   "file": "2026-11-27_dpf-emblem-built-different__tirantes-mujer-camiseta-mujer-sudadera-mujer.png",
+   "date": "2026-11-27"
   }
  ],
  "days": {
-  "2026-11-26": 2
+  "2026-11-26": 2,
+  "2026-11-27": 2
  }
 }

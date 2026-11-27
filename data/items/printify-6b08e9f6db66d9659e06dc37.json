@@ -1,0 +1,188 @@
+{
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots on white background, standard e-commerce presentation.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printify-6b08e9f6db66d9659e06dc37",
+ "color": "Black",
+ "created": "2026-11-27",
+ "desc_en": "The Beast Mode hoodie defines athletic presence with a refined silhouette. Engineered for comfort and performance, this piece features a deep black finish. Contrast graphic details reinforce a sober and determined aesthetic. Each piece is made to order and available with worldwide shipping.",
+ "desc_es": "La sudadera con capucha Beast Mode define la presencia atlética con un diseño depurado. Confeccionada para ofrecer comodidad y rendimiento, esta prenda presenta un acabado en tono negro intenso. Los detalles gráficos en contraste refuerzan una estética sobria y decidida. Cada pieza se confecciona bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b08e9f6db66d9659e06dc37/32920/98424/dpf-emblem-beast-mode-hoodie.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b08e9f6db66d9659e06dc37/32920/98425/dpf-emblem-beast-mode-hoodie.jpg?camera_label=back",
+  "https://images.printify.com/mockup/6b08e9f6db66d9659e06dc37/32920/98426/dpf-emblem-beast-mode-hoodie.jpg?camera_label=back-2",
+  "https://images.printify.com/mockup/6b08e9f6db66d9659e06dc37/32920/98432/dpf-emblem-beast-mode-hoodie.jpg?camera_label=folded"
+ ],
+ "draft": false,
+ "fam": "emblem-beast-mode",
+ "hidden": false,
+ "id": "printify-6b08e9f6db66d9659e06dc37",
+ "img_checked": "2026-11-27",
+ "look": [
+  "printful-359535579",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "",
+ "name_en": "Beast Mode Hoodie",
+ "name_es": "Sudadera con capucha Beast Mode",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 54.99,
+ "rank": 260,
+ "shipping_usd": 8.79,
+ "shipping_worst_usd": 8.79,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Imperial Width",
+   "Imperial Length",
+   "Imperial Sleeve length",
+   "Metric Width",
+   "Metric Length",
+   "Metric Sleeve length"
+  ],
+  "headers_es": [
+   "Talla",
+   "Ancho imperial",
+   "Largo imperial",
+   "Largo de manga imperial",
+   "Ancho métrico",
+   "Largo métrico",
+   "Largo de manga métrico"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by +/- 1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +/- 1.5 in (3.8 cm) debido a tolerancias de fabricación.",
+  "rows": [
+   [
+    "XS",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-",
+    "-"
+   ],
+   [
+    "S",
+    "20.0",
+    "27.1",
+    "33.5",
+    "51.0",
+    "71.1",
+    "85.0"
+   ],
+   [
+    "M",
+    "22.0",
+    "28.0",
+    "34.5",
+    "56.0",
+    "71.1",
+    "87.6"
+   ],
+   [
+    "L",
+    "24.0",
+    "29.1",
+    "35.5",
+    "61.0",
+    "74.0",
+    "90.2"
+   ],
+   [
+    "XL",
+    "26.0",
+    "30.0",
+    "36.5",
+    "66.0",
+    "76.0",
+    "92.7"
+   ],
+   [
+    "2XL",
+    "28.0",
+    "31.0",
+    "37.5",
+    "71.1",
+    "79.0",
+    "95.3"
+   ],
+   [
+    "3XL",
+    "30.0",
+    "32.0",
+    "38.5",
+    "76.2",
+    "81.0",
+    "98.0"
+   ],
+   [
+    "4XL",
+    "32.0",
+    "33.0",
+    "39.5",
+    "81.3",
+    "84.0",
+    "100.3"
+   ],
+   [
+    "5XL",
+    "34.0",
+    "34.0",
+    "40.5",
+    "86.0",
+    "86.0",
+    "102.9"
+   ]
+  ],
+  "unit": "inches / centimeters"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b08e9f6db66d9659e06dc37/32920/110151/dpf-emblem-beast-mode-hoodie.jpg?camera_label=size-chart"
+ ],
+ "sizes": [
+  "M",
+  "L",
+  "XL",
+  "S",
+  "2XL",
+  "4XL",
+  "5XL",
+  "3XL"
+ ],
+ "skus": [
+  "10992057345890161254",
+  "92716464736710369842",
+  "29470791386653978604",
+  "22101093340755930302",
+  "17028197759434673036",
+  "42399560726356977321",
+  "17773688841349782140",
+  "15060027870155904135"
+ ],
+ "source_title": "Dpf Emblem Beast Mode Hoodie",
+ "stripe_payment_link": "https://buy.stripe.com/fZu3cw87aaCM9eCeOW1gY42",
+ "supplier": "Printify",
+ "supplier_id": "6b08e9f6db66d9659e06dc37",
+ "visual_verified": false
+}

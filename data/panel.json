@@ -1,22 +1,24 @@
 {
   "key": "",
   "owner": "",
-  "updated": "2026-11-26 22:16 UTC",
+  "updated": "2026-11-27 02:25 UTC",
   "totals": {
-    "catalogo": 338,
-    "a_la_vista": 338,
-    "disenos_a_la_vista": 308,
-    "ocultos": 0,
-    "ia_revisados": 338,
+    "catalogo": 344,
+    "a_la_vista": 319,
+    "disenos_a_la_vista": 299,
+    "ocultos": 25,
+    "ia_revisados": 344,
     "ia_pendientes": 0,
-    "con_boton_de_pago": 338,
+    "con_boton_de_pago": 319,
     "sin_boton_de_pago": 0,
-    "seccion_dudosa": 58,
+    "seccion_dudosa": 57,
     "ventas_30_dias": 0,
     "visitas_30_dias": 0,
     "fotos_de_campana": 0
   },
-  "reasons": {},
+  "reasons": {
+    "Ya no está en el proveedor": 25
+  },
   "suppliers": {
     "Productifi": {
       "visibles": 196,
@@ -31,8 +33,8 @@
       "ocultos": 0
     },
     "Printify": {
-      "visibles": 61,
-      "ocultos": 0
+      "visibles": 42,
+      "ocultos": 25
     }
   },
   "guard": [
@@ -54,6 +56,11 @@
         "Café de Cáñamo Tostado Medio: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
         "Shorts de doble capa Tough: inspección IA: era shorts (women) → mujer/pantalones-cortos"
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "n": 0,
+      "fixes": []
     }
   ],
   "top_sales": [],
@@ -452,14 +459,6 @@
       "pr": 34.99
     },
     {
-      "id": "productifi-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz",
-      "n": "Café de Cáñamo Tostado Medio",
-      "s": "Productifi",
-      "img": "assets/products/shop/a3aea3a4943060ddc022.jpg",
-      "c": "hombre/bolsos-carteras",
-      "pr": 36.99
-    },
-    {
       "id": "productifi-barro-del-mar-muerto-daz-premium-fit",
       "n": "Barro del Mar Muerto DAZ",
       "s": "Productifi",
@@ -524,24 +523,260 @@
       "pr": 245.0
     }
   ],
-  "hidden": [],
+  "hidden": [
+    {
+      "id": "printify-tarro-de-cristal-con-diseno-de-diamante-y-pajita",
+      "n": "Tarro de vidrio esmerilado",
+      "s": "Printify",
+      "img": "assets/products/shop/5e5ce222a5880d721c6c.jpg",
+      "c": "decor",
+      "pr": 27.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-botella-deportiva-oregon-daz-premium-fit",
+      "n": "Botella Deportiva Oregon",
+      "s": "Printify",
+      "img": "assets/products/shop/031507e4d1ca50da4c2a.jpg",
+      "c": "decor",
+      "pr": 30.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-vaso-gator-de-32-oz-daz-premium-fit",
+      "n": "Vaso de Acero Inoxidable 32 oz",
+      "s": "Printify",
+      "img": "assets/products/shop/91e415cde00c7870a6c6.jpg",
+      "c": "decor",
+      "pr": 40.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-botella-termica-de-20-oz-perfecta-para-la-hidratacion-sobre-la-marcha",
+      "n": "Botella Térmica Signature 20 oz",
+      "s": "Printify",
+      "img": "assets/products/shop/5cd99ec015fed5f77229.jpg",
+      "c": "decor",
+      "pr": 37.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-botella-de-agua-de-acero-inoxidable-vibrante-con-tapa-estandar-perfecta-para-hidratarse-en-movimiento",
+      "n": "Botella de Acero Inoxidable Aislada",
+      "s": "Printify",
+      "img": "assets/products/shop/e17c05d21e8ab4ae779d.jpg",
+      "c": "decor",
+      "pr": 41.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-vaso-con-diseno-de-diamante-de-40-oz-el-regalo-perfecto-para-cualquier-ocasion",
+      "n": "Vaso Térmico Diamante 40 oz",
+      "s": "Printify",
+      "img": "assets/products/shop/87a64753b3d25dd4bad3.jpg",
+      "c": "decor",
+      "pr": 38.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-botella-termica-de-20oz-daz-premium-fit",
+      "n": "Botella Térmica Premium Fit",
+      "s": "Printify",
+      "img": "assets/products/shop/bf38884cc92ccc8b950b.jpg",
+      "c": "decor",
+      "pr": 38.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-vaso-de-40oz-daz",
+      "n": "Vaso Térmico DAZ 40oz",
+      "s": "Printify",
+      "img": "assets/products/shop/cd9df56c63cb43c109a4.jpg",
+      "c": "decor",
+      "pr": 55.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-botella-de-agua-ecologica-de-acero-inoxidable-con-pajita-hidratacion-esencial-de-590-ml",
+      "n": "Botella de Acero Inoxidable Diamond",
+      "s": "Printify",
+      "img": "assets/products/shop/fceed4d68c7ef932fbf2.jpg",
+      "c": "decor",
+      "pr": 30.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-botella-de-agua-de-acero-inoxidable-daz-premium-fit",
+      "n": "Botella de Acero Inoxidable White",
+      "s": "Printify",
+      "img": "assets/products/shop/bb2888ece8f78971d96b.jpg",
+      "c": "decor",
+      "pr": 42.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-botella-de-agua-de-acero-inoxidable-daz-premium-fit-con-pajita-20oz",
+      "n": "Botella de Acero Inoxidable Premium",
+      "s": "Printify",
+      "img": "assets/products/shop/b626e7d6b24ea1c15ef6.jpg",
+      "c": "decor",
+      "pr": 38.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-1-black-matte",
+      "n": "Correa de Reloj Matte Regale · Black Matte",
+      "s": "Printify",
+      "img": "assets/products/shop/9fd08e9c3d5eae76290b.jpg",
+      "c": "decor",
+      "pr": 49.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-1-gold-matte",
+      "n": "Correa de Reloj Matte Regale · Gold Matte",
+      "s": "Printify",
+      "img": "assets/products/shop/2f09fcfa0a4cd45c3f0e.jpg",
+      "c": "decor",
+      "pr": 49.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-1-rose-gold-matte",
+      "n": "Correa de Reloj Matte Regale · Rose Gold Matte",
+      "s": "Printify",
+      "img": "assets/products/shop/8704e59567b02d5a17c7.jpg",
+      "c": "decor",
+      "pr": 49.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-1-silver-matte",
+      "n": "Correa de Reloj Matte Regale · Silver Matte",
+      "s": "Printify",
+      "img": "assets/products/shop/630d0d5168168ca00a95.jpg",
+      "c": "decor",
+      "pr": 49.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-black-matte",
+      "n": "Correa de Reloj Matte Regale · Black Matte",
+      "s": "Printify",
+      "img": "assets/products/shop/f2784a795449e79d223b.jpg",
+      "c": "decor",
+      "pr": 49.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-gold-matte",
+      "n": "Correa de Reloj Matte Regale · Gold Matte",
+      "s": "Printify",
+      "img": "assets/products/shop/10eae22b31e4d12367d8.jpg",
+      "c": "decor",
+      "pr": 49.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-rose-gold-matte",
+      "n": "Correa de Reloj Matte Regale · Rose Gold Matte",
+      "s": "Printify",
+      "img": "assets/products/shop/4ccbfd0e68c2b8905aa9.jpg",
+      "c": "decor",
+      "pr": 49.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-correa-de-reloj-apple-watch-daz-silver-matte",
+      "n": "Correa de Reloj Matte Regale · Silver Matte",
+      "s": "Printify",
+      "img": "assets/products/shop/5419e849d0d7d3345205.jpg",
+      "c": "decor",
+      "pr": 49.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-dark-gray",
+      "n": "Taza de Viaje Aislada 40 oz · Dark Gray",
+      "s": "Printify",
+      "img": "assets/products/shop/10001246f93b535dcc88.jpg",
+      "c": "decor",
+      "pr": 64.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-teal",
+      "n": "Taza de Viaje Aislada 40 oz · Teal",
+      "s": "Printify",
+      "img": "assets/products/shop/ab755757bac6e3e9df2e.jpg",
+      "c": "decor",
+      "pr": 64.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-elegante-taza-de-viaje-con-aislamiento-y-diseno-de-diamantes-40-oz-white",
+      "n": "Taza de Viaje Aislada 40 oz · Blanco",
+      "s": "Printify",
+      "img": "assets/products/shop/41a786e2f931150ef96a.jpg",
+      "c": "decor",
+      "pr": 64.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para-hidratarse-en-movimiento",
+      "n": "Botella Térmica Diamond",
+      "s": "Printify",
+      "img": "assets/products/shop/35841ec6cf6cf1d430d2.jpg",
+      "c": "decor",
+      "pr": 35.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-pebble-blue",
+      "n": "Botella Térmica Diamante 22 oz · Pebble Blue",
+      "s": "Printify",
+      "img": "assets/products/shop/ea3e6633eac8bd5a06a0.jpg",
+      "c": "decor",
+      "pr": 43.99,
+      "why": "Ya no está en el proveedor"
+    },
+    {
+      "id": "printify-elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-white",
+      "n": "Botella Térmica Diamante 22 oz · Blanco",
+      "s": "Printify",
+      "img": "assets/products/shop/4fb4319d18f7940c4067.jpg",
+      "c": "decor",
+      "pr": 43.99,
+      "why": "Ya no está en el proveedor"
+    }
+  ],
   "log": [
     "Dirección de la tienda: https://dazpremiumfit.com",
     "CSV leído: shopify_productos.csv",
     "CSV leído: wish4.csv",
     "Printify: 36 piezas leídas",
-    "Printful: 18 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 5 s",
-    "Productos en catálogo: 338 · a la vista: 338 · archivados: 0",
+    "Printful: 18 piezas (10 actualizadas ahora)",
+    "⏱ lectura de proveedores: 13 s",
+    "Productos en catálogo: 344 · a la vista: 319 · archivados: 25",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "⏱ ventas, visitas y cupones: 0 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "⏱ revisión con IA: 0 s",
-    "Vigilante: 2 correcciones en esta hora",
-    "⏱ vigilante: 172 s",
+    "IA: 6 productos revisados (fotos, guía de tallas y textos) · quedan 0",
+    "⏱ revisión con IA: 103 s",
+    "⏱ vigilante: 137 s",
+    "Estudio de fotos: Google no permite crear imágenes con esta clave gratuita hoy. Se reintenta mañana.",
+    "Estudio de fotos: 0 fotos de campaña nuevas (de 1 intentos)",
     "⏱ estudio de fotos: 0 s",
-    "⏱ enlaces de pago: 0 s",
+    "Stripe: enlace normal listo para printify-6b08e9f3f7ed4c973b05affe",
+    "Stripe: enlace normal listo para printify-6b08e9fb185c69c666042851",
+    "Stripe: enlace normal listo para printify-6b08e9f16d0e8a542404257c",
+    "Stripe: enlace normal listo para printify-6b08e9f6db66d9659e06dc37",
+    "Stripe: enlace normal listo para printify-6b08ea0108b8102972076713",
+    "Stripe: enlace normal listo para printify-6b08e9feedc552ae3508c0cb",
+    "Stripe: enlace normal listo para productifi-advanced-whey-protein-chocolate",
+    "Stripe: 7 productos con enlace de pago nuevo en esta hora",
+    "⏱ enlaces de pago: 5 s",
     "Cambio actualizado: 1 USD = 0.9112 EUR",
     "Listo."
   ]

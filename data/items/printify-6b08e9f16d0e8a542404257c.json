@@ -1,0 +1,184 @@
+{
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "T-Shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots, but layout style leans slightly generic marketplace.",
+ "art_score": 6,
+ "audited": "2026-11-27",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b08e9f16d0e8a542404257c",
+ "color": "Black",
+ "created": "2026-11-27",
+ "desc_en": "An essential silhouette engineered for supreme focus. This performance piece balances a refined aesthetic with an unrelenting attitude. Every detail is designed to accompany movement without distraction. The visual presence is assertive and understated. Tailored for those who demand precision in every workout and beyond. Made-to-order piece with worldwide shipping available.",
+ "desc_es": "Una silueta esencial diseñada para la máxima concentración. Esta pieza de alto rendimiento equilibra una estética depurada con una actitud implacable. Cada detalle está pensado para acompañar el movimiento sin distracciones. La presencia visual es rotunda y sobria. Diseñado para quienes exigen precisión en cada entrenamiento y fuera de él. Pieza confeccionada bajo demanda con envíos disponibles a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b08e9f16d0e8a542404257c/12124/102005/dpf-emblem-beast-mode-tee.jpg?camera_label=front-2",
+  "https://images.printify.com/mockup/6b08e9f16d0e8a542404257c/12124/102006/dpf-emblem-beast-mode-tee.jpg?camera_label=back-2"
+ ],
+ "draft": false,
+ "fam": "emblem-beast-mode",
+ "hidden": false,
+ "id": "printify-6b08e9f16d0e8a542404257c",
+ "img_checked": "2026-11-27",
+ "look": [
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "",
+ "name_en": "Beast Mode Tee",
+ "name_es": "Camiseta Beast Mode",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 37.99,
+ "rank": 189,
+ "shipping_usd": 7.99,
+ "shipping_worst_usd": 7.99,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "headers_es": [
+   "Talla",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "notes_en": "Measurements may vary by +-1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Las medidas pueden variar en +-1.5 in (3.8 cm) debido a tolerancias de fabricacion.",
+  "rows": [
+   [
+    "Width (in)",
+    "-",
+    "18.0",
+    "20.0",
+    "22.0",
+    "24.0",
+    "26.0",
+    "28.0",
+    "30.0",
+    "32.0"
+   ],
+   [
+    "Length (in)",
+    "-",
+    "28.0",
+    "29.0",
+    "30.0",
+    "31.0",
+    "32.0",
+    "33.0",
+    "34.0",
+    "35.0"
+   ],
+   [
+    "Sleeve length (in)",
+    "-",
+    "15.1",
+    "16.5",
+    "18.0",
+    "19.5",
+    "21.0",
+    "22.4",
+    "23.7",
+    "25.0"
+   ],
+   [
+    "Width (cm)",
+    "-",
+    "46.0",
+    "50.8",
+    "56.0",
+    "61.0",
+    "66.0",
+    "71.1",
+    "76.2",
+    "81.3"
+   ],
+   [
+    "Length (cm)",
+    "-",
+    "71.1",
+    "73.7",
+    "76.2",
+    "79.0",
+    "81.3",
+    "84.0",
+    "86.4",
+    "89.0"
+   ],
+   [
+    "Sleeve length (cm)",
+    "-",
+    "38.4",
+    "42.0",
+    "45.7",
+    "49.5",
+    "53.3",
+    "57.0",
+    "60.2",
+    "63.5"
+   ]
+  ],
+  "unit": "inches / cm"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b08e9f16d0e8a542404257c/12124/101998/dpf-emblem-beast-mode-tee.jpg?camera_label=size-chart"
+ ],
+ "sizes": [
+  "M",
+  "S",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "skus": [
+  "31910753692888173045",
+  "11763479629773649814",
+  "12909725341336445428",
+  "26374950835957154417",
+  "61913801442943217868",
+  "49493137626371538241",
+  "26939536196587038358",
+  "22265121496449316855"
+ ],
+ "source_title": "Dpf Emblem Beast Mode Tee",
+ "stripe_payment_link": "https://buy.stripe.com/00w6oI2MQbGQaiGdKS1gY41",
+ "supplier": "Printify",
+ "supplier_id": "6b08e9f16d0e8a542404257c",
+ "visual_verified": false
+}

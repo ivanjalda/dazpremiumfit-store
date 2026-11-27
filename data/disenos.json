@@ -113,6 +113,33 @@
       },
       "image_id": "6b089a0174da406ef69f480e",
       "date": "2026-11-26"
+    },
+    "2026-11-27_dpf-emblem-beast-mode__camiseta-tirantes-hombre-sudadera-capucha.png": {
+      "status": "hecho",
+      "products": {
+        "camiseta": "6b08e9f16d0e8a542404257c",
+        "tirantes-hombre": "6b08e9f3f7ed4c973b05affe",
+        "sudadera-capucha": "6b08e9f6db66d9659e06dc37"
+      },
+      "image_id": "6b08e9eecf6ee97f352d59e0",
+      "layout": 2,
+      "date": "2026-11-27"
+    },
+    "2026-11-27_dpf-emblem-built-different__tirantes-mujer-camiseta-mujer-sudadera-mujer.png": {
+      "status": "hecho",
+      "products": {
+        "tirantes-mujer": "6b08e9fb185c69c666042851",
+        "camiseta-mujer": "6b08e9feedc552ae3508c0cb",
+        "sudadera-mujer": "6b08ea0108b8102972076713"
+      },
+      "image_id": "6b08e9f986cd36deab8b48bd",
+      "layout": 2,
+      "date": "2026-11-27"
     }
-  }
+  },
+  "chest": {
+    "light": "6b08b0d589bed325a81b0678",
+    "dark": "6b08b0e0cc96118d639d673d"
+  },
+  "dedupe_done": "2026-11-27"
 }

@@ -101,66 +101,6 @@
       "img": "assets/products/shop/bba6c167e5e3e40ca920.jpg"
     },
     {
-      "id": "interestprint-design-womens-crop-rugby-jersey-1",
-      "name_es": "Camiseta Crop de Rugby · Blanco",
-      "name_en": "Crop Rugby Jersey · White",
-      "price_usd": 20.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 6,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "design-womens-crop-rugby-jersey-1",
-      "fam": "women-s-crop",
-      "cg": "t-design-women-s-crop-rugby-jersey",
-      "color": "white",
-      "art_score": 4,
-      "img": "assets/products/shop/c91a2909b641faae915e.jpg"
-    },
-    {
-      "id": "interestprint-design-womens-crop-rugby-jersey-2",
-      "name_es": "Camiseta Crop de Rugby · Blanco",
-      "name_en": "Crop Rugby Jersey · White",
-      "price_usd": 20.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 7,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "design-womens-crop-rugby-jersey-2",
-      "fam": "women-s-crop",
-      "cg": "t-design-women-s-crop-rugby-jersey",
-      "color": "white",
-      "art_score": 4,
-      "img": "assets/products/shop/0164ed26a5daee87511f.jpg"
-    },
-    {
-      "id": "interestprint-design-womens-crop-rugby-jersey-3",
-      "name_es": "Camiseta Crop de Rugby · Blanco",
-      "name_en": "Crop Rugby Jersey · White",
-      "price_usd": 20.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 8,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "design-womens-crop-rugby-jersey-3",
-      "fam": "women-s-crop",
-      "cg": "t-design-women-s-crop-rugby-jersey",
-      "color": "white",
-      "art_score": 4,
-      "img": "assets/products/shop/c904add6ed519abe3625.jpg"
-    },
-    {
       "id": "interestprint-aesthetic-icon-womens-racerback-tank-top-model-t60",
       "name_es": "Camiseta de Tirantes Estampada",
       "name_en": "Printed Racerback Tank Top",
@@ -441,26 +381,6 @@
       "img": "assets/products/shop/d35e3667683afe7405a7.jpg"
     },
     {
-      "id": "interestprint-camiseta-immortal-warrior-2-mens-all-over-print-tank-top-model-t57",
-      "name_es": "Camiseta de Tirantes Immortal Warrior · Negro",
-      "name_en": "Immortal Warrior Tank Top · Black",
-      "price_usd": 22.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 24,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "camiseta-immortal-warrior-2-mens-all-over-print-tank-top-model-t57",
-      "fam": "premium-fit-immortal",
-      "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
-      "color": "black",
-      "art_score": 8,
-      "img": "assets/products/shop/eb148921620f7e3a90d7.jpg"
-    },
-    {
       "id": "interestprint-design-yoga-leggings-yj033",
       "name_es": "Leggings Pinceladas de Fuerza",
       "name_en": "Strength Brushstrokes Leggings",
@@ -479,26 +399,6 @@
       "color": "Negro",
       "art_score": 9,
       "img": "assets/products/shop/3b2daff2e846cf2d7ce8.jpg"
-    },
-    {
-      "id": "interestprint-immortal-warrior-3-mens-all-over-print-tank-top-model-t57",
-      "name_es": "Camiseta sin mangas Immortal Warrior",
-      "name_en": "Immortal Warrior Tank Top",
-      "price_usd": 22.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 26,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "immortal-warrior-3-mens-all-over-print-tank-top-model-t57",
-      "fam": "premium-fit-immortal",
-      "cg": "t-daz-premium-fit-immortal-warrior-oliva-camiseta-de-tirantes-de-hombre",
-      "color": "Olive",
-      "art_score": 8,
-      "img": "assets/products/shop/f2a19a4795e47ca1246c.jpg"
     },
     {
       "id": "interestprint-immortal-warrior4-mens-all-over-print-tank-top-model-t57",
@@ -521,6 +421,27 @@
       "img": "assets/products/shop/a27a7ad2113e90e83b04.jpg"
     },
     {
+      "id": "printify-6b08e9f3f7ed4c973b05affe",
+      "name_es": "Camiseta sin mangas Beast Mode",
+      "name_en": "Beast Mode Tank Top",
+      "price_usd": 40.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta",
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 31,
+      "created": "2026-11-27",
+      "supplier_id": "6b08e9f3f7ed4c973b05affe",
+      "fam": "emblem-beast-mode",
+      "cg": "printify-6b08e9f3f7ed4c973b05affe",
+      "color": "Black",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b08e9f3f7ed4c973b05affe/24639/101889/dpf-emblem-beast-mode-tank-top.jpg?camera_label=front",
+      "page": true
+    },
+    {
       "id": "interestprint-descarga-83-sleeveless-yoga-crop-active-tank-tops",
       "name_es": "Top Corto de Yoga",
       "name_en": "Yoga Crop Tank Top",
@@ -530,7 +451,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 34,
+      "rank": 35,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-83-sleeveless-yoga-crop-active-tank-tops",
@@ -550,7 +471,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 43,
+      "rank": 44,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-yoga-top-xg005kn07",
@@ -559,26 +480,6 @@
       "color": "white",
       "art_score": 4,
       "img": "assets/products/shop/1e52a4d8b453a71807bc.jpg"
-    },
-    {
-      "id": "interestprint-design-yoga-top-yj053",
-      "name_es": "Top de Yoga Estampado",
-      "name_en": "Printed Yoga Top",
-      "price_usd": 22.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 57,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "design-yoga-top-yj053",
-      "fam": "yoga-top-yj053",
-      "cg": "t-design-yoga-top-yj053",
-      "color": "white",
-      "art_score": 6,
-      "img": "assets/products/shop/c1f359ffcb6d78db19ac.jpg"
     },
     {
       "id": "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -590,7 +491,7 @@
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 58,
+      "rank": 59,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -610,7 +511,7 @@
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 59,
+      "rank": 60,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "conjunto-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -630,7 +531,7 @@
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 60,
+      "rank": 61,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "conjunto-violeta-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -650,7 +551,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 63,
+      "rank": 64,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "aesthetic-icon-womens-wide-waist-yoga-cropped-leggings",
@@ -670,7 +571,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 64,
+      "rank": 65,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-83-womens-wide-waist-yoga-cropped-leggings",
@@ -690,7 +591,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 65,
+      "rank": 66,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-93-womens-wide-waist-yoga-cropped-leggings",
@@ -710,7 +611,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 77,
+      "rank": 78,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-55-womens-high-waist-pockets-yoga-leggings",
@@ -730,7 +631,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 78,
+      "rank": 79,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "purple-stars-womens-high-waist-pockets-yoga-leggings",
@@ -750,7 +651,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 95,
+      "rank": 96,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "ivan21-backless-split-knotted-yoga-active-tank-tops",
@@ -770,7 +671,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 114,
+      "rank": 115,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "top-dpf",
@@ -779,6 +680,26 @@
       "color": "Multicolor",
       "art_score": 3,
       "img": "assets/products/shop/48bf5428ceb50f1ca674.jpg"
+    },
+    {
+      "id": "printify-6b08e9fb185c69c666042851",
+      "name_es": "Camiseta de tirantes Emblem Built Different",
+      "name_en": "Emblem Built Different Tank Top",
+      "price_usd": 43.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 133,
+      "created": "2026-11-27",
+      "supplier_id": "6b08e9fb185c69c666042851",
+      "fam": "emblem-built-different",
+      "cg": "printify-6b08e9fb185c69c666042851",
+      "color": "Black",
+      "art_score": 4,
+      "img": "https://images.printify.com/mockup/6b08e9fb185c69c666042851/251657/126156/dpf-emblem-built-different-racerback-tank.jpg?camera_label=front",
+      "page": true
     },
     {
       "id": "interestprint-descarga-81-deep-v-neck-racerback-cutout-active-crop-tops",
@@ -790,7 +711,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 134,
+      "rank": 135,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-81-deep-v-neck-racerback-cutout-active-crop-tops",
@@ -799,26 +720,6 @@
       "color": "Yellow and Black",
       "art_score": 8,
       "img": "assets/products/shop/02f25f5211caa515b5ea.jpg"
-    },
-    {
-      "id": "printify-botella-deportiva-oregon-daz-premium-fit",
-      "name_es": "Botella Deportiva Oregon",
-      "name_en": "Oregon Sports Bottle",
-      "price_usd": 30.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 172,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "botella-deportiva-oregon-daz-premium-fit",
-      "fam": "botella-deportiva-oregon",
-      "cg": "t-botella-deportiva-oregon-daz-premium-fit",
-      "color": "White",
-      "art_score": 8,
-      "img": "assets/products/shop/031507e4d1ca50da4c2a.jpg"
     },
     {
       "id": "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
@@ -861,6 +762,27 @@
       "img": "assets/products/shop/717a4e6959a6ecee9cc5.jpg"
     },
     {
+      "id": "printify-6b08e9f16d0e8a542404257c",
+      "name_es": "Camiseta Beast Mode",
+      "name_en": "Beast Mode Tee",
+      "price_usd": 37.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta",
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 189,
+      "created": "2026-11-27",
+      "supplier_id": "6b08e9f16d0e8a542404257c",
+      "fam": "emblem-beast-mode",
+      "cg": "printify-6b08e9f16d0e8a542404257c",
+      "color": "Black",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b08e9f16d0e8a542404257c/12124/102005/dpf-emblem-beast-mode-tee.jpg?camera_label=front-2",
+      "page": true
+    },
+    {
       "id": "printful-484195395-black",
       "name_es": "Sudadera Immortal Warrior · Negro",
       "name_en": "Immortal Warrior Sweatshirt · Black",
@@ -871,7 +793,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 197,
+      "rank": 198,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484195395-black",
@@ -892,7 +814,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 198,
+      "rank": 199,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484195395-white",
@@ -912,7 +834,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 200,
+      "rank": 201,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-63-womens-high-waisted-leggings-model-l36",
@@ -921,26 +843,6 @@
       "color": "Red and Black",
       "art_score": 8,
       "img": "assets/products/shop/00580f69581729d91c2b.jpg"
-    },
-    {
-      "id": "printify-botella-termica-de-20-oz-perfecta-para-la-hidratacion-sobre-la-marcha",
-      "name_es": "Botella Térmica Signature 20 oz",
-      "name_en": "Signature Insulated Bottle 20 oz",
-      "price_usd": 37.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 205,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "botella-termica-de-20-oz-perfecta-para-la-hidratacion-sobre-la-marcha",
-      "fam": "botella-termica-oz",
-      "cg": "t-botella-termica-de-oz-perfecta-para-la-hidratacion-sobre-la-marcha",
-      "color": "blanco",
-      "art_score": 9,
-      "img": "assets/products/shop/5cd99ec015fed5f77229.jpg"
     },
     {
       "id": "interestprint-action-painting-i-mila-blau-elastic-waist-double-layered-active-shorts",
@@ -952,7 +854,7 @@
         "mujer/pantalones-cortos"
       ],
       "available": true,
-      "rank": 211,
+      "rank": 210,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "action-painting-i-mila-blau-elastic-waist-double-layered-active-shorts",
@@ -972,7 +874,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 212,
+      "rank": 211,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484199287-black",
@@ -992,7 +894,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 213,
+      "rank": 212,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484199287-military-green",
@@ -1001,26 +903,6 @@
       "color": "Military Green",
       "art_score": 6,
       "img": "https://files.cdn.printful.com/files/776/7760cd4621b14db869124ab5f2fd11a3_preview.png"
-    },
-    {
-      "id": "printify-botella-de-agua-de-acero-inoxidable-vibrante-con-tapa-estandar-perfecta-para-hidratarse-en-movimiento",
-      "name_es": "Botella de Acero Inoxidable Aislada",
-      "name_en": "Insulated Stainless Steel Bottle",
-      "price_usd": 41.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 214,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "botella-de-agua-de-acero-inoxidable-vibrante-con-tapa-estandar-perfecta-para-hidratarse-en-movimiento",
-      "fam": "botella-agua-acero",
-      "cg": "t-botella-de-agua-de-acero-inoxidable-vibrante-con-tapa-estandar-perfecta-para",
-      "color": "White",
-      "art_score": 7,
-      "img": "assets/products/shop/e17c05d21e8ab4ae779d.jpg"
     },
     {
       "id": "interestprint-descarga-all-over-leggings-model-l01",
@@ -1032,7 +914,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 218,
+      "rank": 216,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-all-over-leggings-model-l01",
@@ -1052,7 +934,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 219,
+      "rank": 217,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-all-over-leggings-model-l01-1",
@@ -1072,7 +954,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 220,
+      "rank": 218,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484201718-black",
@@ -1092,7 +974,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 221,
+      "rank": 219,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484201718-white",
@@ -1112,7 +994,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 235,
+      "rank": 233,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480569608-black",
@@ -1132,7 +1014,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 236,
+      "rank": 234,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480569608-heather-grey",
@@ -1152,7 +1034,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 237,
+      "rank": 235,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480569608-white",
@@ -1172,7 +1054,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 241,
+      "rank": 238,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-4-cross-back-pocket-sport-dress",
@@ -1181,26 +1063,6 @@
       "color": "white",
       "art_score": 4,
       "img": "assets/products/shop/3bd53c1f016debd5ed7c.jpg"
-    },
-    {
-      "id": "interestprint-descarga-4-cross-back-pocket-sport-dress-1",
-      "name_es": "Vestido deportivo cruzado con bolsillo · Blanco",
-      "name_en": "Cross back pocket sport dress · White",
-      "price_usd": 35.99,
-      "badge": "new",
-      "categories": [
-        "mujer/vestidos-monos-petos"
-      ],
-      "available": true,
-      "rank": 242,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "descarga-4-cross-back-pocket-sport-dress-1",
-      "fam": "descarga-cross-back",
-      "cg": "t-descarga-cross-back-pocket-sport-dress",
-      "color": "white",
-      "art_score": 4,
-      "img": "assets/products/shop/bd22b703cc431b9f0cfc.jpg"
     },
     {
       "id": "interestprint-descarga-43-all-over-print-high-waist-leggings-with-pockets-modell56",
@@ -1212,7 +1074,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 243,
+      "rank": 240,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-43-all-over-print-high-waist-leggings-with-pockets-modell56",
@@ -1232,7 +1094,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 244,
+      "rank": 241,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-52-womens-high-waist-leggingsmodell44plus-size",
@@ -1241,46 +1103,6 @@
       "color": "Beige, black, grey and red plaid",
       "art_score": 8,
       "img": "assets/products/shop/4c931946a0448116a8d9.jpg"
-    },
-    {
-      "id": "printify-botella-termica-de-20oz-daz-premium-fit",
-      "name_es": "Botella Térmica Premium Fit",
-      "name_en": "Premium Fit Thermal Bottle",
-      "price_usd": 38.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 245,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "botella-termica-de-20oz-daz-premium-fit",
-      "fam": "botella-termica-20oz",
-      "cg": "t-botella-termica-de-20oz-daz-premium-fit",
-      "color": "White",
-      "art_score": 6,
-      "img": "assets/products/shop/bf38884cc92ccc8b950b.jpg"
-    },
-    {
-      "id": "printify-botella-de-agua-ecologica-de-acero-inoxidable-con-pajita-hidratacion-esencial-de-590-ml",
-      "name_es": "Botella de Acero Inoxidable Diamond",
-      "name_en": "Diamond Stainless Steel Bottle",
-      "price_usd": 30.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 249,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "botella-de-agua-ecologica-de-acero-inoxidable-con-pajita-hidratacion-esencial-de-590-ml",
-      "fam": "botella-agua-ecologica",
-      "cg": "t-botella-de-agua-ecologica-de-acero-inoxidable-con-pajita-hidratacion-esencial-de",
-      "color": "Plata",
-      "art_score": 8,
-      "img": "assets/products/shop/fceed4d68c7ef932fbf2.jpg"
     },
     {
       "id": "interestprint-sport-1-half-zip-backless-sport-jumpsuit",
@@ -1292,7 +1114,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 250,
+      "rank": 244,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "sport-1-half-zip-backless-sport-jumpsuit",
@@ -1312,7 +1134,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 251,
+      "rank": 245,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "sport-2-half-zip-backless-sport-jumpsuit",
@@ -1333,7 +1155,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 252,
+      "rank": 246,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480571842",
@@ -1354,7 +1176,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 253,
+      "rank": 247,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484192500",
@@ -1365,24 +1187,25 @@
       "img": "https://files.cdn.printful.com/files/868/8685a77884f4f5813b4defe8c9652453_preview.png"
     },
     {
-      "id": "printify-botella-de-agua-de-acero-inoxidable-daz-premium-fit",
-      "name_es": "Botella de Acero Inoxidable White",
-      "name_en": "White Stainless Steel Bottle",
-      "price_usd": 42.99,
+      "id": "printify-6b08e9f6db66d9659e06dc37",
+      "name_es": "Sudadera con capucha Beast Mode",
+      "name_en": "Beast Mode Hoodie",
+      "price_usd": 54.99,
       "badge": "new",
       "categories": [
-        "decor"
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 254,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "botella-de-agua-de-acero-inoxidable-daz-premium-fit",
-      "fam": "botella-agua-acero",
-      "cg": "t-botella-de-agua-de-acero-inoxidable-daz-premium-fit",
-      "color": "White",
+      "rank": 260,
+      "created": "2026-11-27",
+      "supplier_id": "6b08e9f6db66d9659e06dc37",
+      "fam": "emblem-beast-mode",
+      "cg": "printify-6b08e9f6db66d9659e06dc37",
+      "color": "Black",
       "art_score": 6,
-      "img": "assets/products/shop/bb2888ece8f78971d96b.jpg"
+      "img": "https://images.printify.com/mockup/6b08e9f6db66d9659e06dc37/32920/98424/dpf-emblem-beast-mode-hoodie.jpg?camera_label=front",
+      "page": true
     },
     {
       "id": "interestprint-abstract-organic-pattern-design-background-free-vector-front-zip-racer-back-sports-skirt-shorts-set",
@@ -1394,7 +1217,7 @@
         "mujer/falda"
       ],
       "available": true,
-      "rank": 268,
+      "rank": 262,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "abstract-organic-pattern-design-background-_-free-vector-front-zip-racer-back-sports-skirt-shorts-set",
@@ -1414,7 +1237,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 269,
+      "rank": 263,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-66-all-over-low-rise-leggings-model-l05",
@@ -1423,26 +1246,6 @@
       "color": "Violet Star",
       "art_score": 9,
       "img": "assets/products/shop/d585e5dc0c6f41946b25.jpg"
-    },
-    {
-      "id": "printify-botella-de-agua-de-acero-inoxidable-daz-premium-fit-con-pajita-20oz",
-      "name_es": "Botella de Acero Inoxidable Premium",
-      "name_en": "Premium Stainless Steel Bottle",
-      "price_usd": 38.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 270,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "botella-de-agua-de-acero-inoxidable-daz-premium-fit-con-pajita-20oz",
-      "fam": "botella-agua-acero",
-      "cg": "t-botella-de-agua-de-acero-inoxidable-daz-premium-fit-con-pajita-20oz",
-      "color": "Silver",
-      "art_score": 8,
-      "img": "assets/products/shop/b626e7d6b24ea1c15ef6.jpg"
     },
     {
       "id": "printful-484206291-black",
@@ -1454,7 +1257,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 285,
+      "rank": 270,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484206291-black",
@@ -1474,7 +1277,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 286,
+      "rank": 271,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484206291-grey",
@@ -1483,6 +1286,26 @@
       "color": "Grey",
       "art_score": 4,
       "img": "https://files.cdn.printful.com/files/bc8/bc8b6de1fd173109b81bf68255ccf287_preview.png"
+    },
+    {
+      "id": "printify-6b08ea0108b8102972076713",
+      "name_es": "Sudadera Corta Emblem",
+      "name_en": "Emblem Cropped Hoodie",
+      "price_usd": 71.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 272,
+      "created": "2026-11-27",
+      "supplier_id": "6b08ea0108b8102972076713",
+      "fam": "emblem-built-different",
+      "cg": "printify-6b08ea0108b8102972076713",
+      "color": "Black",
+      "art_score": 5,
+      "img": "https://images.printify.com/mockup/6b08ea0108b8102972076713/72716/16566/dpf-emblem-built-different-cropped-hoodie.jpg?camera_label=front",
+      "page": true
     },
     {
       "id": "printful-484200714-black",
@@ -1494,7 +1317,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 291,
+      "rank": 274,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484200714-black",
@@ -1514,7 +1337,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 292,
+      "rank": 275,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484200714-stone",
@@ -1523,66 +1346,6 @@
       "color": "Stone",
       "art_score": 6,
       "img": "https://files.cdn.printful.com/files/677/6774ca2b8462578e557461d5cb10bbe0_preview.png"
-    },
-    {
-      "id": "printify-botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para-hidratarse-en-movimiento",
-      "name_es": "Botella Térmica Diamond",
-      "name_en": "Diamond Thermal Bottle",
-      "price_usd": 35.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 293,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para-hidratarse-en-movimiento",
-      "fam": "botella-agua-delgada",
-      "cg": "t-botella-de-agua-delgada-y-elegante-con-diseno-de-diamante-perfecta-para",
-      "color": "White",
-      "art_score": 6,
-      "img": "assets/products/shop/35841ec6cf6cf1d430d2.jpg"
-    },
-    {
-      "id": "printify-elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-pebble-blue",
-      "name_es": "Botella Térmica Diamante 22 oz · Pebble Blue",
-      "name_en": "Diamond Insulated Bottle 22 oz · Pebble Blue",
-      "price_usd": 43.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 294,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-pebble-blue",
-      "fam": "elegante-botella-cobre",
-      "cg": "t-elegante-botella-de-cobre-de-oz-con-aislamiento-al-vacio-diseno-de",
-      "color": "Pebble Blue",
-      "art_score": 9,
-      "img": "assets/products/shop/ea3e6633eac8bd5a06a0.jpg"
-    },
-    {
-      "id": "printify-elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-white",
-      "name_es": "Botella Térmica Diamante 22 oz · Blanco",
-      "name_en": "Diamond Insulated Bottle 22 oz · White",
-      "price_usd": 43.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 295,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "elegante-botella-de-cobre-de-22-oz-con-aislamiento-al-vacio-diseno-de-diamante-para-aventuras-cotidianas-white",
-      "fam": "elegante-botella-cobre",
-      "cg": "t-elegante-botella-de-cobre-de-oz-con-aislamiento-al-vacio-diseno-de",
-      "color": "White",
-      "art_score": 9,
-      "img": "assets/products/shop/4fb4319d18f7940c4067.jpg"
     },
     {
       "id": "printful-484188638-black-camo",
@@ -1595,7 +1358,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 296,
+      "rank": 276,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484188638-black-camo",
@@ -1616,7 +1379,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 297,
+      "rank": 277,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484188638-forest-camo",
@@ -1625,6 +1388,26 @@
       "color": "Forest Camo",
       "art_score": 4,
       "img": "https://files.cdn.printful.com/files/8a0/8a0b1f8e69df7dbd2bcc44992545f66e_preview.png"
+    },
+    {
+      "id": "printify-6b08e9feedc552ae3508c0cb",
+      "name_es": "Camiseta Emblem Built Different",
+      "name_en": "Emblem Built Different Tee",
+      "price_usd": 54.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 278,
+      "created": "2026-11-27",
+      "supplier_id": "6b08e9feedc552ae3508c0cb",
+      "fam": "emblem-built-different",
+      "cg": "printify-6b08e9feedc552ae3508c0cb",
+      "color": "Black",
+      "art_score": 3,
+      "img": "https://images.printify.com/mockup/6b08e9feedc552ae3508c0cb/33869/137313/dpf-emblem-built-different-womens-tee.jpg?camera_label=left-sleeve",
+      "page": true
     },
     {
       "id": "printify-6b08923128a05af49e00a257",
@@ -1637,7 +1420,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 300,
+      "rank": 281,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08923128a05af49e00a257",
@@ -1657,7 +1440,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 301,
+      "rank": 282,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0892436a219864bc0f11dd",
@@ -1666,69 +1449,6 @@
       "color": "Black",
       "art_score": 6,
       "img": "https://images.printify.com/mockup/6b0892436a219864bc0f11dd/24639/101889/immortal-warrior-classic-tank-top.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b0892576d0e8a542403d39d",
-      "name_es": "Camiseta sin mangas Immortal Warrior",
-      "name_en": "Immortal Warrior Tank Top",
-      "price_usd": 33.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta",
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 302,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b0892576d0e8a542403d39d",
-      "fam": "immortal-warrior-tank",
-      "cg": "printify-6b0892576d0e8a542403d39d",
-      "color": "Black",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b0892576d0e8a542403d39d/24639/101889/immortal-warrior-gold-tank-top.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b0899f96bfabea2f3021a8e",
-      "name_es": "Camiseta sin mangas Immortal Warrior",
-      "name_en": "Immortal Warrior Tank Top",
-      "price_usd": 33.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta",
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 303,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b0899f96bfabea2f3021a8e",
-      "fam": "immortal-warrior-no",
-      "cg": "printify-6b0899f96bfabea2f3021a8e",
-      "color": "Black",
-      "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b0899f96bfabea2f3021a8e/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b089b3b155f8bb8d10801be",
-      "name_es": "Camiseta sin mangas Immortal Warrior",
-      "name_en": "Immortal Warrior Tank Top",
-      "price_usd": 33.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta",
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 304,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089b3b155f8bb8d10801be",
-      "fam": "immortal-warrior-no",
-      "cg": "printify-6b089b3b155f8bb8d10801be",
-      "color": "Black",
-      "art_score": 4,
-      "img": "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front"
     },
     {
       "id": "printify-6b0894ffedc552ae350870fd",
@@ -1741,7 +1461,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 305,
+      "rank": 286,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0894ffedc552ae350870fd",
@@ -1761,7 +1481,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 306,
+      "rank": 287,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089504d4c50971c2032992",
@@ -1781,7 +1501,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 307,
+      "rank": 288,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089514edc552ae3508711c",
@@ -1801,7 +1521,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 308,
+      "rank": 289,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08951c155f8bb8d107fbe2",
@@ -1821,7 +1541,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 309,
+      "rank": 290,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089a02867aed6ed008c517",
@@ -1841,7 +1561,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 310,
+      "rank": 291,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089b42c9d405a5820236ee",
@@ -1861,7 +1581,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 311,
+      "rank": 292,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089524155f8bb8d107fbee",
@@ -1882,7 +1602,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 312,
+      "rank": 293,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0892336a219864bc0f11ce",
@@ -1903,7 +1623,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 313,
+      "rank": 294,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08923b75d150be770301a3",
@@ -1924,7 +1644,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 314,
+      "rank": 295,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08924655d595d88e09f9a9",
@@ -1945,7 +1665,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 315,
+      "rank": 296,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08924a6d0e8a542403d393",
@@ -1966,7 +1686,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 316,
+      "rank": 297,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0899fc6bfabea2f3021a91",
@@ -1975,27 +1695,6 @@
       "color": "Black",
       "art_score": 5,
       "img": "https://images.printify.com/mockup/6b0899fc6bfabea2f3021a91/32920/98424/immortal-warrior-no-days-off-hoodie.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b089b3e155f8bb8d10801c1",
-      "name_es": "Sudadera Immortal Warrior No Days Off",
-      "name_en": "Immortal Warrior No Days Off Hoodie",
-      "price_usd": 46.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 317,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089b3e155f8bb8d10801c1",
-      "fam": "immortal-warrior-no",
-      "cg": "printify-6b089b3e155f8bb8d10801c1",
-      "color": "Black",
-      "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98424/immortal-warrior-no-days-off-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b089526d4c50971c20329b9",
@@ -2007,7 +1706,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 318,
+      "rank": 299,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089526d4c50971c20329b9",
@@ -2028,7 +1727,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 319,
+      "rank": 300,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0894f655d595d88e09fb97",
@@ -2048,7 +1747,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 320,
+      "rank": 301,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08950ad4c50971c2032998",
@@ -2068,7 +1767,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 321,
+      "rank": 302,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089511a6afac34150de014",
@@ -2088,7 +1787,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 322,
+      "rank": 303,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089a07db66d9659e068f9a",
@@ -2097,26 +1796,6 @@
       "color": "Black",
       "art_score": 5,
       "img": "https://images.printify.com/mockup/6b089a07db66d9659e068f9a/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b089b47867aed6ed008c5e1",
-      "name_es": "Sudadera corta Queen of Iron",
-      "name_en": "Queen of Iron Cropped Hoodie",
-      "price_usd": 61.99,
-      "badge": "new",
-      "categories": [
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 323,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089b47867aed6ed008c5e1",
-      "fam": "tough-bitch-queen",
-      "cg": "printify-6b089b47867aed6ed008c5e1",
-      "color": "Black",
-      "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08922d75d150be77030196",
@@ -2129,7 +1808,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 324,
+      "rank": 305,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08922d75d150be77030196",
@@ -2150,7 +1829,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 325,
+      "rank": 306,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08923855d595d88e09f999",
@@ -2171,7 +1850,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 326,
+      "rank": 307,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089240c9d405a582022ee0",
@@ -2192,7 +1871,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 327,
+      "rank": 308,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08924d75d150be770301be",
@@ -2213,7 +1892,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 328,
+      "rank": 309,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089254ba427acd12096a99",
@@ -2234,7 +1913,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 329,
+      "rank": 310,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0894fcba427acd12096c87",
@@ -2255,7 +1934,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 330,
+      "rank": 311,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0899f655d595d88e0a00d7",
@@ -2264,27 +1943,6 @@
       "color": "Black",
       "art_score": 6,
       "img": "https://images.printify.com/mockup/6b0899f655d595d88e0a00d7/12124/102005/immortal-warrior-no-days-off-tee.jpg?camera_label=front-2"
-    },
-    {
-      "id": "printify-6b089b38c9d405a5820236ea",
-      "name_es": "Camiseta Immortal Warrior No Days Off",
-      "name_en": "Immortal Warrior No Days Off Tee",
-      "price_usd": 28.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta",
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 331,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089b38c9d405a5820236ea",
-      "fam": "immortal-warrior-no",
-      "cg": "printify-6b089b38c9d405a5820236ea",
-      "color": "Black",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102005/immortal-warrior-no-days-off-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b0895076a219864bc0f1429",
@@ -2296,7 +1954,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 332,
+      "rank": 313,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0895076a219864bc0f1429",
@@ -2316,7 +1974,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 333,
+      "rank": 314,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08951fedc552ae35087130",
@@ -2336,7 +1994,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 334,
+      "rank": 315,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089a056a219864bc0f18e4",
@@ -2345,26 +2003,6 @@
       "color": "Black",
       "art_score": 6,
       "img": "https://images.printify.com/mockup/6b089a056a219864bc0f18e4/33869/137313/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=left-sleeve"
-    },
-    {
-      "id": "printify-6b089b44c9d405a5820236f1",
-      "name_es": "Camiseta Queen Of Iron",
-      "name_en": "Queen Of Iron Tee",
-      "price_usd": 46.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 335,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089b44c9d405a5820236f1",
-      "fam": "tough-bitch-queen",
-      "cg": "printify-6b089b44c9d405a5820236f1",
-      "color": "Black",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/137313/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=left-sleeve"
     },
     {
       "id": "productifi-advanced-whey-protein-chocolate",
@@ -2376,7 +2014,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 336,
+      "rank": 317,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "advanced-whey-protein-chocolate",

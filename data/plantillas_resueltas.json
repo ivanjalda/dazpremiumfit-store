@@ -14,7 +14,37 @@
       24039,
       24171
     ],
-    "position": "front"
+    "position": "front",
+    "positions": [
+      "back",
+      "neck",
+      "front",
+      "right_sleeve",
+      "left_sleeve"
+    ],
+    "areas": {
+      "back": [
+        3951,
+        4919
+      ],
+      "neck": [
+        750,
+        750
+      ],
+      "front": [
+        3951,
+        4919
+      ],
+      "right_sleeve": [
+        960,
+        960
+      ],
+      "left_sleeve": [
+        960,
+        960
+      ]
+    },
+    "v": 2
   },
   "tirantes-hombre": {
     "blueprint_id": 39,
@@ -28,7 +58,22 @@
       24642,
       24643
     ],
-    "position": "front"
+    "position": "front",
+    "positions": [
+      "front",
+      "back"
+    ],
+    "areas": {
+      "front": [
+        4200,
+        4800
+      ],
+      "back": [
+        4200,
+        4800
+      ]
+    },
+    "v": 2
   },
   "sudadera-capucha": {
     "blueprint_id": 77,
@@ -45,7 +90,37 @@
       32924,
       32925
     ],
-    "position": "front"
+    "position": "front",
+    "positions": [
+      "back",
+      "left_sleeve",
+      "right_sleeve",
+      "neck",
+      "front"
+    ],
+    "areas": {
+      "back": [
+        3033,
+        2528
+      ],
+      "left_sleeve": [
+        1181,
+        4423
+      ],
+      "right_sleeve": [
+        1181,
+        4423
+      ],
+      "neck": [
+        750,
+        750
+      ],
+      "front": [
+        2919,
+        1944
+      ]
+    },
+    "v": 2
   },
   "sudadera": {
     "blueprint_id": 49,
@@ -62,7 +137,37 @@
       25583,
       25614
     ],
-    "position": "front"
+    "position": "front",
+    "positions": [
+      "neck",
+      "right_sleeve",
+      "front",
+      "left_sleeve",
+      "back"
+    ],
+    "areas": {
+      "neck": [
+        756,
+        756
+      ],
+      "right_sleeve": [
+        1181,
+        4423
+      ],
+      "front": [
+        3185,
+        3636
+      ],
+      "left_sleeve": [
+        1181,
+        4423
+      ],
+      "back": [
+        3185,
+        3636
+      ]
+    },
+    "v": 2
   },
   "camiseta-blanca": {
     "blueprint_id": 6,
@@ -79,7 +184,37 @@
       24031,
       24164
     ],
-    "position": "front"
+    "position": "front",
+    "positions": [
+      "back",
+      "neck",
+      "front",
+      "right_sleeve",
+      "left_sleeve"
+    ],
+    "areas": {
+      "back": [
+        3951,
+        4919
+      ],
+      "neck": [
+        750,
+        750
+      ],
+      "front": [
+        3951,
+        4919
+      ],
+      "right_sleeve": [
+        960,
+        960
+      ],
+      "left_sleeve": [
+        960,
+        960
+      ]
+    },
+    "v": 2
   },
   "tirantes-hombre-blanca": {
     "blueprint_id": 39,
@@ -91,7 +226,22 @@
       24832,
       24833
     ],
-    "position": "front"
+    "position": "front",
+    "positions": [
+      "front",
+      "back"
+    ],
+    "areas": {
+      "front": [
+        4200,
+        4800
+      ],
+      "back": [
+        4200,
+        4800
+      ]
+    },
+    "v": 2
   },
   "tirantes-mujer": {
     "blueprint_id": 1326,
@@ -106,7 +256,27 @@
       251658,
       251659
     ],
-    "position": "front"
+    "position": "front",
+    "positions": [
+      "front",
+      "back",
+      "upper_back"
+    ],
+    "areas": {
+      "front": [
+        3000,
+        3600
+      ],
+      "back": [
+        3000,
+        3600
+      ],
+      "upper_back": [
+        900,
+        900
+      ]
+    },
+    "v": 2
   },
   "camiseta-mujer": {
     "blueprint_id": 88,
@@ -120,7 +290,37 @@
       33882,
       33895
     ],
-    "position": "front"
+    "position": "front",
+    "positions": [
+      "front",
+      "back",
+      "left_sleeve",
+      "right_sleeve",
+      "neck"
+    ],
+    "areas": {
+      "front": [
+        3224,
+        3650
+      ],
+      "back": [
+        3224,
+        3650
+      ],
+      "left_sleeve": [
+        1181,
+        1181
+      ],
+      "right_sleeve": [
+        1181,
+        1181
+      ],
+      "neck": [
+        750,
+        750
+      ]
+    },
+    "v": 2
   },
   "sudadera-mujer": {
     "blueprint_id": 673,
@@ -135,7 +335,22 @@
       72724,
       72732
     ],
-    "position": "front"
+    "position": "front",
+    "positions": [
+      "front",
+      "back"
+    ],
+    "areas": {
+      "front": [
+        3307,
+        2835
+      ],
+      "back": [
+        3307,
+        2835
+      ]
+    },
+    "v": 2
   },
   "tirantes-mujer-blanca": {
     "blueprint_id": 1326,
@@ -151,7 +366,27 @@
       251731,
       251732
     ],
-    "position": "front"
+    "position": "front",
+    "positions": [
+      "front",
+      "back",
+      "upper_back"
+    ],
+    "areas": {
+      "front": [
+        3000,
+        3600
+      ],
+      "back": [
+        3000,
+        3600
+      ],
+      "upper_back": [
+        900,
+        900
+      ]
+    },
+    "v": 2
   },
   "camiseta-mujer-blanca": {
     "blueprint_id": 88,
@@ -165,6 +400,36 @@
       33880,
       33893
     ],
-    "position": "front"
+    "position": "front",
+    "positions": [
+      "front",
+      "back",
+      "left_sleeve",
+      "right_sleeve",
+      "neck"
+    ],
+    "areas": {
+      "front": [
+        3224,
+        3650
+      ],
+      "back": [
+        3224,
+        3650
+      ],
+      "left_sleeve": [
+        1181,
+        1181
+      ],
+      "right_sleeve": [
+        1181,
+        1181
+      ],
+      "neck": [
+        750,
+        750
+      ]
+    },
+    "v": 2
   }
 }
