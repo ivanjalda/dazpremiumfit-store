@@ -1,0 +1,61 @@
+{
+ "ai_color": "brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% Arabica coffee beans",
+ "ai_sizes": "4 oz",
+ "ai_type": "coffee",
+ "ai_ver": 2,
+ "art_note": "Clean product shot of the packaging, but secondary images are generic icons.",
+ "art_score": 5,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta"
+ ],
+ "cg": "t-cafe-mezcla-brasilena-4oz-daz-premium-fit",
+ "color": "brown",
+ "created": "2026-11-25",
+ "desc_en": "Our 4 oz single origin Brazilian blend coffee delivers a full flavor profile. This estate coffee was roasted using a sophisticated split roasting procedure. A portion of the beans is roasted for a shorter time to highlight delicate flavors and fragrances. The remaining part is slow roasted for body and intensity. Crafted with 100% Arabica single origin coffee beans.",
+ "desc_es": "Nuestro café de mezcla brasileña de origen único de 4 oz ofrece un perfil de sabor completo. Este café de finca fue tostado mediante un procedimiento sofisticado llamado tostado dividido. Una porción de los granos se tuesta durante menos tiempo para resaltar los delicados sabores y fragancias. La parte restante se tuesta a fuego lento para darle cuerpo e intensidad. Elaborado con granos de café 100% Arabica de origen único.",
+ "details_en": "· 100% Arabica coffee beans - Single origin\n· Flavor: Notes of cocoa powder, caramel, and nuts\n· Roast level: 2/5\n· Acidity level: 4/5\n· Body: 4/5\n· Product shape: Whole beans\n· Product quantity: 0.25 lb (113 g)\n· Country of origin: Brazil\n· Manufacturer country: USA\n· Made to order and worldwide shipping",
+ "details_es": "· 100% Arabica coffee beans - Single origin\n· Sabor: Notas de cacao en polvo, caramelo y nueces\n· Nivel de tueste: 2/5\n· Nivel de acidez: 4/5\n· Cuerpo: 4/5\n· Forma del producto: Frijoles enteros\n· Cantidad del producto: 0,25 lb (113 g)\n· País de origen: Brasil\n· País del fabricante: EE. UU.\n· Made to order and worldwide shipping",
+ "display_images": [
+  "assets/products/shop/271c5e97847c4aa3594d.jpg"
+ ],
+ "draft": true,
+ "fam": "cafe-mezcla-brasilena",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-cafe-mezcla-brasilena-4oz-daz-premium-fit",
+ "look": [
+  "printify-6b09088dc87e8df47b098636-gold",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "printify-6b09087c1d99e97edf0dc88a",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "100% Arabica coffee beans",
+ "name_en": "Brazilian Blend Coffee 4oz",
+ "name_es": "Café Mezcla Brasileña 4oz",
+ "needs_review": true,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 157,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Alimentación, bebida y tabaco > Bebidas > Café",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "4 oz"
+ ],
+ "source_title": "Café Mezcla Brasileña 4oz DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/6oUaEYevyh1a1Ma0Y61gW2P",
+ "supplier": "Productifi",
+ "supplier_id": "cafe-mezcla-brasilena-4oz-daz-premium-fit",
+ "visual_verified": true
+}

@@ -1,0 +1,63 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Gelatin (capsule), Brown Rice Flour",
+ "ai_sizes": "60 capsules",
+ "ai_type": "Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio product render, standard presentation for a supplement bottle.",
+ "art_score": 6,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-soporte-de-vision-daz-premium-fit",
+ "color": "white",
+ "created": "2026-11-25",
+ "desc_en": "Developed for daily demands, this vision support supplement nourishes the eyes with essential antioxidants. Crafted in the USA, it combines vitamins C and E, zinc, copper, and selected botanical extracts to promote ocular health and maintain visual acuity. A precise formula for daily care.",
+ "desc_es": "Desarrollado para la exigencia diaria, este suplemento de apoyo a la visión nutre los ojos con antioxidantes esenciales. Elaborado en los Estados Unidos, combina vitaminas C y E, zinc, cobre y extractos botánicos seleccionados para promover la salud ocular y mantener la agudeza visual. Una fórmula precisa para el cuidado diario.",
+ "details_en": "· 60 capsules per container\n· Made in the USA\n· Suggested use: two capsules daily",
+ "details_es": "· 60 cápsulas por envase\n· Fabricado en los EE. UU.\n· Dosis sugerida: dos cápsulas al día",
+ "display_images": [
+  "assets/products/shop/6145aa725e0fb492ae20.jpg",
+  "assets/products/shop/04a2747294cbf12365a1.jpg"
+ ],
+ "draft": true,
+ "fam": "soporte-vision-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-soporte-de-vision-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Gelatin (capsule), Brown Rice Flour",
+ "name_en": "DAZ Vision Support",
+ "name_es": "Soporte de Visión DAZ",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 27.99,
+ "rank": 110,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 capsules"
+ ],
+ "source_title": "Soporte de Visión DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/cNiaEYafi4eo9eCcGO1gX1b",
+ "supplier": "Productifi",
+ "supplier_id": "soporte-de-vision-daz-premium-fit",
+ "visual_verified": true
+}

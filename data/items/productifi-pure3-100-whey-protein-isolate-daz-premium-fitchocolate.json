@@ -1,0 +1,62 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "chocolate",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "whey protein isolate",
+ "ai_sizes": "700g",
+ "ai_type": "protein supplement",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio product photography with professional label rendering.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-pure3-whey-protein-isolate-daz-premium-fit-chocolate",
+ "color": "chocolate",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily routine with our chocolate-flavored whey protein isolate. Meticulously crafted to support muscle growth and recovery. Provides an optimal combination of essential nutrients for athletes and fitness enthusiasts. Formulated with pure whey protein isolate, ensuring maximum protein content with minimal fat and lactose. Enhanced with natural flavors and stevia extract for an authentic, sweet profile. Smooth texture that blends effortlessly with water or your favorite beverage. Available with worldwide shipping.",
+ "desc_es": "Eleve su rutina diaria con nuestro aislado de proteína de suero de leche con sabor a chocolate. Elaborado meticulosamente para favorecer el crecimiento y la recuperación muscular. Proporciona una combinación óptima de nutrientes esenciales para deportistas y entusiastas del fitness. Formulado con aislado de suero de leche puro, garantiza un contenido máximo de proteínas con un mínimo de grasa y lactosa. Mejorado con sabores naturales y extracto de stevia para un toque dulce y auténtico. Textura suave que se mezcla sin esfuerzo con agua o su bebida favorita. Disponible con envío a todo el mundo.",
+ "details_en": "· 100% whey protein isolate\n· Chocolate flavor\n· Contains milk\n· Sweetened with stevia extract\n· Made to order",
+ "details_es": "· 100% aislado de proteína de suero de leche\n· Sabor chocolate\n· Contiene leche\n· Edulcorante con extracto de stevia\n· Elaborado bajo pedido",
+ "display_images": [
+  "assets/products/shop/dcc320944c0853a5d2f9.jpg",
+  "assets/products/shop/572143fe621319da9fce.jpg"
+ ],
+ "draft": false,
+ "fam": "pure3-whey-protein",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-pure3-100-whey-protein-isolate-daz-premium-fitchocolate",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "whey protein isolate",
+ "name_en": "Pure3 Whey Protein Isolate Chocolate",
+ "name_es": "Aislado de Proteína Pure3 Chocolate",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 50.99,
+ "rank": 274,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "700g"
+ ],
+ "source_title": "Pure3 100% Whey Protein Isolate DAZ Premium Fit(Chocolate)",
+ "stripe_payment_link": "https://buy.stripe.com/bJe7sM0EIbGQ9eCayG1gX02",
+ "supplier": "Productifi",
+ "supplier_id": "pure3-100-whey-protein-isolate-daz-premium-fitchocolate",
+ "visual_verified": true
+}

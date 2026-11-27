@@ -1,0 +1,63 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Organic Beetroot Powder",
+ "ai_sizes": "60 capsules",
+ "ai_type": "Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with professional lighting, though some secondary images are dark or low quality.",
+ "art_score": 8,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-raiz-de-remolacha-daz-premium-fit",
+ "color": "white",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily performance with our natural beetroot root extract formula. Designed to support nitric oxide production and promote optimal circulation during training. Crafted with high-quality organic ingredients to accompany your wellness and physical activity routine. Each bottle contains sixty capsules manufactured under strict standards in the United States. Available with worldwide shipping and made to order to ensure maximum freshness.",
+ "desc_es": "Eleve su rendimiento diario con nuestra fórmula de extracto natural de raíz de remolacha. Diseñado para apoyar la producción de óxido nítrico y promover una circulación óptima durante el entrenamiento. Elaborado con ingredientes orgánicos de alta calidad para acompañar su rutina de bienestar y actividad física. Cada frasco contiene sesenta cápsulas fabricadas bajo rigurosos estándares en los Estados Unidos. Disponible con envío a todo el mundo y fabricado bajo pedido para garantizar la máxima frescura.",
+ "details_en": "· 60 capsules\n· Made in USA\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 60 cápsulas\n· Hecho en EE. UU.\n· Hecho a pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/ac11f95a0992b43ae166.jpg",
+  "assets/products/shop/b3b3a76852b77fdec5a2.jpg"
+ ],
+ "draft": true,
+ "fam": "raiz-remolacha-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-raiz-de-remolacha",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Organic Beetroot Powder",
+ "name_en": "DAZ Premium Fit Beetroot Capsules",
+ "name_es": "Cápsulas de Remolacha DAZ Premium Fit",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 25.99,
+ "rank": 97,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 capsules"
+ ],
+ "source_title": "Raíz de Remolacha DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/28E7sM7367qA4Ym9uC1gX15",
+ "supplier": "Productifi",
+ "supplier_id": "raiz-de-remolacha",
+ "visual_verified": true
+}

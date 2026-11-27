@@ -1,0 +1,58 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot of the supplement jar, but lacks high-end editorial depth.",
+ "art_score": 5,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-trufas-de-birch-chaga-daz-premium-fit",
+ "color": "brown",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily wellness with our birch chaga truffles. Designed to complement your active lifestyle, these truffles combine select ingredients with a rich chocolate flavor profile. Incorporate this daily supplement into your routine to support your nutrition and overall well-being. Each container holds thirty servings carefully crafted to maintain the highest standards. Enjoy worldwide shipping and made-to-order pieces tailored to your demanding daily rhythm.",
+ "desc_es": "Eleva tu bienestar diario con nuestras trufas de abedul chaga. Diseñadas para complementar tu estilo de vida activo, estas trufas combinan ingredientes selectos con un perfil de sabor a chocolate. Incorpora este suplemento diario en tu rutina para apoyar tu nutrición y bienestar general. Cada envase contiene treinta porciones elaboradas cuidadosamente para mantener los estándares más exigentes. Disfruta de envíos a todo el mundo y piezas hechas por encargo que se adaptan a tu exigente ritmo diario.",
+ "details_en": "· Contents: 30 truffles\n· Flavor: Chocolate\n· Ingredients: Dates, flaxseed flour, pine bark (Pinus sylvestris), birch chaga (Inonotus obliquus) extract, cacao\n· Gross weight: 0.4 lb (181 g)\n· Suggested use: 1 truffle daily\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Contenido: 30 trufas\n· Sabor: Chocolate\n· Ingredientes: Dátiles, harina de linaza, corteza de pino (Pinus sylvestris), extracto de abedul chaga (Inonotus obliquus), cacao\n· Peso bruto: 0,4 lb (181 g)\n· Uso sugerido: 1 trufa al día\n· Hecho por encargo\n· Envíos a todo el mundo",
+ "display_images": [
+  "assets/products/shop/231c37597e5126d790b7.jpg",
+  "assets/products/shop/be607cbde699740078a3.jpg"
+ ],
+ "draft": true,
+ "fam": "trufas-birch-chaga",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-trufas-de-birch-chaga-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "",
+ "name_en": "Birch Chaga Truffles",
+ "name_es": "Trufas de abedul Chaga",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 36.99,
+ "rank": 291,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Trufas de Birch Chaga DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/aFa5kE2MQ8uE76u6iq1gY2A",
+ "supplier": "Productifi",
+ "supplier_id": "trufas-de-birch-chaga-daz-premium-fit",
+ "visual_verified": true
+}

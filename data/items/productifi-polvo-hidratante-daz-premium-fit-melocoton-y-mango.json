@@ -1,0 +1,59 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "peach mango",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "supplement",
+ "ai_ver": 2,
+ "art_note": "Clean product studio shot, standard supplement presentation.",
+ "art_score": 6,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-polvo-hidratante-daz-premium-fit-melocoton-y-mango",
+ "color": "peach mango",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily performance with a formula designed to maintain hydration and energy at any moment. This powder supplement combines essential electrolytes and key nutrients to support your training routine without unnecessary additives. Enjoy a clean and refreshing profile with notes of peach and mango. Suitable to accompany your active lifestyle and daily physical demands. Designed to offer support without caffeine or added sugars. Made to order. Worldwide shipping.",
+ "desc_es": "Eleva tu rendimiento diario con una fórmula diseñada para mantener tu hidratación y energía en cualquier momento. Este suplemento en polvo combina electrolitos esenciales y nutrientes clave para apoyar tu rutina de entrenamiento sin aditivos innecesarios. Disfruta de un perfil limpio y refrescante con notas de melocotón y mango. Apto para acompañar tu estilo de vida activo y tus exigencias físicas diarias. Diseñado para ofrecer soporte sin cafeína ni azúcares añadidos. Made to order. Worldwide shipping.",
+ "details_en": "· Peach and mango flavor\n· Caffeine and sugar free\n· Net weight 5.78 oz (164 g)\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Sabor melocotón y mango\n· Sin cafeína ni azúcar\n· Contenido neto 5.78 oz (164 g)\n· Made to order\n· Worldwide shipping",
+ "display_images": [
+  "assets/products/shop/c7f0a941c0d38e551d12.jpg",
+  "assets/products/shop/3f164b39d18a16fc321b.jpg"
+ ],
+ "draft": false,
+ "fam": "polvo-hidratante-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-polvo-hidratante-daz-premium-fit-melocoton-y-mango",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "",
+ "name_en": "Peach Mango Hydration Powder",
+ "name_es": "Polvo de Hidratación Melocotón y Mango",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 33.99,
+ "rank": 212,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Polvo hidratante DAZ Premium Fit (Melocotón y mango)",
+ "stripe_payment_link": "https://buy.stripe.com/14AdRagDGaCM0I64ai1gW3j",
+ "supplier": "Productifi",
+ "supplier_id": "polvo-hidratante-daz-premium-fit-melocoton-y-mango",
+ "visual_verified": true
+}

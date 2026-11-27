@@ -1,0 +1,60 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Anaranjado",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Gomitas",
+ "ai_type": "Suplemento",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with clear labeling, though standard for dietary supplements.",
+ "art_score": 6,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-gomitas-de-curcuma-daz-premium-fit",
+ "color": "Anaranjado",
+ "created": "2026-11-25",
+ "desc_en": "Turmeric has been valued for centuries for its exceptional properties. These gummies contain curcuminoids and curcumin, recognized for their antioxidant action. The formula supports the normal inflammatory response of the organism. Daily supplementation supports the maintenance of healthy joints, bones, and skin. Made in the United States with high quality standards. Available for worldwide shipping made to order.",
+ "desc_es": "La cúrcuma ha sido valorada durante siglos por sus propiedades excepcionales. Estas gomitas contienen curcuminoides y curcumina, reconocidos por su acción antioxidante. Su fórmula favorece la respuesta inflamatoria normal del organismo. Complementar su consumo diario apoya el mantenimiento de articulaciones, huesos y piel saludables. Elaborado en Estados Unidos con altos estándares de calidad. Disponible para envío a todo el mundo bajo pedido.",
+ "details_en": "· 60 gummies per container\n· Turmeric and ginger flavor\n· Ingredients: Sodium (as Sodium Citrate), Turmeric Extract (Curcuma longa L.)(root), Black Pepper Extract (Piper nigrum)(fruit), Turmeric Powder (Curcuma longa L.)(root), Glucose Syrup, Sugar, Glucose, Pectin, Citric Acid, Vegetable Oil, (contains Carnauba Wax), Ginger Flavor\n· Suggested use: take two gummies once daily\n· Made in USA",
+ "details_es": "· 60 gomitas por envase\n· Sabor cúrcuma y jengibre\n· Ingredientes: Sodium (as Sodium Citrate), Turmeric Extract (Curcuma longa L.)(root), Black Pepper Extract (Piper nigrum)(fruit), Turmeric Powder (Curcuma longa L.)(root), Glucose Syrup, Sugar, Glucose, Pectin, Citric Acid, Vegetable Oil, (contains Carnauba Wax), Ginger Flavor\n· Uso sugerido: tomar dos gomitas una vez al día\n· Fabricado en EE. UU.",
+ "display_images": [
+  "assets/products/shop/29921548c32b3e675c7e.jpg",
+  "assets/products/shop/0d8f70623148abf8955c.jpg"
+ ],
+ "draft": true,
+ "fam": "gomitas-curcuma-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-gomitas-de-curcuma-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Gomitas",
+ "name_en": "Premium Turmeric Gummies",
+ "name_es": "Gomitas de Cúrcuma Premium",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 75,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Gomitas de Cúrcuma DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/7sYdRa9becKUaiGeOW1gX0W",
+ "supplier": "Productifi",
+ "supplier_id": "gomitas-de-curcuma-daz-premium-fit",
+ "visual_verified": true
+}

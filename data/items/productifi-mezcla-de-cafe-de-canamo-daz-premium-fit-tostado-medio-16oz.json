@@ -1,0 +1,69 @@
+{
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "Brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "90% USDA Organic Arabica Coffee + 10% USDA Organic Hemp Protein Powder",
+ "ai_sizes": "16 oz",
+ "ai_type": "coffee bag",
+ "ai_ver": 2,
+ "art_note": "Clean product packaging shot with neutral background, meeting baseline e-commerce standards.",
+ "art_score": 6,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "cg": "t-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz",
+ "color": "Brown",
+ "created": "2026-11-25",
+ "desc_en": "Discover our medium roast hemp coffee blend. Sourced through fair-trade initiatives in Central and South America. Crafted with USDA certified organic ingredients. Combined with organic hemp protein powder for a smooth, nutty profile with subtle earthy notes. Designed to deliver a refined experience in every cup. Made in the USA with worldwide shipping available upon order.",
+ "desc_es": "Descubra nuestra mezcla de café de cáñamo tostado medio. Proveniente de iniciativas de comercio justo en América Central y del Sur. Elaborado con ingredientes orgánicos certificados por el USDA. Combinado con proteína de cáñamo orgánica en polvo para un perfil suave y a nuez con notas ligeramente terrosas. Diseñado para ofrecer una experiencia prémium en cada taza. Fabricado en los Estados Unidos con envíos a todo el mundo y disponible bajo pedido.",
+ "details_en": "· 90% USDA organic arabica coffee and 10% USDA organic hemp protein powder\n· Medium roast ground coffee\n· Net weight 1 pound (454 g)\n· Made in USA\n· Worldwide shipping and made to order",
+ "details_es": "· 90% café arábica orgánico USDA y 10% proteína de cáñamo orgánica en polvo\n· Café molido de tueste medio\n· Contenido neto de 1 libra (454 g)\n· Fabricado en EE. UU.\n· Envíos a todo el mundo y bajo pedido",
+ "display_images": [
+  "assets/products/shop/a3aea3a4943060ddc022.jpg",
+  "assets/products/shop/bab6c9000a81cd0c0e49.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png"
+ ],
+ "draft": true,
+ "fam": "mezcla-cafe-canamo",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz",
+ "img_checked": "2026-11-25",
+ "look": [
+  "printful-359535579",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "printify-6b09087c1d99e97edf0dc88a",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "90% USDA Organic Arabica Coffee + 10% USDA Organic Hemp Protein Powder",
+ "name_en": "Medium Roast Hemp Coffee",
+ "name_es": "Café de Cáñamo Tostado Medio",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 36.99,
+ "rank": 216,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Alimentación, bebida y tabaco > Bebidas > Café",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "16 oz"
+ ],
+ "source_title": "Mezcla de café de cáñamo DAZ Premium Fit - Tostado medio 16oz",
+ "stripe_payment_link": "https://buy.stripe.com/8x2dRaafi6mwgH422a1gW3n",
+ "supplier": "Productifi",
+ "supplier_id": "mezcla-de-cafe-de-canamo-daz-premium-fit-tostado-medio-16oz",
+ "visual_verified": true
+}

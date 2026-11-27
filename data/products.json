@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T11:24:00Z",
+  "updated": "2026-11-27T15:08:08Z",
   "products": [
     {
       "id": "productifi-wish4-2562",
@@ -904,13 +904,13 @@
       "display_images": [
         "assets/products/shop/c91a2909b641faae915e.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 20.99,
         "2026-11-26": 20.99,
         "2026-11-27": 20.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.96,
       "rank": 7,
       "badge": "new",
@@ -923,7 +923,7 @@
         "interestprint-design-womens-high-waist-layered-sport-skirt",
         "interestprint-descarga-31-racerback-sports-bra"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASjtctaFunF6",
       "size_values": {
         "XS": "XS",
@@ -1153,13 +1153,13 @@
         "assets/products/shop/a2e012d6b6eb38f71134.jpg",
         "assets/products/shop/cae175594cc4e7e62361.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 20.99,
         "2026-11-26": 20.99,
         "2026-11-27": 20.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.96,
       "rank": 8,
       "badge": "new",
@@ -1172,7 +1172,7 @@
         "interestprint-design-womens-high-waist-layered-sport-skirt",
         "interestprint-descarga-31-racerback-sports-bra"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASD4kkWWSeDO",
       "size_values": {
         "XS": "XS",
@@ -1402,13 +1402,13 @@
         "assets/products/shop/a68dbff55472b1921ccf.jpg",
         "assets/products/shop/d917b1023841a60baa1d.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 20.99,
         "2026-11-26": 20.99,
         "2026-11-27": 20.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.96,
       "rank": 9,
       "badge": "new",
@@ -1421,7 +1421,7 @@
         "interestprint-design-womens-high-waist-layered-sport-skirt",
         "interestprint-descarga-31-racerback-sports-bra"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASbdP74AEuvp",
       "size_values": {
         "XS": "XS",
@@ -4463,13 +4463,13 @@
       "display_images": [
         "assets/products/shop/bf7f99e4d92ad11d006f.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.8,
       "rank": 25,
       "badge": "new",
@@ -4482,7 +4482,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean studio shot of the product bottle, standard e-commerce presentation lacking high-end campaign styling.",
       "needs_studio": true,
@@ -4632,13 +4632,13 @@
         "assets/products/shop/132083e8a34d8c36f0dd.jpg",
         "assets/products/shop/26ff61cd9ce403dde44f.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 22.99,
         "2026-11-26": 22.99,
         "2026-11-27": 22.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.77,
       "rank": 26,
       "badge": "new",
@@ -4650,7 +4650,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "The model lifestyle shots are high-end and fit the brand standard, though the product-only shots look like flat digital mockups.",
       "needs_studio": true,
@@ -5016,13 +5016,13 @@
         "assets/products/shop/57d8f8352a34121dd0bf.jpg",
         "assets/products/shop/6a9e10f9df8273d317e5.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 22.99,
         "2026-11-26": 22.99,
         "2026-11-27": 22.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.77,
       "rank": 28,
       "badge": "new",
@@ -5034,7 +5034,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "High-end campaign photography with strong lighting and professional studio environment.",
       "needs_studio": false,
@@ -5345,13 +5345,13 @@
         "assets/products/shop/21b97c30914be54971eb.jpg",
         "assets/products/shop/efa46205a1ee27ae142a.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.76,
       "rank": 30,
       "badge": "new",
@@ -5360,7 +5360,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATqvw1wwHjAT",
       "size_values": {},
@@ -5468,13 +5468,13 @@
       "display_images": [
         "assets/products/shop/45f327df233c2bf2a366.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 24.99,
         "2026-11-26": 24.99,
         "2026-11-27": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.75,
       "rank": 31,
       "badge": "new",
@@ -5487,7 +5487,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean studio product shot of the jar, but accompanied by low quality graphic icons.",
       "needs_studio": true,
@@ -5571,11 +5571,11 @@
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149521/126539/dpf-essential-gym-bag.jpg?camera_label=back",
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149521/126538/dpf-essential-gym-bag.jpg?camera_label=front"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-27": 62.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.74,
       "rank": 32,
       "badge": "new",
@@ -5626,7 +5626,7 @@
       "stripe_link_id": "plink_1UgH0ZLJVU4oTPuXEhtYeFcz",
       "stripe_price_cents": 6299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "audited": "2026-11-27"
     },
@@ -5788,11 +5788,11 @@
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149523/126539/dpf-essential-gym-bag.jpg?camera_label=back",
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149523/126538/dpf-essential-gym-bag.jpg?camera_label=front"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-27": 62.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.74,
       "rank": 34,
       "badge": "new",
@@ -5843,7 +5843,7 @@
       "stripe_link_id": "plink_1UgH0aLJVU4oTPuX4NZJQi2F",
       "stripe_price_cents": 6299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "audited": "2026-11-27"
     },
@@ -6111,11 +6111,11 @@
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149526/126539/dpf-essential-gym-bag.jpg?camera_label=back",
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149526/126538/dpf-essential-gym-bag.jpg?camera_label=front"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-27": 62.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.74,
       "rank": 37,
       "badge": "new",
@@ -6166,7 +6166,7 @@
       "stripe_link_id": "plink_1UgH0dLJVU4oTPuXRZsexpaX",
       "stripe_price_cents": 6299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "audited": "2026-11-27"
     },
@@ -6238,13 +6238,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151322-phthalate-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 24.99,
         "2026-11-26": 24.99,
         "2026-11-27": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.73,
       "rank": 38,
       "badge": "new",
@@ -6253,7 +6253,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATqqquS25Qhc",
       "size_values": {},
@@ -6598,13 +6598,13 @@
       "display_images": [
         "assets/products/shop/c91726b2710784b55ae0.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.72,
       "rank": 40,
       "badge": "new",
@@ -6613,7 +6613,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATyIIjikF7LY",
       "size_values": {},
@@ -6703,13 +6703,13 @@
         "assets/products/shop/2a494be740efed8f4ac0.jpg",
         "assets/products/shop/ec19983f1f0cccd84c92.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 24.99,
         "2026-11-26": 24.99,
         "2026-11-27": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.71,
       "rank": 41,
       "badge": "new",
@@ -6719,7 +6719,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean product studio shot but lacks high-end campaign atmosphere.",
       "needs_studio": true,
@@ -6817,13 +6817,13 @@
         "assets/products/shop/b56bf46e330ed82c2b37.jpg",
         "assets/products/shop/617a34d2d77c88755148.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.69,
       "rank": 42,
       "badge": "new",
@@ -6832,7 +6832,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATRk3m24a2T8",
       "size_values": {},
@@ -7167,13 +7167,13 @@
       "display_images": [
         "assets/products/shop/38d9a434d739a2be2c26.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 24.99,
         "2026-11-26": 24.99,
         "2026-11-27": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.67,
       "rank": 44,
       "badge": "new",
@@ -7186,7 +7186,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "Clean, high-end studio product shot with professional lighting and clear packaging details.",
       "needs_studio": false,
@@ -7297,13 +7297,13 @@
         "assets/products/shop/9880f6918143ca432d7d.jpg",
         "assets/products/shop/0400bc08b902c3399708.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.67,
       "rank": 45,
       "badge": "new",
@@ -7312,7 +7312,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhAT2YlmoExllD",
       "size_values": {},
@@ -7433,13 +7433,13 @@
       "display_images": [
         "assets/products/shop/99d2b894b474dcb57d5c.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 24.99,
         "2026-11-26": 24.99,
         "2026-11-27": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.67,
       "rank": 46,
       "badge": "new",
@@ -7452,7 +7452,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean studio product shot on a plain background, standard e-commerce presentation.",
       "needs_studio": true,
@@ -7623,13 +7623,13 @@
         "assets/products/shop/8a9a019114d9f84877c8.jpg",
         "assets/products/shop/1160921014b21a6df7a1.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 22.99,
         "2026-11-26": 22.99,
         "2026-11-27": 22.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.66,
       "rank": 47,
       "badge": "new",
@@ -7641,7 +7641,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATkvn1Z2Xnm5",
       "size_values": {
@@ -7844,13 +7844,13 @@
         "assets/products/shop/cfdf1ed5c4bec4ce364d.jpg",
         "assets/products/shop/1f4291f2b129563925dd.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 22.99,
         "2026-11-26": 22.99,
         "2026-11-27": 22.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.66,
       "rank": 48,
       "badge": "new",
@@ -7863,7 +7863,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Mockups look composited rather than high-end campaign shots.",
       "needs_studio": true,
@@ -8006,13 +8006,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20221206100059-antibiotic-free-2x.png",
         "https://supliful.s3.amazonaws.com/categories/images/20221206101002-corn-free-2x.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.66,
       "rank": 49,
       "badge": "new",
@@ -8021,7 +8021,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATIvpqOj6hc2",
       "size_values": {},
@@ -8166,13 +8166,13 @@
       "display_images": [
         "assets/products/shop/8e0145282279f29d3708.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.66,
       "rank": 50,
       "badge": "new",
@@ -8207,7 +8207,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "stripe_product_id": "prod_VhAQMkpcE9mUbQ",
       "size_values": {},
@@ -8282,13 +8282,13 @@
       "display_images": [
         "assets/products/shop/449f1bc80a8933775098.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.66,
       "rank": 51,
       "badge": "new",
@@ -8297,7 +8297,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATumsaFuUJgc",
       "size_values": {},
@@ -8603,13 +8603,13 @@
         "assets/products/shop/c5a6eb5bb7f72ab159bd.jpg",
         "assets/products/shop/631791651fe0598a134c.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.65,
       "rank": 53,
       "badge": "new",
@@ -8622,7 +8622,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 9,
       "art_note": "High-end studio campaign imagery with dramatic lighting and professional styling.",
       "needs_studio": false,
@@ -8750,13 +8750,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20221206100829-no-fillers-2x.png",
         "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.65,
       "rank": 54,
       "badge": "new",
@@ -8769,7 +8769,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean studio product shot with clear branding and natural styling elements, though layout feels slightly standard.",
       "needs_studio": true,
@@ -8915,13 +8915,13 @@
         "assets/products/shop/003e1936059f14166e35.jpg",
         "assets/products/shop/0781b50165f1ef052e53.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 24.99,
         "2026-11-26": 24.99,
         "2026-11-27": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.65,
       "rank": 55,
       "badge": "new",
@@ -8931,7 +8931,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "art_score": 9,
       "art_note": "High-end campaign imagery with sophisticated lighting and polished studio product shots.",
       "needs_studio": false,
@@ -9060,13 +9060,13 @@
       "display_images": [
         "assets/products/shop/a4f22a2077c471ff6452.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.65,
       "rank": 56,
       "badge": "new",
@@ -9079,7 +9079,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATyPgv5gIQ3l",
       "size_values": {
@@ -9191,13 +9191,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20221206100829-no-fillers-2x.png",
         "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.65,
       "rank": 57,
       "badge": "new",
@@ -9210,7 +9210,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "The primary product shot is clean and high-end, presented on a minimal background with elegant branding.",
       "needs_studio": false,
@@ -9357,13 +9357,13 @@
       "display_images": [
         "assets/products/shop/ec09e61488ddf6dd6bc6.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.65,
       "rank": 58,
       "badge": "new",
@@ -9376,7 +9376,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "The primary product shot is clean, sharp, and maintains a high-end minimalist aesthetic suitable for a luxury performance brand.",
       "needs_studio": false,
@@ -9480,13 +9480,13 @@
       "display_images": [
         "assets/products/shop/c879402ac5e68ca24cac.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.65,
       "rank": 59,
       "badge": "new",
@@ -9499,7 +9499,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean product studio shot with packaging band, but surrounded by numerous generic graphic icons.",
       "needs_studio": true,
@@ -9600,13 +9600,13 @@
       "display_images": [
         "assets/products/shop/6d1367a82c5e992aa15e.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.65,
       "rank": 60,
       "badge": "new",
@@ -9619,7 +9619,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean studio product shot with neutral background, adequate lighting, and legible product label.",
       "needs_studio": true,
@@ -9718,13 +9718,13 @@
       "display_images": [
         "assets/products/shop/bbb5132d93ad1f0510cf.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.65,
       "rank": 61,
       "badge": "new",
@@ -9737,7 +9737,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "Clean studio shot of the product with high-end minimal packaging and clear branding.",
       "needs_studio": false,
@@ -9836,13 +9836,13 @@
       "display_images": [
         "assets/products/shop/736b51b424f5aa70eaab.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.65,
       "rank": 62,
       "badge": "new",
@@ -9877,7 +9877,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "stripe_product_id": "prod_VhAQTN7SonA2mN",
       "size_values": {},
@@ -9953,13 +9953,13 @@
       "display_images": [
         "assets/products/shop/c8a063a079780bdbda66.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.65,
       "rank": 63,
       "badge": "new",
@@ -9972,7 +9972,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATRXhMGfK8aN",
       "size_values": {},
@@ -10062,13 +10062,13 @@
         "assets/products/shop/80a8956056013a23a4fc.jpg",
         "assets/products/shop/28af1580a4b6902cf766.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.62,
       "rank": 64,
       "badge": "new",
@@ -10077,7 +10077,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhATGWveprmvpN",
       "size_values": {
         "NETWT2FLOZ60ml": "NET WT 2 FL OZ (60ml)"
@@ -10194,13 +10194,13 @@
         "assets/products/shop/ac7e6ddafb75e9533abf.jpg",
         "assets/products/shop/765c06e023ca83f42e3d.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.62,
       "rank": 65,
       "badge": "new",
@@ -10209,7 +10209,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATbTtxXcLS1R",
       "size_values": {},
@@ -10369,13 +10369,13 @@
         "assets/products/shop/99373317affa7aebc991.jpg",
         "assets/products/shop/d84a2f343225dcd7d96a.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 22.99,
         "2026-11-26": 22.99,
         "2026-11-27": 22.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.6,
       "rank": 66,
       "badge": "new",
@@ -10388,7 +10388,7 @@
         "interestprint-design-womens-high-waist-layered-sport-skirt",
         "interestprint-descarga-31-racerback-sports-bra"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean model photography with clear garment details, though standard studio staging keeps it from high editorial tier.",
       "needs_studio": true,
@@ -11162,13 +11162,13 @@
         "assets/products/shop/cf6b7768f1293efababf.jpg",
         "assets/products/shop/64530fce01e312798aea.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.59,
       "rank": 70,
       "badge": "new",
@@ -11181,7 +11181,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 9,
       "art_note": "Clean, high-end studio lighting with crisp product renders and professional composition fitting a luxury wellness brand.",
       "needs_studio": false,
@@ -11307,13 +11307,13 @@
         "assets/products/shop/30c400f44fd7ac719bb2.jpg",
         "assets/products/shop/9669159ac1db66053b08.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.59,
       "rank": 71,
       "badge": "new",
@@ -11322,7 +11322,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATwwwBXPveln",
       "size_values": {},
@@ -12065,13 +12065,13 @@
         "assets/products/shop/29921548c32b3e675c7e.jpg",
         "assets/products/shop/0d8f70623148abf8955c.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.58,
       "rank": 75,
       "badge": "new",
@@ -12080,7 +12080,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATPZN7T7YBWj",
       "size_values": {},
@@ -12192,13 +12192,13 @@
         "assets/products/shop/fa667e1bc70f6a318708.jpg",
         "assets/products/shop/82d0b4805b4fb25f06b0.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.58,
       "rank": 76,
       "badge": "new",
@@ -12211,7 +12211,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean studio shot of the product packaging, but lacks atmospheric lighting and campaign context.",
       "needs_studio": true,
@@ -12322,13 +12322,13 @@
       "display_images": [
         "assets/products/shop/dbbfe6cbf11b84aa20ce.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.57,
       "rank": 77,
       "badge": "new",
@@ -12341,7 +12341,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean product packaging shot, but secondary images are generic icon graphics.",
       "needs_studio": true,
@@ -12420,13 +12420,13 @@
       "display_images": [
         "assets/products/shop/f6df6475995c9e585fe8.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.57,
       "rank": 78,
       "badge": "new",
@@ -12439,7 +12439,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 7,
       "art_note": "Clean studio shot of the bottle against a neutral background, capturing product details clearly.",
       "needs_studio": true,
@@ -12520,13 +12520,13 @@
       "display_images": [
         "assets/products/shop/941f55487a67384db644.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.57,
       "rank": 79,
       "badge": "new",
@@ -12539,7 +12539,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean studio shot of the product bottle, but lacks high-end campaign context.",
       "needs_studio": true,
@@ -12641,13 +12641,13 @@
         "assets/products/shop/19051990ef38cbc3e1cb.jpg",
         "assets/products/shop/f7e0f64c8f18895221a4.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.57,
       "rank": 80,
       "badge": "new",
@@ -12656,7 +12656,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATyN8ocQM8z3",
       "size_values": {},
@@ -12771,13 +12771,13 @@
         "assets/products/shop/95df16035027620d083f.jpg",
         "assets/products/shop/106d0089683df3312067.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.55,
       "rank": 81,
       "badge": "new",
@@ -12787,7 +12787,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "art_score": 7,
       "art_note": "Clean, high-end studio product photography standard for supplements.",
       "needs_studio": true,
@@ -12884,13 +12884,13 @@
         "assets/products/shop/f82aa3ead4b9b890b5ab.jpg",
         "assets/products/shop/b6839be0a0c78d6bd3be.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 24.99,
         "2026-11-26": 24.99,
         "2026-11-27": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.55,
       "rank": 82,
       "badge": "new",
@@ -12899,7 +12899,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATQ2WxXqlHNq",
       "size_values": {},
@@ -12992,13 +12992,13 @@
         "assets/products/shop/fa1ac6e23c63e81fb685.jpg",
         "assets/products/shop/ecbf9466b0acadcd9e7a.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.55,
       "rank": 83,
       "badge": "new",
@@ -13008,7 +13008,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARyViZQG9FC3",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/5kQ28s0EI7qA2QefT01gW2b",
@@ -13117,13 +13117,13 @@
         "assets/products/shop/8ac6a9da60d18e2a0559.jpg",
         "assets/products/shop/691f26d4cc5a5b844e9b.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.55,
       "rank": 84,
       "badge": "new",
@@ -13132,7 +13132,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATQTAAOeenZY",
       "size_values": {},
@@ -13240,13 +13240,13 @@
         "assets/products/shop/0d3221664bbdd3ab449c.jpg",
         "assets/products/shop/863d4a045469cab0a492.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 24.99,
         "2026-11-26": 24.99,
         "2026-11-27": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.55,
       "rank": 85,
       "badge": "new",
@@ -13287,7 +13287,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "stripe_product_id": "prod_VhARbyK2JSmwXY",
       "size_values": {
@@ -13797,13 +13797,13 @@
       "display_images": [
         "assets/products/shop/ae4c0c764d165ebd5c73.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 24.99,
         "2026-11-26": 24.99,
         "2026-11-27": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.53,
       "rank": 88,
       "badge": "new",
@@ -13816,7 +13816,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "Clean, high-end studio shot of the product bottle against a neutral background.",
       "needs_studio": false,
@@ -13910,13 +13910,13 @@
         "assets/products/shop/74652fa92ddae1f7c555.jpg",
         "assets/products/shop/efcd42910df3f659f9d3.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.53,
       "rank": 89,
       "badge": "new",
@@ -13925,7 +13925,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATWNwYGbxhIr",
       "size_values": {},
@@ -14051,13 +14051,13 @@
       "display_images": [
         "assets/products/shop/2c9409e7eed611d1c3c1.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.53,
       "rank": 90,
       "badge": "new",
@@ -14070,7 +14070,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean studio product shot, but secondary images are generic iconography lacking a cohesive campaign feel.",
       "needs_studio": true,
@@ -14153,13 +14153,13 @@
         "assets/products/shop/3c3717f94c8266d745e7.jpg",
         "assets/products/shop/f9a3077a086fc2dad558.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.53,
       "rank": 91,
       "badge": "new",
@@ -14168,7 +14168,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhATl30kB6bafb",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/14A5kEevy12c8ay4ai1gX11",
@@ -14258,13 +14258,13 @@
       "display_images": [
         "assets/products/shop/d0028039c78dcc4f5a18.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.53,
       "rank": 92,
       "badge": "new",
@@ -14273,7 +14273,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATACyurVJlHZ",
       "size_values": {},
@@ -14360,13 +14360,13 @@
         "assets/products/shop/8f8abcd000a26285fb0d.jpg",
         "assets/products/shop/977260775e5b433be7a7.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.53,
       "rank": 93,
       "badge": "new",
@@ -14375,7 +14375,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATP3n9EPQgoR",
       "size_values": {},
@@ -14544,13 +14544,13 @@
         "assets/products/shop/47e24de8b952095fed59.jpg",
         "assets/products/shop/b463580fce4966889f28.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.51,
       "rank": 94,
       "badge": "new",
@@ -14563,7 +14563,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "art_score": 4,
       "art_note": "Model shot uses a low-quality digital composite of the graphic on a person, but product and detail shots are clean studio flats.",
       "needs_studio": true,
@@ -14694,13 +14694,13 @@
         "assets/products/shop/afeb1147696017a1c048.jpg",
         "assets/products/shop/3fb4e380c69116e36a8c.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.51,
       "rank": 95,
       "badge": "new",
@@ -14710,7 +14710,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAR7v8l2onrym",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/cNi7sMevydOYaiGcGO1gW2i",
@@ -14812,13 +14812,13 @@
         "assets/products/shop/c6b895852b7b6fe4e5c0.jpg",
         "assets/products/shop/e272bdd9b2f954c20e2b.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.51,
       "rank": 96,
       "badge": "new",
@@ -14827,7 +14827,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATMgObEXRjT7",
       "size_values": {},
@@ -14933,13 +14933,13 @@
         "assets/products/shop/ac11f95a0992b43ae166.jpg",
         "assets/products/shop/b3b3a76852b77fdec5a2.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.51,
       "rank": 97,
       "badge": "new",
@@ -14948,7 +14948,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATToTUaUKMpx",
       "size_values": {},
@@ -15053,13 +15053,13 @@
       "display_images": [
         "assets/products/shop/b3e813f1403efdd7aa68.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.49,
       "rank": 98,
       "badge": "new",
@@ -15072,7 +15072,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean studio shot of the product packaging, but lacking high-end editorial depth.",
       "needs_studio": true,
@@ -15242,13 +15242,13 @@
         "assets/products/shop/73cb92c052033529645d.jpg",
         "assets/products/shop/af17794a2ed0b3c69cd8.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.48,
       "rank": 99,
       "badge": "new",
@@ -15260,7 +15260,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATaoYquyuMSM",
       "size_values": {
@@ -15397,13 +15397,13 @@
       "display_images": [
         "assets/products/shop/4a05081e211ac2707b41.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.48,
       "rank": 100,
       "badge": "new",
@@ -15416,7 +15416,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean studio product shot of the jar, but accompanied by low quality graphic icons.",
       "needs_studio": true,
@@ -15516,13 +15516,13 @@
       "display_images": [
         "assets/products/shop/3e5642e9237e01e35299.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.48,
       "rank": 101,
       "badge": "new",
@@ -15532,7 +15532,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARMFmKV0JjPW",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/9B614o87a4eogH436e1gW2l",
@@ -15644,13 +15644,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
         "https://supliful.s3.amazonaws.com/categories/images/20221206101002-corn-free-2x.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.48,
       "rank": 102,
       "badge": "new",
@@ -15660,7 +15660,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARMBmMt4w9wi",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/7sY8wQgDGh1afD08qy1gW2m",
@@ -15804,13 +15804,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
         "https://supliful.s3.amazonaws.com/categories/images/20221206101002-corn-free-2x.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.48,
       "rank": 103,
       "badge": "new",
@@ -15820,7 +15820,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARcgtC6PhI5m",
       "size_values": {
         "30strips": "30 strips"
@@ -16180,13 +16180,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151354-sulfate-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 24.99,
         "2026-11-26": 24.99,
         "2026-11-27": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.47,
       "rank": 105,
       "badge": "new",
@@ -16199,7 +16199,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATp01pwEQyww",
       "size_values": {},
@@ -16278,13 +16278,13 @@
         "assets/products/shop/f1366607513f9b36b5c4.jpg",
         "assets/products/shop/e844f63e73ca95d1b2e3.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 24.99,
         "2026-11-26": 24.99,
         "2026-11-27": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.47,
       "rank": 106,
       "badge": "new",
@@ -16293,7 +16293,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATpcxDOJx6Kn",
       "size_values": {},
@@ -16397,13 +16397,13 @@
         "assets/products/shop/a5bd6a30fbf3d07880f9.jpg",
         "assets/products/shop/10882ce43f1fa45c7abf.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.47,
       "rank": 107,
       "badge": "new",
@@ -16413,7 +16413,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARO9g4RAt6ng",
       "size_values": {
         "60capsules": "60 capsules"
@@ -16514,13 +16514,13 @@
         "assets/products/shop/051d889408ec3690cef4.jpg",
         "assets/products/shop/21f0424f19116fcd0d99.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 24.99,
         "2026-11-26": 24.99,
         "2026-11-27": 24.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.47,
       "rank": 108,
       "badge": "new",
@@ -16529,7 +16529,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATTXgjMN2Wmc",
       "size_values": {},
@@ -16618,13 +16618,13 @@
         "assets/products/shop/1ad02c4b7129ccad45df.jpg",
         "assets/products/shop/1e314df8396aace68395.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.47,
       "rank": 109,
       "badge": "new",
@@ -16634,7 +16634,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARi13ghoZt97",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/bJe6oI736dOY4Ym0Y61gW2p",
@@ -16724,13 +16724,13 @@
         "assets/products/shop/6145aa725e0fb492ae20.jpg",
         "assets/products/shop/04a2747294cbf12365a1.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.46,
       "rank": 110,
       "badge": "new",
@@ -16739,7 +16739,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhAT7MupovlVv3",
       "size_values": {},
@@ -16905,13 +16905,13 @@
         "assets/products/shop/e98a00122533dc0b1fa1.jpg",
         "assets/products/shop/199ff324cdafdf8659d6.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.45,
       "rank": 111,
       "badge": "new",
@@ -16924,7 +16924,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARemP59tWsS2",
       "size_values": {
         "S": "S",
@@ -17104,13 +17104,13 @@
         "assets/products/shop/9e577a2edee3298b44a4.jpg",
         "assets/products/shop/a757f081ea5184a8da26.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.45,
       "rank": 112,
       "badge": "new",
@@ -17122,7 +17122,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATPUcEBFlJTW",
       "size_values": {
@@ -17303,13 +17303,13 @@
         "assets/products/shop/b701af24eed80bd398e6.jpg",
         "assets/products/shop/22a84813d7ef429a1403.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.45,
       "rank": 113,
       "badge": "new",
@@ -17322,7 +17322,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARjmg6XkU2if",
       "size_values": {
         "S": "S",
@@ -17503,13 +17503,13 @@
         "assets/products/shop/f41b876c2d553753c374.jpg",
         "assets/products/shop/a0479fdf02239375cbf4.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.45,
       "rank": 114,
       "badge": "new",
@@ -17522,7 +17522,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARQ9c3foIa2U",
       "size_values": {
         "S": "S",
@@ -17705,13 +17705,13 @@
         "assets/products/shop/b4a43e5895e57a52b1ed.jpg",
         "assets/products/shop/065b3ab0603019ae62f4.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.45,
       "rank": 115,
       "badge": "new",
@@ -17723,7 +17723,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATRyOmIaT26W",
       "size_values": {
@@ -17833,13 +17833,13 @@
         "assets/products/shop/963d2029560cc1bac383.jpg",
         "assets/products/shop/6e7ba64bfa1ca50301d6.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.45,
       "rank": 116,
       "badge": "new",
@@ -17848,7 +17848,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhAT6hEG0if1su",
       "size_values": {},
@@ -17956,13 +17956,13 @@
         "assets/products/shop/38f3a41abc2a96fee723.jpg",
         "assets/products/shop/151926777b697b806870.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.45,
       "rank": 117,
       "badge": "new",
@@ -17971,7 +17971,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATVofqe2mEKr",
       "size_values": {},
@@ -18076,13 +18076,13 @@
         "assets/products/shop/5456e6f6430d4bb7bdea.jpg",
         "assets/products/shop/ba4fdce2e558bcd99025.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.45,
       "rank": 118,
       "badge": "new",
@@ -18091,7 +18091,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhAT0nLOBXUz4e",
       "size_values": {},
@@ -18199,13 +18199,13 @@
         "assets/products/shop/a0b3fc1e25cdbd4e6323.jpg",
         "assets/products/shop/adcf057152fd06f2b94b.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.45,
       "rank": 119,
       "badge": "new",
@@ -18215,7 +18215,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAR541OHsRzYi",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/dRm00kdru5is0I622a1gW2t",
@@ -18340,13 +18340,13 @@
         "assets/products/shop/1b27ee131252bd0f1615.jpg",
         "assets/products/shop/dae50cf73413f828000c.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.45,
       "rank": 120,
       "badge": "new",
@@ -18355,7 +18355,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATrlszGYn7GH",
       "size_values": {},
@@ -18528,13 +18528,13 @@
         "assets/products/shop/120cff3d8e3435fac450.jpg",
         "assets/products/shop/074fa002120ea9046a60.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.44,
       "rank": 121,
       "badge": "new",
@@ -18547,7 +18547,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARG1TaK5RUK1",
       "size_values": {
         "S": "S",
@@ -18740,13 +18740,13 @@
         "assets/products/shop/7a1305ef25024e83984e.jpg",
         "assets/products/shop/3f84e8fa592d84a6db70.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.44,
       "rank": 122,
       "badge": "new",
@@ -18759,7 +18759,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAR6mjkm01MNf",
       "size_values": {
         "S": "S",
@@ -19088,13 +19088,13 @@
         "assets/products/shop/ca9f6a5a0ef4d1ce5550.jpg",
         "assets/products/shop/4e182cb64edc82f1713c.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.44,
       "rank": 124,
       "badge": "new",
@@ -19103,7 +19103,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUVj1YQIposX",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/14A5kEdru4eo2Qe9uC1gX1i",
@@ -19202,13 +19202,13 @@
         "assets/products/shop/a363711aedda4dc39418.jpg",
         "assets/products/shop/f9e1d0e5a2d480656e67.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.43,
       "rank": 125,
       "badge": "new",
@@ -19217,7 +19217,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUKvRVdZmjeR",
       "size_values": {
         "60Gummiesvegan": "60 Gummies (vegan)"
@@ -19322,13 +19322,13 @@
         "assets/products/shop/3fafcd06c8026514e266.jpg",
         "assets/products/shop/d84a684a683d3c60bc8f.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.42,
       "rank": 126,
       "badge": "new",
@@ -19338,7 +19338,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean studio product render, standard presentation for a supplement bottle.",
       "needs_studio": true,
@@ -19450,13 +19450,13 @@
       "display_images": [
         "assets/products/shop/c92ad5206054fa267b76.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.42,
       "rank": 127,
       "badge": "new",
@@ -19469,7 +19469,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean studio product shot with neutral background, but lacks high-end campaign lighting and secondary imagery.",
       "needs_studio": true,
@@ -19576,13 +19576,13 @@
       "display_images": [
         "assets/products/shop/1a6ba37407b6a6c29c3f.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.42,
       "rank": 128,
       "badge": "new",
@@ -19595,7 +19595,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean studio product shot with clear branding, but secondary images are low quality icons or dark placeholders.",
       "needs_studio": true,
@@ -19702,13 +19702,13 @@
       "display_images": [
         "assets/products/shop/bd8db220ea2cd9f1488f.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.42,
       "rank": 129,
       "badge": "new",
@@ -19721,7 +19721,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean product studio shot with clear branding, but surrounded by repetitive low-quality icon graphics.",
       "needs_studio": true,
@@ -19828,13 +19828,13 @@
       "display_images": [
         "assets/products/shop/28c7d8645e46dc5f392b.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.42,
       "rank": 130,
       "badge": "new",
@@ -19847,7 +19847,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean product shot on white background, standard e-commerce presentation with clear typography.",
       "needs_studio": true,
@@ -19954,13 +19954,13 @@
       "display_images": [
         "assets/products/shop/c72adc5244d05e101505.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.42,
       "rank": 131,
       "badge": "new",
@@ -19973,7 +19973,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean product studio shot, but secondary images are low quality icons.",
       "needs_studio": true,
@@ -20068,13 +20068,13 @@
         "assets/products/shop/66ee79e2ea84a17789a6.jpg",
         "assets/products/shop/63a879b4ee63f7b5cb2d.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.42,
       "rank": 132,
       "badge": "new",
@@ -20083,7 +20083,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAU0ayTIiz231",
       "size_values": {
         "60Vegetablecapsules": "60 Vegetable capsules"
@@ -20207,13 +20207,13 @@
         "assets/products/shop/925f47e986767dd7abd9.jpg",
         "assets/products/shop/24afc529d4ee9be40d48.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.41,
       "rank": 133,
       "badge": "new",
@@ -20222,7 +20222,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUzByZYEp2XI",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/fZudRa87a3akduSayG1gY1Q",
@@ -20354,13 +20354,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20221206100059-antibiotic-free-2x.png",
         "https://supliful.s3.amazonaws.com/categories/images/20221206100829-no-fillers-2x.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.4,
       "rank": 134,
       "badge": "new",
@@ -20373,7 +20373,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean studio product shot with clear branding, though presentation remains standard.",
       "needs_studio": true,
@@ -20501,13 +20501,13 @@
         "assets/products/shop/4d6814c9d058b3020f4c.jpg",
         "assets/products/shop/35afe750d4a2b890252c.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.4,
       "rank": 135,
       "badge": "new",
@@ -20516,7 +20516,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUdODjL1FEa0",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/28EcN64UY6mw62q22a1gY1R",
@@ -20613,13 +20613,13 @@
         "assets/products/shop/e84266ddbcd0b80cada6.jpg",
         "assets/products/shop/18ec3b65bd4ee03b118c.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.4,
       "rank": 136,
       "badge": "new",
@@ -20629,7 +20629,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARxAvp4LecfL",
       "size_values": {
         "60capsules": "60 capsules"
@@ -20742,13 +20742,13 @@
         "assets/products/shop/0dc582d2cac28e85991c.jpg",
         "assets/products/shop/bbf91903c689a2253091.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.4,
       "rank": 137,
       "badge": "new",
@@ -20761,7 +20761,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "Clean, sophisticated studio presentation with high-end packaging aesthetics.",
       "needs_studio": false,
@@ -20868,13 +20868,13 @@
         "assets/products/shop/28ee31fb2e64b67966f7.jpg",
         "assets/products/shop/f204f0386dcc32011708.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.4,
       "rank": 138,
       "badge": "new",
@@ -20883,7 +20883,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUCNR6R0TtVO",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/eVq8wQ9be4eo76ugX41gY1S",
@@ -20983,13 +20983,13 @@
         "assets/products/shop/07eefba4c744519d3297.jpg",
         "assets/products/shop/2527e97df065f2ac0e49.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.4,
       "rank": 139,
       "badge": "new",
@@ -20998,7 +20998,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAU6m1QgBPVDZ",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/3cIcN65Z2bGQ1Ma8qy1gY1T",
@@ -21088,13 +21088,13 @@
         "assets/products/shop/062b7b1be356877ee2da.jpg",
         "assets/products/shop/83c6ae7f78992bd939a6.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.4,
       "rank": 140,
       "badge": "new",
@@ -21103,7 +21103,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUTE09yV9QHp",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/fZucN6fzC3akaiG9uC1gY1U",
@@ -21322,13 +21322,13 @@
         "assets/products/shop/2da8d6900b81604475cd.jpg",
         "assets/products/shop/e387d7be468a1a6af1ff.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.39,
       "rank": 142,
       "badge": "new",
@@ -21337,7 +21337,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAU5LaQHaqcev",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/dRmeVe4UY12c4Ym9uC1gY1V",
@@ -21646,13 +21646,13 @@
         "assets/products/shop/130deaa2bcd76e917b41.jpg",
         "assets/products/shop/62c3956c35695f8d5c52.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.38,
       "rank": 144,
       "badge": "new",
@@ -21661,7 +21661,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUIXopFM3gr3",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/14A14oevyaCMgH49uC1gY1X",
@@ -21759,13 +21759,13 @@
         "assets/products/shop/f5b18f37257fe0f22bbb.jpg",
         "assets/products/shop/d41a17b34d0c257d1ef2.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.38,
       "rank": 145,
       "badge": "new",
@@ -21774,7 +21774,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARJUFTYD2cSs",
       "size_values": {
         "60Vegetablecapsules": "60 Vegetable capsules"
@@ -21895,13 +21895,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151354-sulfate-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.37,
       "rank": 146,
       "badge": "new",
@@ -21971,7 +21971,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhAR3w6R5g6oIw",
@@ -22049,13 +22049,13 @@
         "assets/products/shop/29787f33a7f6b885796f.jpg",
         "assets/products/shop/06faf448c4262af52182.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.37,
       "rank": 147,
       "badge": "new",
@@ -22064,7 +22064,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUH582lmzD5D",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/3cI6oIgDGdOY4YmbCK1gY1Y",
@@ -22168,13 +22168,13 @@
       "display_images": [
         "assets/products/shop/76c43b5bd359f96f92c2.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.37,
       "rank": 148,
       "badge": "new",
@@ -22224,7 +22224,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "stripe_product_id": "prod_VhARFz4Fwh6Cl8",
       "size_values": {},
@@ -22296,13 +22296,13 @@
       "display_images": [
         "assets/products/shop/a282e7b22473826c652b.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.37,
       "rank": 149,
       "badge": "new",
@@ -22315,7 +22315,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean product studio shot but generic secondary graphic assets.",
       "needs_studio": true,
@@ -22417,13 +22417,13 @@
       "display_images": [
         "assets/products/shop/40489fe2871f8117f10a.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 25.99,
         "2026-11-26": 25.99,
         "2026-11-27": 25.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.37,
       "rank": 150,
       "badge": "new",
@@ -22458,7 +22458,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "stripe_product_id": "prod_VhARboaqTqZSn3",
       "size_values": {},
@@ -22521,13 +22521,13 @@
         "assets/products/shop/56f985ff0e48f989730f.jpg",
         "assets/products/shop/f5e4e04ab0db65228b72.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.36,
       "rank": 151,
       "badge": "new",
@@ -22536,7 +22536,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUSU3W4vAWwJ",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/aFa8wQdrudOYgH48qy1gY1Z",
@@ -22642,13 +22642,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151354-sulfate-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 29.99,
         "2026-11-26": 29.99,
         "2026-11-27": 29.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.35,
       "rank": 152,
       "badge": "new",
@@ -22661,7 +22661,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean product shot on white background, but lacks the sophisticated lighting and atmosphere of a high-end luxury campaign.",
       "needs_studio": true,
@@ -22793,13 +22793,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151354-sulfate-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 29.99,
         "2026-11-26": 29.99,
         "2026-11-27": 29.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.35,
       "rank": 153,
       "badge": "new",
@@ -22812,7 +22812,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean studio product shot against a neutral background, but lacks high-end editorial lighting and lifestyle context.",
       "needs_studio": true,
@@ -22941,13 +22941,13 @@
       "display_images": [
         "assets/products/shop/9536554439c18c90b436.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.34,
       "rank": 154,
       "badge": "new",
@@ -22960,7 +22960,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean studio product shot but accompanied by low-quality black graphic icons.",
       "needs_studio": true,
@@ -23054,13 +23054,13 @@
         "assets/products/shop/726b4239fdebf5224430.jpg",
         "assets/products/shop/551e2f6f509762a422a1.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.34,
       "rank": 155,
       "badge": "new",
@@ -23069,7 +23069,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUcBLtUva4Gq",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/8x2eVeafi12cfD0bCK1gY20",
@@ -23175,13 +23175,13 @@
         "assets/products/shop/09958f3d697775b8981c.jpg",
         "assets/products/shop/7a66c91884b2820d3ca4.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 29.99,
         "2026-11-26": 29.99,
         "2026-11-27": 29.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.33,
       "rank": 156,
       "badge": "new",
@@ -23190,7 +23190,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUm7fpHuyWWm",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/4gM9AU87a7qA1Ma4ai1gY21",
@@ -23305,13 +23305,13 @@
       "display_images": [
         "assets/products/shop/271c5e97847c4aa3594d.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.33,
       "rank": 157,
       "badge": "new",
@@ -23324,7 +23324,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean product shot of the packaging, but secondary images are generic icons.",
       "needs_studio": true,
@@ -23414,13 +23414,13 @@
       "display_images": [
         "assets/products/shop/85435f2df7207fe485e9.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 29.99,
         "2026-11-26": 29.99,
         "2026-11-27": 29.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.33,
       "rank": 158,
       "badge": "new",
@@ -23429,7 +23429,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAU4Oi0caYG7x",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/3cI3cw3QUdOY2QefT01gY22",
@@ -23530,13 +23530,13 @@
         "assets/products/shop/0916a140119b919a4b07.jpg",
         "assets/products/shop/8d8d9fa1ea30316aa52f.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.31,
       "rank": 159,
       "badge": "new",
@@ -23545,7 +23545,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUrnVeOmTXO4",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/6oU00kdrufX6bmK5em1gY23",
@@ -23656,13 +23656,13 @@
         "assets/products/shop/d3e5cea712403e9399ae.jpg",
         "assets/products/shop/828cb56732a3a12ca14b.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.31,
       "rank": 160,
       "badge": "new",
@@ -23671,7 +23671,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUQxD951fOaQ",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/dRm00k3QU6mw4YmbCK1gY24",
@@ -23771,13 +23771,13 @@
         "assets/products/shop/c66a737ec6179d380827.jpg",
         "assets/products/shop/8256dda29705e014d054.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 29.99,
         "2026-11-26": 29.99,
         "2026-11-27": 29.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.3,
       "rank": 161,
       "badge": "new",
@@ -23786,7 +23786,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUD7i04vQ7ZM",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/eVq7sM4UYcKUeyWgX41gY25",
@@ -23893,13 +23893,13 @@
         "assets/products/shop/0efc112bac3f346aa908.jpg",
         "assets/products/shop/8c2d186fc10494372182.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.3,
       "rank": 162,
       "badge": "new",
@@ -23908,7 +23908,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAU99V4dKliHb",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/bJecN64UY7qA2Qe5em1gY26",
@@ -24003,13 +24003,13 @@
         "assets/products/shop/494bf6b6df83e7e1d536.jpg",
         "assets/products/shop/2c3fe109a497bee16ecf.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.3,
       "rank": 163,
       "badge": "new",
@@ -24018,7 +24018,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAUQZKvtbkSbo",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/6oU9AUgDGdOY9eC6iq1gY27",
@@ -24123,13 +24123,13 @@
       "display_images": [
         "assets/products/shop/811a889150dfd6b50f2b.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 29.99,
         "2026-11-26": 29.99,
         "2026-11-27": 29.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.3,
       "rank": 164,
       "badge": "new",
@@ -24142,7 +24142,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean studio product shot of the bottle, but the remaining images are low-quality black icons.",
       "needs_studio": true,
@@ -24237,13 +24237,13 @@
       "display_images": [
         "assets/products/shop/1a55a236c667370b68d2.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 29.99,
         "2026-11-26": 29.99,
         "2026-11-27": 29.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.3,
       "rank": 165,
       "badge": "new",
@@ -24256,7 +24256,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean product shot of the bottle against a neutral background, but accompanied by low-quality graphic icon images.",
       "needs_studio": true,
@@ -24359,13 +24359,13 @@
         "assets/products/shop/e8c0a4dff99edb1608eb.jpg",
         "assets/products/shop/ab1baff6a8e2f227584b.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.3,
       "rank": 166,
       "badge": "new",
@@ -24375,7 +24375,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARhdVlhxk0js",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/28E8wQbjm4eo8ay6iq1gW2S",
@@ -24501,13 +24501,13 @@
         "assets/products/shop/b9390a798750102f3a68.jpg",
         "assets/products/shop/f47c6188bcfcca2df31a.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.3,
       "rank": 167,
       "badge": "new",
@@ -24517,7 +24517,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "Clean studio product lighting with a professional presentation adhering to high-end e-commerce standards.",
       "needs_studio": false,
@@ -24624,13 +24624,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151354-sulfate-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.29,
       "rank": 168,
       "badge": "new",
@@ -24643,7 +24643,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean studio product shot against a neutral background, standard e-commerce presentation.",
       "needs_studio": true,
@@ -24785,13 +24785,13 @@
         "https://cdn.sanity.io/images/g0smbdlu/production/210b392de575e1edcd45c334ae67a7c8ddc39bbf-126x176.png",
         "https://cdn.sanity.io/images/g0smbdlu/production/aad66d2557266d504c992eb3858be0819b69eb4a-126x182.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.29,
       "rank": 169,
       "badge": "new",
@@ -24866,7 +24866,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhAR4I7Q41PQRs",
@@ -24926,13 +24926,13 @@
         "assets/products/shop/2c2554ad7afa31d953c2.jpg",
         "assets/products/shop/cce45dcf719740d37af3.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 31.99,
         "2026-11-26": 31.99,
         "2026-11-27": 31.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.28,
       "rank": 170,
       "badge": "new",
@@ -24942,7 +24942,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARdQyePrcuMu",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/dRmdRagDGfX68ayfT01gW2W",
@@ -25052,13 +25052,13 @@
         "assets/products/shop/5f7d7cc01f574218fc72.jpg",
         "assets/products/shop/62ef8cdd462c38b6a1f4.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 31.99,
         "2026-11-26": 31.99,
         "2026-11-27": 31.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.28,
       "rank": 171,
       "badge": "new",
@@ -25067,7 +25067,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWB8VqlsXNpK",
       "size_values": {},
@@ -25184,13 +25184,13 @@
       "display_images": [
         "assets/products/shop/5aee019315e307b41d71.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 31.99,
         "2026-11-26": 31.99,
         "2026-11-27": 31.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.28,
       "rank": 172,
       "badge": "new",
@@ -25203,7 +25203,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean studio product shot with standard label rendering, lacks high-end campaign atmosphere.",
       "needs_studio": true,
@@ -25316,13 +25316,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
         "https://supliful.s3.amazonaws.com/categories/images/20221206101002-corn-free-2x.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 31.99,
         "2026-11-26": 31.99,
         "2026-11-27": 31.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.28,
       "rank": 173,
       "badge": "new",
@@ -25335,7 +25335,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean product studio shot with clear labeling, accompanied by standardized ingredient benefit icons.",
       "needs_studio": true,
@@ -25477,13 +25477,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151322-phthalate-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151354-sulfate-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.27,
       "rank": 174,
       "badge": "new",
@@ -25496,7 +25496,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "Clean, high-end studio shot of the product on a neutral background.",
       "needs_studio": false,
@@ -25604,13 +25604,13 @@
       "display_images": [
         "assets/products/shop/43f3d079a1d9e2bf1e55.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.27,
       "rank": 175,
       "badge": "new",
@@ -25619,7 +25619,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARlcdTJnbgjX",
       "size_values": {
         "60Vegetablecapsules": "60 Vegetable capsules"
@@ -25716,13 +25716,13 @@
         "assets/products/shop/6d2dfb9e6a501cb612f6.jpg",
         "assets/products/shop/9c237676135d72c73684.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 31.99,
         "2026-11-26": 31.99,
         "2026-11-27": 31.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.27,
       "rank": 176,
       "badge": "new",
@@ -25731,7 +25731,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWXpD7xJji7W",
       "size_values": {},
@@ -25837,13 +25837,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151354-sulfate-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.26,
       "rank": 177,
       "badge": "new",
@@ -25912,7 +25912,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhARCCC2i9nu8d",
@@ -25986,13 +25986,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151354-sulfate-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.26,
       "rank": 178,
       "badge": "new",
@@ -26062,7 +26062,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhARjkZuA2SSsL",
@@ -26136,13 +26136,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151354-sulfate-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.26,
       "rank": 179,
       "badge": "new",
@@ -26155,7 +26155,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean studio product shot on plain background, simple and standard presentation.",
       "needs_studio": true,
@@ -26277,13 +26277,13 @@
         "assets/products/shop/d14294def98f6bd07878.jpg",
         "assets/products/shop/de0b4d41b52712fbe141.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.26,
       "rank": 180,
       "badge": "new",
@@ -26292,7 +26292,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWmUqmy9OyAo",
       "size_values": {},
@@ -26393,13 +26393,13 @@
         "assets/products/shop/ff94de5451e9dd1a949a.jpg",
         "assets/products/shop/a0fa860b14a2a3fdd44c.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.25,
       "rank": 181,
       "badge": "new",
@@ -26409,7 +26409,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAR1vAdn9env4",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/cNi14o4UYcKUduS6iq1gW35",
@@ -26505,13 +26505,13 @@
         "assets/products/shop/785062e7109c83b75a72.jpg",
         "assets/products/shop/59157885d9372052e41c.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.25,
       "rank": 182,
       "badge": "new",
@@ -26521,7 +26521,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAR7yZ9wE55Rp",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/fZudRacnqaCM62qdKS1gW36",
@@ -26624,13 +26624,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151354-sulfate-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 29.99,
         "2026-11-26": 29.99,
         "2026-11-27": 29.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.25,
       "rank": 183,
       "badge": "new",
@@ -26643,7 +26643,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean studio shot of the product bottle, though lighting and background are basic.",
       "needs_studio": true,
@@ -26775,13 +26775,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151354-sulfate-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 29.99,
         "2026-11-26": 29.99,
         "2026-11-27": 29.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.25,
       "rank": 184,
       "badge": "new",
@@ -26851,7 +26851,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "img_checked": "2026-11-25",
       "audited": "2026-11-25",
@@ -26923,13 +26923,13 @@
       "display_images": [
         "assets/products/shop/8781a2d359c409cae09c.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.24,
       "rank": 185,
       "badge": "new",
@@ -26939,7 +26939,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARokjRdS0nNe",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/5kQ9AUafih1acqOdKS1gW39",
@@ -27025,13 +27025,13 @@
         "assets/products/shop/b37abf8201cae83077be.jpg",
         "assets/products/shop/7421249f7c9029a81cab.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.24,
       "rank": 186,
       "badge": "new",
@@ -27040,7 +27040,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWkKLB8AMaJZ",
       "size_values": {},
@@ -27296,13 +27296,13 @@
       "display_images": [
         "assets/products/shop/ece491f010820ecdef78.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.23,
       "rank": 188,
       "badge": "new",
@@ -27315,7 +27315,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 3,
       "art_note": "Single product shot has a generic marketplace aesthetic with flat labeling rather than high-end campaign standards.",
       "needs_studio": true,
@@ -27406,13 +27406,13 @@
         "assets/products/shop/4648cd07b2bd364420a5.jpg",
         "assets/products/shop/a4f468fd8d92a9d960c0.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 27.99,
         "2026-11-26": 27.99,
         "2026-11-27": 27.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.23,
       "rank": 189,
       "badge": "new",
@@ -27421,7 +27421,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNW5nu620RX5T",
       "size_values": {},
@@ -27532,13 +27532,13 @@
         "assets/products/shop/d456994cfc70104e21f4.jpg",
         "assets/products/shop/6c6d3f5a0d7a22aa9a07.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.23,
       "rank": 190,
       "badge": "new",
@@ -27551,7 +27551,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "Clean studio and lifestyle imagery with professional lighting and composition.",
       "needs_studio": false,
@@ -27753,13 +27753,13 @@
         "assets/products/shop/cdbe3b325a33b42d5256.jpg",
         "assets/products/shop/61ac9f6b85fc3916c85b.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.21,
       "rank": 191,
       "badge": "new",
@@ -27771,7 +27771,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWvj3kiQZ6nJ",
       "size_values": {
@@ -27913,13 +27913,13 @@
         "assets/products/shop/7218c1154c17a1fda892.jpg",
         "assets/products/shop/0ed70c7778034253f5cc.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.21,
       "rank": 192,
       "badge": "new",
@@ -27931,7 +27931,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWhTxqzdyGb1",
       "size_values": {
@@ -28462,13 +28462,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151354-sulfate-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 34.99,
         "2026-11-26": 34.99,
         "2026-11-27": 34.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.21,
       "rank": 195,
       "badge": "new",
@@ -28481,7 +28481,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean studio product shot on a plain background, but lacks high-end campaign styling or lifestyle context.",
       "needs_studio": true,
@@ -28626,13 +28626,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20240131151322-phthalate-free.png",
         "https://supliful.s3.amazonaws.com/categories/images/20240131151340-silicone-free.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 34.99,
         "2026-11-26": 34.99,
         "2026-11-27": 34.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.21,
       "rank": 196,
       "badge": "new",
@@ -28641,7 +28641,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWlzrU1YnVzi",
       "size_values": {},
@@ -28908,7 +28908,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Men's Sweat Shorts Hydrangea DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Men's Sweat Shorts Sweat Shorts Hydrangea DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Pantalón Corto DPF Essential · Hydrangea",
       "name_en": "DPF Essential Sweat Shorts · Hydrangea",
       "desc_es": "Diseñado para el movimiento y la recuperación. Este pantalón corto combina una silueta limpia con un tono suave. Incorpora el embleble distintivo en la pierna. Confección bajo demanda disponible para envío mundial.",
@@ -28920,7 +28920,8 @@
       "images_original": [
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110291/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110291/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
-        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110291/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context"
+        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110291/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context",
+        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110291/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context"
       ],
       "images_model": [
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110291/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context"
@@ -29000,7 +29001,8 @@
       "details_en": "· Made to order",
       "ai_copy": true,
       "ai_done": true,
-      "audited": "2026-11-27"
+      "audited": "2026-11-27",
+      "gender": "unisex"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-ivory",
@@ -29048,7 +29050,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Men's Sweat Shorts Ivory DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Men's Sweat Shorts sweat shorts Ivory DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Pantalón Corto DPF Essential · Marfil",
       "name_en": "DPF Essential Sweat Shorts · Ivory",
       "desc_es": "Una silueta diseñada para el movimiento con un carácter depurado y una presencia impecable. Estos pantalones cortos combinan comodidad funcional con una estética moderna y limpia. El tono marfil aporta versatilidad y sofisticación a tu rutina diaria de entrenamiento. Cada pieza se confecciona bajo demanda para garantizar exclusividad y un acabado impecable. Disfruta de envíos a todo el mundo con el respaldo de nuestra garantía de calidad.",
@@ -29060,7 +29062,8 @@
       "images_original": [
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
-        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context"
+        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context",
+        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context"
       ],
       "images_model": [
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context"
@@ -29140,7 +29143,8 @@
       "details_en": "· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "audited": "2026-11-27"
+      "audited": "2026-11-27",
+      "gender": "men"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-neon-violet",
@@ -29188,7 +29192,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Men's Sweat Shorts Neon Violet DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Men's Sweat Shorts Sweat Shorts Neon Violet DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Pantalón Corto DPF Essential · Neon Violet",
       "name_en": "DPF Essential Sweat Shorts · Neon Violet",
       "desc_es": "Una silueta depurada diseñada para el movimiento diario. Estos shorts combinan una estética minimalista con una presencia visual audaz. Confeccionados con precisión para ofrecer comodidad sin esfuerzo, presentan una cintura ajustable y el emblema distintivo de la marca. Una pieza esencial de alto rendimiento que equilibra la funcionalidad técnica con la elegancia contemporánea. Disponible con envío a todo el mundo y confección bajo demanda.",
@@ -29200,7 +29204,8 @@
       "images_original": [
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
-        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context"
+        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context",
+        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context"
       ],
       "images_model": [
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context"
@@ -29280,7 +29285,8 @@
       "details_en": "· Made-to-order piece\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "audited": "2026-11-27"
+      "audited": "2026-11-27",
+      "gender": "unisex"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-peachy",
@@ -29325,7 +29331,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Men's Sweat Shorts Peachy DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Men's Sweat Shorts Sweat Shorts Peachy DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Pantalón Corto DPF Essential · Peachy",
       "name_en": "DPF Essential Sweat Shorts · Peachy",
       "desc_es": "Diseñado para el movimiento y la relajación. Este modelo combina una estética depurada con una funcionalidad superior. La cintura ajustable ofrece un confort personalizado en cada uso. El tono suave aporta versatilidad y elegancia moderna a tu vestuario diario. Confeccionado bajo demanda con envíos a todo el mundo.",
@@ -29337,7 +29343,8 @@
       "images_original": [
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
-        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context"
+        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context",
+        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context"
       ],
       "images_model": [
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context"
@@ -29416,7 +29423,8 @@
       "details_en": "· Made to order",
       "ai_copy": true,
       "ai_done": true,
-      "audited": "2026-11-27"
+      "audited": "2026-11-27",
+      "gender": "unisex"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-pepper",
@@ -29464,7 +29472,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Men's Sweat Shorts Pepper DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Men's Sweat Shorts Sweat Shorts Pepper DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Pantalón Corto DPF Essential · Pepper",
       "name_en": "DPF Essential Sweat Shorts · Pepper",
       "desc_es": "Diseñados para el rendimiento y la versatilidad diaria. Estos pantalones cortos combinan líneas depuradas con una estética atlética y refinada. El tono pepper aporta profundidad a tu vestuario de entrenamiento, mientras que la silueta estructurada ofrece libertad de movimiento sin esfuerzo. Disponibles mediante fabricación bajo demanda con envío a todo el mundo.",
@@ -29476,7 +29484,8 @@
       "images_original": [
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
-        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context"
+        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context",
+        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context"
       ],
       "images_model": [
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context"
@@ -29556,7 +29565,8 @@
       "details_en": "· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "audited": "2026-11-27"
+      "audited": "2026-11-27",
+      "gender": "men"
     },
     {
       "id": "productifi-mezcla-profesional-de-enzimas-digestivas-daz-premium-fit",
@@ -29621,13 +29631,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20221206095601-allergen-free-2x.png",
         "https://supliful.s3.amazonaws.com/categories/images/20221206100008-100--natural-2x.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.2,
       "rank": 203,
       "badge": "new",
@@ -29636,7 +29646,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWsLttWhbCSL",
       "size_values": {},
@@ -29978,7 +29988,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Performance Cap Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Performance Cap cap Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Gorra Essential Performance Negra",
       "name_en": "Essential Performance Black Cap",
       "desc_es": "Diseñada para el entrenamiento exigente y la transición urbana. Esta gorra combina una silueta clásica con detalles funcionales refinados. La estructura ofrece un ajuste seguro y cómodo durante cualquier actividad física. Los elementos gráficos rinden homenaje a la identidad de rendimiento de la marca. Una pieza esencial que aporta sofisticación discreta a tu equipamiento deportivo. Confeccionada bajo demanda para garantizar exclusividad. Disponible con envío a todo el mundo.",
@@ -30061,7 +30071,8 @@
       "details_en": "· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "audited": "2026-11-27"
+      "audited": "2026-11-27",
+      "gender": "unisex"
     },
     {
       "id": "productifi-alpha-energy-daz-premium-fit",
@@ -30125,13 +30136,13 @@
         "assets/products/shop/9504ec37e84452ccde8b.jpg",
         "assets/products/shop/255add727c343b4b08f5.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.19,
       "rank": 206,
       "badge": "new",
@@ -30140,7 +30151,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWoy8aJZz6oU",
       "size_values": {},
@@ -30252,13 +30263,13 @@
         "assets/products/shop/b1b58687f23483952aba.jpg",
         "assets/products/shop/58586ca70f176ca48546.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 34.99,
         "2026-11-26": 34.99,
         "2026-11-27": 34.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.19,
       "rank": 207,
       "badge": "new",
@@ -30271,7 +30282,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 9,
       "art_note": "Sophisticated lifestyle product photography with high-end lighting and moody staging that aligns with luxury sportswear standards.",
       "needs_studio": false,
@@ -30382,13 +30393,13 @@
         "assets/products/shop/357019a7852a1de5e701.jpg",
         "assets/products/shop/877041528e94d747e616.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.19,
       "rank": 208,
       "badge": "new",
@@ -30397,7 +30408,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWUdoQP4kqww",
       "size_values": {},
@@ -30510,13 +30521,13 @@
         "assets/products/shop/0995ae5ac1decf0d3a83.jpg",
         "assets/products/shop/91f5d466bf3c57920dcf.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 33.99,
         "2026-11-26": 33.99,
         "2026-11-27": 33.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.18,
       "rank": 209,
       "badge": "new",
@@ -30526,7 +30537,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARUG5H7NIJoS",
       "size_values": {
         "578oz164g": "5.78oz (164g)"
@@ -30649,13 +30660,13 @@
         "assets/products/shop/85b864d8af93ff8ba059.jpg",
         "assets/products/shop/5f439cb49fb80099be1f.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 33.99,
         "2026-11-26": 33.99,
         "2026-11-27": 33.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.18,
       "rank": 210,
       "badge": "new",
@@ -30665,7 +30676,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAR3qo1noprUA",
       "size_values": {
         "150g": "150g"
@@ -30784,13 +30795,13 @@
         "assets/products/shop/a4a24215b6426916b584.jpg",
         "assets/products/shop/721d777dce133a3cab26.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 33.99,
         "2026-11-26": 33.99,
         "2026-11-27": 33.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.18,
       "rank": 211,
       "badge": "new",
@@ -30800,7 +30811,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARkooAWZxZ88",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/8x2aEYfzCcKUduSayG1gW3i",
@@ -30904,13 +30915,13 @@
         "assets/products/shop/c7f0a941c0d38e551d12.jpg",
         "assets/products/shop/3f164b39d18a16fc321b.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 33.99,
         "2026-11-26": 33.99,
         "2026-11-27": 33.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.18,
       "rank": 212,
       "badge": "new",
@@ -30920,7 +30931,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAR7nXrtgHJqr",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/14AdRagDGaCM0I64ai1gW3j",
@@ -31030,13 +31041,13 @@
         "assets/products/shop/530240cae77073c958b4.jpg",
         "assets/products/shop/c19b6dea2c8805de6cec.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 33.99,
         "2026-11-26": 33.99,
         "2026-11-27": 33.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.18,
       "rank": 213,
       "badge": "new",
@@ -31046,7 +31057,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARSWORnn4tyz",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/00weVe4UY5is4Ym7mu1gW3k",
@@ -31445,13 +31456,13 @@
         "assets/products/shop/bab6c9000a81cd0c0e49.jpg",
         "https://supliful.s3.amazonaws.com/categories/images/20221206124537-vegetarian.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 36.99,
         "2026-11-26": 36.99,
         "2026-11-27": 36.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.17,
       "rank": 216,
       "badge": "new",
@@ -31464,7 +31475,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean product packaging shot with neutral background, meeting baseline e-commerce standards.",
       "needs_studio": true,
@@ -31770,13 +31781,13 @@
         "assets/products/shop/ca81dffa411025d945f2.jpg",
         "assets/products/shop/41dfc1d58a62c36ce030.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.16,
       "rank": 218,
       "badge": "new",
@@ -31785,7 +31796,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWLTHMmUuz94",
       "size_values": {},
@@ -31887,13 +31898,13 @@
       "display_images": [
         "assets/products/shop/d8d7908670c87ea1caf5.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.16,
       "rank": 219,
       "badge": "new",
@@ -31902,7 +31913,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWo8Yl6kSbu6",
       "size_values": {},
@@ -32005,13 +32016,13 @@
         "assets/products/shop/f922a8e0a11870d356c4.jpg",
         "assets/products/shop/03a4c646efd6d9b783ed.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.16,
       "rank": 220,
       "badge": "new",
@@ -32020,7 +32031,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWYRdFjvkMjP",
       "size_values": {},
@@ -32129,13 +32140,13 @@
         "assets/products/shop/5fab4639108f13014f35.jpg",
         "assets/products/shop/876e57ccff737f10d0f1.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 38.99,
         "2026-11-26": 38.99,
         "2026-11-27": 38.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.14,
       "rank": 221,
       "badge": "new",
@@ -32144,7 +32155,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNW33jQugQiuL",
       "size_values": {},
@@ -32250,13 +32261,13 @@
       "display_images": [
         "assets/products/shop/12dc9073aa23ea5335d9.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 29.99,
         "2026-11-26": 29.99,
         "2026-11-27": 29.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.13,
       "rank": 222,
       "badge": "new",
@@ -32336,7 +32347,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "stripe_product_id": "prod_VhARtcBdloA72i",
       "size_values": {},
@@ -32405,13 +32416,13 @@
         "assets/products/shop/0571bbccb7c7d8269015.jpg",
         "assets/products/shop/27724b8d3ab27cafd49c.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.13,
       "rank": 223,
       "badge": "new",
@@ -32452,7 +32463,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "stripe_product_id": "prod_VhARS9SoglmQds",
       "size_values": {
@@ -32514,13 +32525,13 @@
       "display_images": [
         "assets/products/shop/73748f33b646caa9c5f7.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 35.99,
         "2026-11-26": 35.99,
         "2026-11-27": 35.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.13,
       "rank": 224,
       "badge": "new",
@@ -32530,7 +32541,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAR9cbf9Dz7v6",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/bJefZigDG26gbmK5em1gW3t",
@@ -32632,13 +32643,13 @@
         "assets/products/shop/a03d297ae162ae70f806.jpg",
         "assets/products/shop/0ebd17967a0dc5c1370a.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 37.99,
         "2026-11-26": 37.99,
         "2026-11-27": 37.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.13,
       "rank": 225,
       "badge": "new",
@@ -32647,7 +32658,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWBnHmW0PNVp",
       "size_values": {},
@@ -33226,13 +33237,13 @@
         "assets/products/shop/0c3cc6eb2bfe2b71439d.jpg",
         "assets/products/shop/6ef5fcc471c61e20b306.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 35.99,
         "2026-11-26": 35.99,
         "2026-11-27": 35.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.12,
       "rank": 229,
       "badge": "new",
@@ -33241,7 +33252,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWAgNRbe1Q7e",
       "size_values": {},
@@ -33362,13 +33373,13 @@
         "assets/products/shop/1585dc68ce4bf39fc4fc.jpg",
         "assets/products/shop/9e6af67bc3d1bb55e387.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 35.99,
         "2026-11-26": 35.99,
         "2026-11-27": 35.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.12,
       "rank": 230,
       "badge": "new",
@@ -33377,7 +33388,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWCkBxTHjN6i",
       "size_values": {},
@@ -33496,13 +33507,13 @@
         "assets/products/shop/ce4938f94d362fef095f.jpg",
         "assets/products/shop/f2f1d790682cbb5c62ab.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 35.99,
         "2026-11-26": 35.99,
         "2026-11-27": 35.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.12,
       "rank": 231,
       "badge": "new",
@@ -33511,7 +33522,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWSNny0yatRJ",
       "size_values": {},
@@ -34335,13 +34346,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20221206100008-100--natural-2x.png",
         "https://supliful.s3.amazonaws.com/categories/images/20221206101002-corn-free-2x.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 29.99,
         "2026-11-26": 29.99,
         "2026-11-27": 29.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.11,
       "rank": 236,
       "badge": "new",
@@ -34350,7 +34361,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWWb6M563tng",
       "size_values": {},
@@ -34487,13 +34498,13 @@
         "assets/products/shop/741ae1a8f694cbcb414a.jpg",
         "assets/products/shop/8c65aafba9ec9c8caaef.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.11,
       "rank": 237,
       "badge": "new",
@@ -34503,7 +34514,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARrNitVG4Ei2",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/cNifZi87ah1aeyW36e1gW3C",
@@ -34620,13 +34631,13 @@
         "assets/products/shop/2ddb53b6a10b64bfb772.jpg",
         "assets/products/shop/4d404a792662bed06cc0.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.11,
       "rank": 238,
       "badge": "new",
@@ -34636,7 +34647,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARxBIxs9kglL",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/fZu3cw736cKU4Ym7mu1gW3D",
@@ -34739,13 +34750,13 @@
         "assets/products/shop/edc266fdbabd026410f1.jpg",
         "assets/products/shop/06d0aa3be22ae4aba9b2.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.11,
       "rank": 239,
       "badge": "new",
@@ -34755,7 +34766,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARfxI1Kc0vHQ",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/9B6cN63QU6mw1Ma7mu1gW3E",
@@ -34856,13 +34867,13 @@
         "assets/products/shop/a345b1d15e7ffc8e4fd2.jpg",
         "assets/products/shop/918aeec75163a41d5aab.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.11,
       "rank": 240,
       "badge": "new",
@@ -34872,7 +34883,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARDgCFyvzGkH",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/dRm14o9be6mw0I6ayG1gW3F",
@@ -34975,13 +34986,13 @@
         "assets/products/shop/7b17c782a2662b15e1de.jpg",
         "assets/products/shop/183b893d9927bf1093ce.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.11,
       "rank": 241,
       "badge": "new",
@@ -34991,7 +35002,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARZ9mV6a1wuC",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/4gMfZi9beh1a4Ym6iq1gW3G",
@@ -35091,13 +35102,13 @@
         "assets/products/shop/20f4598f6d0a1095d171.jpg",
         "assets/products/shop/ae514e1eb37d37239ba5.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.11,
       "rank": 242,
       "badge": "new",
@@ -35107,7 +35118,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAReeT4nTcBTN",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/fZu5kEgDGaCMbmK4ai1gW3H",
@@ -35207,13 +35218,13 @@
         "assets/products/shop/f0600d1e4d489d4a916f.jpg",
         "assets/products/shop/a5c4dabfbc6e48b0bf30.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.11,
       "rank": 243,
       "badge": "new",
@@ -35223,7 +35234,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhARIQBGtNEKpD",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/3cI3cw87a12ccqO4ai1gW3I",
@@ -35327,13 +35338,13 @@
       "display_images": [
         "assets/products/shop/1505cde8869d992b1a5b.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 40.99,
         "2026-11-26": 40.99,
         "2026-11-27": 40.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.11,
       "rank": 244,
       "badge": "new",
@@ -35346,7 +35357,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "Clean, high-end studio product shot of the packaging against a neutral background.",
       "needs_studio": false,
@@ -35436,13 +35447,13 @@
         "assets/products/shop/fe37b9d16bd7d81a8cc4.jpg",
         "assets/products/shop/1607329556bac6ec1fef.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 29.99,
         "2026-11-26": 29.99,
         "2026-11-27": 29.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.11,
       "rank": 245,
       "badge": "new",
@@ -35452,7 +35463,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASgbAizbqbTc",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/cNi00kevybGQfD06iq1gW3K",
@@ -35549,13 +35560,13 @@
         "assets/products/shop/b685b706c3280e973185.jpg",
         "assets/products/shop/160c6babb51982ab7195.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 33.99,
         "2026-11-26": 33.99,
         "2026-11-27": 33.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.11,
       "rank": 246,
       "badge": "new",
@@ -35564,7 +35575,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAShI7R5J8yOT",
       "size_values": {
         "NETWT1058OZ300g": "NET WT 10.58 OZ (300g)"
@@ -35676,13 +35687,13 @@
         "assets/products/shop/9d38db9a58ff05cc8fcb.jpg",
         "assets/products/shop/50c21b821f64ca90c1b7.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 49.99,
         "2026-11-26": 49.99,
         "2026-11-27": 49.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.11,
       "rank": 247,
       "badge": "new",
@@ -35692,7 +35703,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASFk12vw6zrD",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/6oU28s9becKU2Qe6iq1gW3M",
@@ -35787,13 +35798,13 @@
         "assets/products/shop/4eccae3705c9d87b8017.jpg",
         "assets/products/shop/c4f778ad8281dd8b7765.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 49.99,
         "2026-11-26": 49.99,
         "2026-11-27": 49.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.11,
       "rank": 248,
       "badge": "new",
@@ -35803,7 +35814,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASVqJUTX58VL",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/cNi28s3QUeT24Ym5em1gW3N",
@@ -36301,13 +36312,13 @@
       "display_images": [
         "assets/products/shop/f5e17f2f7eabf3ad31b6.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.1,
       "rank": 252,
       "badge": "new",
@@ -36320,7 +36331,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 5,
       "art_note": "Clean studio shot of the jar, but secondary images are blank or irrelevant.",
       "needs_studio": true,
@@ -36412,13 +36423,13 @@
         "assets/products/shop/f28c55f746209d79ded3.jpg",
         "assets/products/shop/daaf60deaa13489e90a5.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.1,
       "rank": 253,
       "badge": "new",
@@ -36427,7 +36438,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWQ7QWKHXnC0",
       "size_values": {},
@@ -36815,13 +36826,13 @@
         "assets/products/shop/ec94c7cf337b9bf64c88.jpg",
         "assets/products/shop/7cd5b7d407e558052613.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 35.99,
         "2026-11-26": 35.99,
         "2026-11-27": 35.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.09,
       "rank": 255,
       "badge": "new",
@@ -36833,7 +36844,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWmYGKHlDnpu",
       "size_values": {
@@ -37366,13 +37377,13 @@
         "assets/products/shop/716d06d1bb2a78d52046.jpg",
         "assets/products/shop/c01805d9a70b3deaada1.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 47.99,
         "2026-11-26": 47.99,
         "2026-11-27": 47.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.09,
       "rank": 258,
       "badge": "new",
@@ -37382,7 +37393,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "Clean, high-end studio product shot with professional lighting.",
       "needs_studio": false,
@@ -37474,13 +37485,13 @@
         "assets/products/shop/ffcc3d91debbbc9d8ff8.jpg",
         "assets/products/shop/be90cf01b161a9b764b8.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 38.99,
         "2026-11-26": 38.99,
         "2026-11-27": 38.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.09,
       "rank": 259,
       "badge": "new",
@@ -37490,7 +37501,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASVmthYQURs2",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/aFa28safi6mwgH44ai1gW3X",
@@ -38282,13 +38293,13 @@
         "https://supliful.s3.amazonaws.com/categories/images/20221206100059-antibiotic-free-2x.png",
         "https://supliful.s3.amazonaws.com/categories/images/20221206100829-no-fillers-2x.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 45.99,
         "2026-11-26": 45.99,
         "2026-11-27": 45.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.07,
       "rank": 264,
       "badge": "new",
@@ -38297,7 +38308,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNW4Zo7LOYn6E",
       "size_values": {},
@@ -38411,7 +38422,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Women's Sports Bra Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Women's Sports Bra sports bra Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Sujetador Deportivo Esencial DPF",
       "name_en": "DPF Essential Sports Bra",
       "desc_es": "Diseñado para el entrenamiento definitivo. Este sujetador deportivo combina soporte técnico con una estética depurada. La silueta esculpida se mueve con precisión a través de cada movimiento. El emblema DPF aporta un toque de distinción atlética. Confeccionado bajo pedido para garantizar exclusividad. Disponible con envíos a todo el mundo.",
@@ -38482,7 +38493,8 @@
       "details_es": "· Hecho a pedido\n· Diseñado para entrenamiento\n· Emblema DPF integrado",
       "details_en": "· Made to order\n· Training gear design\n· DPF emblem detail",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "women"
     },
     {
       "id": "productifi-advanced-100-whey-protein-isolate-vanilla",
@@ -38536,13 +38548,13 @@
         "assets/products/shop/1e1e70f80e0245d59ab2.jpg",
         "assets/products/shop/e014090ed15516eed541.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 50.99,
         "2026-11-26": 50.99,
         "2026-11-27": 50.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.06,
       "rank": 266,
       "badge": "new",
@@ -38552,7 +38564,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASEsIgvrXORr",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/28E4gAfzCeT28aygX41gW44",
@@ -38643,13 +38655,13 @@
         "assets/products/shop/da9c94ba0c16a2ec6d3c.jpg",
         "assets/products/shop/27318ba1d84afaa7480a.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 34.99,
         "2026-11-26": 34.99,
         "2026-11-27": 34.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.06,
       "rank": 267,
       "badge": "new",
@@ -38694,7 +38706,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "stripe_product_id": "prod_VhASteUh3omEbX",
       "size_values": {
@@ -38775,13 +38787,13 @@
         "assets/products/shop/95ddfd047cb8031f4870.jpg",
         "assets/products/shop/2d7c71778a0f7d5cd399.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.06,
       "rank": 268,
       "badge": "new",
@@ -38790,7 +38802,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWA5tsa5p2uT",
       "size_values": {},
@@ -38888,13 +38900,13 @@
         "assets/products/shop/f62cd2c61ecf32950687.jpg",
         "assets/products/shop/d1de5f57ca5eaedfd83e.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 36.99,
         "2026-11-26": 36.99,
         "2026-11-27": 36.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.06,
       "rank": 269,
       "badge": "new",
@@ -38904,7 +38916,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASI4xDaRNjDa",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/8x23cwgDG7qA8ayeOW1gW46",
@@ -38994,13 +39006,13 @@
         "assets/products/shop/9187aceccd3c07cbf88a.jpg",
         "assets/products/shop/cc862a576633de0a0d2c.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 50.99,
         "2026-11-26": 50.99,
         "2026-11-27": 50.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.06,
       "rank": 270,
       "badge": "new",
@@ -39010,7 +39022,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASsl6HDsG1oG",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/bJe7sM0EI26g4YmbCK1gW47",
@@ -39117,13 +39129,13 @@
       "display_images": [
         "assets/products/shop/364f2d87cd632a03dd42.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.06,
       "rank": 271,
       "badge": "new",
@@ -39133,7 +39145,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "Clean, high-end studio presentation of the product bottle.",
       "needs_studio": false,
@@ -39242,13 +39254,13 @@
         "assets/products/shop/6110300c5e71b4276455.jpg",
         "assets/products/shop/99b3c2516e2c57dbb59e.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 34.99,
         "2026-11-26": 34.99,
         "2026-11-27": 34.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.06,
       "rank": 272,
       "badge": "new",
@@ -39257,7 +39269,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNW8Y27UZimXG",
       "size_values": {},
@@ -39365,13 +39377,13 @@
         "assets/products/shop/9b42e0fed69627c6d0ae.jpg",
         "assets/products/shop/b37696014817304f556b.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 50.99,
         "2026-11-26": 50.99,
         "2026-11-27": 50.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.06,
       "rank": 273,
       "badge": "new",
@@ -39381,7 +39393,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASg4vDSyg6i2",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/dRm3cwevyh1aeyWbCK1gX01",
@@ -39480,13 +39492,13 @@
         "assets/products/shop/dcc320944c0853a5d2f9.jpg",
         "assets/products/shop/572143fe621319da9fce.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 50.99,
         "2026-11-26": 50.99,
         "2026-11-27": 50.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.06,
       "rank": 274,
       "badge": "new",
@@ -39496,7 +39508,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASNuS50bfSPp",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/bJe7sM0EIbGQ9eCayG1gX02",
@@ -39606,13 +39618,13 @@
         "assets/products/shop/b55171791a04cdad0062.jpg",
         "assets/products/shop/cf0050343e4552322138.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 30.99,
         "2026-11-26": 30.99,
         "2026-11-27": 30.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.06,
       "rank": 275,
       "badge": "new",
@@ -39621,7 +39633,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWiApqUdW3AW",
       "size_values": {},
@@ -39727,13 +39739,13 @@
         "assets/products/shop/1bb59acffe525dfe1f71.jpg",
         "assets/products/shop/b1da4bc3fe65f547eb24.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 34.99,
         "2026-11-26": 34.99,
         "2026-11-27": 34.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.06,
       "rank": 276,
       "badge": "new",
@@ -39742,7 +39754,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASos6JHkB3d7",
       "size_values": {
         "NETWT794OZ225g": "NET WT 7.94 OZ (225g)"
@@ -40137,13 +40149,13 @@
       "display_images": [
         "assets/products/shop/bd093da871a3d62b258b.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 34.99,
         "2026-11-26": 34.99,
         "2026-11-27": 34.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.05,
       "rank": 278,
       "badge": "new",
@@ -40179,7 +40191,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "stripe_product_id": "prod_VhASzS8QsmX8X4",
       "size_values": {
@@ -40732,13 +40744,13 @@
       "display_images": [
         "assets/products/shop/a727d19df11090523b82.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 38.99,
         "2026-11-26": 38.99,
         "2026-11-27": 38.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.04,
       "rank": 281,
       "badge": "new",
@@ -40777,7 +40789,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "stripe_product_id": "prod_VhASGLoa0js4sg",
       "size_values": {},
@@ -40841,7 +40853,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Women's Joggers Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Women's Joggers joggers Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Pantalón Jogger Essential",
       "name_en": "Essential Jogger Pants",
       "desc_es": "La silueta definitiva para el entrenamiento y el descanso. Este diseño combina líneas depuradas con una funcionalidad absoluta. Confeccionado para ofrecer libertad de movimiento sin renunciar a una estética sofisticada. Cada pieza se elabora de manera individual bajo demanda. Disponible con envío internacional.",
@@ -40935,7 +40947,8 @@
       "details_es": "· Hecho a pedido\n· Envío mundial disponible",
       "details_en": "· Made to order\n· Worldwide shipping available",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "women"
     },
     {
       "id": "productifi-bcaa-post-workout-powder-honeydew-watermelon",
@@ -40987,13 +41000,13 @@
         "assets/products/shop/337ba269745ec5705c9c.jpg",
         "assets/products/shop/9aea237eb2b595fc5974.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 34.99,
         "2026-11-26": 34.99,
         "2026-11-27": 34.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.03,
       "rank": 283,
       "badge": "new",
@@ -41003,7 +41016,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhAS6pUAl8xYDK",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/aFa3cwafi8uEgH40Y61gX0g",
@@ -41109,13 +41122,13 @@
         "assets/products/shop/c7cf4be404084bc582b5.jpg",
         "https://supliful.s3.amazonaws.com/categories/images/20221206094907-gluten-free-2x.png"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 43.99,
         "2026-11-26": 43.99,
         "2026-11-27": 43.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.03,
       "rank": 284,
       "badge": "new",
@@ -41128,7 +41141,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean studio product shot with neutral background, maintaining a standard e-commerce presentation.",
       "needs_studio": true,
@@ -41223,13 +41236,13 @@
         "assets/products/shop/1b18c481abfec525bb45.jpg",
         "assets/products/shop/80e780f02d94d3dbaec4.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 32.99,
         "2026-11-26": 32.99,
         "2026-11-27": 32.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.03,
       "rank": 285,
       "badge": "new",
@@ -41239,7 +41252,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "art_score": 6,
       "art_note": "Clean studio product shot with clear typography and professional lighting, though standard supplement presentation.",
       "needs_studio": true,
@@ -41330,13 +41343,13 @@
         "assets/products/shop/d91ed872bc0e371daa61.jpg",
         "assets/products/shop/9d83eac30f46dd1efc65.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 34.99,
         "2026-11-26": 34.99,
         "2026-11-27": 34.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.03,
       "rank": 286,
       "badge": "new",
@@ -41346,7 +41359,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASM8my5UOVmk",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/14A7sM5Z27qAduS4ai1gX0j",
@@ -41444,13 +41457,13 @@
         "assets/products/shop/ad23b35ce15d0ffdba3a.jpg",
         "assets/products/shop/70c7f7b61fb950c52ae1.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 36.99,
         "2026-11-26": 36.99,
         "2026-11-27": 36.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.03,
       "rank": 287,
       "badge": "new",
@@ -41460,7 +41473,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "stripe_product_id": "prod_VhASkixkpiG9PU",
       "size_values": {},
       "stripe_payment_link": "https://buy.stripe.com/14AbJ2cnqcKUaiG8qy1gX0k",
@@ -41956,13 +41969,13 @@
         "assets/products/shop/231c37597e5126d790b7.jpg",
         "assets/products/shop/be607cbde699740078a3.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 36.99,
         "2026-11-26": 36.99,
         "2026-11-27": 36.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.02,
       "rank": 291,
       "badge": "new",
@@ -41971,7 +41984,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWFcJIsmz3Gb",
       "size_values": {},
@@ -42327,7 +42340,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Women's Leggings Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Women's Leggings Leggings Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Leggings Esenciales DPF Mujer",
       "name_en": "DPF Essential Women's Leggings",
       "desc_es": "Descubre la máxima expresión de la funcionalidad y el diseño con los leggings esenciales para mujer de DAZ Premium Fit. Creados para acompañarte en cada sesión de entrenamiento con una precisión impecable, estos leggings combinan un diseño depurado con la icónica estética de nuestra marca. Cada pieza es elaborada bajo pedido para garantizar la máxima exclusividad y atención al detalle. Eleva tu rendimiento diario con una prenda concebida para la mujer moderna que exige sofisticación tanto dentro como fuera del gimnasio. Disponibles con envío a todo el mundo.",
@@ -42407,7 +42420,8 @@
       "details_es": "· Hecho a pedido\n· Equipamiento de entrenamiento con emblema DPF",
       "details_en": "· Made to order\n· Training gear with DPF emblem",
       "ai_copy": true,
-      "ai_done": true
+      "ai_done": true,
+      "gender": "women"
     },
     {
       "id": "printful-484188638-black-camo",
@@ -42993,13 +43007,13 @@
         "assets/products/shop/3d9b30c024e258e412a5.jpg",
         "assets/products/shop/c50090ddee3146f0c9ea.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 34.99,
         "2026-11-26": 34.99,
         "2026-11-27": 34.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.0,
       "rank": 298,
       "badge": "new",
@@ -43008,7 +43022,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWdolyExt6T9",
       "size_values": {},
@@ -43125,13 +43139,13 @@
         "assets/products/shop/6d77d12b98da0c2e73a6.jpg",
         "assets/products/shop/cbf4b09a7a96263ebe2e.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 34.99,
         "2026-11-26": 34.99,
         "2026-11-27": 34.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 23.0,
       "rank": 299,
       "badge": "new",
@@ -43170,7 +43184,7 @@
       "look": [
         "productifi-wish4-2562"
       ],
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "stripe_product_id": "prod_VhASbx6jcPX8JO",
       "size_values": {},
@@ -43340,12 +43354,12 @@
         "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101892/immortal-warrior-no-days-off-tank-top.jpg?camera_label=back"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-26": 33.99,
         "2026-11-27": 33.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 22.67,
       "rank": 300,
       "badge": "new",
@@ -43402,7 +43416,7 @@
       "stripe_link_id": "plink_1Ug9obLJVU4oTPuX3iKftnio",
       "stripe_price_cents": 3399,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "missing_days": 1,
       "missing_last": "2026-11-27"
@@ -44176,12 +44190,12 @@
         "https://images.printify.com/mockup/6b0892576d0e8a542403d39d/24639/101889/immortal-warrior-gold-tank-top.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b0892576d0e8a542403d39d/24639/101892/immortal-warrior-gold-tank-top.jpg?camera_label=back"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-26": 33.99,
         "2026-11-27": 40.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 22.22,
       "rank": 304,
       "badge": "new",
@@ -44238,7 +44252,7 @@
       "stripe_link_id": "plink_1UgH0oLJVU4oTPuX1OfyxrNY",
       "stripe_price_cents": 4099,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": false,
+      "page": true,
       "gender": "unisex"
     },
     {
@@ -44375,12 +44389,12 @@
         "https://images.printify.com/mockup/6b0899f96bfabea2f3021a8e/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b0899f96bfabea2f3021a8e/24639/101892/immortal-warrior-no-days-off-tank-top.jpg?camera_label=back"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-26": 33.99,
         "2026-11-27": 40.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 22.22,
       "rank": 305,
       "badge": "new",
@@ -44437,7 +44451,7 @@
       "stripe_link_id": "plink_1UgH0pLJVU4oTPuX0GVXuyLU",
       "stripe_price_cents": 4099,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": false,
+      "page": true,
       "gender": "unisex"
     },
     {
@@ -47174,12 +47188,12 @@
         "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98426/immortal-warrior-no-days-off-hoodie.jpg?camera_label=back-2",
         "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98432/immortal-warrior-no-days-off-hoodie.jpg?camera_label=folded"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-26": 46.99,
         "2026-11-27": 46.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 21.64,
       "rank": 319,
       "badge": "new",
@@ -47249,7 +47263,7 @@
       "stripe_link_id": "plink_1Ug9ocLJVU4oTPuXJmQ30nJ1",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "missing_days": 1,
       "missing_last": "2026-11-27"
@@ -47576,12 +47590,12 @@
         "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16575/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=back"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-26": 61.99,
         "2026-11-27": 61.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 21.56,
       "rank": 321,
       "badge": "new",
@@ -47641,7 +47655,7 @@
       "stripe_link_id": "plink_1Ug9odLJVU4oTPuXblEt1znd",
       "stripe_price_cents": 6199,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": false,
+      "page": true,
       "gender": "women",
       "missing_days": 1,
       "missing_last": "2026-11-27"
@@ -49067,12 +49081,12 @@
         "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102006/immortal-warrior-no-days-off-tee.jpg?camera_label=back-2",
         "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102001/immortal-warrior-no-days-off-tee.jpg?camera_label=folded"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-26": 28.99,
         "2026-11-27": 28.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 21.54,
       "rank": 327,
       "badge": "new",
@@ -49142,7 +49156,7 @@
       "stripe_link_id": "plink_1Ug9oeLJVU4oTPuXx37AwfEn",
       "stripe_price_cents": 2899,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": false,
+      "page": true,
       "gender": "unisex",
       "missing_days": 1,
       "missing_last": "2026-11-27"
@@ -50590,12 +50604,12 @@
         "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/101402/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/101403/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=back"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-26": 46.99,
         "2026-11-27": 46.99
       },
-      "hidden": true,
+      "hidden": false,
       "score": 21.5,
       "rank": 335,
       "badge": "new",
@@ -50661,7 +50675,7 @@
       "stripe_link_id": "plink_1Ug9ofLJVU4oTPuXEgBYW1mS",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": false,
+      "page": true,
       "gender": "women",
       "missing_days": 1,
       "missing_last": "2026-11-27"
@@ -50846,13 +50860,13 @@
         "assets/products/shop/9adab3ae9c0b40c70745.jpg",
         "assets/products/shop/09af3b53b28dfaa20455.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 95.0,
         "2026-11-26": 95.0,
         "2026-11-27": 95.0
       },
-      "hidden": true,
+      "hidden": false,
       "score": 21.0,
       "rank": 337,
       "badge": "new",
@@ -50865,7 +50879,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 9,
       "art_note": "High-end luxury atmosphere with professional lighting and sophisticated staging.",
       "needs_studio": false,
@@ -50994,13 +51008,13 @@
         "assets/products/shop/9adab3ae9c0b40c70745.jpg",
         "assets/products/shop/09af3b53b28dfaa20455.jpg"
       ],
-      "available": false,
+      "available": true,
       "price_history": {
         "2026-11-25": 245.0,
         "2026-11-26": 245.0,
         "2026-11-27": 245.0
       },
-      "hidden": true,
+      "hidden": false,
       "score": 21.0,
       "rank": 338,
       "badge": "new",
@@ -51013,7 +51027,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": false,
+      "page": true,
       "art_score": 8,
       "art_note": "High-end campaign imagery with professional lighting, though focused on service subscription rather than standalone apparel.",
       "needs_studio": false,

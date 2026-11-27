@@ -1,0 +1,131 @@
+{
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Teal",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "80% Polyester, 20% Spandex",
+ "ai_type": "Sports Bra",
+ "ai_ver": 2,
+ "art_note": "Clean lifestyle studio shots, though slightly standard catalog look.",
+ "art_score": 6,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/ropa-interior"
+ ],
+ "cg": "t-descarga-cross-back-sports-bra",
+ "color": "Teal",
+ "created": "2026-11-25",
+ "desc_en": "Engineered for absolute movement. This sports bra combines secure support with a refined aesthetic. The crisscross straps at the back define an elegant silhouette. Crafted for intense training and daily wear. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Diseñado para el movimiento absoluto. Este top deportivo combina soporte seguro y una estética depurada. Las tiras cruzadas en la espalda definen una silueta elegante. Confeccionado para entrenamientos intensos y uso diario. Cada pieza se confecciona bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 80% polyester, 20% spandex\n· Scoop neckline\n· Multi-strap crisscross back\n· Hand or machine wash at temperatures under 45ºC\n· Made-to-order piece",
+ "details_es": "· 80% poliéster, 20% elastano\n· Cuello redondo\n· Espalda cruzada con múltiples tiras\n· Lavar a mano o a máquina a menos de 45ºC\n· Pieza confeccionada bajo pedido",
+ "display_images": [
+  "assets/products/shop/94ced5d0b894f0b45af2.jpg",
+  "assets/products/shop/b4a43e5895e57a52b1ed.jpg",
+  "assets/products/shop/065b3ab0603019ae62f4.jpg"
+ ],
+ "draft": true,
+ "fam": "descarga-cross-back",
+ "gender": "women",
+ "hidden": false,
+ "id": "interestprint-descarga-85-cross-back-sports-bra",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
+ ],
+ "material": "80% Polyester, 20% Spandex",
+ "name_en": "Mandala Cross Back Sports Bra · Teal",
+ "name_es": "Sujetador Deportivo Cruzado Mandala · Teal",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 115,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (A)",
+   "Chest (B)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (A)",
+   "Pecho (B)"
+  ],
+  "notes_en": "",
+  "notes_es": "",
+  "rows": [
+   [
+    "S",
+    "15.20",
+    "30.00"
+   ],
+   [
+    "M",
+    "15.50",
+    "31.50"
+   ],
+   [
+    "L",
+    "15.70",
+    "33.50"
+   ],
+   [
+    "XL",
+    "16.00",
+    "35.50"
+   ],
+   [
+    "2XL",
+    "16.20",
+    "37.50"
+   ],
+   [
+    "3XL",
+    "16.60",
+    "39.50"
+   ],
+   [
+    "4XL",
+    "17.00",
+    "41.50"
+   ],
+   [
+    "5XL",
+    "17.40",
+    "43.50"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/5212/info/image/20260126/D692082BF2B0D0EFE207F9979EFB7289.png"
+ ],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "descarga (85) Cross Back Sports Bra",
+ "stripe_payment_link": "https://buy.stripe.com/6oU5kEafibGQ9eC36e1gX1d",
+ "supplier": "InterestPrint",
+ "supplier_id": "descarga-85-cross-back-sports-bra",
+ "visual_verified": true
+}

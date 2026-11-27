@@ -1,0 +1,62 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Moringa Oleifera leaf, Hypromellose vegetable capsule",
+ "ai_sizes": "60 capsules",
+ "ai_type": "Supplements",
+ "ai_ver": 2,
+ "art_note": "Clean studio product render, but supplementary icons lack high-end art direction.",
+ "art_score": 5,
+ "audited": "2026-11-25",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-moringa-pure-daz-premium-fit",
+ "color": "White",
+ "created": "2026-11-25",
+ "desc_en": "Pure Moringa Oleifera designed to complement your daily nutrition. Extracted exclusively from the leaves of the tree, this supplement offers a composition rich in natural plant compounds. Encapsulated in vegetable cellulose, it is vegan-friendly. Made to order and available with worldwide shipping.",
+ "desc_es": "Moringa Oleifera pura para complementar tu nutricion diaria. Extraido exclusivamente de las hojas del arbol, este suplemento ofrece una composicion rica en nutrientes naturales. Encapsulado en celulosa vegetal, resulta apto para dietas veganas. Elaborado bajo demanda y disponible con envio mundial.",
+ "details_en": "· Moringa Oleifera leaf 800 mg per serving\n· Vegetable cellulose capsule\n· Content: 60 capsules\n· Made to order and worldwide shipping",
+ "details_es": "· Moringa Oleifera leaf 800 mg por porcion\n· Celulosa vegetal como capsula\n· Contenido: 60 capsulas\n· Hecho a pedido y envio mundial",
+ "display_images": [
+  "assets/products/shop/0d3221664bbdd3ab449c.jpg",
+  "assets/products/shop/863d4a045469cab0a492.jpg"
+ ],
+ "draft": true,
+ "fam": "moringa-pure-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-moringa-pure-daz-premium-fit",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Moringa Oleifera leaf, Hypromellose vegetable capsule",
+ "name_en": "Moringa Pure Premium Fit",
+ "name_es": "Moringa Pura Premium Fit",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 24.99,
+ "rank": 85,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Sin categoría",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 capsules"
+ ],
+ "source_title": "Moringa Pure DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/cNi00k736dOY4YmgX41gW2c",
+ "supplier": "Productifi",
+ "supplier_id": "moringa-pure-daz-premium-fit",
+ "visual_verified": true
+}

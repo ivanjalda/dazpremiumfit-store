@@ -1,7 +1,7 @@
 {
   "key": "",
   "owner": "",
-  "updated": "2026-11-27 11:24 UTC",
+  "updated": "2026-11-27 15:08 UTC",
   "totals": {
     "catalogo": 363,
     "a_la_vista": 338,
@@ -760,19 +760,17 @@
     "CSV leído: wish4.csv",
     "Printify: 55 piezas leídas",
     "Printful: 18 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 9 s",
+    "⏱ lectura de proveedores: 8 s",
     "Productos en catálogo: 363 · a la vista: 338 · archivados: 25",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "⏱ ventas, visitas y cupones: 0 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: 9 productos revisados (fotos, guía de tallas y textos) · quedan 0",
-    "⏱ revisión con IA: 115 s",
-    "Vigilante: 3 correcciones en esta hora",
-    "⏱ vigilante: 97 s",
+    "⏱ revisión con IA: 0 s",
+    "⏱ vigilante: 0 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
-    "Cambio actualizado: 1 USD = 0.9112 EUR",
+    "Cambio actualizado: 1 USD = 0.9127 EUR",
     "Listo."
   ]
 }

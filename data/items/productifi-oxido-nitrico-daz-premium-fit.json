@@ -1,0 +1,66 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Blanco",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Cápsula vegetal de celulosa",
+ "ai_sizes": "60 capsules",
+ "ai_type": "Suplemento",
+ "ai_ver": 2,
+ "art_note": "High-end studio presentation with refined lighting and athletic lifestyle integration.",
+ "art_score": 8,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-oxido-nitrico-daz-premium-fit",
+ "color": "Blanco",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your performance. Designed to support healthy circulation and muscle growth, this sophisticated formula integrates L-Arginine Alpha-Ketoglutarate, L-Arginine Hydrochloride, and L-Citrulline DL-Malate. Crafted to optimize your physical routine and overall well-being. Each bottle contains 60 capsules, offering a seamless addition to your daily regimen. Experience refined support for your training goals with worldwide shipping available on all made-to-order pieces.",
+ "desc_es": "Elevate your performance. Designed to support healthy circulation and muscle growth, this sophisticated formula integrates L-Arginine Alpha-Ketoglutarate, L-Arginine Hydrochloride, and L-Citrulline DL-Malate. Crafted to optimize your physical routine and overall well-being. Each bottle contains 60 capsules, offering a seamless addition to your daily regimen. Experience refined support for your training goals with worldwide shipping available on all made-to-order pieces.",
+ "details_en": "· 60 capsules per container\n· Ingredients: L-Arginine Alpha-Ketoglutarate, L-Arginine Hydrochloride, L-Citrulline DL-Malate, Cellulose (vegetable capsule), Brown Rice Flour\n· Made in USA\n· Made-to-order pieces and worldwide shipping",
+ "details_es": "· 60 cápsulas por envase\n· Ingredientes: L-Arginine Alpha-Ketoglutarate, L-Arginine Hydrochloride, L-Citrulline DL-Malate, Cellulose (vegetable capsule), Brown Rice Flour\n· Hecho en EE. UU.\n· Piezas bajo pedido y envíos a todo el mundo",
+ "display_images": [
+  "assets/products/shop/7c56d4d4fca7708ed388.jpg",
+  "assets/products/shop/fb255714fabdd727ac89.jpg",
+  "assets/products/shop/5c9c74a3addccc6fff43.jpg",
+  "assets/products/shop/a0b3fc1e25cdbd4e6323.jpg",
+  "assets/products/shop/adcf057152fd06f2b94b.jpg"
+ ],
+ "draft": false,
+ "fam": "oxido-nitrico-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-oxido-nitrico-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Cápsula vegetal de celulosa",
+ "name_en": "DAZ Nitric Oxide Capsules",
+ "name_es": "DAZ Nitric Oxide Capsules",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 119,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Casa y jardín > Jardín > Jardinería > Hidropónicos > Nutrientes y suplementos > Suplementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 capsules"
+ ],
+ "source_title": "Óxido Nítrico DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/dRm00kdru5is0I622a1gW2t",
+ "supplier": "Productifi",
+ "supplier_id": "oxido-nitrico-daz-premium-fit",
+ "visual_verified": true
+}

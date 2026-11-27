@@ -1,0 +1,62 @@
+{
+ "ai_color": "multi",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Pullulan, Phoenix Dactylifera extract, Curcuma Longa extract, Andrographis paniculate extract, Cichorium intybus extract, Vitis Vinifera extract, Phyllanthus Niruri extract, Phyllanthus Emblica extract, Cellulose, Mannitol, Licorice extract, Lecithin, Malic acid, Mango Flavor, Steviol glycosides, Orange flavor",
+ "ai_sizes": "30 strips",
+ "ai_type": "Hangover Strips",
+ "ai_ver": 2,
+ "art_note": "The lifestyle editorial shot creates a high-end atmosphere fitting the brand standard.",
+ "art_score": 8,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-tiras-para-la-resaca-daz-premium-fit",
+ "color": "multi",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your post-social wellness routine with our advanced oral strips. Crafted with a blend of traditional-inspired ingredients drawn from ayurvedic practices, these strips are designed to support overall well-being. Each serving integrates seamlessly into your daily lifestyle, helping maintain cognitive clarity, normal fluid levels, and relaxation for a restful sleep. Engineered to offer support after demanding social engagements. Available with worldwide shipping and made-to-order pieces.",
+ "desc_es": "Eleve su rutina de bienestar posterior a la actividad social con nuestras tiras orales avanzadas. Elaboradas con una mezcla de ingredientes de inspiración tradicional inspirados en prácticas ayurvédicas, estas tiras están diseñadas para apoyar el bienestar general. Cada porción se integra perfectamente en su estilo de vida diario, ayudando a mantener la claridad cognitiva, los niveles normales de líquidos y la relajación para un sueño reparador. Diseñado para ofrecer apoyo después de exigentes momentos de socialización. Disponible con envíos a todo el mundo y piezas elaboradas bajo pedido.",
+ "details_en": "· Mango and orange flavor\n· 30 oral strips per container\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Sabor mango y naranja\n· 30 tiras orales por envase\n· Fabricado bajo pedido\n· Envíos a todo el mundo",
+ "display_images": [
+  "assets/products/shop/3a2f88e5e0ae93d162fe.jpg",
+  "assets/products/shop/02fa269ea521e1edcae5.jpg",
+  "assets/products/shop/19051990ef38cbc3e1cb.jpg",
+  "assets/products/shop/f7e0f64c8f18895221a4.jpg"
+ ],
+ "draft": true,
+ "fam": "tiras-la-resaca",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-tiras-para-la-resaca-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Pullulan, Phoenix Dactylifera extract, Curcuma Longa extract, Andrographis paniculate extract, Cichorium intybus extract, Vitis Vinifera extract, Phyllanthus Niruri extract, Phyllanthus Emblica extract, Cellulose, Mannitol, Licorice extract, Lecithin, Malic acid, Mango Flavor, Steviol glycosides, Orange flavor",
+ "name_en": "Hangover Oral Strips",
+ "name_es": "Tiras para la Resaca",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 25.99,
+ "rank": 80,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Sin categoría",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "30 strips"
+ ],
+ "source_title": "Tiras para la Resaca DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/4gM28scnq6mw76uayG1gX0X",
+ "supplier": "Productifi",
+ "supplier_id": "tiras-para-la-resaca-daz-premium-fit",
+ "visual_verified": true
+}

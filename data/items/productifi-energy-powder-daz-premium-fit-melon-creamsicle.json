@@ -1,0 +1,59 @@
+{
+ "ai_color": "Melon Creamsicle",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Dietary Supplement Powder",
+ "ai_sizes": "3.52oz (99g)",
+ "ai_type": "Energy Powder",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography with professional lighting, maintaining high-end e-commerce standards.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-energy-powder-daz-premium-fit-melon-creamsicle",
+ "color": "Melon Creamsicle",
+ "created": "2026-11-25",
+ "desc_en": "Discover a balanced boost with our energy powder. Designed for those who demand a smooth, sustained increase in energy and focus. Each ingredient is carefully included in specific doses, focusing on optimal effectiveness and alignment with wellness goals. Enjoy the refreshing melon flavor. Ideal for intense workouts, marathon gaming sessions, or demanding days at the office. Made to order. Available with worldwide shipping.",
+ "desc_es": "Descubra un impulso equilibrado con nuestro energy powder. Diseñado para aquellos que exigen un aumento suave y sostenido de su energía y concentración. Cada ingrediente está cuidadosamente incluido en dosis específicas, enfocándose en una efectividad óptima y alineación con los objetivos de bienestar. Disfrute del refrescante sabor a melón. Ideal para entrenamientos intensos, sesiones de juego o días exigentes en la oficina. Hecho a pedido. Disponible con envío a todo el mundo.",
+ "details_en": "· Net Wt. 3.52oz (99g)\n· Sugar-free flavor\n· Features caffeine and L-theanine\n· Rich in electrolytes and essential nutrients",
+ "details_es": "· Net Wt. 3.52oz (99g)\n· Sabor sin azúcar\n· Contiene cafeína y L-teanina\n· Enriquecido con electrolitos y nutrientes esenciales",
+ "display_images": [
+  "assets/products/shop/2ddb53b6a10b64bfb772.jpg",
+  "assets/products/shop/4d404a792662bed06cc0.jpg"
+ ],
+ "draft": false,
+ "fam": "energy-powder-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-energy-powder-daz-premium-fit-melon-creamsicle",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Dietary Supplement Powder",
+ "name_en": "Energy Powder Melon Creamsicle",
+ "name_es": "Energy Powder Melon Creamsicle",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 30.99,
+ "rank": 238,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Alimentación, bebida y tabaco > Bebidas > Bebidas isotónicas y energéticas > Bebidas energéticas",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "3.52oz (99g)"
+ ],
+ "source_title": "Energy Powder DAZ Premium Fit (Melon Creamsicle)",
+ "stripe_payment_link": "https://buy.stripe.com/fZu3cw736cKU4Ym7mu1gW3D",
+ "supplier": "Productifi",
+ "supplier_id": "energy-powder-daz-premium-fit-melon-creamsicle",
+ "visual_verified": true
+}

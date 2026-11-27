@@ -1,0 +1,63 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Blanco",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Organic Maca Root, Black Pepper, Hypromellose, Vegetable Stearate",
+ "ai_sizes": "60 capsules",
+ "ai_type": "Suplemento",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio product photography with professional lighting and refined presentation.",
+ "art_score": 8,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-maca-plus-daz-premium-fit",
+ "color": "Blanco",
+ "created": "2026-11-25",
+ "desc_en": "Formulated to support your daily performance, this supplement combines red, black, and yellow maca varieties. Designed to deliver a comprehensive supplementation experience, each serving provides a precise concentration of natural extracts. Ideal for integrating into your wellness and physical activity routine.",
+ "desc_es": "Formulado para acompañar su rendimiento diario, este suplemento combina variedades de maca roja, negra y amarilla. Diseñado para ofrecer una experiencia integral de suplementación, cada porción proporciona una concentración precisa de extractos naturales. Ideal para integrar en su rutina de bienestar y actividad física.",
+ "details_en": "· 60 vegetable capsules per container\n· Ingredients: Organic black, red, and yellow maca root, black pepper, hypromellose vegetable capsule, vegetable stearate\n· Made in USA\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 60 cápsulas vegetales por envase\n· Ingredientes: raíz de maca orgánica negra, roja y amarilla, pimienta negra, cápsula vegetal de hipromelosa, estearato vegetal\n· Elaborado en EE. UU.\n· Hecho a pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/8ac6a9da60d18e2a0559.jpg",
+  "assets/products/shop/691f26d4cc5a5b844e9b.jpg"
+ ],
+ "draft": true,
+ "fam": "maca-plus-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-maca-plus-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Organic Maca Root, Black Pepper, Hypromellose, Vegetable Stearate",
+ "name_en": "Maca Plus Capsules",
+ "name_es": "Maca Plus Cápsulas",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 84,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 capsules"
+ ],
+ "source_title": "Maca Plus Daz Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/00w14ogDGeT262qfT01gX0Z",
+ "supplier": "Productifi",
+ "supplier_id": "maca-plus-daz-premium-fit",
+ "visual_verified": true
+}

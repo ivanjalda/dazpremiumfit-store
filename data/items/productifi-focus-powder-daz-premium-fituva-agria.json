@@ -1,0 +1,63 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Purple",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Powder",
+ "ai_type": "Supplement",
+ "ai_ver": 2,
+ "art_note": "Strong moody lighting and professional product staging create an elevated campaign look.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-focus-powder-daz-premium-fit-uva-agria",
+ "color": "Purple",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your mental performance with relentless precision. This advanced formula combines select ingredients to maintain concentration and clarity during your most demanding days. Designed to deliver sustained energy without unwanted crashes, it supports both intellectual effort and physical performance with absolute elegance. Each serving provides a refined boost to maintain sharpness in any environment. A sophisticated alternative for those seeking to transcend their daily limits with total control and focus.",
+ "desc_es": "Eleva tu rendimiento mental con una precisión implacable. Esta fórmula avanzada combina ingredientes selectos para mantener la concentración y la claridad durante tus jornadas más exigentes. Diseñado para ofrecer energía sostenida sin caídas indeseadas, acompaña tanto el esfuerzo intelectual como el rendimiento físico con absoluta elegancia. Cada porción proporciona un impulso refinado para mantener la agudeza en cualquier entorno. Una alternativa sofisticada para quienes buscan superar sus límites diarios con total control y enfoque.",
+ "details_en": "· Sour grape flavor\n· 165 g powder format\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Sabor uva agria\n· Formato en polvo de 165 g\n· Made to order\n· Worldwide shipping",
+ "display_images": [
+  "assets/products/shop/e62711c7755aecda31bf.jpg",
+  "assets/products/shop/4f8d3559bb2dce9b958a.jpg",
+  "assets/products/shop/cdde3989582ae79109ac.jpg",
+  "assets/products/shop/20045c1b565059b2254a.jpg",
+  "assets/products/shop/ce4938f94d362fef095f.jpg",
+  "assets/products/shop/f2f1d790682cbb5c62ab.jpg"
+ ],
+ "draft": true,
+ "fam": "focus-powder-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-focus-powder-daz-premium-fituva-agria",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Powder",
+ "name_en": "Focus Powder Sour Grape",
+ "name_es": "Focus Powder Uva Agria",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 35.99,
+ "rank": 231,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos herbales",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Focus Powder DAZ Premium Fit (Uva agria)",
+ "stripe_payment_link": "https://buy.stripe.com/5kQeVe1IM12cfD09uC1gY2q",
+ "supplier": "Productifi",
+ "supplier_id": "focus-powder-daz-premium-fituva-agria",
+ "visual_verified": true
+}

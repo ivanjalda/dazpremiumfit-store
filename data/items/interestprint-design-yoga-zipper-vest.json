@@ -1,0 +1,129 @@
+{
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Black / White / Multi",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "250g polyester-spandex double-sided fabric",
+ "ai_priority": true,
+ "ai_type": "sports bra",
+ "ai_ver": 2,
+ "art_note": "Model shot uses a low-quality digital composite of the graphic on a person, but product and detail shots are clean studio flats.",
+ "art_score": 4,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/ropa-interior"
+ ],
+ "cg": "t-design-yoga-zipper-vest",
+ "color": "white",
+ "created": "2026-11-25",
+ "desc_en": "Engineered for movement and definition, this athletic vest blends technical functionality with a streamlined silhouette. Crafted from a double-sided polyester and spandex fabric, it delivers exceptional softness with just the right stretch for comfortable support during practice. The front zipper design introduces versatility and a modern aesthetic. Removable bra pads provide customizable coverage. An essential performance piece tailored for the contemporary woman.",
+ "desc_es": "Diseñado para el movimiento y la definición, este top deportivo combina funcionalidad técnica con una silueta depurada. Confeccionado en tejido de doble cara de poliéster y elastano, ofrece una suavidad excepcional con la elasticidad justa para un soporte cómodo durante la práctica. El diseño frontal con cremallera aporta versatilidad y una estética moderna. Incorpora almohadillas de sujetador extraíbles para una cobertura personalizable. Una pieza esencial de rendimiento diseñada para la mujer contemporánea.",
+ "details_en": "· 250g polyester-spandex double-sided fabric\n· Front zipper closure\n· Removable bra pads\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Tejido de doble cara de poliéster y elastano de 250g\n· Cremallera frontal\n· Almohadillas de sujetador extraíbles\n· Hecho a pedido\n· Envíos a todo el mundo",
+ "display_images": [
+  "assets/products/shop/3af7eef43b6b98422084.jpg",
+  "assets/products/shop/4af5ce8f75a0fa188029.jpg",
+  "assets/products/shop/47e24de8b952095fed59.jpg",
+  "assets/products/shop/b463580fce4966889f28.jpg"
+ ],
+ "draft": true,
+ "fam": "yoga-zipper-vest",
+ "gender": "women",
+ "hidden": false,
+ "id": "interestprint-design-yoga-zipper-vest",
+ "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
+ ],
+ "material": "250g polyester-spandex double-sided fabric",
+ "name_en": "Zipper Athletic Vest",
+ "name_es": "Top Deportivo con Cremallera",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 23.99,
+ "rank": 94,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGHT",
+   "1/2BUST",
+   "1/2BOTTOM HEM"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD",
+   "1/2 BUSTO",
+   "1/2 DOBLEADILLO INFERIOR"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying!",
+  "notes_es": "Puede existir una diferencia de 1-2cm debido a la medición manual. Por favor verifique y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "XS",
+    "34cm / 13.4in",
+    "37.5cm / 14.8in",
+    "29.5cm / 11.6in"
+   ],
+   [
+    "S",
+    "35cm / 13.8in",
+    "40cm / 15.7in",
+    "32cm / 12.6in"
+   ],
+   [
+    "M",
+    "36cm / 14.2in",
+    "42.5cm / 16.7in",
+    "34.5cm / 13.6in"
+   ],
+   [
+    "L",
+    "37cm / 14.6in",
+    "45cm / 17.7in",
+    "37cm / 14.6in"
+   ],
+   [
+    "XL",
+    "38cm / 15in",
+    "47.5cm / 18.7in",
+    "39.5cm / 15.6in"
+   ],
+   [
+    "2XL",
+    "39cm / 15.4in",
+    "50cm / 19.7in",
+    "42cm / 16.5in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/f75e7e10c9e35e0afa7c.jpg",
+  "http://ipimg.interestprint.com/data/product/5158/info/image/20260114/C997343E5CCBA69C050F0E1C7262008E.jpg"
+ ],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "source_title": "Design Yoga Zipper Vest",
+ "stripe_payment_link": "https://buy.stripe.com/bJe6oIcnq3ak62qdKS1gW2h",
+ "supplier": "InterestPrint",
+ "supplier_id": "design-yoga-zipper-vest",
+ "visual_verified": true
+}

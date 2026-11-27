@@ -1,0 +1,60 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Organic Cordyceps (Cordyceps sinensis) Mushroom Mycelium Powder",
+ "ai_sizes": "60 capsules",
+ "ai_type": "Dietary Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio presentation of the product bottle.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-hongo-cordyceps-daz-premium-fit",
+ "color": "White",
+ "created": "2026-11-25",
+ "desc_en": "Formulated to elevate your daily performance. This natural Cordyceps extract supplement delivers targeted energy support backed by pure ingredients. Designed to seamlessly integrate into your high-performance wellness routine. Each bottle contains vegan capsules manufactured in the United States. Elevate your vitality with precision and superior quality. Available for worldwide shipping made to order.",
+ "desc_es": "Formulado para elevar su rendimiento diario. Este suplemento de extracto natural de Cordyceps ofrece apoyo energético respaldado por ingredientes puros. Diseñado para integrarse perfectamente en su rutina de bienestar de alto rendimiento. Cada frasco contiene cápsulas veganas fabricadas en los Estados Unidos. Eleve su vitalidad con precisión y calidad superior. Disponible para envíos a todo el mundo bajo pedido.",
+ "details_en": "· 60 vegan capsules\n· Ingredients: Organic Cordyceps, mushroom mycelium powder, organic capsule (pullulan, water), organic rice hull\n· Made in USA\n· Gross weight: 90 g\n· Made to order with worldwide shipping",
+ "details_es": "· 60 cápsulas veganas\n· Ingredientes: Cordyceps orgánico, micelio de hongos en polvo, cápsula orgánica de pullulano y agua, cáscara de arroz orgánico\n· Fabricado en EE. UU.\n· Peso bruto: 90 g\n· Producto bajo pedido con envíos a todo el mundo",
+ "display_images": [
+  "assets/products/shop/364f2d87cd632a03dd42.jpg"
+ ],
+ "draft": true,
+ "fam": "hongo-cordyceps-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-hongo-cordyceps-daz-premium-fit",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Organic Cordyceps (Cordyceps sinensis) Mushroom Mycelium Powder",
+ "name_en": "Cordyceps Mushroom Premium Extract",
+ "name_es": "Cordyceps Mushroom Premium Extract",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 30.99,
+ "rank": 271,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Sin categoría",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 capsules"
+ ],
+ "source_title": "Hongo Cordyceps DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/eVq7sM1IM26g0I67mu1gX00",
+ "supplier": "Productifi",
+ "supplier_id": "hongo-cordyceps-daz-premium-fit",
+ "visual_verified": true
+}

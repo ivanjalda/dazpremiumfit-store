@@ -1,0 +1,63 @@
+{
+ "ai_color": "White / Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Powder",
+ "ai_sizes": "150g",
+ "ai_type": "Hydration Powder",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio lighting and lifestyle imagery that aligns with elite sportswear presentation.",
+ "art_score": 9,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-polvo-hidratante-daz-premium-fit-lychee",
+ "color": "White / Black",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily performance with a formula designed to sustain optimal hydration and energy. This beverage combines essential electrolytes in a clean, caffeine-free blend. The lychee profile delivers a refined, invigorating taste that accompanies any level of physical activity. Each serving supports muscle function and endurance without adding unnecessary sugars. An essential addition for those seeking maximum well-being and focus throughout the day. Available with worldwide shipping.",
+ "desc_es": "Eleva tu rendimiento diario con una fórmula diseñada para mantener la hidratación y la energía óptimas. Esta bebida combina electrolitos esenciales en una mezcla limpia y sin cafeína. El perfil de lichi ofrece un sabor refinado y estimulante que acompaña cualquier nivel de actividad física. Cada porción apoya la función muscular y la resistencia sin añadir azúcares innecesarios. Un complemento esencial para quienes buscan el máximo bienestar y enfoque durante toda la jornada. Disponible con envíos a todo el mundo.",
+ "details_en": "· Flavor: Lychee\n· Net weight: 5.29 oz (150 g)\n· Caffeine-free and sugar-free\n· Keto-friendly\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Sabor: Lichi\n· Contenido neto: 5.29 oz (150 g)\n· Sin cafeína ni azúcar añadido\n· Apto para dietas cetogénicas\n· Hecho bajo pedido\n· Envios a todo el mundo",
+ "display_images": [
+  "assets/products/shop/3626e1076831dc2ef3f5.jpg",
+  "assets/products/shop/fe699bea6a91447f6b86.jpg",
+  "assets/products/shop/5ee0c566e48213c1639a.jpg",
+  "assets/products/shop/85b864d8af93ff8ba059.jpg",
+  "assets/products/shop/5f439cb49fb80099be1f.jpg"
+ ],
+ "draft": false,
+ "fam": "polvo-hidratante-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-polvo-hidratante-daz-premium-fit-lychee",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Powder",
+ "name_en": "Lychee Hydration Powder",
+ "name_es": "Polvo de Hidratación Lychee",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 33.99,
+ "rank": 210,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Casa y jardín > Jardín > Jardinería > Hidropónicos > Nutrientes y suplementos > Suplementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "150g"
+ ],
+ "source_title": "Polvo hidratante DAZ Premium Fit (Lychee)",
+ "stripe_payment_link": "https://buy.stripe.com/aFa6oI7364eocqOgX41gW3h",
+ "supplier": "Productifi",
+ "supplier_id": "polvo-hidratante-daz-premium-fit-lychee",
+ "visual_verified": true
+}

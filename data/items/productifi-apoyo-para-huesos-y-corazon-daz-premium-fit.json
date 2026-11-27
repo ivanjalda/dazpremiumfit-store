@@ -1,0 +1,66 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Calcium Carbonate, Vitamin D3, Vitamin K2, BioPerine",
+ "ai_sizes": "60 capsules",
+ "ai_type": "suplemento",
+ "ai_ver": 2,
+ "art_note": "High-end studio campaign aesthetic with clean lighting and professional lifestyle context.",
+ "art_score": 9,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-apoyo-para-huesos-y-corazon-daz-premium-fit",
+ "color": "white",
+ "created": "2026-11-25",
+ "desc_en": "Engineered for comprehensive wellness, this supplement combines vitamin D3 and K2 to optimize nutrient absorption and support cardiovascular health. Each vegetable capsule is designed to complement an active and demanding lifestyle. Made-to-order pieces with worldwide shipping.",
+ "desc_es": "Formulado para el bienestar integral, este suplemento combina vitamina D3 y K2 para optimizar la absorción de nutrientes y respaldar la salud cardiovascular. Cada cápsula vegetal está diseñada para complementar un estilo de vida activo y exigente. Piezas elaboradas bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 60 vegetable capsules per container\n· Made in USA\n· Made to order and available with worldwide shipping",
+ "details_es": "· 60 cápsulas vegetales por envase\n· Fabricado en EE. UU.\n· Hecho a pedido y disponible con envíos a todo el mundo",
+ "display_images": [
+  "assets/products/shop/442ebc8f325e5cb96054.jpg",
+  "assets/products/shop/397f68f0b5725796ea0d.jpg",
+  "assets/products/shop/909ff630f6cd5908328d.jpg",
+  "assets/products/shop/0916a140119b919a4b07.jpg",
+  "assets/products/shop/8d8d9fa1ea30316aa52f.jpg"
+ ],
+ "draft": true,
+ "fam": "apoyo-huesos-corazon",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-apoyo-para-huesos-y-corazon-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Calcium Carbonate, Vitamin D3, Vitamin K2, BioPerine",
+ "name_en": "Premium Bone And Heart Support",
+ "name_es": "Soporte Óseo y Cardíaco Premium",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 28.99,
+ "rank": 159,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 capsules"
+ ],
+ "source_title": "Apoyo para huesos y corazón Daz Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/6oU00kdrufX6bmK5em1gY23",
+ "supplier": "Productifi",
+ "supplier_id": "apoyo-para-huesos-y-corazon-daz-premium-fit",
+ "visual_verified": true
+}

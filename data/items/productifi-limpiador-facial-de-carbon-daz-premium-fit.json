@@ -1,0 +1,61 @@
+{
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Organic Aloe Vera Juice, Vegetable Glycerin, Coconut Oil Ethers, Cocamidopropyl Betaine, Kosher Vegetable Glycerin, Guar Gum, Activated Charcoal, Ethylhexylglycerin, Phenoxyethanol, Organic Tea Tree Essential Oil, Vitamin E",
+ "ai_sizes": "2 oz",
+ "ai_type": "Facial Cleanser",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on a plain background, standard e-commerce presentation.",
+ "art_score": 6,
+ "audited": "2026-11-25",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta"
+ ],
+ "cg": "t-limpiador-facial-de-carbon-daz-premium-fit",
+ "color": "Black",
+ "created": "2026-11-25",
+ "desc_en": "This charcoal facial cleanser is designed to provide a fresh and clean feeling on the skin. Its formula removes accumulated daily dirt and makeup. It contains natural ingredients for daily care. It helps keep skin soft and non-dry after every wash. It serves as an excellent companion for the post-workout routine, effectively removing sweat. Each piece is made to order with worldwide shipping available.",
+ "desc_es": "Este limpiador facial de carbón está diseñado para brindar una sensación de frescura y limpieza en la piel. Su fórmula elimina la suciedad y el maquillaje acumulados durante el día. Contiene ingredientes naturales para el cuidado diario. Ayuda a mantener la piel suave y sin sensación de sequedad tras cada lavado. Es un excelente complemento para la rutina posterior al entrenamiento, eliminando el sudor eficazmente. Cada pieza se elabora bajo pedido y cuenta con envío a todo el mundo.",
+ "details_en": "· Size: 2 oz / 69 g\n· Ingredients: Organic Aloe Vera Juice, Vegetable Glycerin, Coconut Oil Ethers, Cocamidopropyl Betaine, Kosher Vegetable Glycerin, Guar Gum, Activated Charcoal, Ethylhexylglycerin, Phenoxyethanol, Organic Tea Tree Essential Oil, Vitamin E\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Contenido: 2 oz / 69 g\n· Ingredientes: jugo de aloe vera orgánico, glicerina vegetal, éteres de aceite de coco, cocamidopropil betaína, glicerina vegetal kosher, goma guar, carbón activado, etilhexilglicerina, fenoxietanol, aceite esencial de árbol de té orgánico, vitamina E\n· Hecho bajo pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/99d2b894b474dcb57d5c.jpg"
+ ],
+ "draft": true,
+ "fam": "limpiador-facial-carbon",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-limpiador-facial-de-carbon-daz-premium-fit",
+ "look": [
+  "printify-6b09088dc87e8df47b098636-gold",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "printify-6b09087c1d99e97edf0dc88a",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "Organic Aloe Vera Juice, Vegetable Glycerin, Coconut Oil Ethers, Cocamidopropyl Betaine, Kosher Vegetable Glycerin, Guar Gum, Activated Charcoal, Ethylhexylglycerin, Phenoxyethanol, Organic Tea Tree Essential Oil, Vitamin E",
+ "name_en": "Activated Charcoal Facial Cleanser",
+ "name_es": "Limpiador Facial de Carbón Activo",
+ "needs_review": true,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 24.99,
+ "rank": 46,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado personal > Cosméticos > Cuidado de la piel",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "2 oz"
+ ],
+ "source_title": "Limpiador Facial de Carbón DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/28E14ogDG5isduS6iq1gW1M",
+ "supplier": "Productifi",
+ "supplier_id": "limpiador-facial-de-carbon-daz-premium-fit",
+ "visual_verified": true
+}

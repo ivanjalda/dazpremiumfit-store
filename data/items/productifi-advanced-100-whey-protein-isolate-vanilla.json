@@ -1,0 +1,62 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Whey Protein Isolate",
+ "ai_sizes": "28.40 oz / 805 g",
+ "ai_type": "Suplemento",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot with standard e-commerce presentation, though background lacks high-end campaign depth.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-daz-premium-fit-advanced-whey-protein-isolate-vanilla",
+ "color": "white",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily performance with this advanced formula. Crafted from pure whey protein isolate, it delivers a delicate vanilla profile designed to support muscle recovery and growth. Its creamy texture integrates seamlessly into your post-training routine. Enriched with select ingredients to accompany your daily wellness. Available with worldwide shipping and made to order.",
+ "desc_es": "Eleve su rendimiento diario con esta fórmula avanzada. Elaborada con aislado de proteína de suero puro, ofrece un delicado perfil de vainilla diseñado para apoyar la recuperación y el crecimiento muscular. Su textura cremosa se integra perfectamente en su rutina posterior al entrenamiento. Enriquecida con ingredientes selectos para acompañar su bienestar diario. Disponible con envíos a todo el mundo y fabricada bajo demanda.",
+ "details_en": "· 28.40 oz / 805 g\n· Vanilla flavor\n· Whey protein isolate\n· Made to order",
+ "details_es": "· 28.40 oz / 805 g\n· Sabor vainilla\n· Aislado de proteína de suero\n· Fabricado bajo demanda",
+ "display_images": [
+  "assets/products/shop/1e1e70f80e0245d59ab2.jpg",
+  "assets/products/shop/e014090ed15516eed541.jpg"
+ ],
+ "draft": false,
+ "fam": "premium-fit-advanced",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-advanced-100-whey-protein-isolate-vanilla",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Whey Protein Isolate",
+ "name_en": "Advanced Whey Protein Isolate",
+ "name_es": "Aislado de Proteína de Suero Avanzado",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 50.99,
+ "rank": 266,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos proteicos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "28.40 oz / 805 g"
+ ],
+ "source_title": "DAZ Premium Fit Advanced 100% Whey Protein Isolate (Vanilla)",
+ "stripe_payment_link": "https://buy.stripe.com/28E4gAfzCeT28aygX41gW44",
+ "supplier": "Productifi",
+ "supplier_id": "advanced-100-whey-protein-isolate-vanilla",
+ "visual_verified": true
+}

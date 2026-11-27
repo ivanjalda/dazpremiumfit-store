@@ -1,0 +1,60 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "cellulose capsule",
+ "ai_type": "dietary supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio shot of the product bottle with sharp typography and professional lighting.",
+ "art_score": 8,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-capsulas-naturales-para-el-bienestar-intestinal-daz-premium-fit",
+ "color": "black",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily wellness routine with a refined focus on digestive health. These capsules combine selected botanical extracts to support the natural balance of the intestinal microbiome. Formulated with chaga birch and fulvic acid rich pine bark extract, they offer essential support for overall gastrointestinal well-being. Designed to complement a demanding lifestyle, each serving promotes a harmonious digestive environment. Made to order piece. Available with worldwide shipping.",
+ "desc_es": "Eleve su rutina diaria de bienestar con un enfoque refinado en la salud digestiva. Estas cápsulas combinan extractos botánicos seleccionados para apoyar el equilibrio natural del microbioma intestinal. Formuladas con abedul chaga y extracto de corteza de pino rico en ácidos fúlvicos, ofrecen un soporte esencial para el bienestar gastrointestinal general. Diseñadas para complementar un estilo de vida exigente, cada porción promueve un entorno digestivo armonioso. Pieza elaborada bajo pedido. Disponible con envío a todo el mundo.",
+ "details_en": "· 30 capsules per container\n· Plant-based cellulose capsule\n· Ingredients: Birch Chaga and Pine Bark extract\n· Containing humic and fulvic acid\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 30 cápsulas por envase\n· Cápsula de celulosa de origen vegetal\n· Ingredientes: Abedul chaga y extracto de corteza de pino\n· Con ácido húmico y fúlvico\n· Elaborado bajo pedido\n· Envios a todo el mundo",
+ "display_images": [
+  "assets/products/shop/f922a8e0a11870d356c4.jpg",
+  "assets/products/shop/03a4c646efd6d9b783ed.jpg"
+ ],
+ "draft": true,
+ "fam": "capsulas-naturales-el",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-natural-gut-wellness-capsules",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "cellulose capsule",
+ "name_en": "Natural Gut Wellness Capsules",
+ "name_es": "Cápsulas de Bienestar Intestinal Natural",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 30.99,
+ "rank": 220,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos digestivos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Cápsulas naturales para el bienestar intestinal DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/8x2aEYfzCfX61Ma7mu1gY2l",
+ "supplier": "Productifi",
+ "supplier_id": "natural-gut-wellness-capsules",
+ "visual_verified": true
+}

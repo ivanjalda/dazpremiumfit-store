@@ -1,0 +1,62 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "yellow",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Freeze-dried extract of bee bread, Lyophilized royal jelly, Propolis extract powder, Vitamin C",
+ "ai_type": "dietary supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio and lifestyle imagery with professional lighting, maintaining high e-commerce standards.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-polvo-de-pan-de-abeja-daz-premium-fit",
+ "color": "yellow",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily routine with a concentrated blend designed for peak physical performance. Formulated with freeze-dried bee bread, lyophilized royal jelly, and propolis extract, this dietary supplement delivers essential nutrients in convenient single-serve sachets. Add one sachet daily to your preferred smoothie, yogurt, or cereal. Made to order with worldwide shipping.",
+ "desc_es": "Elevate your daily routine with a concentrated blend designed for peak physical performance. Formulated with freeze-dried bee bread, lyophilized royal jelly, and propolis extract, this dietary supplement delivers essential nutrients in convenient single-serve sachets. Add one sachet daily to your preferred smoothie, yogurt, or cereal. Made to order with worldwide shipping.",
+ "details_en": "· Contains 30 easy-to-use sachets\n· Ingredients: freeze-dried extract of bee bread, lyophilized royal jelly, propolis extract powder, vitamin C\n· Gross weight: 136 g\n· Made to order pieces\n· Worldwide shipping available",
+ "details_es": "· Contiene 30 sobres fáciles de usar\n· Ingredientes: extracto liofilizado de pan de abeja, jalea real liofilizada, extracto de propóleo en polvo, vitamina C\n· Peso bruto: 136 g\n· Made to order pieces\n· Worldwide shipping available",
+ "display_images": [
+  "assets/products/shop/c4005d73fd811629c959.jpg",
+  "assets/products/shop/12a5962d94b7965b0adb.jpg",
+  "assets/products/shop/07dac2ec4fb3a53edae6.jpg",
+  "assets/products/shop/3d9b30c024e258e412a5.jpg",
+  "assets/products/shop/c50090ddee3146f0c9ea.jpg"
+ ],
+ "draft": true,
+ "fam": "polvo-pan-abeja",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-polvo-de-pan-de-abeja-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Freeze-dried extract of bee bread, Lyophilized royal jelly, Propolis extract powder, Vitamin C",
+ "name_en": "Bee Bread Powder",
+ "name_es": "Polvo de Pan de Abeja",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 34.99,
+ "rank": 298,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Casa y jardín > Jardín > Jardinería > Hidropónicos > Nutrientes y suplementos > Suplementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Polvo de pan de abeja DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/4gM7sMevy5is76udKS1gY2B",
+ "supplier": "Productifi",
+ "supplier_id": "polvo-de-pan-de-abeja-daz-premium-fit",
+ "visual_verified": true
+}

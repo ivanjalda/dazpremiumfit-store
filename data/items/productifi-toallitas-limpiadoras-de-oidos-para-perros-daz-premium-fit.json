@@ -1,0 +1,61 @@
+{
+ "ai_color": "White",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Pre-moistened wipes",
+ "ai_sizes": "100 wipes",
+ "ai_type": "Pet Care",
+ "ai_ver": 2,
+ "art_note": "Clean product studio shot but generic secondary graphic assets.",
+ "art_score": 5,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta"
+ ],
+ "cg": "t-toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
+ "color": "White",
+ "created": "2026-11-25",
+ "desc_en": "Maintain your pet's ear health with an advanced formula designed for safe and effective cleaning. Crafted with natural ingredients such as willow bark and witch hazel, these wipes hydrate and care for the skin around the ear canal. The pre-moistened design offers a practical alternative to conventional liquid solutions. Each container holds 100 units with balanced pH and a fresh scent. Made in the USA. Available with worldwide shipping and made-to-order fulfillment.",
+ "desc_es": "Mantenga la salud auditiva de su mascota con una fórmula avanzada diseñada para una limpieza segura y eficaz. Elaboradas con ingredientes naturales como corteza de sauce y hamalamis, estas toallitas hidratan y cuidan la piel alrededor del canal auditivo. Su diseño prehumedecido ofrece una alternativa práctica a las soluciones líquidas convencionales. Cada envase contiene 100 unidades con pH equilibrado y aroma fresco. Fabricado en Estados Unidos. Disponible con envío a todo el mundo y confección bajo pedido.",
+ "details_en": "· 100 pre-moistened wipes\n· Ingredients: Water, Witch Hazel Extract, Willow Bark Extract, Leuconostoc/Radish Root Ferment Filtrate, Polysorbate 80, Fragrance, Aloe Barbadensis Leaf Powder, Lactic Acid\n· Made in USA\n· Made-to-order",
+ "details_es": "· 100 toallitas prehumedecidas\n· Ingredientes: Agua, Extracto de Hamamelis, Extracto de Corteza de Sauce, Filtrado de Fermento de Raíz de Rábano, Polisorbato 80, Fragancia, Polvo de Hoja de Aloe Barbadensis, Ácido Láctico\n· Hecho en EE. UU.\n· Fabricado bajo pedido",
+ "display_images": [
+  "assets/products/shop/a282e7b22473826c652b.jpg"
+ ],
+ "draft": true,
+ "fam": "toallitas-limpiadoras-oidos",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
+ "look": [
+  "printify-6b09088dc87e8df47b098636-gold",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "printify-6b09087c1d99e97edf0dc88a",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "Pre-moistened wipes",
+ "name_en": "Dog Ear Cleaner Wipes",
+ "name_es": "Toallitas Limpiadoras de Oídos",
+ "needs_review": true,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 25.99,
+ "rank": 149,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Productos para mascotas y animales",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "100 wipes"
+ ],
+ "source_title": "Toallitas Limpiadoras de Oídos para Perros DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/dRm14o1IM6mw2QeayG1gW2K",
+ "supplier": "Productifi",
+ "supplier_id": "toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
+ "visual_verified": true
+}

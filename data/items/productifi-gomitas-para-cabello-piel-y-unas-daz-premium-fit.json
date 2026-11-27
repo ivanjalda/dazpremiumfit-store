@@ -1,0 +1,60 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Suplemento",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio lighting on product shots, matching luxury e-commerce standards.",
+ "art_score": 8,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-gomitas-para-cabello-piel-y-unas-daz-premium-fit",
+ "color": "Multicolor",
+ "created": "2026-11-25",
+ "desc_en": "Discover the secret to radiant beauty with hair, skin, and nails gummies. Formulated with a unique combination of essential vitamins and minerals, these gummies care for your hair, skin, and nails from the inside out. Each delicious gummy contains biotin and essential vitamins, creating a nourishing blend that promotes your natural glow and beauty. Collagen adds an extra boost to help maintain the structure and appearance of your hair and nails. Incorporate this supplement into your daily routine.",
+ "desc_es": "Descubre el secreto de una belleza radiante con las gomitas para cabello, piel y uñas. Formuladas con una combinación única de vitaminas y minerales esenciales, estas gomitas cuidan tu cabello, piel y uñas desde adentro hacia afuera. Cada deliciosa gomita contiene biotina y vitaminas esenciales que crean una mezcla nutritiva para promover tu brillo y belleza natural. El colágeno añade un refuerzo adicional para mantener la estructura y la apariencia de tu cabello y uñas. Incorpora este suplemento a tu rutina diaria.",
+ "details_en": "· Made to order and worldwide shipping",
+ "details_es": "· Hecho bajo pedido y con envíos a todo el mundo",
+ "display_images": [
+  "assets/products/shop/b5bbcd4cc763987abd33.jpg",
+  "assets/products/shop/b37abf8201cae83077be.jpg",
+  "assets/products/shop/7421249f7c9029a81cab.jpg"
+ ],
+ "draft": true,
+ "fam": "gomitas-cabello-piel",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-gomitas-para-cabello-piel-y-unas-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "",
+ "name_en": "Hair Skin And Nails Gummies",
+ "name_es": "Gomitas Belleza Capilar Piel y Uñas",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 28.99,
+ "rank": 186,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Gomitas para cabello, piel y uñas DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/28E3cwbjmcKU4Ym22a1gY2b",
+ "supplier": "Productifi",
+ "supplier_id": "gomitas-para-cabello-piel-y-unas-daz-premium-fit",
+ "visual_verified": true
+}

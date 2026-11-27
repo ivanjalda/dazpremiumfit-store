@@ -1,0 +1,63 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Proprietary Blend (Psyllium Powder, Acai Berry Extract, Inulin, Slippery Elm Bark, Aloe Ferox Powder Alion 18%, Chlorella, Black Walnut Hulls Powder, Ginger Root, Hyssop Leaf, Papaya Fruit Powder, Lycopene 5%), Cellulose (Vegetable Capsule), Magnesium Stearate",
+ "ai_sizes": "60 capsules",
+ "ai_type": "Dietary Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot with professional lighting, though secondary images include low quality graphic elements.",
+ "art_score": 7,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-max-detox-daz-premium-fit-acai-detox",
+ "color": "white",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your daily routine with Max Detox. A precise formulation combining selected natural ingredients to support your well-being. This complex integrates acai extract, psyllium, and botanical extracts within a vegetable capsule. Designed to complement a lifestyle focused on health and balance. Manufactured in the United States under rigorous quality standards. Available with worldwide shipping and made to order.",
+ "desc_es": "Eleve su rutina diaria con Max Detox. Una fórmula precisa que combina ingredientes naturales seleccionados para apoyar su bienestar. Este complejo integra extracto de acai, psyllium y extractos botánicos en una cápsula vegetal. Diseñado para complementar un estilo de vida enfocado en la salud y el equilibrio. Fabricado en Estados Unidos bajo estrictos estándares de calidad. Disponible con envío a todo el mundo y confeccionado bajo pedido.",
+ "details_en": "· 60 capsules per container\n· Made in USA\n· Made to order and worldwide shipping",
+ "details_es": "· 60 cápsulas por envase\n· Fabricado en EE. UU.\n· Hecho bajo pedido y con envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/c6b895852b7b6fe4e5c0.jpg",
+  "assets/products/shop/e272bdd9b2f954c20e2b.jpg"
+ ],
+ "draft": true,
+ "fam": "max-detox-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-max-detox-daz-premium-fitacai-detox",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Proprietary Blend (Psyllium Powder, Acai Berry Extract, Inulin, Slippery Elm Bark, Aloe Ferox Powder Alion 18%, Chlorella, Black Walnut Hulls Powder, Ginger Root, Hyssop Leaf, Papaya Fruit Powder, Lycopene 5%), Cellulose (Vegetable Capsule), Magnesium Stearate",
+ "name_en": "Max Detox Dietary Supplement",
+ "name_es": "Max Detox Suplemento Dietético",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 96,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 capsules"
+ ],
+ "source_title": "Max Detox DAZ Premium Fit(Acai detox)",
+ "stripe_payment_link": "https://buy.stripe.com/aFa00kevydOYduS8qy1gX14",
+ "supplier": "Productifi",
+ "supplier_id": "max-detox-daz-premium-fitacai-detox",
+ "visual_verified": true
+}

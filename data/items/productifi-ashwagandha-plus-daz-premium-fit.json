@@ -1,0 +1,63 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "HPMC vegetable capsule",
+ "ai_sizes": "60 capsules",
+ "ai_type": "Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio shot of the product bottle with sharp typography and professional lighting.",
+ "art_score": 8,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-ashwagandha-plus-daz-premium-fit",
+ "color": "white",
+ "created": "2026-11-25",
+ "desc_en": "Ashwagandha Plus combines essential vitamins with traditional adaptogens to maintain daily energy and vitality. Vitamins D3, B6, and B12 provide key nutrients that contribute to normal metabolism, healthy nervous system function, and overall well-being. L-arginine supports healthy circulation, while maca and Panax Ginseng offer botanical support for endurance and balance. Each ingredient is included in precise amounts to maintain a clean and effective blend housed in vegetarian capsules.",
+ "desc_es": "Ashwagandha Plus combina vitaminas esenciales con adaptógenos tradicionales para mantener la energía y vitalidad diarias. Las vitaminas D3, B6 y B12 aportan nutrientes clave que contribuyen al metabolismo normal, al funcionamiento saludable del sistema nervioso y al bienestar general. La L-arginina favorece una circulación saludable, mientras que la maca y el Panax Ginseng ofrecen un apoyo vegetal para la resistencia y el equilibrio. Cada ingrediente se incluye en cantidades precisas para mantener una mezcla limpia y eficaz envasada en cápsulas vegetarianas.",
+ "details_en": "· 60 HPMC vegetarian-friendly capsules\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 60 cápsulas HPMC aptas para vegetarianos\n· Made to order\n· Worldwide shipping",
+ "display_images": [
+  "assets/products/shop/f1366607513f9b36b5c4.jpg",
+  "assets/products/shop/e844f63e73ca95d1b2e3.jpg"
+ ],
+ "draft": true,
+ "fam": "ashwagandha-plus-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-ashwagandha-plus-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "HPMC vegetable capsule",
+ "name_en": "DAZ Ashwagandha Plus",
+ "name_es": "Ashwagandha Plus Premium Fit",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 24.99,
+ "rank": 106,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Vitaminas individuales",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 capsules"
+ ],
+ "source_title": "Ashwagandha Plus DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/8x28wQ2MQ8uE0I65em1gX19",
+ "supplier": "Productifi",
+ "supplier_id": "ashwagandha-plus-daz-premium-fit",
+ "visual_verified": true
+}

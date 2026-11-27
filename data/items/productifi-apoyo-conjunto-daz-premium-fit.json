@@ -1,0 +1,63 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "capsules",
+ "ai_priority": true,
+ "ai_sizes": "60 capsules",
+ "ai_type": "supplement",
+ "ai_ver": 2,
+ "art_note": "Clean studio product render, standard presentation for a supplement bottle.",
+ "art_score": 6,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-apoyo-conjunto-daz-premium-fit",
+ "color": "white",
+ "created": "2026-11-25",
+ "desc_en": "Engineered to support joint health and mobility. This supplement combines essential ingredients such as MSM, vegetal glucosamine, turmeric, and Boswellia serrata to promote daily flexibility. Designed to accompany an active lifestyle with uncompromising quality standards. Made to order. Worldwide shipping.",
+ "desc_es": "Formulado para respaldar la salud y la movilidad de las articulaciones. Este suplemento combina ingredientes esenciales como MSM, glucosamina vegetal, cúrcuma y Boswellia serrata para promover la flexibilidad diaria. Diseñado para acompañar un estilo de vida activo con altos estándares de calidad. Made to order. Worldwide shipping.",
+ "details_en": "· 60 capsules per container\n· Made in USA\n· Suggested use: two capsules daily with water",
+ "details_es": "· 60 cápsulas por envase\n· Fabricado en EE. UU.\n· Uso sugerido: dos cápsulas al día con agua",
+ "display_images": [
+  "assets/products/shop/3fafcd06c8026514e266.jpg",
+  "assets/products/shop/d84a684a683d3c60bc8f.jpg"
+ ],
+ "draft": true,
+ "fam": "apoyo-conjunto-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-apoyo-conjunto-daz-premium-fit",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "capsules",
+ "name_en": "DAZ Joint Support Capsules",
+ "name_es": "DAZ Joint Support Capsules",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 126,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 capsules"
+ ],
+ "source_title": "Apoyo Conjunto DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/7sYfZifzC6mw3UidKS1gW2y",
+ "supplier": "Productifi",
+ "supplier_id": "apoyo-conjunto-daz-premium-fit",
+ "visual_verified": true
+}

@@ -1,0 +1,61 @@
+{
+ "ai_color": "Clear",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Aloe Vera Gel",
+ "ai_sizes": "2.2 fl oz",
+ "ai_type": "Gel",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot, but secondary images are generic iconography lacking a cohesive campaign feel.",
+ "art_score": 5,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta"
+ ],
+ "cg": "t-gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit",
+ "color": "Clear",
+ "created": "2026-11-25",
+ "desc_en": "Designed to balance and refresh the skin, this radiance gel helps reduce visible signs and the appearance of redness and blemishes. Its advanced formula combines aloe vera gel, black willow bark oil, cucumber extract, sweet almond oil, and tea tree oil. Each component works in harmony to maintain deep hydration and promote a visibly renewed complexion. Enjoy soft, nourished, and purified skin every day. Made-to-order pieces. Worldwide shipping available.",
+ "desc_es": "Diseñado para equilibrar y refrescar la piel, este gel iluminador ayuda a reducir los signos visibles y la apariencia de enrojecimiento e imperfecciones. Su fórmula avanzada combina gel de aloe vera, aceite de corteza de sauce negro, extracto de pepino, aceite de almendras dulces y aceite de árbol de té. Cada componente trabaja en sintonía para mantener la hidratación profunda y promover una tez visiblemente renovada. Disfrute de una piel suave, nutrida y purificada todos los días. Made-to-order pieces. Worldwide shipping available.",
+ "details_en": "· Content: 2.2 fl oz / 62 g\n· Ingredients: Aloe Vera Gel, Guar Gum, Kosher Vegetable Glycerine, Sweet Almond Oil, Black Willow Bark Oil (2%), Cucumber Extract, Tea Tree Oil, Carbomer, Ethylhexyglycerin, Phenoxyethanol, TEA\n· Made in USA\n· Made-to-order",
+ "details_es": "· Contenido: 2,2 fl oz / 62 g\n· Ingredientes: Aloe Vera Gel, Guar Gum, Kosher Vegetable Glycerine, Sweet Almond Oil, Black Willow Bark Oil (2%), Cucumber Extract, Tea Tree Oil, Carbomer, Ethylhexyglycerin, Phenoxyethanol, TEA\n· Fabricado en EE. UU.\n· Made-to-order",
+ "display_images": [
+  "assets/products/shop/2c9409e7eed611d1c3c1.jpg"
+ ],
+ "draft": true,
+ "fam": "gel-iluminador-aloe",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit",
+ "look": [
+  "printify-6b09088dc87e8df47b098636-gold",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "printify-6b09087c1d99e97edf0dc88a",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "Aloe Vera Gel",
+ "name_en": "Aloe and Tea Tree Radiance Gel",
+ "name_es": "Gel Iluminador Aloe y Árbol de Té",
+ "needs_review": true,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 23.99,
+ "rank": 90,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Servicios > Servicios personales > Belleza y cuidado personal",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "2.2 fl oz"
+ ],
+ "source_title": "Gel iluminador de aloe y árbol de té DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/28EaEY87aeT262qeOW1gW2g",
+ "supplier": "Productifi",
+ "supplier_id": "gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit",
+ "visual_verified": true
+}

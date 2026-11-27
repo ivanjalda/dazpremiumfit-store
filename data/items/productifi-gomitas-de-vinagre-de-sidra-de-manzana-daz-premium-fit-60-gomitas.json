@@ -1,0 +1,64 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Transparente y negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Gomitas",
+ "ai_type": "Suplemento",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio product shots with polished lighting that elevate the supplement to luxury standards.",
+ "art_score": 9,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-gomitas-de-vinagre-de-sidra-de-manzana-daz-premium-fit-gomitas",
+ "color": "Clear bottle + black cap",
+ "created": "2026-11-25",
+ "desc_en": "Advanced optimization for physical performance. These gummies combine a precise formula with selected ingredients to support your daily training routine. Presented in a minimalist packaging, they integrate apple cider vinegar, pomegranate, and beet juice. Developed under strict quality controls, they offer a practical option without compromising excellence. Made to order. Worldwide shipping.",
+ "desc_es": "Optimizacion avanzada para el rendimiento fisico. Estas gomitas combinan una formula precisa con ingredientes seleccionados para apoyar su rutina de entrenamiento diaria. Presentadas en un envase minimalista, integran vinagre de sidra de manzana, jugo de granada y remolacha. Desarrolladas bajo estrictos controles de calidad, ofrecen una opcion practica sin comprometer la excelencia. Fabricadas bajo pedido. Envios a todo el mundo.",
+ "details_en": "· 60 gummies per bottle\n· Key ingredients: Sodium, folate, vitamin B12, apple cider vinegar, pomegranate and beet juice\n· Vegan and vegetarian friendly\n· Non-GMO\n· Packaged in FDA-registered and GMP-certified facilities\n· Made to order",
+ "details_es": "· 60 gomitas por envase\n· Ingredientes clave: Sodio, folato, vitamina B12, vinagre de sidra de manzana, jugo de granada y remolacha\n· Apto para veganos y vegetarianos\n· Sin OGM\n· Envasado en instalaciones registradas por la FDA y certificadas por GMP\n· Hecho bajo pedido",
+ "display_images": [
+  "assets/products/shop/dc7387745bb4168b63df.jpg",
+  "assets/products/shop/b4bf1375e3cb06e6efdc.jpg",
+  "assets/products/shop/3ac4eaa20e1f1cbd52ad.jpg",
+  "assets/products/shop/a363711aedda4dc39418.jpg",
+  "assets/products/shop/f9e1d0e5a2d480656e67.jpg"
+ ],
+ "draft": true,
+ "fam": "gomitas-vinagre-sidra",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-gomitas-de-vinagre-de-sidra-de-manzana-daz-premium-fit-60-gomitas",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Gomitas",
+ "name_en": "Apple Cider Vinegar Gummies",
+ "name_es": "Gomitas de Vinagre de Sidra",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 25.99,
+ "rank": 125,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos > Suplementos herbales",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 Gummies (vegan)"
+ ],
+ "source_title": "Gomitas de vinagre de sidra de manzana DAZ Premium Fit (60 gomitas)",
+ "stripe_payment_link": "https://buy.stripe.com/6oU6oIafiaCMgH44ai1gX1j",
+ "supplier": "Productifi",
+ "supplier_id": "gomitas-de-vinagre-de-sidra-de-manzana-daz-premium-fit-60-gomitas",
+ "visual_verified": true
+}

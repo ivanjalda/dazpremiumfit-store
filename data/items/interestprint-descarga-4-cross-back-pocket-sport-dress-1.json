@@ -1,0 +1,137 @@
+{
+ "ai_cats": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "80% polyester, 20% spandex",
+ "ai_type": "dress",
+ "ai_ver": 2,
+ "art_note": "The lifestyle images use artificial compositing with repetitive background scenes, which lowers the overall brand perception.",
+ "art_score": 4,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/vestidos-monos-petos"
+ ],
+ "cg": "t-descarga-cross-back-pocket-sport-dress",
+ "color": "white",
+ "created": "2026-11-25",
+ "desc_en": "Engineered for movement and precision. This sport dress integrates inner shorts and side pockets for essential storage. Adjustable X-back straps ensure a secure fit during dynamic performance. A removable bra offers versatility and complete coverage. Made to order with worldwide shipping available.",
+ "desc_es": "Diseñado para el movimiento y la precisión. Este vestido deportivo integra un short interior y bolsillos laterales para mayor funcionalidad. Los tirantes ajustables en la espalda cruzada aseguran un ajuste firme durante cada movimiento. Su sujetador extraíble ofrece versatilidad y cobertura total. Fabricado bajo pedido con envíos a todo el mundo.",
+ "details_en": "· 80% polyester, 20% spandex\n· Integrated short with side pockets\n· Removable bra\n· Adjustable X-back straps\n· Hand or machine wash at temperatures <=45C",
+ "details_es": "· 80% poliéster, 20% spandex\n· Short integrado con bolsillos laterales\n· Sujetador extraíble\n· Tirantes ajustables en la espalda\n· Lavado a mano o a máquina a temperatura inferior o igual a 45ºC",
+ "display_images": [
+  "assets/products/shop/bd22b703cc431b9f0cfc.jpg",
+  "assets/products/shop/80341ac6087e6b1e3a3a.jpg",
+  "assets/products/shop/ec94c7cf337b9bf64c88.jpg",
+  "assets/products/shop/7cd5b7d407e558052613.jpg"
+ ],
+ "draft": true,
+ "fam": "descarga-cross-back",
+ "gender": "women",
+ "hidden": false,
+ "id": "interestprint-descarga-4-cross-back-pocket-sport-dress-1",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
+ ],
+ "material": "80% polyester, 20% spandex",
+ "name_en": "Cross back pocket sport dress · White",
+ "name_es": "Vestido deportivo cruzado con bolsillo · Blanco",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 35.99,
+ "rank": 255,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH (A)",
+   "CHEST (B)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD (A)",
+   "PECHO (B)"
+  ],
+  "notes_en": "Calculate your size from the measurement chart above.",
+  "notes_es": "Calcule su talla a partir de la tabla de medidas anterior.",
+  "rows": [
+   [
+    "XS",
+    "20.30",
+    "32.50"
+   ],
+   [
+    "S",
+    "21.00",
+    "34.00"
+   ],
+   [
+    "M",
+    "21.70",
+    "35.50"
+   ],
+   [
+    "L",
+    "22.50",
+    "37.50"
+   ],
+   [
+    "XL",
+    "23.30",
+    "39.50"
+   ],
+   [
+    "2XL",
+    "24.10",
+    "41.50"
+   ],
+   [
+    "3XL",
+    "24.90",
+    "43.50"
+   ],
+   [
+    "4XL",
+    "25.70",
+    "45.50"
+   ],
+   [
+    "5XL",
+    "26.50",
+    "49.50"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/5200/info/image/20260122/E11E209DF6208292459E35CE96C86675.png"
+ ],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "descarga (4) Cross Back Pocket Sport Dress",
+ "stripe_payment_link": "https://buy.stripe.com/fZufZigDG9yIeyWfT01gY2u",
+ "supplier": "InterestPrint",
+ "supplier_id": "descarga-4-cross-back-pocket-sport-dress-1",
+ "visual_verified": true
+}

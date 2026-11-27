@@ -1,0 +1,133 @@
+{
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Blanco y negro",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "80% poliéster y 20% elastano",
+ "ai_type": "Top deportivo",
+ "ai_ver": 2,
+ "art_note": "High-end editorial campaign imagery with sophisticated lighting and polished styling that elevates the performance aesthetic.",
+ "art_score": 9,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/ropa-interior"
+ ],
+ "cg": "t-dpf-astrale-top-deportivo-de-estrellas-y-espalda-anudada",
+ "color": "Blanco y negro",
+ "created": "2026-11-25",
+ "desc_en": "A bold silhouette defined by graphic contrast. This sports bra combines clean lines with a knotted back revealing a subtle cutout. The black and white star print brings visual strength to every movement. Wide straps offer support while the elastic fabric follows the natural form of the body. Designed to stand out both during training and in the moments that follow.",
+ "desc_es": "Una silueta audaz definida por un contraste gráfico. Este top deportivo combina líneas depuradas con una espalda anudada que revela una abertura posterior. El estampado de estrellas en blanco y negro aporta fuerza visual a cada movimiento. Los tirantes anchos ofrecen sujeción mientras el tejido elástico acompaña la forma natural del cuerpo. Diseñado para destacar tanto en el entrenamiento como en los momentos posteriores.",
+ "details_en": "· Composition: 80% polyester and 20% elastane.\n· Distinctive back with knotted detail and posterior cutout.\n· Opaque padding.\n· Front logo and graphic.\n· Made to order with worldwide shipping.",
+ "details_es": "· Composición: 80% poliéster y 20% elastano.\n· Espalda distintiva con detalle anudado y abertura posterior.\n· Almohadillas opacas.\n· Logotipo frontal y gráfico.\n· Hecho bajo pedido y con envío a todo el mundo.",
+ "display_images": [
+  "assets/products/shop/c2bfa6aa71ba4d0b61c5.jpg",
+  "assets/products/shop/0a95a73035ca75fc9399.jpg",
+  "assets/products/shop/29bc5308f4f18cc0dcbf.jpg",
+  "assets/products/shop/120cff3d8e3435fac450.jpg",
+  "assets/products/shop/074fa002120ea9046a60.jpg"
+ ],
+ "draft": false,
+ "fam": "astrale-top-deportivo",
+ "gender": "women",
+ "hidden": false,
+ "id": "interestprint-aesthetic-icon-knotted-back-cutout-sports-bra",
+ "img_checked": "2026-11-25",
+ "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
+ ],
+ "material": "80% poliéster y 20% elastano",
+ "name_en": "Astrale Star Sports Bra",
+ "name_es": "Top Deportivo Astrale de Estrellas",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 121,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Tops deportivos > Tops cortos",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A) Inches",
+   "CHEST(B) Inches"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A) Pulgadas",
+   "PECHO(B) Pulgadas"
+  ],
+  "notes_en": "The position of the print and its alignment on the seams may vary slightly. Possible color differences of up to 5% and measurement differences of 2-3 cm.",
+  "notes_es": "La posición del estampado y su alineación en las costuras pueden variar ligeramente. Posibles diferencias de color de hasta un 5% y diferencias de medida de 2-3 cm.",
+  "rows": [
+   [
+    "S",
+    "14.70",
+    "30.00"
+   ],
+   [
+    "M",
+    "15.00",
+    "31.50"
+   ],
+   [
+    "L",
+    "15.20",
+    "33.50"
+   ],
+   [
+    "XL",
+    "15.50",
+    "35.50"
+   ],
+   [
+    "2XL",
+    "15.70",
+    "37.50"
+   ],
+   [
+    "3XL",
+    "16.00",
+    "39.50"
+   ],
+   [
+    "4XL",
+    "16.20",
+    "41.50"
+   ],
+   [
+    "5XL",
+    "16.50",
+    "43.50"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/5215/info/image/20260126/918C94DA0E1A9D0DD4A96311CB9C1E51.png"
+ ],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "DPF Astrale | Top deportivo de estrellas y espalda anudada",
+ "stripe_payment_link": "https://buy.stripe.com/14A7sM5Z226gcqO0Y61gW2u",
+ "supplier": "InterestPrint",
+ "supplier_id": "aesthetic-icon-knotted-back-cutout-sports-bra",
+ "visual_verified": true
+}

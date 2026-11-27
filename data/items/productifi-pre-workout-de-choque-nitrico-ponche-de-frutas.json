@@ -1,0 +1,62 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Fruit Punch",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Powder",
+ "ai_sizes": "300g",
+ "ai_type": "Pre-Workout Supplement",
+ "ai_ver": 2,
+ "art_note": "Clean, high-end studio product photography with sharp typography and professional lighting.",
+ "art_score": 9,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-pre-entrenamiento-de-choque-nitrico-daz-premium-fit-ponche-de-frutas",
+ "color": "Fruit Punch",
+ "created": "2026-11-25",
+ "desc_en": "Elevate your performance with the advanced Nitric Shock supplement in fruit punch flavor. Designed to maximize your physical and mental energy, this powder combines twenty-three key nutrients to push past your limits in every training session. Its advanced formula includes dicreatine malate, arginine AKG, and beta-alanine to boost your strength and endurance. Available with worldwide shipping and made to order to ensure ultimate freshness.",
+ "desc_es": "Eleva tu rendimiento con el suplemento avanzado Nitric Shock en sabor ponche de frutas. Diseñado para maximizar tu energía física y mental, este polvo combina veintitrés nutrientes clave para superar tus límites en cada sesión de entrenamiento. Su fórmula avanzada incluye malato de dicreatina, arginina AKG y beta-alanina para potenciar tu fuerza y resistencia. Disponible con envíos a todo el mundo y fabricado bajo demanda para garantizar la máxima frescura.",
+ "details_en": "· 300g net per container\n· Fruit punch flavor\n· 30 servings per container\n· Made to order",
+ "details_es": "· 300g neto por envase\n· Sabor ponche de frutas\n· 30 porciones por contenedor\n· Hecho bajo demanda",
+ "display_images": [
+  "assets/products/shop/ad23b35ce15d0ffdba3a.jpg",
+  "assets/products/shop/70c7f7b61fb950c52ae1.jpg"
+ ],
+ "draft": false,
+ "fam": "pre-entrenamiento-choque",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-pre-workout-de-choque-nitrico-ponche-de-frutas",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Powder",
+ "name_en": "Nitric Shock Pre-Workout Fruit Punch",
+ "name_es": "Nitric Shock Pre-Workout Ponche de Frutas",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 36.99,
+ "rank": 287,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "300g"
+ ],
+ "source_title": "Pre-entrenamiento de choque nítrico DAZ Premium Fit(ponche de frutas)",
+ "stripe_payment_link": "https://buy.stripe.com/14AbJ2cnqcKUaiG8qy1gX0k",
+ "supplier": "Productifi",
+ "supplier_id": "pre-workout-de-choque-nitrico-ponche-de-frutas",
+ "visual_verified": true
+}

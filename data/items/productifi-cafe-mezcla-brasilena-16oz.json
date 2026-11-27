@@ -1,0 +1,63 @@
+{
+ "ai_cats": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "ai_color": "brown",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "100% Arabica coffee beans",
+ "ai_type": "coffee bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shot on plain background, though the label design feels standard.",
+ "art_score": 6,
+ "audited": "2026-11-25",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/bolsos-carteras",
+  "mujer/bolsos-carteras"
+ ],
+ "cg": "t-cafe-mezcla-brasilena-16oz-daz-premium-fit",
+ "color": "brown",
+ "created": "2026-11-25",
+ "desc_en": "Awaken your senses with our exclusive single origin Brazilian blend. Roasted using a sophisticated split-roast procedure to highlight complex flavor profiles. Deep notes of cocoa powder, caramel, and nuts. Intense body and balanced acidity to elevate your daily ritual. Each batch is made to order to ensure ultimate freshness in every cup. Available with worldwide shipping.",
+ "desc_es": "Despierta tus sentidos con nuestra exclusiva mezcla brasileña de origen único. Tostado mediante un delicado procedimiento dividido para resaltar perfiles complejos. Notas profundas de cacao en polvo, caramelo y nueces. Cuerpo intenso y acidez equilibrada para acompañar tu rutina diaria. Cada lote se elabora bajo demanda para garantizar la máxima frescura en cada taza. Disponible con envío a todo el mundo.",
+ "details_en": "· 100% single origin Arabica coffee beans\n· Form: Whole beans\n· Quantity: 1 pound (454 g)\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 100% granos de café Arábica de origen único\n· Forma del producto: Frijoles enteros\n· Cantidad: 1 libra (454 g)\n· Hecho a pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/a727d19df11090523b82.jpg"
+ ],
+ "draft": true,
+ "fam": "cafe-mezcla-brasilena",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-cafe-mezcla-brasilena-16oz",
+ "look": [
+  "printful-359535579",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "printify-6b09087c1d99e97edf0dc88a",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "100% Arabica coffee beans",
+ "name_en": "Brazilian Blend Coffee",
+ "name_es": "Café Mezcla Brasileña",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 38.99,
+ "rank": 281,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Alimentación, bebida y tabaco > Bebidas > Café",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [],
+ "source_title": "Café Mezcla Brasileña 16oz DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/cNi9AUbjm5is8ay36e1gX07",
+ "supplier": "Productifi",
+ "supplier_id": "cafe-mezcla-brasilena-16oz",
+ "visual_verified": true
+}

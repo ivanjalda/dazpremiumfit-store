@@ -1,0 +1,64 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white/orange",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Dietary Supplement",
+ "ai_sizes": "60 Capsules",
+ "ai_type": "Supplement",
+ "ai_ver": 2,
+ "art_note": "High-end studio lighting and clean minimalist aesthetic elevate the supplement bottle.",
+ "art_score": 8,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-ayurvedic-complex-daz-premium-fit",
+ "color": "white/orange",
+ "created": "2026-11-25",
+ "desc_en": "Ayurvedic Complex is a carefully crafted blend of ancient herbs inspired by the principles of Ayurveda. Featuring ashwagandha, turmeric, and holy basil, this supplement promotes overall well-being by helping the body maintain balance and resilience. This unique formula combines digestion-supporting herbs with adaptogenic botanicals. Designed for those seeking a conscious approach to wellness, it offers a practical way to incorporate traditional herbal wisdom into your modern lifestyle. Made to order with worldwide shipping available.",
+ "desc_es": "Ayurvedic Complex es una mezcla elaborada de hierbas ancestrales inspirada en los principios del Ayurveda. Con ashwagandha, cúrcuma y albahaca sagrada, este suplemento promueve el bienestar general ayudando al cuerpo a mantener el equilibrio y la resiliencia. Esta fórmula única combina hierbas que favorecen la digestión con botánicos adaptógenos. Diseñado para quienes buscan un enfoque consciente del bienestar, ofrece una forma práctica de incorporar la sabiduría herbal tradicional a su estilo de vida moderno. Hecho a pedido con envío mundial disponible.",
+ "details_en": "· 60 capsules per container\n· Key ingredients: Ashwagandha Root, Turmeric Root, Cinnamon Bark Powder, Holy Basil Leaf\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· 60 cápsulas por envase\n· Ingredientes principales: Ashwagandha Root, Turmeric Root, Cinnamon Bark Powder, Holy Basil Leaf\n· Hecho a pedido\n· Disponible envío mundial",
+ "display_images": [
+  "assets/products/shop/b3c151452c688821d780.jpg",
+  "assets/products/shop/09958f3d697775b8981c.jpg",
+  "assets/products/shop/7a66c91884b2820d3ca4.jpg"
+ ],
+ "draft": true,
+ "fam": "ayurvedic-complex-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-ayurvedic-complex",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Dietary Supplement",
+ "name_en": "Ayurvedic Complex DAZ Premium Fit",
+ "name_es": "Ayurvedic Complex DAZ Premium Fit",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 29.99,
+ "rank": 156,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Casa y jardín > Jardín > Jardinería > Hidropónicos > Nutrientes y suplementos > Suplementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 Capsules"
+ ],
+ "source_title": "Ayurvedic Complex DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/4gM9AU87a7qA1Ma4ai1gY21",
+ "supplier": "Productifi",
+ "supplier_id": "ayurvedic-complex",
+ "visual_verified": true
+}

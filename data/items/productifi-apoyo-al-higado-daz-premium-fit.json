@@ -1,0 +1,66 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white/black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "60 capsules",
+ "ai_sizes": "60 capsules",
+ "ai_type": "Supplement",
+ "ai_ver": 2,
+ "art_note": "Sophisticated product styling with dramatic lighting and clean lifestyle integration.",
+ "art_score": 9,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-apoyo-al-higado-daz-premium-fit",
+ "color": "white/black",
+ "created": "2026-11-25",
+ "desc_en": "Formulated to optimize liver function and support the body's natural detoxification processes. Crafted in the USA with high-grade ingredients for comprehensive wellness. Recommended for daily use to maintain performance and overall health. Available for worldwide shipping with made-to-order fulfillment.",
+ "desc_es": "Formulado para optimizar la función hepática y respaldar los procesos naturales de desintoxicación del cuerpo. Elaborado en EE. UU. con ingredientes de alta calidad para un bienestar integral. Uso diario recomendado para mantener el rendimiento y la salud general. Disponible para envío a todo el mundo con servicio de fabricación bajo pedido.",
+ "details_en": "· 60 capsules\n· Made in USA\n· Made to order\n· Worldwide shipping",
+ "details_es": "· 60 cápsulas\n· Fabricado en EE. UU.\n· Hecho bajo pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/b9ac3f99e1e4f68b8035.jpg",
+  "assets/products/shop/f712623b730651445506.jpg",
+  "assets/products/shop/27807adfa6b982542a7d.jpg",
+  "assets/products/shop/74652fa92ddae1f7c555.jpg",
+  "assets/products/shop/efcd42910df3f659f9d3.jpg"
+ ],
+ "draft": true,
+ "fam": "apoyo-al-higado",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-apoyo-al-higado-daz-premium-fit",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "60 capsules",
+ "name_en": "Liver Support Capsules",
+ "name_es": "Cápsulas Soporte Hepático",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 27.99,
+ "rank": 89,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Casa y jardín > Jardín > Jardinería > Hidropónicos > Nutrientes y suplementos > Suplementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "60 capsules"
+ ],
+ "source_title": "Apoyo al hígado DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/4gMaEY9be4eogH45em1gX10",
+ "supplier": "Productifi",
+ "supplier_id": "apoyo-al-higado-daz-premium-fit",
+ "visual_verified": true
+}

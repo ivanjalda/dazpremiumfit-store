@@ -1,0 +1,69 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "blue",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_material": "Oral strips",
+ "ai_sizes": "30 strips",
+ "ai_type": "Energy supplement",
+ "ai_ver": 2,
+ "art_note": "Clean product packaging shot and supplement facts, but generic icon graphics lower the overall visual standard.",
+ "art_score": 5,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "t-tiras-energeticas-daz-premium-fit",
+ "color": "blue",
+ "created": "2026-11-25",
+ "desc_en": "Designed for high-demand moments, these oral strips deliver sustained energy and mental clarity without the crashes associated with sugary drinks or coffee. The synergy between green tea caffeine and L-theanine provides balanced alertness. Enriched with vitamin B12 to support physical and mental performance. The fast-dissolving oral format optimizes immediate absorption to accompany every workout with precision.",
+ "desc_es": "Diseñadas para momentos de alta exigencia, estas tiras orales ofrecen energía sostenida y claridad mental sin los altibajos de las bebidas azucaradas o el café. La sinergia entre la cafeína del té verde y la L-teanina proporciona un estado de alerta equilibrado. Enriquecidas con vitamina B12 para apoyar el rendimiento físico y mental. Su formato de disolución rápida en la boca optimiza la absorción inmediata para acompañar cada entrenamiento con precisión.",
+ "details_en": "· Cranberry flavor\n· 30 oral strips\n· Ingredients: Pullulan, L-theanine, caffeine, mannitol, cellulose, cranberry flavor, lecithin, malic acid, pectin, erythritol, steviol glycosides, methylcobalamin\n· Made to order\n· Worldwide shipping available",
+ "details_es": "· Sabor a arándano\n· 30 tiras orales\n· Ingredientes: Pululano, L-teanina, cafeína, manitol, celulosa, sabor a arándano, lecitina, ácido málico, pectina, eritritol, glucósidos de esteviol, metilcobalamina\n· Elaborado bajo pedido\n· Envío mundial disponible",
+ "display_images": [
+  "assets/products/shop/2d78f669e39ead22f603.jpg",
+  "assets/products/shop/14dcf0aa23b61f9f692d.jpg",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095432-lactose-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095601-allergen-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206095715-hormone-free-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100829-no-fillers-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206100927-non-gmo-2x.png",
+  "https://supliful.s3.amazonaws.com/categories/images/20221206101002-corn-free-2x.png"
+ ],
+ "draft": false,
+ "fam": "tiras-energeticas-premium",
+ "gender": "unisex",
+ "hidden": false,
+ "id": "productifi-tiras-energeticas-daz-premium-fit-1",
+ "img_checked": "2026-11-25",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "Oral strips",
+ "name_en": "Cranberry Energy Oral Strips · Blue",
+ "name_es": "Tiras Energéticas de Arándano · Azul",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 27.99,
+ "rank": 103,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Salud y belleza > Cuidado de la salud > Nutrición y actividad física > Vitaminas y complementos",
+ "shop_verified": true,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "30 strips"
+ ],
+ "source_title": "Tiras energéticas DAZ Premium Fit",
+ "stripe_payment_link": "https://buy.stripe.com/4gM3cw5Z23ak8ay9uC1gW2n",
+ "supplier": "Productifi",
+ "supplier_id": "tiras-energeticas-daz-premium-fit-1",
+ "visual_verified": true
+}
