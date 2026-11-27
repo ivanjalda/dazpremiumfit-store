@@ -143,6 +143,10 @@ DECOR_TYPES = [
 ]
 
 APPAREL = [
+    # DPF deportivo: primero lo más concreto (shorts y joggers antes que "fleece"/"sudadera"; sujetador deportivo ≠ ropa interior)
+    (r"sports? bra|bra deportivo|sujetador deportivo|impact bra", None, "camisetas-blusas-tops", "Sujetador Deportivo", "Sports Bra"),
+    (r"\bshorts\b|sweat ?shorts|bermuda|pantal[oó]n corto", "pantalones-cortos", "pantalones-cortos", "Shorts", "Shorts"),
+    (r"jogger|sweatpant|sweat ?pants|pantal[oó]n de ch[aá]ndal", "pantalones", "pantalones", "Jogger", "Joggers"),
     (r"\bbag\b|wallet|tote|backpack|purse|clutch|bolso|\bbolsas?\b|cartera|mochila|card ?holder|tarjetero|lunch", "bolsos-carteras", "bolsos-carteras", "Bolso", "Bag"),
     (r"\bhat\b|\bcap\b(?![ -]?sleeve)|beanie|scarf|bucket|gorro|gorra|bufanda|sombrero|visor|bandana|pa[nñ]uelo|balaclava", "gorro-bufanda", "gorros-bufandas", "Gorro", "Hat"),
     (r"necktie|bow ?tie|corbata|\bties?\b(?![ -]?(front|dye|waist|up|back|knot|side))", "corbatas", None, "Corbata", "Tie"),
@@ -264,7 +268,17 @@ def classify(row):
     return [fallback], "Pieza", "Piece", True
 
 
+GEAR = [  # accesorios de entreno: van a la sección "Accesorios de entreno"
+    (r"gym bag|duffel|duffle|bolsa de (gimnasio|deporte)|sports? bag", "Bolsa de Gimnasio", "Gym Bag"),
+    (r"\bsocks?\b|calcet[ií]n(es)?", "Calcetines", "Socks"),
+    (r"sport towel|gym towel|rally towel|toalla de (gimnasio|deporte)", "Toalla de Gimnasio", "Gym Towel"),
+]
+
+
 def _classify_text(text, gender):
+    for pat, n_es, n_en in GEAR:
+        if re.search(pat, text):
+            return ["decor"], n_es, n_en, False
     for pattern, men_sub, women_sub, n_es, n_en in FOOTWEAR:
         if re.search(pattern, text):
             if gender == "women":

@@ -125,9 +125,79 @@ def brand_print_areas(r, tpl, design_id, design_aspect, registry, variant_ids):
     return [{"variant_ids": variant_ids, "placeholders": holders}]
 
 
+def areas_of_product(prod, memo):
+    """Posiciones y tamaños de impresión del taller con el que SE CREÓ el producto (no el de la plantilla actual)."""
+    key = (prod.get("blueprint_id"), prod.get("print_provider_id"))
+    if key not in memo:
+        vs = printify(f"/catalog/blueprints/{key[0]}/print_providers/{key[1]}/variants.json").get("variants", [])
+        positions, areas = [], {}
+        for v in vs:
+            for ph in v.get("placeholders", []):
+                pos = ph.get("position")
+                if pos and pos not in positions:
+                    positions.append(pos)
+                if pos and pos not in areas and ph.get("width") and ph.get("height"):
+                    areas[pos] = [ph["width"], ph["height"]]
+        memo[key] = {"positions": positions or ["front"], "areas": areas,
+                     "position": "front" if "front" in positions else (positions[0] if positions else "front")}
+    return memo[key]
+
+
+def logo_print_areas(r, tpl, registry, variant_ids):
+    """Línea DPF Essential: solo el emblema DPF, pequeño y elegante (nunca se sale del área)."""
+    areas = r.get("areas") or {}
+    positions = r.get("positions") or [r.get("position", "front")]
+    pos = "front" if "front" in positions else positions[0]
+    k = tone(tpl)
+    lg = tpl.get("logo") or {}
+    asp = aspect_of(CHEST[k], 1.33)
+    top = lg.get("top", 0.10)
+    if top == "center":
+        pl = place(asp, areas.get(pos), lg.get("w", 0.4), 0.6, 0.0)
+        pl["y"] = 0.5
+    else:
+        pl = place(asp, areas.get(pos), lg.get("w", 0.32), 0.30, float(top))
+    return [{"variant_ids": variant_ids, "placeholders": [{"position": pos, "images": [dict(id=chest_image(registry, k), **pl)]}]}]
+
+
+def make_basics(registry, tpls, known, cache, catalog, shop, budget):
+    """Crea UNA vez cada producto de la línea DPF Essential (joggers, shorts, gorra, bolsa...)."""
+    made = 0
+    basics = registry.setdefault("basics", {})
+    for key in tpls.get("basicos", []):
+        if made >= budget or key not in known or basics.get(key, {}).get("product_id"):
+            continue
+        if basics.get(key, {}).get("error_date") == TODAY:
+            continue
+        t = known[key]
+        try:
+            r = resolve_template(key, t, cache, catalog)
+            body = {
+                "title": f"DPF Essential {t.get('nombre_en', key.title())}",
+                "description": "DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+                "tags": ["dpf", "dpf essential", t.get("tipo", key), t.get("para", "unisex")],
+                "blueprint_id": r["blueprint_id"],
+                "print_provider_id": r["provider_id"],
+                "variants": [{"id": v, "price": 4999, "is_enabled": True} for v in r["variant_ids"]],
+                "print_areas": logo_print_areas(r, t, registry, r["variant_ids"]),
+            }
+            prod = printify(f"/shops/{shop}/products.json", body)
+            basics[key] = {"product_id": prod.get("id"), "date": TODAY, "title": body["title"]}
+            made += 1
+            log(f"DPF Essential creado: {body['title']}")
+            time.sleep(1.5)
+        except Exception as ex:
+            basics[key] = {"error": str(ex)[:200], "error_date": TODAY}
+            log(f"DPF Essential '{key}' pendiente: {str(ex)[:160]}")
+    if made:
+        notify(f"✦ Línea DPF Essential: {made} productos nuevos con el emblema DPF "
+               f"({', '.join(k for k in basics if basics[k].get('date') == TODAY)}). Salen en la web en la próxima vuelta.")
+    return made
+
+
 def fix_existing(registry, known, cache, catalog, shop):
     """Una sola vez: recoloca los productos ya creados y borra los repetidos (mismo nombre)."""
-    done = 0
+    done, areas_cache = 0, {}
     for f, e in registry.get("files", {}).items():
         if e.get("layout") == LAYOUT_V or not e.get("image_id"):
             continue
@@ -137,9 +207,10 @@ def fix_existing(registry, known, cache, catalog, shop):
             if key not in known or not pid:
                 continue
             try:
-                r = resolve_template(key, known[key], cache, catalog)
                 prod = printify(f"/shops/{shop}/products/{pid}.json")
-                vids = [v["id"] for v in prod.get("variants", []) if v.get("is_enabled", True)] or r["variant_ids"]
+                r = areas_of_product(prod, areas_cache)
+                # Printify exige que la colocación cubra TODAS las variantes del producto (activas o no)
+                vids = [v["id"] for v in prod.get("variants", [])]
                 printify(f"/shops/{shop}/products/{pid}.json",
                          {"print_areas": brand_print_areas(r, known[key], e["image_id"], asp, registry, vids)}, method="PUT")
                 done += 1
@@ -228,7 +299,10 @@ def main():
     pending = [f for f in files if waiting(f)]
     needs_fix = any(e.get("layout") != LAYOUT_V and e.get("image_id") for e in registry.get("files", {}).values()) \
         or not registry.get("dedupe_done")
-    if not pending and not needs_fix:
+    basics_todo = [k for k in tpls.get("basicos", []) if k in known
+                   and not registry.get("basics", {}).get(k, {}).get("product_id")
+                   and registry.get("basics", {}).get(k, {}).get("error_date") != TODAY]
+    if not pending and not needs_fix and not basics_todo:
         log("No hay diseños nuevos.")
         return 0
     catalog = printify("/catalog/blueprints.json")
@@ -240,6 +314,10 @@ def main():
         save_json("disenos.json", registry)
         save_json("plantillas_resueltas.json", cache)
     created_total = 0
+    if basics_todo:
+        created_total += make_basics(registry, tpls, known, cache, catalog, shop, limit)
+        save_json("disenos.json", registry)
+        save_json("plantillas_resueltas.json", cache)
     for f in pending:
         if created_total >= limit:
             break

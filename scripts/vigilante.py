@@ -68,7 +68,7 @@ SPORT_MENUS = {
         ("conjuntos", "Conjuntos", "Sets"),
         ("gorro-bufanda", "Gorras y gorros", "Caps & Beanies")]),
     "mujer": ("Mujer · Tough Bitch", "Women · Tough Bitch", [
-        ("camisetas-blusas-tops", "Tops y sujetadores", "Tops & Sports Bras"),
+        ("camisetas-blusas-tops", "Tops y sujetadores deportivos", "Tops & Sports Bras"),
         ("leggings", "Leggings", "Leggings"),
         ("pantalones-cortos", "Shorts", "Shorts"),
         ("chaqueta-sudadera-sueter", "Sudaderas y chaquetas", "Hoodies & Jackets"),
@@ -173,7 +173,7 @@ def sport_catalog(products):
         if its:
             menus.append({"id": mid, "es": es, "en": en, "groups": [{"id": mid, "es": es, "en": en, "items": its}]})
     if count.get("decor"):
-        menus.append({"id": "decor", "es": "Suplementos y accesorios", "en": "Supplements & Gear", "groups": []})
+        menus.append({"id": "decor", "es": "Accesorios de entreno y suplementos", "en": "Training Gear & Supplements", "groups": []})
     menus.append({"id": "identidad", "es": "La marca DPF", "en": "The DPF Brand", "groups": []})
     return {"menus": menus}
 
