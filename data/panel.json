@@ -1,7 +1,7 @@
 {
   "key": "",
   "owner": "",
-  "updated": "2026-11-27 18:52 UTC",
+  "updated": "2026-11-27 20:17 UTC",
   "totals": {
     "catalogo": 363,
     "a_la_vista": 338,
@@ -59,11 +59,12 @@
     },
     {
       "date": "2026-11-27",
-      "n": 3,
+      "n": 4,
       "fixes": [
         "Bolsa de deporte esencial DPF · Oro: inspección IA: era bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
         "Bolsa de deporte esencial DPF · Maroon: inspección IA: era bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
-        "Bolsa de deporte esencial DPF · Royal: inspección IA: era bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras"
+        "Bolsa de deporte esencial DPF · Royal: inspección IA: era bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
+        "Pantalón de Chándal DPF Élan: inspección IA: era sweatpants (unisex) → hombre/pantalones, mujer/pantalones"
       ]
     }
   ],
@@ -760,14 +761,15 @@
     "CSV leído: wish4.csv",
     "Printify: 55 piezas leídas",
     "Printful: 18 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 8 s",
+    "⏱ lectura de proveedores: 9 s",
     "Productos en catálogo: 363 · a la vista: 338 · archivados: 25",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "⏱ ventas, visitas y cupones: 0 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
     "⏱ revisión con IA: 0 s",
-    "⏱ vigilante: 87 s",
+    "Vigilante: 1 correcciones en esta hora",
+    "⏱ vigilante: 93 s",
     "⏱ estudio de fotos: 0 s",
     "⏱ enlaces de pago: 0 s",
     "Cambio actualizado: 1 USD = 0.9127 EUR",

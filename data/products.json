@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T18:52:56Z",
+  "updated": "2026-11-27T20:17:52Z",
   "products": [
     {
       "id": "productifi-wish4-2562",
@@ -36271,7 +36271,8 @@
         "assets/products/shop/4a97752bffc414203609.jpg",
         "assets/products/shop/753181820818169d6a24.jpg",
         "assets/products/shop/d001331e0136665bf107.jpg"
-      ]
+      ],
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-crema-reafirmante-de-la-piel-daz-premium-fit",
@@ -36379,7 +36380,8 @@
       "stripe_payment_link": "https://buy.stripe.com/7sY00kfzC9yIbmK0Y61gW3S",
       "stripe_link_id": "plink_1Ufq2SLJVU4oTPuX28itjybm",
       "stripe_price_cents": 3099,
-      "stripe_site": "https://dazpremiumfit.com"
+      "stripe_site": "https://dazpremiumfit.com",
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-keto-5-daz-premium-fit",
@@ -36497,7 +36499,8 @@
       "details_en": "· 60 vegetable capsules per bottle\n· Made in USA\n· Ingredients: Keto Blend, Raspberry Ketone, Green Tea, Caffeine Anhydrous, Green Coffee Bean, Garcinia Cambogia, Cellulose\n· Available with worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "interestprint-descarga-4-cross-back-pocket-sport-dress",
@@ -36709,7 +36712,8 @@
       "details_en": "· 80% polyester, 20% spandex\n· Integrated shorts with side pockets\n· Removable bra\n· Adjustable cross-back straps\n· Hand or machine wash at temperatures <=45C\n· Made to order",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-27"
     },
     {
       "id": "interestprint-descarga-4-cross-back-pocket-sport-dress-1",
@@ -36924,7 +36928,8 @@
       "details_en": "· 80% polyester, 20% spandex\n· Integrated short with side pockets\n· Removable bra\n· Adjustable X-back straps\n· Hand or machine wash at temperatures <=45C",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-27"
     },
     {
       "id": "interestprint-descarga-43-all-over-print-high-waist-leggings-with-pockets-modell56",
@@ -37146,7 +37151,8 @@
       "details_en": "· Composition: 95% polyester and 5% elastane.\n· Fit: fitted, high-waisted, full length.\n· Pockets: one on each side for small essentials.\n· Design: gold mustard base with graphic print and signature branding.\n· Recommended use: fitness and yoga.\n· Care: machine wash cold max 40 °C, do not bleach, iron with protective cloth, do not tumble dry, avoid direct sunlight.\n· Made-to-order pieces.\n· Worldwide shipping.",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-27"
     },
     {
       "id": "interestprint-descarga-52-womens-high-waist-leggingsmodell44plus-size",
@@ -37341,7 +37347,8 @@
       "details_en": "· Composition: 95% polyester and 5% elastane.\n· High and elastic waist with visible seams.\n· Fitted cut and full length.\n· Machine wash cold, maximum 40 °C. Do not bleach. Iron with a protective cloth. Do not tumble dry and avoid direct sunlight during drying.\n· Made-to-order piece with worldwide shipping.",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-batido-de-verduras-ultra-limpio",
@@ -37453,7 +37460,8 @@
       "stripe_payment_link": "https://buy.stripe.com/28E5kE9beh1a0I6gX41gY1P",
       "stripe_link_id": "plink_1UfykqLJVU4oTPuXvEwkyVMh",
       "stripe_price_cents": 4799,
-      "stripe_site": "https://dazpremiumfit.com"
+      "stripe_site": "https://dazpremiumfit.com",
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-creatine-monohydrate-daz-premium-fit",
@@ -37559,7 +37567,8 @@
       "details_en": "· Ingredients: Creatine Monohydrate\n· Flavor: Unflavored\n· Quantity: 0.55 lb (250 g)\n· Made in USA",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "interestprint-sport-1-half-zip-backless-sport-jumpsuit",
@@ -37761,7 +37770,8 @@
       "details_en": "· Composition: 80% polyester and 20% elastane\n· Lightweight, breathable, and flexible fabric\n· Short front zipper and high neck\n· Open back and sleeveless short cut\n· Chest logo and printed text on the back waist\n· Unpadded chest\n· Made to order and worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-27"
     },
     {
       "id": "interestprint-sport-2-half-zip-backless-sport-jumpsuit",
@@ -37980,7 +37990,8 @@
       "details_en": "· Composition: 80% polyester and 20% elastane\n· Lightweight, breathable and flexible fabric\n· Sleeveless design with high neck and short front zipper\n· Open back and side waist cutouts\n· Outline logo on the chest and text on the back waistband\n· Unpadded chest\n· Made to order",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-27"
     },
     {
       "id": "printful-480571842",
@@ -37988,8 +37999,8 @@
       "supplier_id": "480571842",
       "source_title": "Pantalón de chándal DPF Élan",
       "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
+        "hombre/pantalones",
+        "mujer/pantalones"
       ],
       "cost_usd": 34.6,
       "sizes": [
@@ -38067,7 +38078,7 @@
       "look": [
         "printful-359535579",
         "printify-6b09088dc87e8df47b098636-gold",
-        "printify-6b09087c1d99e97edf0dc88a",
+        "productifi-gel-refrescante-polar-flex-daz-premium-fit",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
       "stripe_product_id": "prod_VhAS5nydbVdmkY",
@@ -38099,12 +38110,12 @@
         ],
         "guides": []
       },
-      "ai_type": "track pants",
+      "ai_type": "sweatpants",
       "ai_gender": "unisex",
       "ai_color": "White",
       "ai_cats": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
+        "hombre/pantalones",
+        "mujer/pantalones"
       ],
       "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
       "details_en": "· Made to order\n· Worldwide shipping",
@@ -38117,7 +38128,8 @@
         "assets/products/shop/1ae8e9f1312584cc17a6.jpg",
         "assets/products/shop/6fbbb215270ece78a4b7.jpg",
         "assets/products/shop/820f36a1508419b0c314.jpg"
-      ]
+      ],
+      "audited": "2026-11-27"
     },
     {
       "id": "printful-484192500",
@@ -38235,7 +38247,8 @@
         "assets/products/shop/5ba05a45405d1eb64692.jpg",
         "assets/products/shop/d869ec9eaaa8c6006874.jpg",
         "assets/products/shop/a91c7456da85edc0f6d0.jpg"
-      ]
+      ],
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-mezcla-de-champinones-fermentados-daz-premium-fit",
@@ -38394,7 +38407,8 @@
       "details_en": "· 210g / 0.46 lb net weight\n· Serving size: 1 scoop (7g)\n· 30 servings per container\n· Vitamin C and organic prebiotic fiber blend\n· Organic immune mushroom mycelial biomass blend\n· Made to order pieces\n· Worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "printify-6b0908851d99e97edf0dc8a0",
@@ -38514,7 +38528,8 @@
       "details_en": "· Made to order\n· Training gear design\n· DPF emblem detail",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-advanced-100-whey-protein-isolate-vanilla",
@@ -38622,7 +38637,8 @@
       "details_en": "· 28.40 oz / 805 g\n· Vanilla flavor\n· Whey protein isolate\n· Made to order",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-colombia-single-origin-coffee-light-medium-roast",
@@ -38866,7 +38882,8 @@
       "details_en": "· 60 vegan capsules\n· 1000 mg organic Cordyceps mushroom mycelium powder per serving\n· Standardized to 40% polysaccharides\n· Organic capsule made of pullulan and water\n· Organic rice hull\n· Made in USA",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-crema-de-colageno-daz-premium-fit-de-vacas-alimentadas-con-pasto-vainilla",
@@ -38974,7 +38991,8 @@
       "details_en": "· Vanilla flavor\n· Net weight 0.53 lb (240 g)\n· Contains types 1 and 3 collagen peptides\n· Made-to-order piece\n· Worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-daz-premium-fit-advanced-100-whey-protein-isolate-chocolate",
@@ -39079,7 +39097,8 @@
       "details_en": "· 22 g of whey protein isolate per serving\n· Contains MCT oil powder and apple pectin\n· Chocolate flavor\n· Net weight 29.60 oz / 839 g\n· Made in USA\n· Made to order\n· Worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-hongo-cordyceps-daz-premium-fit",
@@ -39200,7 +39219,8 @@
       "stripe_payment_link": "https://buy.stripe.com/eVq7sM1IM26g0I67mu1gX00",
       "stripe_link_id": "plink_1Ufq2bLJVU4oTPuXXo1gexag",
       "stripe_price_cents": 3099,
-      "stripe_site": "https://dazpremiumfit.com"
+      "stripe_site": "https://dazpremiumfit.com",
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-limpieza-suave-de-colon-daz-premium-fit",

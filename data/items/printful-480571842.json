@@ -7,23 +7,24 @@
   "assets/products/shop/820f36a1508419b0c314.jpg"
  ],
  "ai_cats": [
-  "hombre/chandal-sudaderas",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/pantalones",
+  "mujer/pantalones"
  ],
  "ai_color": "White",
  "ai_copy": true,
  "ai_done": true,
  "ai_gender": "unisex",
  "ai_priority": true,
- "ai_type": "track pants",
+ "ai_type": "sweatpants",
  "ai_ver": 2,
  "art_note": "Clean flat lay product shot, but lacks dynamic lighting and high-end campaign styling.",
  "art_score": 5,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
-  "hombre/chandal-sudaderas",
-  "mujer/chaqueta-sudadera-sueter"
+  "hombre/pantalones",
+  "mujer/pantalones"
  ],
  "cg": "printful-480571842",
  "color": "White",
@@ -44,7 +45,7 @@
  "look": [
   "printful-359535579",
   "printify-6b09088dc87e8df47b098636-gold",
-  "printify-6b09087c1d99e97edf0dc88a",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "",
