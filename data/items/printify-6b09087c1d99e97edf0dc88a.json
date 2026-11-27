@@ -10,6 +10,7 @@
  "ai_ver": 2,
  "art_note": "Clean studio product shots are adequate, but model shots look like digital mockups.",
  "art_score": 5,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
@@ -28,13 +29,14 @@
  ],
  "draft": false,
  "fam": "essential-men-s",
+ "gender": "men",
  "hidden": false,
  "id": "printify-6b09087c1d99e97edf0dc88a",
  "img_checked": "2026-11-27",
  "look": [
   "printful-359535579",
+  "printify-6b09088dc87e8df47b098636-gold",
   "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "",
@@ -42,6 +44,7 @@
  "name_es": "Pantalón Jogger Essential Negro",
  "needs_review": false,
  "needs_studio": true,
+ "page": true,
  "price_usd": 58.99,
  "rank": 187,
  "shipping_usd": 8.79,

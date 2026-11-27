@@ -10,6 +10,7 @@
  "ai_ver": 2,
  "art_note": "High-end studio photography featuring refined shadow play and authentic editorial lifestyle composition.",
  "art_score": 8,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
@@ -29,13 +30,14 @@
  ],
  "draft": false,
  "fam": "essential-men-s",
+ "gender": "men",
  "hidden": false,
  "id": "printify-6b09087f1d99e97edf0dc891-blue-jean",
  "img_checked": "2026-11-27",
  "look": [
   "printful-359535579",
+  "printify-6b09088dc87e8df47b098636-gold",
   "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
   "printify-6b09087c1d99e97edf0dc88a"
  ],
  "material": "",
@@ -43,6 +45,7 @@
  "name_es": "Pantalón Corto DPF Essential · Blue Jean",
  "needs_review": false,
  "needs_studio": false,
+ "page": true,
  "price_usd": 52.99,
  "rank": 197,
  "shipping_usd": 4.95,

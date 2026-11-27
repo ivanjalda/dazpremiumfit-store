@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos"
+ ],
+ "ai_color": "Pepper",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "Sweat Shorts",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and high-end lifestyle staging elevate the baseline product shots.",
+ "art_score": 8,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printify-6b09087f1d99e97edf0dc891",
  "color": "Pepper",
  "created": "2026-11-27",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Engineered for performance and daily versatility. These sweat shorts unite clean lines with a refined athletic aesthetic. The pepper shade brings depth to your training wardrobe, while the structured silhouette delivers effortless freedom of movement. Available made-to-order with worldwide shipping.",
+ "desc_es": "Diseñados para el rendimiento y la versatilidad diaria. Estos pantalones cortos combinan líneas depuradas con una estética atlética y refinada. El tono pepper aporta profundidad a tu vestuario de entrenamiento, mientras que la silueta estructurada ofrece libertad de movimiento sin esfuerzo. Disponibles mediante fabricación bajo demanda con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
   "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
@@ -21,14 +35,16 @@
  "img_checked": "2026-11-27",
  "look": [
   "printful-359535579",
+  "printify-6b09088dc87e8df47b098636-gold",
   "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
   "printify-6b09087c1d99e97edf0dc88a"
  ],
  "material": "",
  "name_en": "DPF Essential Sweat Shorts · Pepper",
  "name_es": "Pantalón Corto DPF Essential · Pepper",
  "needs_review": false,
+ "needs_studio": false,
+ "page": true,
  "price_usd": 52.99,
  "rank": 202,
  "shipping_usd": 4.95,

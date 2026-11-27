@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "sports bra",
+ "ai_ver": 2,
+ "art_note": "The image is a flat digital vector mockup rather than a professional product photograph, giving a generic marketplace appearance.",
+ "art_score": 2,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printify-6b0908851d99e97edf0dc8a0",
  "color": "Black",
  "created": "2026-11-27",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "Engineered for uncompromising training sessions. This sports bra unites technical support with a refined aesthetic. The sculpted silhouette moves with absolute precision through every exertion. The DPF emblem delivers a signature athletic distinction. Crafted to order to ensure complete exclusivity. Available with worldwide shipping.",
+ "desc_es": "Diseñado para el entrenamiento definitivo. Este sujetador deportivo combina soporte técnico con una estética depurada. La silueta esculpida se mueve con precisión a través de cada movimiento. El emblema DPF aporta un toque de distinción atlética. Confeccionado bajo pedido para garantizar exclusividad. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Training gear design\n· DPF emblem detail",
+ "details_es": "· Hecho a pedido\n· Diseñado para entrenamiento\n· Emblema DPF integrado",
  "display_images": [
   "https://images.printify.com/mockup/6b0908851d99e97edf0dc8a0/322431/168084/dpf-essential-womens-sports-bra.jpg?camera_label=front"
  ],
@@ -24,9 +37,11 @@
   "interestprint-descarga-31-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Sports Bra Sports Bra · Black",
- "name_es": "Sujetador Deportivo Sports Bra · Negro",
+ "name_en": "DPF Essential Sports Bra",
+ "name_es": "Sujetador Deportivo Esencial DPF",
  "needs_review": false,
+ "needs_studio": true,
+ "page": true,
  "price_usd": 63.99,
  "rank": 265,
  "shipping_usd": 5.89,

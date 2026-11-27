@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T04:35:37Z",
+  "updated": "2026-11-27T11:24:00Z",
   "products": [
     {
       "id": "productifi-wish4-2562",
@@ -349,8 +349,8 @@
       "fam": "esterilla-yoga-premium",
       "cg": "printful-359535579",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -410,7 +410,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Training Socks White DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Training Socks socks White DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Calcetines Esenciales de Rendimiento DPF",
       "name_en": "DPF Essential Training Socks",
       "desc_es": "Diseñados para la máxima exigencia diaria. Estos calcetines esenciales combinan soporte y funcionalidad técnica. El emblema DPF corona una silueta limpia en blanco. Fabricados bajo demanda para garantizar una exclusividad absoluta. Envío a todo el mundo disponible.",
@@ -492,7 +492,9 @@
       "stripe_link_id": "plink_1UgH0XLJVU4oTPuXioqnmcbm",
       "stripe_price_cents": 2699,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "interestprint-design-womens-crop-rugby-jersey",
@@ -2364,8 +2366,8 @@
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-mindset-camiseta-de-algodon-efecto-lavado",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -3239,8 +3241,8 @@
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-mindset-abstract",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -3423,8 +3425,8 @@
       "fam": "premium-fit-camiseta",
       "cg": "t-daz-premium-fit-dpf-camiseta-de-tirantes",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -3513,7 +3515,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Gym Towel Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Gym Towel Towel Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Toalla de Entrenamiento Esencial",
       "name_en": "Essential Training Towel",
       "desc_es": "Eleve su disciplina diaria con este accesorio de rendimiento esencial. Diseñado para acompañar sus sesiones más exigentes, este producto combina una estética sobria con una funcionalidad impecable. Cada detalle ha sido concebido para ofrecer una presencia impecable en cualquier entorno de entrenamiento. Una pieza indispensable para quienes buscan distinción sin renunciar al rendimiento absoluto. Disponible bajo pedido con envíos a todo el mundo.",
@@ -3597,7 +3599,9 @@
       "stripe_link_id": "plink_1UgH0YLJVU4oTPuXI8HER6uE",
       "stripe_price_cents": 3299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "interestprint-design-womens-high-waist-layered-sport-skirt",
@@ -3925,8 +3929,8 @@
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -4120,8 +4124,8 @@
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -4324,8 +4328,8 @@
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-classic-camiseta-sin-mangas-de-hombre",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -4473,8 +4477,8 @@
       "fam": "suero-acido-hialuronico",
       "cg": "t-suero-de-acido-hialuronico-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -4641,8 +4645,8 @@
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -5025,8 +5029,8 @@
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-oliva-camiseta-de-tirantes-de-hombre",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -5224,8 +5228,8 @@
       "fam": "premium-fit-immortal",
       "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -5478,8 +5482,8 @@
       "fam": "exfoliante-cafe-menta",
       "cg": "t-exfoliante-de-cafe-y-menta-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -5521,7 +5525,8 @@
       "supplier_id": "6b09088dc87e8df47b098636-gold",
       "source_title": "DPF Essential Gym Bag",
       "categories": [
-        "decor"
+        "hombre/bolsos-carteras",
+        "mujer/bolsos-carteras"
       ],
       "cost_usd": 30.4,
       "sizes": [
@@ -5547,7 +5552,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Gym Bag Gold DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Gym Bag bag Gold DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Bolsa de deporte esencial DPF · Oro",
       "name_en": "DPF Essential Gym Bag · Gold",
       "desc_es": "Diseñada para acompañar cada rutina de entrenamiento con funcionalidad y elegancia. Esta bolsa de deporte combina una estética depurada con el emblema distintivo de la marca. Confeccionada bajo pedido para garantizar la máxima exclusividad en cada pieza. Disponible para envíos a todo el mundo.",
@@ -5566,11 +5571,11 @@
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149521/126539/dpf-essential-gym-bag.jpg?camera_label=back",
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149521/126538/dpf-essential-gym-bag.jpg?camera_label=front"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-27": 62.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 23.74,
       "rank": 32,
       "badge": "new",
@@ -5597,7 +5602,8 @@
       "ai_gender": "unisex",
       "ai_color": "gold",
       "ai_cats": [
-        "decor"
+        "hombre/bolsos-carteras",
+        "mujer/bolsos-carteras"
       ],
       "details_es": "· Hecho a pedido\n· Equipamiento de entrenamiento con el emblema DPF",
       "details_en": "· Made to order\n· Training gear with the DPF emblem",
@@ -5607,7 +5613,10 @@
       "fam": "essential-gym-bag",
       "cg": "printify-6b09088dc87e8df47b098636",
       "look": [
-        "productifi-wish4-2562"
+        "printful-359535579",
+        "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+        "printify-6b09087c1d99e97edf0dc88a",
+        "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
       "stripe_product_id": "prod_VhgNco8Hk8VK1U",
       "size_values": {
@@ -5617,7 +5626,9 @@
       "stripe_link_id": "plink_1UgH0ZLJVU4oTPuXEhtYeFcz",
       "stripe_price_cents": 6299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": false,
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "printify-6b09088dc87e8df47b098636-hunter",
@@ -5651,7 +5662,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Gym Bag Hunter DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Gym Bag Gym Bag Hunter DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Bolsa de deporte esencial DPF · Hunter",
       "name_en": "DPF Essential Gym Bag · Hunter",
       "desc_es": "Diseñada para acompañar cada sesión de entrenamiento con una funcionalidad impecable. Esta bolsa de deporte combina una estética sobria en tono verde cazador con una estructura resistente para el uso diario. Incorpora el emblema distintivo de la marca como detalle sutil. Cada pieza se confecciona bajo pedido para garantizar los más altos estándares de exclusividad y calidad. Equipada con compartimentos prácticos y asas reforzadas, ofrece el espacio necesario para transportar su equipamiento con total comodidad y sofisticación. Disponible con envíos a todo el mundo.",
@@ -5721,7 +5732,9 @@
       "stripe_link_id": "plink_1UgH0ZLJVU4oTPuXPG1Mm28n",
       "stripe_price_cents": 6299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "printify-6b09088dc87e8df47b098636-maroon",
@@ -5729,7 +5742,8 @@
       "supplier_id": "6b09088dc87e8df47b098636-maroon",
       "source_title": "DPF Essential Gym Bag",
       "categories": [
-        "decor"
+        "hombre/bolsos-carteras",
+        "mujer/bolsos-carteras"
       ],
       "cost_usd": 30.4,
       "sizes": [
@@ -5755,7 +5769,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Gym Bag Maroon DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Gym Bag bag Maroon DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Bolsa de deporte esencial DPF · Maroon",
       "name_en": "DPF Essential Gym Bag · Maroon",
       "desc_es": "Diseñada para acompañar cada movimiento. La bolsa de deporte esencial encarna la fusión entre funcionalidad rigurosa y estética depurada. Cada línea responde a una exigencia de rendimiento. Cada detalle está pensado para el atleta moderno que no tolera compromisos. Espaciosa y estructurada, esta pieza transporta su equipamiento con una elegancia sobria y decidida. Disponible exclusivamente bajo pedido con envíos a todo el mundo.",
@@ -5774,11 +5788,11 @@
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149523/126539/dpf-essential-gym-bag.jpg?camera_label=back",
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149523/126538/dpf-essential-gym-bag.jpg?camera_label=front"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-27": 62.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 23.74,
       "rank": 34,
       "badge": "new",
@@ -5805,7 +5819,8 @@
       "ai_gender": "unisex",
       "ai_color": "Maroon",
       "ai_cats": [
-        "decor"
+        "hombre/bolsos-carteras",
+        "mujer/bolsos-carteras"
       ],
       "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
       "details_en": "· Made to order\n· Worldwide shipping",
@@ -5815,7 +5830,10 @@
       "fam": "essential-gym-bag",
       "cg": "printify-6b09088dc87e8df47b098636",
       "look": [
-        "productifi-wish4-2562"
+        "printful-359535579",
+        "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+        "printify-6b09087c1d99e97edf0dc88a",
+        "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
       "stripe_product_id": "prod_VhgNWaENUwq4cF",
       "size_values": {
@@ -5825,7 +5843,9 @@
       "stripe_link_id": "plink_1UgH0aLJVU4oTPuX4NZJQi2F",
       "stripe_price_cents": 6299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": false,
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "printify-6b09088dc87e8df47b098636-navy",
@@ -5859,7 +5879,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Gym Bag Navy DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Gym Bag bag Navy DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Bolsa de deporte esencial DPF · Azul Marino",
       "name_en": "DPF Essential Gym Bag · Navy",
       "desc_es": "Diseñada para acompañar cada jornada de entrenamiento. Esta bolsa combina funcionalidad y estética depurada. Cuenta con el emblema DPF. Ofrece amplio espacio para el equipo esencial de entrenamiento. Confeccionada bajo demanda. Envío mundial disponible.",
@@ -5929,7 +5949,9 @@
       "stripe_link_id": "plink_1UgH0bLJVU4oTPuXeKhJCAVo",
       "stripe_price_cents": 6299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "printify-6b09088dc87e8df47b098636-red",
@@ -5963,7 +5985,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Gym Bag Red DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Gym Bag bag Red DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Bolsa de deporte esencial DPF · Rojo",
       "name_en": "DPF Essential Gym Bag · Red",
       "desc_es": "Concebida para acompañar sus jornadas de entrenamiento con absoluta precisión, esta bolsa de deporte esencial en tono rojo combina una silueta estructurada con una funcionalidad impecable. Diseñada para albergar su equipamiento de entrenamiento con total seguridad, incorpora el emblema distintivo de la casa como sutil sello de identidad. Cada pieza se confecciona de manera individual bajo demanda, asegurando exclusividad en cada envío internacional. Un accesorio indispensable que redefine la estética de su rutina diaria con sobriedad y distinción.",
@@ -6033,7 +6055,9 @@
       "stripe_link_id": "plink_1UgH0cLJVU4oTPuX3Ca78Wux",
       "stripe_price_cents": 6299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "printify-6b09088dc87e8df47b098636-royal",
@@ -6041,7 +6065,8 @@
       "supplier_id": "6b09088dc87e8df47b098636-royal",
       "source_title": "DPF Essential Gym Bag",
       "categories": [
-        "decor"
+        "hombre/bolsos-carteras",
+        "mujer/bolsos-carteras"
       ],
       "cost_usd": 30.4,
       "sizes": [
@@ -6067,7 +6092,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Gym Bag Royal DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Gym Bag bag Royal DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Bolsa de deporte esencial DPF · Royal",
       "name_en": "DPF Essential Gym Bag · Royal",
       "desc_es": "Equipamiento de entrenamiento diseñado para acompañar cada sesión con precisión. Esta bolsa combina funcionalidad y estética depurada para el atleta moderno. Incorpora el emblema distintivo de la marca como sello de identidad. Cada pieza se elabora bajo pedido para garantizar la máxima exclusividad. Disponible con envío a todo el mundo.",
@@ -6086,11 +6111,11 @@
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149526/126539/dpf-essential-gym-bag.jpg?camera_label=back",
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149526/126538/dpf-essential-gym-bag.jpg?camera_label=front"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-27": 62.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 23.74,
       "rank": 37,
       "badge": "new",
@@ -6117,7 +6142,8 @@
       "ai_gender": "unisex",
       "ai_color": "royal",
       "ai_cats": [
-        "decor"
+        "hombre/bolsos-carteras",
+        "mujer/bolsos-carteras"
       ],
       "details_es": "· Hecho a pedido",
       "details_en": "· Made to order",
@@ -6127,7 +6153,10 @@
       "fam": "essential-gym-bag",
       "cg": "printify-6b09088dc87e8df47b098636",
       "look": [
-        "productifi-wish4-2562"
+        "printful-359535579",
+        "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+        "printify-6b09087c1d99e97edf0dc88a",
+        "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
       "stripe_product_id": "prod_VhgNJBt1NACbYl",
       "size_values": {
@@ -6137,7 +6166,9 @@
       "stripe_link_id": "plink_1UgH0dLJVU4oTPuXRZsexpaX",
       "stripe_price_cents": 6299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": false,
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-jabon-de-acido-kojico-y-curcuma",
@@ -6496,8 +6527,8 @@
       "fam": "emblem-beast-mode",
       "cg": "printify-6b08e9f3f7ed4c973b05affe",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -7151,7 +7182,7 @@
       "cg": "t-gel-refrescante-polar-flex-daz-premium-fit",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -7416,8 +7447,8 @@
       "fam": "limpiador-facial-carbon",
       "cg": "t-limpiador-facial-de-carbon-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -8171,8 +8202,8 @@
       "fam": "champu-sin-agua",
       "cg": "t-champu-sin-agua-para-perros-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -8586,8 +8617,8 @@
       "fam": "aceite-facial-gua",
       "cg": "t-aceite-facial-gua-sha-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -8733,8 +8764,8 @@
       "fam": "jabon-aloe-pepino",
       "cg": "t-jabon-de-aloe-y-pepino-fresco-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -9043,8 +9074,8 @@
       "fam": "jabon-breathe-clear",
       "cg": "t-jabon-breathe-clear-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -9174,8 +9205,8 @@
       "fam": "jabon-calmante-lavanda",
       "cg": "t-jabon-calmante-de-lavanda-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -9340,8 +9371,8 @@
       "fam": "jabon-carbon-premium",
       "cg": "t-jabon-de-carbon-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -9463,8 +9494,8 @@
       "fam": "jabon-limoncillo-salvia",
       "cg": "t-jabon-de-limoncillo-y-salvia-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -9583,8 +9614,8 @@
       "fam": "jabon-miel-leche",
       "cg": "t-jabon-de-miel-con-leche-de-avena-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -9701,8 +9732,8 @@
       "fam": "jabon-playa-coco",
       "cg": "t-jabon-de-playa-de-coco-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -9841,8 +9872,8 @@
       "fam": "jabon-sueno-premium",
       "cg": "t-jabon-de-sueno-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -9936,8 +9967,8 @@
       "fam": "jabon-rico-en",
       "cg": "t-jabon-rico-en-sandalo-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -12305,8 +12336,8 @@
       "fam": "barra-exfoliante-luffa",
       "cg": "t-barra-exfoliante-luffa-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -12403,8 +12434,8 @@
       "fam": "suero-manchas-oscuras",
       "cg": "t-suero-para-manchas-oscuras-para-pieles-normales-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -12503,8 +12534,8 @@
       "fam": "suero-manchas-oscuras",
       "cg": "t-suero-para-manchas-oscuras-para-pieles-sensibles-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -13780,8 +13811,8 @@
       "fam": "aceite-capilar-hidratante",
       "cg": "t-aceite-capilar-hidratante-y-fortalecedor-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -14034,8 +14065,8 @@
       "fam": "gel-iluminador-aloe",
       "cg": "t-gel-iluminador-de-aloe-y-arbol-de-te-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -15036,8 +15067,8 @@
       "fam": "balsamo-patas-perro",
       "cg": "t-balsamo-para-patas-de-perro-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -15380,8 +15411,8 @@
       "fam": "manteca-karite-cruda",
       "cg": "t-manteca-de-karite-cruda-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -16163,8 +16194,8 @@
       "fam": "aceite-capilar-la",
       "cg": "t-aceite-capilar-para-la-salud-del-cuero-cabelludo-y-el-crecimiento-del",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -20337,8 +20368,8 @@
       "fam": "cafe-miel-manuka",
       "cg": "t-cafe-con-miel-de-manuka-daz-premium-fit-4oz",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -20725,8 +20756,8 @@
       "fam": "fusion-cafe-champinones",
       "cg": "t-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -21935,8 +21966,8 @@
       "fam": "aceite-facial-nutritivo",
       "cg": "t-aceite-facial-nutritivo-de-jojoba-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -22188,8 +22219,8 @@
       "fam": "toallitas-dentales-perros",
       "cg": "t-toallitas-dentales-para-perros-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -22279,8 +22310,8 @@
       "fam": "toallitas-limpiadoras-oidos",
       "cg": "t-toallitas-limpiadoras-de-oidos-para-perros-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -22422,8 +22453,8 @@
       "fam": "toallitas-ojos-perro",
       "cg": "t-toallitas-para-ojos-de-perro-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -22625,8 +22656,8 @@
       "fam": "gel-crema-hidro",
       "cg": "t-gel-hidro-equilibrante-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -22776,8 +22807,8 @@
       "fam": "hidratante-sandia-premium",
       "cg": "t-hidratante-de-sandia-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -22924,8 +22955,8 @@
       "fam": "crema-calmante-la",
       "cg": "t-calmante-para-la-piel-del-perro-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -23288,8 +23319,8 @@
       "fam": "cafe-mezcla-brasilena",
       "cg": "t-cafe-mezcla-brasilena-4oz-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -24106,8 +24137,8 @@
       "fam": "hidratante-antienvejecimiento-piel",
       "cg": "t-hidratante-antienvejecimiento-para-piel-normal-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -24220,8 +24251,8 @@
       "fam": "hidratante-antienvejecimiento-pieles",
       "cg": "t-hidratante-antienvejecimiento-para-pieles-sensibles-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -24607,8 +24638,8 @@
       "fam": "hidratante-peptidos-premium",
       "cg": "t-hidratante-con-peptidos-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -24830,8 +24861,8 @@
       "fam": "suero-iluminador-pdrn",
       "cg": "t-suero-iluminador-pdrn-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -25167,8 +25198,8 @@
       "fam": "crema-sebo-limoncillo",
       "cg": "t-de-sebo-limoncillo-y-lavanda-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -25299,8 +25330,8 @@
       "fam": "crema-sebo-noche",
       "cg": "t-de-sebo-noche-tranquila-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -25460,8 +25491,8 @@
       "fam": "gel-limpiador-suave",
       "cg": "t-gel-limpiador-suave-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -25876,8 +25907,8 @@
       "fam": "suero-antioxidante-te",
       "cg": "t-suero-antioxidante-de-te-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -26026,8 +26057,8 @@
       "fam": "suero-premium-fit",
       "cg": "t-suero-daz-premium-fit-de-niacinamida-al",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -26119,8 +26150,8 @@
       "fam": "suero-niacinamida-al",
       "cg": "t-suero-de-niacinamida-al-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -26607,8 +26638,8 @@
       "fam": "tonico-equilibrante-suave",
       "cg": "t-tonico-equilibrante-suave-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -26815,8 +26846,8 @@
       "fam": "tonico-perfeccionador-poros",
       "cg": "t-tonico-perfeccionador-de-poros-con-hamamelis-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -27103,7 +27134,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Men's Joggers Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Men's Joggers joggers Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Pantalón Jogger Essential Negro",
       "name_en": "Essential Black Jogger Pants",
       "desc_es": "Diseñado para el movimiento sin esfuerzo. Este pantalón jogger combina líneas limpias con una silueta relajada. El emblema DPF aporta un sutil sello distintivo. Confección bajo pedido para un ajuste preciso y envío a todo el mundo. Una pieza esencial que redefine el confort moderno con una estética depurada y funcional.",
@@ -27114,7 +27145,9 @@
       "shipping_worst_usd": 18.49,
       "images_original": [
         "https://images.printify.com/mockup/6b09087c1d99e97edf0dc88a/103934/195136/dpf-essential-mens-joggers.jpg?camera_label=front",
-        "https://images.printify.com/mockup/6b09087c1d99e97edf0dc88a/103934/195137/dpf-essential-mens-joggers.jpg?camera_label=back"
+        "https://images.printify.com/mockup/6b09087c1d99e97edf0dc88a/103934/195137/dpf-essential-mens-joggers.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b09087c1d99e97edf0dc88a/103934/201457/dpf-essential-mens-joggers.jpg?camera_label=person-1",
+        "https://images.printify.com/mockup/6b09087c1d99e97edf0dc88a/103934/201461/dpf-essential-mens-joggers.jpg?camera_label=person-2"
       ],
       "images_model": [
         "https://images.printify.com/mockup/6b09087c1d99e97edf0dc88a/103934/201457/dpf-essential-mens-joggers.jpg?camera_label=person-1",
@@ -27177,8 +27210,8 @@
       "cg": "printify-6b09087c1d99e97edf0dc88a",
       "look": [
         "printful-359535579",
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
       "stripe_product_id": "prod_VhgNBh8FcQh1Yr",
@@ -27194,7 +27227,9 @@
       "stripe_link_id": "plink_1UgH0eLJVU4oTPuXbMFXKvWi",
       "stripe_price_cents": 5899,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "men",
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-crema-de-hidratacion-de-la-piel-daz-premium-fit",
@@ -27275,8 +27310,8 @@
       "fam": "crema-hidratacion-la",
       "cg": "t-de-hidratacion-de-la-piel-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -27511,8 +27546,8 @@
       "fam": "suero-botanico-el",
       "cg": "t-suero-botanico-para-el-crecimiento-del-cabello-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -28105,8 +28140,8 @@
       "cg": "t-daz-premium-fit-immortal-warrior-pantalon-corto-de-hombre",
       "look": [
         "printful-359535579",
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a"
       ],
       "page": true,
@@ -28299,8 +28334,8 @@
       "cg": "t-daz-premium-fit-immortal-warrior-pantalon-corto-de-hombre",
       "look": [
         "printful-359535579",
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a"
       ],
       "page": true,
@@ -28441,8 +28476,8 @@
       "fam": "crema-ojos-peptidos",
       "cg": "t-para-ojos-con-peptidos-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -28731,7 +28766,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "DPF Essential Men's Sweat Shorts Blue Jean DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
+      "source_text": "DPF Essential Men's Sweat Shorts shorts Blue Jean DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Pantalón Corto DPF Essential · Blue Jean",
       "name_en": "DPF Essential Sweat Shorts · Blue Jean",
       "desc_es": "Diseñado para el entrenamiento riguroso y el descanso absoluto, el pantalón corto DPF Essential define una silueta atlética pulida y contemporánea. Su tonalidad blue jean otorga un carácter sobrio y atemporal, acentuado de manera sutil por el emblema distintivo DPF. Creado con un enfoque deliberado en la proporción y la versatilidad, este modelo prescinde de cualquier exceso visual. Cada prenda se confecciona bajo pedido con los más rigurosos estándares de confección. Rendimiento discreto y arquitectura textil pensada para acompañar cada movimiento. Envíos disponibles a todo el mundo.",
@@ -28743,7 +28778,8 @@
       "images_original": [
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110278/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110278/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
-        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110278/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context"
+        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110278/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context",
+        "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110278/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context"
       ],
       "images_model": [
         "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110278/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context"
@@ -28806,8 +28842,8 @@
       "cg": "printify-6b09087f1d99e97edf0dc891",
       "look": [
         "printful-359535579",
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a"
       ],
       "stripe_product_id": "prod_VhgN09mSymZXhq",
@@ -28822,7 +28858,9 @@
       "stripe_link_id": "plink_1UgH0eLJVU4oTPuXxWkho85B",
       "stripe_price_cents": 5299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "men",
+      "audited": "2026-11-27"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-hydrangea",
@@ -28873,8 +28911,8 @@
       "source_text": "DPF Essential Men's Sweat Shorts Hydrangea DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Pantalón Corto DPF Essential · Hydrangea",
       "name_en": "DPF Essential Sweat Shorts · Hydrangea",
-      "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
-      "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+      "desc_es": "Diseñado para el movimiento y la recuperación. Este pantalón corto combina una silueta limpia con un tono suave. Incorpora el embleble distintivo en la pierna. Confección bajo demanda disponible para envío mundial.",
+      "desc_en": "Engineered for movement and recovery. This sweat short combines a clean silhouette with a refined soft tone. Detailed with the signature emblem on the leg. Made-to-order pieces available with worldwide shipping.",
       "price_usd": 52.99,
       "margin_pct": 22.0,
       "shipping_usd": 4.95,
@@ -28906,8 +28944,8 @@
       "cg": "printify-6b09087f1d99e97edf0dc891",
       "look": [
         "printful-359535579",
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a"
       ],
       "stripe_product_id": "prod_VhgNrIWggGpyMZ",
@@ -28922,7 +28960,47 @@
       "stripe_link_id": "plink_1UgH0fLJVU4oTPuXJ0mHgxim",
       "stripe_price_cents": 5299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "art_score": 8,
+      "art_note": "Clean studio lighting and lifestyle model shots elevate the presentation.",
+      "needs_studio": false,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110291/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110291/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110291/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context",
+            "k": "product",
+            "q": "premium"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110291/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context",
+            "k": "model",
+            "q": "premium"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "Sweat Shorts",
+      "ai_gender": "unisex",
+      "ai_color": "Hydrangea",
+      "ai_cats": [
+        "hombre/pantalones-cortos"
+      ],
+      "details_es": "· Hecho a pedido",
+      "details_en": "· Made to order",
+      "ai_copy": true,
+      "ai_done": true,
+      "audited": "2026-11-27"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-ivory",
@@ -28973,8 +29051,8 @@
       "source_text": "DPF Essential Men's Sweat Shorts Ivory DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Pantalón Corto DPF Essential · Marfil",
       "name_en": "DPF Essential Sweat Shorts · Ivory",
-      "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
-      "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+      "desc_es": "Una silueta diseñada para el movimiento con un carácter depurado y una presencia impecable. Estos pantalones cortos combinan comodidad funcional con una estética moderna y limpia. El tono marfil aporta versatilidad y sofisticación a tu rutina diaria de entrenamiento. Cada pieza se confecciona bajo demanda para garantizar exclusividad y un acabado impecable. Disfruta de envíos a todo el mundo con el respaldo de nuestra garantía de calidad.",
+      "desc_en": "A silhouette engineered for movement with a refined character and an impeccable presence. These shorts combine functional comfort with a clean, modern aesthetic. The ivory tone brings versatility and sophistication to your daily training routine. Each piece is made to order to ensure exclusivity and an immaculate finish. Enjoy worldwide shipping backed by our commitment to uncompromising quality.",
       "price_usd": 52.99,
       "margin_pct": 22.0,
       "shipping_usd": 4.95,
@@ -29006,8 +29084,8 @@
       "cg": "printify-6b09087f1d99e97edf0dc891",
       "look": [
         "printful-359535579",
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a"
       ],
       "stripe_product_id": "prod_VhgN1SecYw8xyz",
@@ -29022,7 +29100,47 @@
       "stripe_link_id": "plink_1UgH0gLJVU4oTPuXMiqIey73",
       "stripe_price_cents": 5299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "art_score": 8,
+      "art_note": "Clean studio lighting and lifestyle model shots elevate the presentation effectively.",
+      "needs_studio": false,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context",
+            "k": "product",
+            "q": "premium"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context",
+            "k": "model",
+            "q": "premium"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "sweat shorts",
+      "ai_gender": "men",
+      "ai_color": "ivory",
+      "ai_cats": [
+        "hombre/pantalones-cortos"
+      ],
+      "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
+      "details_en": "· Made to order\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true,
+      "audited": "2026-11-27"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-neon-violet",
@@ -29073,8 +29191,8 @@
       "source_text": "DPF Essential Men's Sweat Shorts Neon Violet DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Pantalón Corto DPF Essential · Neon Violet",
       "name_en": "DPF Essential Sweat Shorts · Neon Violet",
-      "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
-      "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+      "desc_es": "Una silueta depurada diseñada para el movimiento diario. Estos shorts combinan una estética minimalista con una presencia visual audaz. Confeccionados con precisión para ofrecer comodidad sin esfuerzo, presentan una cintura ajustable y el emblema distintivo de la marca. Una pieza esencial de alto rendimiento que equilibra la funcionalidad técnica con la elegancia contemporánea. Disponible con envío a todo el mundo y confección bajo demanda.",
+      "desc_en": "A refined silhouette designed for daily movement. These shorts combine a minimalist aesthetic with a bold visual presence. Tailored with precision for effortless comfort, they feature an adjustable waistband and the distinctive emblem of the house. An essential high-performance piece balancing technical functionality with contemporary elegance. Available with worldwide shipping and made-to-order craftsmanship.",
       "price_usd": 52.99,
       "margin_pct": 22.0,
       "shipping_usd": 4.95,
@@ -29106,8 +29224,8 @@
       "cg": "printify-6b09087f1d99e97edf0dc891",
       "look": [
         "printful-359535579",
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a"
       ],
       "stripe_product_id": "prod_VhgNwFrjctaUgB",
@@ -29122,7 +29240,47 @@
       "stripe_link_id": "plink_1UgH0hLJVU4oTPuXHxeiEbDk",
       "stripe_price_cents": 5299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "art_score": 8,
+      "art_note": "Clean studio lighting and lifestyle imagery elevate the garment presentation.",
+      "needs_studio": false,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context",
+            "k": "product",
+            "q": "premium"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context",
+            "k": "model",
+            "q": "premium"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "Sweat Shorts",
+      "ai_gender": "unisex",
+      "ai_color": "Neon Violet",
+      "ai_cats": [
+        "hombre/pantalones-cortos"
+      ],
+      "details_es": "· Confección bajo demanda\n· Envío a todo el mundo",
+      "details_en": "· Made-to-order piece\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true,
+      "audited": "2026-11-27"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-peachy",
@@ -29170,8 +29328,8 @@
       "source_text": "DPF Essential Men's Sweat Shorts Peachy DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Pantalón Corto DPF Essential · Peachy",
       "name_en": "DPF Essential Sweat Shorts · Peachy",
-      "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
-      "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+      "desc_es": "Diseñado para el movimiento y la relajación. Este modelo combina una estética depurada con una funcionalidad superior. La cintura ajustable ofrece un confort personalizado en cada uso. El tono suave aporta versatilidad y elegancia moderna a tu vestuario diario. Confeccionado bajo demanda con envíos a todo el mundo.",
+      "desc_en": "Designed for movement and relaxation. This silhouette combines refined aesthetics with superior functionality. The adjustable waistband offers customized comfort for every wear. The soft hue brings versatility and modern elegance to your everyday wardrobe. Made to order with worldwide shipping available.",
       "price_usd": 52.99,
       "margin_pct": 22.0,
       "shipping_usd": 4.95,
@@ -29203,8 +29361,8 @@
       "cg": "printify-6b09087f1d99e97edf0dc891",
       "look": [
         "printful-359535579",
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a"
       ],
       "stripe_product_id": "prod_VhgNHJ6sWkYPnC",
@@ -29218,7 +29376,47 @@
       "stripe_link_id": "plink_1UgH0iLJVU4oTPuX61mYiOXu",
       "stripe_price_cents": 5299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "art_score": 8,
+      "art_note": "Clean studio lighting and sophisticated lifestyle model shots elevate the product presentation.",
+      "needs_studio": false,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context",
+            "k": "detail",
+            "q": "premium"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context",
+            "k": "model",
+            "q": "premium"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "Sweat Shorts",
+      "ai_gender": "unisex",
+      "ai_color": "Peachy",
+      "ai_cats": [
+        "hombre/pantalones-cortos"
+      ],
+      "details_es": "· Hecho bajo demanda",
+      "details_en": "· Made to order",
+      "ai_copy": true,
+      "ai_done": true,
+      "audited": "2026-11-27"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-pepper",
@@ -29269,8 +29467,8 @@
       "source_text": "DPF Essential Men's Sweat Shorts Pepper DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
       "name_es": "Pantalón Corto DPF Essential · Pepper",
       "name_en": "DPF Essential Sweat Shorts · Pepper",
-      "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
-      "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+      "desc_es": "Diseñados para el rendimiento y la versatilidad diaria. Estos pantalones cortos combinan líneas depuradas con una estética atlética y refinada. El tono pepper aporta profundidad a tu vestuario de entrenamiento, mientras que la silueta estructurada ofrece libertad de movimiento sin esfuerzo. Disponibles mediante fabricación bajo demanda con envío a todo el mundo.",
+      "desc_en": "Engineered for performance and daily versatility. These sweat shorts unite clean lines with a refined athletic aesthetic. The pepper shade brings depth to your training wardrobe, while the structured silhouette delivers effortless freedom of movement. Available made-to-order with worldwide shipping.",
       "price_usd": 52.99,
       "margin_pct": 22.0,
       "shipping_usd": 4.95,
@@ -29302,8 +29500,8 @@
       "cg": "printify-6b09087f1d99e97edf0dc891",
       "look": [
         "printful-359535579",
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a"
       ],
       "stripe_product_id": "prod_VhgNQAGpboqwq4",
@@ -29318,7 +29516,47 @@
       "stripe_link_id": "plink_1UgH0iLJVU4oTPuX1j5QBbmp",
       "stripe_price_cents": 5299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "art_score": 8,
+      "art_note": "Clean studio lighting and high-end lifestyle staging elevate the baseline product shots.",
+      "needs_studio": false,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
+            "k": "product",
+            "q": "ok"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context",
+            "k": "product",
+            "q": "premium"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/126267/dpf-essential-mens-sweat-shorts.jpg?camera_label=person-3-context",
+            "k": "model",
+            "q": "premium"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "Sweat Shorts",
+      "ai_gender": "men",
+      "ai_color": "Pepper",
+      "ai_cats": [
+        "hombre/pantalones-cortos"
+      ],
+      "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
+      "details_en": "· Made to order\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true,
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-mezcla-profesional-de-enzimas-digestivas-daz-premium-fit",
@@ -29683,8 +29921,8 @@
       "fam": "emblem-beast-mode",
       "cg": "printify-6b08e9f16d0e8a542404257c",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -29741,10 +29979,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "DPF Essential Performance Cap Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
-      "name_es": "Gorro Performance · Negro",
-      "name_en": "Performance Hat · Black",
-      "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
-      "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+      "name_es": "Gorra Essential Performance Negra",
+      "name_en": "Essential Performance Black Cap",
+      "desc_es": "Diseñada para el entrenamiento exigente y la transición urbana. Esta gorra combina una silueta clásica con detalles funcionales refinados. La estructura ofrece un ajuste seguro y cómodo durante cualquier actividad física. Los elementos gráficos rinden homenaje a la identidad de rendimiento de la marca. Una pieza esencial que aporta sofisticación discreta a tu equipamiento deportivo. Confeccionada bajo demanda para garantizar exclusividad. Disponible con envío a todo el mundo.",
+      "desc_en": "Engineered for intense training and urban transition. This cap combines a classic silhouette with refined functional details. The structure delivers a secure and comfortable fit during any physical activity. Graphic elements pay homage to the brand's performance identity. An essential piece that brings understated sophistication to your athletic gear. Made to order to ensure exclusivity. Available with worldwide shipping.",
       "price_usd": 34.99,
       "margin_pct": 21.9,
       "shipping_usd": 5.09,
@@ -29775,8 +30013,8 @@
       "cg": "printify-6b090882c87e8df47b09862a",
       "look": [
         "printful-359535579",
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a"
       ],
       "stripe_product_id": "prod_VhgNtqWUMMvbLF",
@@ -29787,7 +30025,43 @@
       "stripe_link_id": "plink_1UgH0jLJVU4oTPuXforipbYH",
       "stripe_price_cents": 3499,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "art_score": 2,
+      "art_note": "Flat vector mockups provided instead of real photography, lacking professional studio lighting and texture.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b090882c87e8df47b09862a/391147/162391/dpf-essential-performance-cap.jpg?camera_label=front",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b090882c87e8df47b09862a/391147/162393/dpf-essential-performance-cap.jpg?camera_label=front-left",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b090882c87e8df47b09862a/391147/162395/dpf-essential-performance-cap.jpg?camera_label=front-right",
+            "k": "product",
+            "q": "cheap"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "cap",
+      "ai_gender": "unisex",
+      "ai_color": "black",
+      "ai_cats": [
+        "hombre/gorro-bufanda",
+        "mujer/gorros-bufandas"
+      ],
+      "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
+      "details_en": "· Made to order\n· Worldwide shipping",
+      "ai_copy": true,
+      "ai_done": true,
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-alpha-energy-daz-premium-fit",
@@ -29992,8 +30266,8 @@
       "fam": "polvo-matcha-ceremonial",
       "cg": "t-polvo-de-matcha-ceremonial-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -30905,7 +31179,7 @@
       "cg": "printful-484195395",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -31041,7 +31315,7 @@
       "cg": "printful-484195395",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -32057,8 +32331,8 @@
       "fam": "barro-del-mar",
       "cg": "t-barro-del-mar-muerto-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -32752,7 +33026,8 @@
         "assets/products/shop/fab36ec4523c3c158b81.jpg",
         "assets/products/shop/170693576056c560a491.jpg",
         "assets/products/shop/f194ed342badecc61467.jpg"
-      ]
+      ],
+      "audited": "2026-11-27"
     },
     {
       "id": "printful-484199287-military-green",
@@ -32884,7 +33159,8 @@
         "assets/products/shop/4be350d18f723d452853.jpg",
         "assets/products/shop/170693576056c560a491.jpg",
         "assets/products/shop/f194ed342badecc61467.jpg"
-      ]
+      ],
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-focus-powder-daz-premium-fitcaramelos-acidos",
@@ -33022,7 +33298,8 @@
       "details_en": "· 20 servings per container\n· Mix 2 scoops with water\n· Made to order\n· Worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-focus-powder-daz-premium-fitgusano-de-goma-agria",
@@ -33154,7 +33431,8 @@
       "details_en": "· 160g format\n· 20 servings per container\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-27"
     },
     {
       "id": "productifi-focus-powder-daz-premium-fituva-agria",
@@ -35063,8 +35341,8 @@
       "fam": "fusion-cafe-champinones",
       "cg": "t-fusion-de-cafe-con-champinones-melena-de-leon-y-chaga-daz-premium",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -35640,8 +35918,8 @@
       "cg": "printful-480569608",
       "look": [
         "printful-359535579",
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a"
       ],
       "stripe_product_id": "prod_VhAShChG8H4pXk",
@@ -35773,8 +36051,8 @@
       "cg": "printful-480569608",
       "look": [
         "printful-359535579",
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a"
       ],
       "stripe_product_id": "prod_VhASVC0LMw3KIG",
@@ -35906,8 +36184,8 @@
       "cg": "printful-480569608",
       "look": [
         "printful-359535579",
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a"
       ],
       "stripe_product_id": "prod_VhASalYovl7xXH",
@@ -36037,8 +36315,8 @@
       "fam": "crema-reafirmante-la",
       "cg": "t-reafirmante-de-la-piel-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -37757,7 +38035,7 @@
       "cg": "printful-480571842",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -37879,7 +38157,7 @@
       "cg": "printful-484192500",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -38134,10 +38412,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "DPF Essential Women's Sports Bra Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
-      "name_es": "Sujetador Deportivo Sports Bra · Negro",
-      "name_en": "Sports Bra Sports Bra · Black",
-      "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
-      "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+      "name_es": "Sujetador Deportivo Esencial DPF",
+      "name_en": "DPF Essential Sports Bra",
+      "desc_es": "Diseñado para el entrenamiento definitivo. Este sujetador deportivo combina soporte técnico con una estética depurada. La silueta esculpida se mueve con precisión a través de cada movimiento. El emblema DPF aporta un toque de distinción atlética. Confeccionado bajo pedido para garantizar exclusividad. Disponible con envíos a todo el mundo.",
+      "desc_en": "Engineered for uncompromising training sessions. This sports bra unites technical support with a refined aesthetic. The sculpted silhouette moves with absolute precision through every exertion. The DPF emblem delivers a signature athletic distinction. Crafted to order to ensure complete exclusivity. Available with worldwide shipping.",
       "price_usd": 63.99,
       "margin_pct": 20.6,
       "shipping_usd": 5.89,
@@ -38180,7 +38458,31 @@
       "stripe_link_id": "plink_1UgH0kLJVU4oTPuXephtMmKl",
       "stripe_price_cents": 6399,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "art_score": 2,
+      "art_note": "The image is a flat digital vector mockup rather than a professional product photograph, giving a generic marketplace appearance.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b0908851d99e97edf0dc8a0/322431/168084/dpf-essential-womens-sports-bra.jpg?camera_label=front",
+            "k": "product",
+            "q": "cheap"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "sports bra",
+      "ai_gender": "women",
+      "ai_color": "black",
+      "ai_cats": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "details_es": "· Hecho a pedido\n· Diseñado para entrenamiento\n· Emblema DPF integrado",
+      "details_en": "· Made to order\n· Training gear design\n· DPF emblem detail",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "productifi-advanced-100-whey-protein-isolate-vanilla",
@@ -38387,8 +38689,8 @@
       "fam": "cafe-colombia-origen",
       "cg": "t-cafe-daz-colombia-de-origen-unico-tostado-ligero-medio",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -39744,7 +40046,7 @@
       "cg": "printify-6b08e9f6db66d9659e06dc37",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -39872,8 +40174,8 @@
       "fam": "crema-recuperadora-premium",
       "cg": "t-recuperadora-daz-premium-fit",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -40540,10 +40842,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "DPF Essential Women's Joggers Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
-      "name_es": "Jogger Joggers · Negro",
-      "name_en": "Joggers Joggers · Black",
-      "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
-      "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+      "name_es": "Pantalón Jogger Essential",
+      "name_en": "Essential Jogger Pants",
+      "desc_es": "La silueta definitiva para el entrenamiento y el descanso. Este diseño combina líneas depuradas con una funcionalidad absoluta. Confeccionado para ofrecer libertad de movimiento sin renunciar a una estética sofisticada. Cada pieza se elabora de manera individual bajo demanda. Disponible con envío internacional.",
+      "desc_en": "The definitive silhouette for training and repose. This design merges clean lines with absolute functionality. Crafted to offer freedom of movement without compromising on sophisticated aesthetics. Each piece is individually crafted on demand. Available with worldwide shipping.",
       "price_usd": 70.99,
       "margin_pct": 20.3,
       "shipping_usd": 10.39,
@@ -40594,7 +40896,46 @@
       "stripe_link_id": "plink_1UgH0lLJVU4oTPuXyHGNynac",
       "stripe_price_cents": 7099,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "art_score": 3,
+      "art_note": "Flat vector-style product illustrations lacking real photographic depth or texture.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b09088a6d0e8a5424044b32/195328/148591/dpf-essential-womens-joggers.jpg?camera_label=front-left-leg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09088a6d0e8a5424044b32/195328/148593/dpf-essential-womens-joggers.jpg?camera_label=front-right-leg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09088a6d0e8a5424044b32/195328/148595/dpf-essential-womens-joggers.jpg?camera_label=back-left-leg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b09088a6d0e8a5424044b32/195328/148597/dpf-essential-womens-joggers.jpg?camera_label=back-right-leg",
+            "k": "product",
+            "q": "cheap"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "joggers",
+      "ai_gender": "women",
+      "ai_color": "black",
+      "ai_cats": [
+        "mujer/pantalones"
+      ],
+      "details_es": "· Hecho a pedido\n· Envío mundial disponible",
+      "details_en": "· Made to order\n· Worldwide shipping available",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "productifi-bcaa-post-workout-powder-honeydew-watermelon",
@@ -40782,8 +41123,8 @@
       "fam": "cafe-miel-manuka",
       "cg": "t-cafe-con-miel-de-manuka-daz-premium-fit-16oz",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -41987,10 +42328,10 @@
       "size_guide": [],
       "size_chart": null,
       "source_text": "DPF Essential Women's Leggings Black DAZ Premium Fit — DPF Essential. Training gear with the DPF emblem. Made to order.",
-      "name_es": "Leggings Immortal Warrior · Negro",
-      "name_en": "Immortal Warrior Leggings · Black",
-      "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
-      "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
+      "name_es": "Leggings Esenciales DPF Mujer",
+      "name_en": "DPF Essential Women's Leggings",
+      "desc_es": "Descubre la máxima expresión de la funcionalidad y el diseño con los leggings esenciales para mujer de DAZ Premium Fit. Creados para acompañarte en cada sesión de entrenamiento con una precisión impecable, estos leggings combinan un diseño depurado con la icónica estética de nuestra marca. Cada pieza es elaborada bajo pedido para garantizar la máxima exclusividad y atención al detalle. Eleva tu rendimiento diario con una prenda concebida para la mujer moderna que exige sofisticación tanto dentro como fuera del gimnasio. Disponibles con envío a todo el mundo.",
+      "desc_en": "Discover the ultimate expression of functionality and design with the DPF essential women's leggings from DAZ Premium Fit. Crafted to accompany you through every training session with impeccable precision, these leggings combine a refined silhouette with our signature emblem aesthetic. Each piece is meticulously made to order to ensure absolute exclusivity and superior attention to detail. Elevate your daily performance with a garment conceived for the modern woman who demands sophistication both inside and outside the gym. Available with worldwide shipping.",
       "price_usd": 70.99,
       "margin_pct": 20.1,
       "shipping_usd": 10.39,
@@ -42037,7 +42378,36 @@
       "stripe_link_id": "plink_1UgH0lLJVU4oTPuXQRCXvmau",
       "stripe_price_cents": 7099,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "art_score": 3,
+      "art_note": "Flat vector-style mockups lacking realistic lighting, texture, and professional studio presentation.",
+      "needs_studio": true,
+      "ai_ver": 2,
+      "ai_images": {
+        "keep": [
+          {
+            "u": "https://images.printify.com/mockup/6b090887d60c2fd53c025918/214131/138921/dpf-essential-womens-leggings.jpg?camera_label=front-right-leg",
+            "k": "product",
+            "q": "cheap"
+          },
+          {
+            "u": "https://images.printify.com/mockup/6b090887d60c2fd53c025918/214131/138922/dpf-essential-womens-leggings.jpg?camera_label=front-left-leg",
+            "k": "product",
+            "q": "cheap"
+          }
+        ],
+        "guides": []
+      },
+      "ai_type": "Leggings",
+      "ai_gender": "women",
+      "ai_color": "Black",
+      "ai_cats": [
+        "mujer/leggings"
+      ],
+      "details_es": "· Hecho a pedido\n· Equipamiento de entrenamiento con emblema DPF",
+      "details_en": "· Made to order\n· Training gear with DPF emblem",
+      "ai_copy": true,
+      "ai_done": true
     },
     {
       "id": "printful-484188638-black-camo",
@@ -42117,7 +42487,7 @@
       "cg": "printful-484188638",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -42256,7 +42626,7 @@
       "cg": "printful-484188638",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -43015,8 +43385,8 @@
       "fam": "immortal-warrior-no",
       "cg": "printify-6b089b3b155f8bb8d10801be",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -43383,8 +43753,8 @@
       "fam": "emblem-tank-top",
       "cg": "printify-6b08923128a05af49e00a257",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -43616,8 +43986,8 @@
       "fam": "immortal-warrior-classic",
       "cg": "printify-6b0892436a219864bc0f11dd",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -43851,8 +44221,8 @@
       "fam": "immortal-warrior-tank",
       "cg": "printify-6b0892576d0e8a542403d39d",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -44050,8 +44420,8 @@
       "fam": "immortal-warrior-no",
       "cg": "printify-6b0899f96bfabea2f3021a8e",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -44243,8 +44613,8 @@
       "fam": "immortal-warrior-edition",
       "cg": "printify-6b0894ffedc552ae350870fd",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -45168,8 +45538,8 @@
       "fam": "emblem-tee",
       "cg": "printify-6b08922d75d150be77030196",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -45389,8 +45759,8 @@
       "fam": "emblem-tee",
       "cg": "printify-6b08923855d595d88e09f999",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -45649,8 +46019,8 @@
       "fam": "immortal-warrior-classic",
       "cg": "printify-6b089240c9d405a582022ee0",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -45870,8 +46240,8 @@
       "fam": "immortal-warrior-elite",
       "cg": "printify-6b08924d75d150be770301be",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -46096,8 +46466,8 @@
       "fam": "immortal-warrior-tee",
       "cg": "printify-6b089254ba427acd12096a99",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -46361,8 +46731,8 @@
       "fam": "immortal-warrior-edition",
       "cg": "printify-6b0894fcba427acd12096c87",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -46632,8 +47002,8 @@
       "fam": "immortal-warrior-no",
       "cg": "printify-6b0899f655d595d88e0a00d7",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -46860,7 +47230,7 @@
       "cg": "printify-6b089b3e155f8bb8d10801c1",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -47520,7 +47890,7 @@
       "cg": "printify-6b0892336a219864bc0f11ce",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -47747,7 +48117,7 @@
       "cg": "printify-6b08923b75d150be770301a3",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -48034,7 +48404,7 @@
       "cg": "printify-6b08924655d595d88e09f9a9",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -48300,7 +48670,7 @@
       "cg": "printify-6b08924a6d0e8a542403d393",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -48527,7 +48897,7 @@
       "cg": "printify-6b0899fc6bfabea2f3021a91",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -48752,8 +49122,8 @@
       "fam": "immortal-warrior-no",
       "cg": "printify-6b089b38c9d405a5820236ea",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -48972,7 +49342,7 @@
       "cg": "printify-6b0894f655d595d88e09fb97",
       "look": [
         "printful-359535579",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+        "printify-6b09088dc87e8df47b098636-gold",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -50490,8 +50860,8 @@
       "fam": "blueprint-series-nutritional",
       "cg": "t-the-blueprint-series-nutritional-foundation",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
@@ -50638,8 +51008,8 @@
       "fam": "prestige-protocol-biometric",
       "cg": "t-the-prestige-protocol-biometric-mastery",
       "look": [
+        "printify-6b09088dc87e8df47b098636-gold",
         "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-        "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],

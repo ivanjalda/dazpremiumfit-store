@@ -10,6 +10,7 @@
  "ai_ver": 2,
  "art_note": "Clean studio product photography against a neutral background, highlighting the bag structure and branding.",
  "art_score": 7,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
@@ -28,6 +29,7 @@
  ],
  "draft": false,
  "fam": "essential-gym-bag",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-6b09088dc87e8df47b098636-navy",
  "img_checked": "2026-11-27",
@@ -39,6 +41,7 @@
  "name_es": "Bolsa de deporte esencial DPF · Azul Marino",
  "needs_review": false,
  "needs_studio": true,
+ "page": true,
  "price_usd": 62.99,
  "rank": 35,
  "shipping_usd": 12.19,

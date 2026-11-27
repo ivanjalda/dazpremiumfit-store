@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/leggings"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Leggings",
+ "ai_ver": 2,
+ "art_note": "Flat vector-style mockups lacking realistic lighting, texture, and professional studio presentation.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printify-6b090887d60c2fd53c025918",
  "color": "Black",
  "created": "2026-11-27",
- "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "Discover the ultimate expression of functionality and design with the DPF essential women's leggings from DAZ Premium Fit. Crafted to accompany you through every training session with impeccable precision, these leggings combine a refined silhouette with our signature emblem aesthetic. Each piece is meticulously made to order to ensure absolute exclusivity and superior attention to detail. Elevate your daily performance with a garment conceived for the modern woman who demands sophistication both inside and outside the gym. Available with worldwide shipping.",
+ "desc_es": "Descubre la máxima expresión de la funcionalidad y el diseño con los leggings esenciales para mujer de DAZ Premium Fit. Creados para acompañarte en cada sesión de entrenamiento con una precisión impecable, estos leggings combinan un diseño depurado con la icónica estética de nuestra marca. Cada pieza es elaborada bajo pedido para garantizar la máxima exclusividad y atención al detalle. Eleva tu rendimiento diario con una prenda concebida para la mujer moderna que exige sofisticación tanto dentro como fuera del gimnasio. Disponibles con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Training gear with DPF emblem",
+ "details_es": "· Hecho a pedido\n· Equipamiento de entrenamiento con emblema DPF",
  "display_images": [
   "https://images.printify.com/mockup/6b090887d60c2fd53c025918/214131/138921/dpf-essential-womens-leggings.jpg?camera_label=front-right-leg",
   "https://images.printify.com/mockup/6b090887d60c2fd53c025918/214131/138922/dpf-essential-womens-leggings.jpg?camera_label=front-left-leg"
@@ -25,9 +38,11 @@
   "interestprint-descarga-31-racerback-sports-bra"
  ],
  "material": "",
- "name_en": "Immortal Warrior Leggings · Black",
- "name_es": "Leggings Immortal Warrior · Negro",
+ "name_en": "DPF Essential Women's Leggings",
+ "name_es": "Leggings Esenciales DPF Mujer",
  "needs_review": false,
+ "needs_studio": true,
+ "page": true,
  "price_usd": 70.99,
  "rank": 294,
  "shipping_usd": 10.39,

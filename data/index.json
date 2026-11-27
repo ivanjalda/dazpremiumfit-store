@@ -92,13 +92,13 @@
       "available": true,
       "rank": 5,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b090892c87e8df47b098639",
       "fam": "essential-training-socks",
       "cg": "printify-6b090892c87e8df47b098639",
       "color": "White",
       "art_score": 3,
-      "img": "https://images.printify.com/mockup/6b090892c87e8df47b098639/71924/12379/dpf-essential-training-socks.jpg?camera_label=all-sides",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b090892c87e8df47b098639/71924/12379/dpf-essential-training-socks.jpg?camera_label=all-sides"
     },
     {
       "id": "interestprint-design-womens-crop-rugby-jersey",
@@ -332,13 +332,13 @@
       "available": true,
       "rank": 20,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b0908971ec00443710ef319",
       "fam": "essential-gym-towel",
       "cg": "printify-6b0908971ec00443710ef319",
       "color": "Black",
       "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b0908971ec00443710ef319/250949/172568/dpf-essential-gym-towel.jpg?camera_label=top-left",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b0908971ec00443710ef319/250949/172568/dpf-essential-gym-towel.jpg?camera_label=top-left"
     },
     {
       "id": "interestprint-design-womens-high-waist-layered-sport-skirt",
@@ -461,26 +461,6 @@
       "img": "assets/products/shop/a27a7ad2113e90e83b04.jpg"
     },
     {
-      "id": "printify-6b09088dc87e8df47b098636-gold",
-      "name_es": "Bolsa de deporte esencial DPF · Oro",
-      "name_en": "DPF Essential Gym Bag · Gold",
-      "price_usd": 62.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 32,
-      "created": "2026-11-27",
-      "supplier_id": "6b09088dc87e8df47b098636-gold",
-      "fam": "essential-gym-bag",
-      "cg": "printify-6b09088dc87e8df47b098636",
-      "color": "Gold",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149521/126539/dpf-essential-gym-bag.jpg?camera_label=back",
-      "page": true
-    },
-    {
       "id": "printify-6b09088dc87e8df47b098636-hunter",
       "name_es": "Bolsa de deporte esencial DPF · Hunter",
       "name_en": "DPF Essential Gym Bag · Hunter",
@@ -492,33 +472,13 @@
       "available": true,
       "rank": 33,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b09088dc87e8df47b098636-hunter",
       "fam": "essential-gym-bag",
       "cg": "printify-6b09088dc87e8df47b098636",
       "color": "Hunter",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149522/126539/dpf-essential-gym-bag.jpg?camera_label=back",
-      "page": true
-    },
-    {
-      "id": "printify-6b09088dc87e8df47b098636-maroon",
-      "name_es": "Bolsa de deporte esencial DPF · Maroon",
-      "name_en": "DPF Essential Gym Bag · Maroon",
-      "price_usd": 62.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 34,
-      "created": "2026-11-27",
-      "supplier_id": "6b09088dc87e8df47b098636-maroon",
-      "fam": "essential-gym-bag",
-      "cg": "printify-6b09088dc87e8df47b098636",
-      "color": "Maroon",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149523/126539/dpf-essential-gym-bag.jpg?camera_label=back",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149522/126539/dpf-essential-gym-bag.jpg?camera_label=back"
     },
     {
       "id": "printify-6b09088dc87e8df47b098636-navy",
@@ -532,13 +492,13 @@
       "available": true,
       "rank": 35,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b09088dc87e8df47b098636-navy",
       "fam": "essential-gym-bag",
       "cg": "printify-6b09088dc87e8df47b098636",
       "color": "Navy",
       "art_score": 7,
-      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149524/126539/dpf-essential-gym-bag.jpg?camera_label=back",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149524/126539/dpf-essential-gym-bag.jpg?camera_label=back"
     },
     {
       "id": "printify-6b09088dc87e8df47b098636-red",
@@ -552,33 +512,13 @@
       "available": true,
       "rank": 36,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b09088dc87e8df47b098636-red",
       "fam": "essential-gym-bag",
       "cg": "printify-6b09088dc87e8df47b098636",
       "color": "Red",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149525/126539/dpf-essential-gym-bag.jpg?camera_label=back",
-      "page": true
-    },
-    {
-      "id": "printify-6b09088dc87e8df47b098636-royal",
-      "name_es": "Bolsa de deporte esencial DPF · Royal",
-      "name_en": "DPF Essential Gym Bag · Royal",
-      "price_usd": 62.99,
-      "badge": "new",
-      "categories": [
-        "decor"
-      ],
-      "available": true,
-      "rank": 37,
-      "created": "2026-11-27",
-      "supplier_id": "6b09088dc87e8df47b098636-royal",
-      "fam": "essential-gym-bag",
-      "cg": "printify-6b09088dc87e8df47b098636",
-      "color": "Royal",
-      "art_score": 9,
-      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149526/126539/dpf-essential-gym-bag.jpg?camera_label=back",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149525/126539/dpf-essential-gym-bag.jpg?camera_label=back"
     },
     {
       "id": "printify-6b08e9f3f7ed4c973b05affe",
@@ -893,13 +833,13 @@
       "available": true,
       "rank": 187,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b09087c1d99e97edf0dc88a",
       "fam": "essential-men-s",
       "cg": "printify-6b09087c1d99e97edf0dc88a",
       "color": "Black",
       "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b09087c1d99e97edf0dc88a/103934/195136/dpf-essential-mens-joggers.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b09087c1d99e97edf0dc88a/103934/195136/dpf-essential-mens-joggers.jpg?camera_label=front"
     },
     {
       "id": "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
@@ -953,13 +893,13 @@
       "available": true,
       "rank": 197,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b09087f1d99e97edf0dc891-blue-jean",
       "fam": "essential-men-s",
       "cg": "printify-6b09087f1d99e97edf0dc891",
       "color": "Blue Jean",
       "art_score": 8,
-      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110278/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110278/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-hydrangea",
@@ -973,12 +913,13 @@
       "available": true,
       "rank": 198,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b09087f1d99e97edf0dc891-hydrangea",
       "fam": "essential-men-s",
       "cg": "printify-6b09087f1d99e97edf0dc891",
       "color": "Hydrangea",
-      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110291/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
-      "page": true
+      "art_score": 8,
+      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110291/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-ivory",
@@ -992,12 +933,13 @@
       "available": true,
       "rank": 199,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b09087f1d99e97edf0dc891-ivory",
       "fam": "essential-men-s",
       "cg": "printify-6b09087f1d99e97edf0dc891",
       "color": "Ivory",
-      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
-      "page": true
+      "art_score": 8,
+      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-neon-violet",
@@ -1011,12 +953,13 @@
       "available": true,
       "rank": 200,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b09087f1d99e97edf0dc891-neon-violet",
       "fam": "essential-men-s",
       "cg": "printify-6b09087f1d99e97edf0dc891",
       "color": "Neon Violet",
-      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
-      "page": true
+      "art_score": 8,
+      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-peachy",
@@ -1030,12 +973,13 @@
       "available": true,
       "rank": 201,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b09087f1d99e97edf0dc891-peachy",
       "fam": "essential-men-s",
       "cg": "printify-6b09087f1d99e97edf0dc891",
       "color": "Peachy",
-      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
-      "page": true
+      "art_score": 8,
+      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front"
     },
     {
       "id": "printify-6b09087f1d99e97edf0dc891-pepper",
@@ -1049,12 +993,13 @@
       "available": true,
       "rank": 202,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b09087f1d99e97edf0dc891-pepper",
       "fam": "essential-men-s",
       "cg": "printify-6b09087f1d99e97edf0dc891",
       "color": "Pepper",
-      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
-      "page": true
+      "art_score": 8,
+      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08e9f16d0e8a542404257c",
@@ -1079,8 +1024,8 @@
     },
     {
       "id": "printify-6b090882c87e8df47b09862a",
-      "name_es": "Gorro Performance · Negro",
-      "name_en": "Performance Hat · Black",
+      "name_es": "Gorra Essential Performance Negra",
+      "name_en": "Essential Performance Black Cap",
       "price_usd": 34.99,
       "badge": "new",
       "categories": [
@@ -1090,12 +1035,13 @@
       "available": true,
       "rank": 205,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b090882c87e8df47b09862a",
       "fam": "essential-performance-cap",
       "cg": "printify-6b090882c87e8df47b09862a",
       "color": "Black",
-      "img": "https://images.printify.com/mockup/6b090882c87e8df47b09862a/391147/162391/dpf-essential-performance-cap.jpg?camera_label=front",
-      "page": true
+      "art_score": 2,
+      "img": "https://images.printify.com/mockup/6b090882c87e8df47b09862a/391147/162391/dpf-essential-performance-cap.jpg?camera_label=front"
     },
     {
       "id": "printful-484195395-black",
@@ -1503,8 +1449,8 @@
     },
     {
       "id": "printify-6b0908851d99e97edf0dc8a0",
-      "name_es": "Sujetador Deportivo Sports Bra · Negro",
-      "name_en": "Sports Bra Sports Bra · Black",
+      "name_es": "Sujetador Deportivo Esencial DPF",
+      "name_en": "DPF Essential Sports Bra",
       "price_usd": 63.99,
       "badge": "new",
       "categories": [
@@ -1513,12 +1459,13 @@
       "available": true,
       "rank": 265,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b0908851d99e97edf0dc8a0",
       "fam": "essential-women-s",
       "cg": "printify-6b0908851d99e97edf0dc8a0",
       "color": "Black",
-      "img": "https://images.printify.com/mockup/6b0908851d99e97edf0dc8a0/322431/168084/dpf-essential-womens-sports-bra.jpg?camera_label=front",
-      "page": true
+      "art_score": 2,
+      "img": "https://images.printify.com/mockup/6b0908851d99e97edf0dc8a0/322431/168084/dpf-essential-womens-sports-bra.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08e9f6db66d9659e06dc37",
@@ -1583,8 +1530,8 @@
     },
     {
       "id": "printify-6b09088a6d0e8a5424044b32",
-      "name_es": "Jogger Joggers · Negro",
-      "name_en": "Joggers Joggers · Black",
+      "name_es": "Pantalón Jogger Essential",
+      "name_en": "Essential Jogger Pants",
       "price_usd": 70.99,
       "badge": "new",
       "categories": [
@@ -1593,12 +1540,13 @@
       "available": true,
       "rank": 282,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b09088a6d0e8a5424044b32",
       "fam": "essential-women-s",
       "cg": "printify-6b09088a6d0e8a5424044b32",
       "color": "Black",
-      "img": "https://images.printify.com/mockup/6b09088a6d0e8a5424044b32/195328/148591/dpf-essential-womens-joggers.jpg?camera_label=front-left-leg",
-      "page": true
+      "art_score": 3,
+      "img": "https://images.printify.com/mockup/6b09088a6d0e8a5424044b32/195328/148591/dpf-essential-womens-joggers.jpg?camera_label=front-left-leg"
     },
     {
       "id": "printful-484206291-black",
@@ -1702,8 +1650,8 @@
     },
     {
       "id": "printify-6b090887d60c2fd53c025918",
-      "name_es": "Leggings Immortal Warrior · Negro",
-      "name_en": "Immortal Warrior Leggings · Black",
+      "name_es": "Leggings Esenciales DPF Mujer",
+      "name_en": "DPF Essential Women's Leggings",
       "price_usd": 70.99,
       "badge": "new",
       "categories": [
@@ -1712,12 +1660,13 @@
       "available": true,
       "rank": 294,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b090887d60c2fd53c025918",
       "fam": "essential-women-s",
       "cg": "printify-6b090887d60c2fd53c025918",
       "color": "Black",
-      "img": "https://images.printify.com/mockup/6b090887d60c2fd53c025918/214131/138921/dpf-essential-womens-leggings.jpg?camera_label=front-right-leg",
-      "page": true
+      "art_score": 3,
+      "img": "https://images.printify.com/mockup/6b090887d60c2fd53c025918/214131/138921/dpf-essential-womens-leggings.jpg?camera_label=front-right-leg"
     },
     {
       "id": "printful-484188638-black-camo",

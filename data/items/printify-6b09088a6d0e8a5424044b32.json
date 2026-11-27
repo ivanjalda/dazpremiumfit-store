@@ -1,4 +1,15 @@
 {
+ "ai_cats": [
+  "mujer/pantalones"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "Flat vector-style product illustrations lacking real photographic depth or texture.",
+ "art_score": 3,
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +18,10 @@
  "cg": "printify-6b09088a6d0e8a5424044b32",
  "color": "Black",
  "created": "2026-11-27",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "desc_en": "The definitive silhouette for training and repose. This design merges clean lines with absolute functionality. Crafted to offer freedom of movement without compromising on sophisticated aesthetics. Each piece is individually crafted on demand. Available with worldwide shipping.",
+ "desc_es": "La silueta definitiva para el entrenamiento y el descanso. Este diseño combina líneas depuradas con una funcionalidad absoluta. Confeccionado para ofrecer libertad de movimiento sin renunciar a una estética sofisticada. Cada pieza se elabora de manera individual bajo demanda. Disponible con envío internacional.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
  "display_images": [
   "https://images.printify.com/mockup/6b09088a6d0e8a5424044b32/195328/148591/dpf-essential-womens-joggers.jpg?camera_label=front-left-leg",
   "https://images.printify.com/mockup/6b09088a6d0e8a5424044b32/195328/148593/dpf-essential-womens-joggers.jpg?camera_label=front-right-leg",
@@ -27,9 +40,11 @@
   "interestprint-design-womens-high-waist-layered-sport-skirt"
  ],
  "material": "",
- "name_en": "Joggers Joggers · Black",
- "name_es": "Jogger Joggers · Negro",
+ "name_en": "Essential Jogger Pants",
+ "name_es": "Pantalón Jogger Essential",
  "needs_review": false,
+ "needs_studio": true,
+ "page": true,
  "price_usd": 70.99,
  "rank": 282,
  "shipping_usd": 10.39,

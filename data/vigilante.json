@@ -233,15 +233,18 @@
     "printify-6b089b3e155f8bb8d10801c1": "repetido de printify-6b0899fc6bfabea2f3021a91",
     "printify-6b089b47867aed6ed008c5e1": "repetido de printify-6b089a07db66d9659e068f9a",
     "printify-6b089b38c9d405a5820236ea": "repetido de printify-6b0899f655d595d88e0a00d7",
-    "printify-6b089b44c9d405a5820236f1": "repetido de printify-6b089a056a219864bc0f18e4"
+    "printify-6b089b44c9d405a5820236f1": "repetido de printify-6b089a056a219864bc0f18e4",
+    "printify-6b09088dc87e8df47b098636-gold": "sección que no es deportiva (hombre/bolsos-carteras)",
+    "printify-6b09088dc87e8df47b098636-maroon": "sección que no es deportiva (hombre/bolsos-carteras)",
+    "printify-6b09088dc87e8df47b098636-royal": "sección que no es deportiva (hombre/bolsos-carteras)"
   },
   "checked": {},
-  "cursor": 197,
+  "cursor": 161,
   "last": {
-    "date": "2026-11-27T04:44+00:00",
-    "fixes": 0,
+    "date": "2026-11-27T11:28+00:00",
+    "fixes": 3,
     "checked_images": 80,
     "broken": 0,
-    "visible": 119
+    "visible": 116
   }
 }

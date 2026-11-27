@@ -10,6 +10,7 @@
  "ai_ver": 2,
  "art_note": "Clean studio presentation, but lacks dynamic lifestyle imagery to reach true high-end campaign standards.",
  "art_score": 5,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
@@ -30,6 +31,7 @@
  ],
  "draft": false,
  "fam": "essential-gym-towel",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-6b0908971ec00443710ef319",
  "img_checked": "2026-11-27",
@@ -41,6 +43,7 @@
  "name_es": "Toalla de Entrenamiento Esencial",
  "needs_review": false,
  "needs_studio": true,
+ "page": true,
  "price_usd": 32.99,
  "rank": 20,
  "shipping_usd": 5.89,

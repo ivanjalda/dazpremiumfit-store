@@ -10,6 +10,7 @@
  "ai_ver": 2,
  "art_note": "Mockup-style presentation lacks high-end campaign aesthetic.",
  "art_score": 3,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
@@ -28,6 +29,7 @@
  ],
  "draft": false,
  "fam": "essential-training-socks",
+ "gender": "unisex",
  "hidden": false,
  "id": "printify-6b090892c87e8df47b098639",
  "img_checked": "2026-11-27",
@@ -39,6 +41,7 @@
  "name_es": "Calcetines Esenciales de Rendimiento DPF",
  "needs_review": false,
  "needs_studio": true,
+ "page": true,
  "price_usd": 26.99,
  "rank": 5,
  "shipping_usd": 4.99,

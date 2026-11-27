@@ -1,4 +1,16 @@
 {
+ "ai_cats": [
+  "hombre/pantalones-cortos"
+ ],
+ "ai_color": "ivory",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "sweat shorts",
+ "ai_ver": 2,
+ "art_note": "Clean studio lighting and lifestyle model shots elevate the presentation effectively.",
+ "art_score": 8,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
@@ -7,8 +19,10 @@
  "cg": "printify-6b09087f1d99e97edf0dc891",
  "color": "Ivory",
  "created": "2026-11-27",
- "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
- "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "desc_en": "A silhouette engineered for movement with a refined character and an impeccable presence. These shorts combine functional comfort with a clean, modern aesthetic. The ivory tone brings versatility and sophistication to your daily training routine. Each piece is made to order to ensure exclusivity and an immaculate finish. Enjoy worldwide shipping backed by our commitment to uncompromising quality.",
+ "desc_es": "Una silueta diseñada para el movimiento con un carácter depurado y una presencia impecable. Estos pantalones cortos combinan comodidad funcional con una estética moderna y limpia. El tono marfil aporta versatilidad y sofisticación a tu rutina diaria de entrenamiento. Cada pieza se confecciona bajo demanda para garantizar exclusividad y un acabado impecable. Disfruta de envíos a todo el mundo con el respaldo de nuestra garantía de calidad.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
  "display_images": [
   "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
   "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
@@ -21,14 +35,16 @@
  "img_checked": "2026-11-27",
  "look": [
   "printful-359535579",
+  "printify-6b09088dc87e8df47b098636-gold",
   "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
   "printify-6b09087c1d99e97edf0dc88a"
  ],
  "material": "",
  "name_en": "DPF Essential Sweat Shorts · Ivory",
  "name_es": "Pantalón Corto DPF Essential · Marfil",
  "needs_review": false,
+ "needs_studio": false,
+ "page": true,
  "price_usd": 52.99,
  "rank": 199,
  "shipping_usd": 4.95,

@@ -1,5 +1,18 @@
 {
+ "ai_cats": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
  "ai_priority": true,
+ "ai_type": "cap",
+ "ai_ver": 2,
+ "art_note": "Flat vector mockups provided instead of real photography, lacking professional studio lighting and texture.",
+ "art_score": 2,
+ "audited": "2026-11-27",
  "available": true,
  "badge": "new",
  "categories": [
@@ -9,8 +22,10 @@
  "cg": "printify-6b090882c87e8df47b09862a",
  "color": "Black",
  "created": "2026-11-27",
- "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
- "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "desc_en": "Engineered for intense training and urban transition. This cap combines a classic silhouette with refined functional details. The structure delivers a secure and comfortable fit during any physical activity. Graphic elements pay homage to the brand's performance identity. An essential piece that brings understated sophistication to your athletic gear. Made to order to ensure exclusivity. Available with worldwide shipping.",
+ "desc_es": "Diseñada para el entrenamiento exigente y la transición urbana. Esta gorra combina una silueta clásica con detalles funcionales refinados. La estructura ofrece un ajuste seguro y cómodo durante cualquier actividad física. Los elementos gráficos rinden homenaje a la identidad de rendimiento de la marca. Una pieza esencial que aporta sofisticación discreta a tu equipamiento deportivo. Confeccionada bajo demanda para garantizar exclusividad. Disponible con envío a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
  "display_images": [
   "https://images.printify.com/mockup/6b090882c87e8df47b09862a/391147/162391/dpf-essential-performance-cap.jpg?camera_label=front",
   "https://images.printify.com/mockup/6b090882c87e8df47b09862a/391147/162393/dpf-essential-performance-cap.jpg?camera_label=front-left",
@@ -23,14 +38,16 @@
  "img_checked": "2026-11-27",
  "look": [
   "printful-359535579",
+  "printify-6b09088dc87e8df47b098636-gold",
   "productifi-gel-refrescante-polar-flex-daz-premium-fit",
-  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
   "printify-6b09087c1d99e97edf0dc88a"
  ],
  "material": "",
- "name_en": "Performance Hat · Black",
- "name_es": "Gorro Performance · Negro",
+ "name_en": "Essential Performance Black Cap",
+ "name_es": "Gorra Essential Performance Negra",
  "needs_review": false,
+ "needs_studio": true,
+ "page": true,
  "price_usd": 34.99,
  "rank": 205,
  "shipping_usd": 5.09,
