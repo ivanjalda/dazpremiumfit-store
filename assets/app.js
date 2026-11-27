@@ -169,6 +169,16 @@
     ]);
     S.cfg = cfg; S.catalog = catalog; S.camp = camp || { active: false };
     S.products = (prod.products || []).slice().sort((a, b) => (a.rank || 999) - (b.rank || 999));
+    {  // fuera los repetidos: dos productos con la misma primera foto son el mismo producto
+      const seenImg = new Set();
+      S.products = S.products.filter(p => {
+        const im = (p.display_images || p.images || (p.img ? [p.img] : []))[0];
+        if (!im) return true;
+        const k = String(im).split('?')[0];
+        if (seenImg.has(k)) return false;
+        seenImg.add(k); return true;
+      });
+    }
     S.byCg = {};
     S.products.forEach(p => { S.byId[p.id] = p; const k = p.cg || p.id; (S.byCg[k] = S.byCg[k] || []).push(p); });
     try {  // enlaces de Google Shopping: ?lang=en&cur=USD (solo para esa visita, no se guarda)
