@@ -38,6 +38,7 @@
  "look": [
   "productifi-gel-refrescante-polar-flex-daz-premium-fit",
   "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "printify-6b09087c1d99e97edf0dc88a",
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "",
@@ -46,8 +47,8 @@
  "needs_review": false,
  "needs_studio": true,
  "page": true,
- "price_usd": 28.99,
- "rank": 310,
+ "price_usd": 37.99,
+ "rank": 317,
  "shipping_usd": 7.99,
  "shipping_worst_usd": 7.99,
  "shop_category": "",
@@ -182,7 +183,7 @@
   "23808556699699864700"
  ],
  "source_title": "Immortal Warrior White Edition White Tee",
- "stripe_payment_link": "https://buy.stripe.com/cNiaEYgDGfX6duScGO1gY36",
+ "stripe_payment_link": "https://buy.stripe.com/6oU28sgDG3akduS4ai1gZ0w",
  "supplier": "Printify",
  "supplier_id": "6b0894fcba427acd12096c87",
  "visual_verified": false

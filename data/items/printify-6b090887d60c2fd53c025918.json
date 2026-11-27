@@ -1,0 +1,64 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/leggings"
+ ],
+ "cg": "printify-6b090887d60c2fd53c025918",
+ "color": "Black",
+ "created": "2026-11-27",
+ "desc_en": "Freedom of movement and attitude. A DAZ Premium Fit piece for bodybuilding, fitness and CrossFit.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "https://images.printify.com/mockup/6b090887d60c2fd53c025918/214131/138921/dpf-essential-womens-leggings.jpg?camera_label=front-right-leg",
+  "https://images.printify.com/mockup/6b090887d60c2fd53c025918/214131/138922/dpf-essential-womens-leggings.jpg?camera_label=front-left-leg"
+ ],
+ "draft": false,
+ "fam": "essential-women-s",
+ "hidden": false,
+ "id": "printify-6b090887d60c2fd53c025918",
+ "img_checked": "2026-11-27",
+ "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Immortal Warrior Leggings · Black",
+ "name_es": "Leggings Immortal Warrior · Negro",
+ "needs_review": false,
+ "price_usd": 70.99,
+ "rank": 294,
+ "shipping_usd": 10.39,
+ "shipping_worst_usd": 18.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "XXL",
+  "S",
+  "3XL",
+  "M",
+  "4XL",
+  "L",
+  "XL"
+ ],
+ "skus": [
+  "31574305427991173361",
+  "67273600326149988364",
+  "27413810808729196855",
+  "26888387845861657403",
+  "22533946493956909386",
+  "28166592758862946183",
+  "26207012690765562668",
+  "24623561134769220216"
+ ],
+ "source_title": "DPF Essential Women's Leggings",
+ "stripe_payment_link": "https://buy.stripe.com/3cI3cwcnqaCM76u4ai1gZ0g",
+ "supplier": "Printify",
+ "supplier_id": "6b090887d60c2fd53c025918",
+ "visual_verified": false
+}

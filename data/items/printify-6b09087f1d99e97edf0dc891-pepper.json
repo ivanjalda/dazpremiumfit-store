@@ -1,0 +1,59 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/pantalones-cortos"
+ ],
+ "cg": "printify-6b09087f1d99e97edf0dc891",
+ "color": "Pepper",
+ "created": "2026-11-27",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
+  "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context"
+ ],
+ "draft": false,
+ "fam": "essential-men-s",
+ "hidden": false,
+ "id": "printify-6b09087f1d99e97edf0dc891-pepper",
+ "img_checked": "2026-11-27",
+ "look": [
+  "printful-359535579",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "printify-6b09087c1d99e97edf0dc88a"
+ ],
+ "material": "",
+ "name_en": "DPF Essential Sweat Shorts · Pepper",
+ "name_es": "Pantalón Corto DPF Essential · Pepper",
+ "needs_review": false,
+ "price_usd": 52.99,
+ "rank": 202,
+ "shipping_usd": 4.95,
+ "shipping_worst_usd": 13.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "28405446613937960067",
+  "30819471835592666425",
+  "28568771145415587484",
+  "23365728735441558780",
+  "30415674376663363365"
+ ],
+ "source_title": "DPF Essential Men's Sweat Shorts",
+ "stripe_payment_link": "https://buy.stripe.com/6oUfZi1IM3akbmK8qy1gZ0c",
+ "supplier": "Printify",
+ "supplier_id": "6b09087f1d99e97edf0dc891-pepper",
+ "visual_verified": false
+}

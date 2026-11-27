@@ -8,7 +8,8 @@
         "sudadera-capucha": "6b0892336a219864bc0f11ce"
       },
       "image_id": "6b08922cb5e618e9efce8ff9",
-      "date": "2026-11-26"
+      "date": "2026-11-26",
+      "layout": 2
     },
     "dpf-gold-emblem__camiseta-sudadera-capucha.png": {
       "status": "hecho",
@@ -17,7 +18,8 @@
         "sudadera-capucha": "6b08923b75d150be770301a3"
       },
       "image_id": "6b0892365deda8e3dad19006",
-      "date": "2026-11-26"
+      "date": "2026-11-26",
+      "layout": 2
     },
     "immortal-warrior-classic__camiseta-tirantes-hombre-sudadera-capucha.png": {
       "status": "hecho",
@@ -27,7 +29,8 @@
         "sudadera-capucha": "6b08924655d595d88e09f9a9"
       },
       "image_id": "6b08923e9d76cc736c4594ea",
-      "date": "2026-11-26"
+      "date": "2026-11-26",
+      "layout": 2
     },
     "immortal-warrior-elite__sudadera-capucha-camiseta.png": {
       "status": "hecho",
@@ -36,7 +39,8 @@
         "camiseta": "6b08924d75d150be770301be"
       },
       "image_id": "6b089248436b5a4f1aaf78ac",
-      "date": "2026-11-26"
+      "date": "2026-11-26",
+      "layout": 2
     },
     "immortal-warrior-gold__camiseta-tirantes-hombre-sudadera.png": {
       "status": "hecho",
@@ -46,7 +50,8 @@
         "sudadera": "6b0894f655d595d88e09fb97"
       },
       "image_id": "6b0892506d27d1b54294d1f7",
-      "date": "2026-11-26"
+      "date": "2026-11-26",
+      "layout": 2
     },
     "immortal-warrior-white-edition__camiseta-blanca-tirantes-hombre-blanca.png": {
       "status": "hecho",
@@ -55,7 +60,8 @@
         "tirantes-hombre-blanca": "6b0894ffedc552ae350870fd"
       },
       "image_id": "6b0894fad1c1b35441913906",
-      "date": "2026-11-26"
+      "date": "2026-11-26",
+      "layout": 2
     },
     "tough-bitch-classic__tirantes-mujer-camiseta-mujer-sudadera-mujer.png": {
       "status": "hecho",
@@ -65,7 +71,8 @@
         "sudadera-mujer": "6b08950ad4c50971c2032998"
       },
       "image_id": "6b089502c965123fc5822105",
-      "date": "2026-11-26"
+      "date": "2026-11-26",
+      "layout": 2
     },
     "tough-bitch-elite__sudadera-mujer-tirantes-mujer.png": {
       "status": "hecho",
@@ -74,7 +81,8 @@
         "tirantes-mujer": "6b089514edc552ae3508711c"
       },
       "image_id": "6b08950d4abf409640e8ef51",
-      "date": "2026-11-26"
+      "date": "2026-11-26",
+      "layout": 2
     },
     "tough-bitch-gold__tirantes-mujer-camiseta-mujer.png": {
       "status": "hecho",
@@ -83,7 +91,8 @@
         "camiseta-mujer": "6b08951fedc552ae35087130"
       },
       "image_id": "6b0895179ea226fe54fdc969",
-      "date": "2026-11-26"
+      "date": "2026-11-26",
+      "layout": 2
     },
     "tough-bitch-white-edition__tirantes-mujer-blanca-camiseta-mujer-blanca.png": {
       "status": "hecho",
@@ -92,7 +101,8 @@
         "camiseta-mujer-blanca": "6b089526d4c50971c20329b9"
       },
       "image_id": "6b089522b3f07d6e6603511d",
-      "date": "2026-11-26"
+      "date": "2026-11-26",
+      "layout": 2
     },
     "2026-11-26_immortal-warrior-no-days-off__camiseta-tirantes-hombre-sudadera-capucha.png": {
       "status": "hecho",
@@ -102,7 +112,8 @@
         "sudadera-capucha": "6b0899fc6bfabea2f3021a91"
       },
       "image_id": "6b0899f401710a48dd3aedf4",
-      "date": "2026-11-26"
+      "date": "2026-11-26",
+      "layout": 2
     },
     "2026-11-26_tough-bitch-queen-of-iron__tirantes-mujer-camiseta-mujer-sudadera-mujer.png": {
       "status": "hecho",
@@ -112,7 +123,8 @@
         "sudadera-mujer": "6b089a07db66d9659e068f9a"
       },
       "image_id": "6b089a0174da406ef69f480e",
-      "date": "2026-11-26"
+      "date": "2026-11-26",
+      "layout": 2
     },
     "2026-11-27_dpf-emblem-beast-mode__camiseta-tirantes-hombre-sudadera-capucha.png": {
       "status": "hecho",
@@ -141,5 +153,52 @@
     "light": "6b08b0d589bed325a81b0678",
     "dark": "6b08b0e0cc96118d639d673d"
   },
-  "dedupe_done": "2026-11-27"
+  "dedupe_done": "2026-11-27",
+  "basics": {
+    "joggers-hombre": {
+      "product_id": "6b09087c1d99e97edf0dc88a",
+      "date": "2026-11-27",
+      "title": "DPF Essential Men's Joggers"
+    },
+    "shorts-hombre": {
+      "product_id": "6b09087f1d99e97edf0dc891",
+      "date": "2026-11-27",
+      "title": "DPF Essential Men's Sweat Shorts"
+    },
+    "gorra": {
+      "product_id": "6b090882c87e8df47b09862a",
+      "date": "2026-11-27",
+      "title": "DPF Essential Performance Cap"
+    },
+    "sujetador-deportivo": {
+      "product_id": "6b0908851d99e97edf0dc8a0",
+      "date": "2026-11-27",
+      "title": "DPF Essential Women's Sports Bra"
+    },
+    "leggings-mujer": {
+      "product_id": "6b090887d60c2fd53c025918",
+      "date": "2026-11-27",
+      "title": "DPF Essential Women's Leggings"
+    },
+    "joggers-mujer": {
+      "product_id": "6b09088a6d0e8a5424044b32",
+      "date": "2026-11-27",
+      "title": "DPF Essential Women's Joggers"
+    },
+    "bolsa-gimnasio": {
+      "product_id": "6b09088dc87e8df47b098636",
+      "date": "2026-11-27",
+      "title": "DPF Essential Gym Bag"
+    },
+    "calcetines": {
+      "product_id": "6b090892c87e8df47b098639",
+      "date": "2026-11-27",
+      "title": "DPF Essential Training Socks"
+    },
+    "toalla-gimnasio": {
+      "product_id": "6b0908971ec00443710ef319",
+      "date": "2026-11-27",
+      "title": "DPF Essential Gym Towel"
+    }
+  }
 }

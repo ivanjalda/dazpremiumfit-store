@@ -1,0 +1,53 @@
+{
+ "ai_priority": true,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/gorro-bufanda",
+  "mujer/gorros-bufandas"
+ ],
+ "cg": "printify-6b090882c87e8df47b09862a",
+ "color": "Black",
+ "created": "2026-11-27",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Libertad de movimiento y actitud. Una prenda DAZ Premium Fit para culturismo, fitness y CrossFit.",
+ "display_images": [
+  "https://images.printify.com/mockup/6b090882c87e8df47b09862a/391147/162391/dpf-essential-performance-cap.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b090882c87e8df47b09862a/391147/162393/dpf-essential-performance-cap.jpg?camera_label=front-left",
+  "https://images.printify.com/mockup/6b090882c87e8df47b09862a/391147/162395/dpf-essential-performance-cap.jpg?camera_label=front-right"
+ ],
+ "draft": false,
+ "fam": "essential-performance-cap",
+ "hidden": false,
+ "id": "printify-6b090882c87e8df47b09862a",
+ "img_checked": "2026-11-27",
+ "look": [
+  "printful-359535579",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "printify-6b09087c1d99e97edf0dc88a"
+ ],
+ "material": "",
+ "name_en": "Performance Hat · Black",
+ "name_es": "Gorro Performance · Negro",
+ "needs_review": false,
+ "price_usd": 34.99,
+ "rank": 205,
+ "shipping_usd": 5.09,
+ "shipping_worst_usd": 5.09,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "One size"
+ ],
+ "skus": [
+  "24110505139652924412"
+ ],
+ "source_title": "DPF Essential Performance Cap",
+ "stripe_payment_link": "https://buy.stripe.com/aFa14o3QU3akfD04ai1gZ0d",
+ "supplier": "Printify",
+ "supplier_id": "6b090882c87e8df47b09862a",
+ "visual_verified": false
+}

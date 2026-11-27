@@ -1,0 +1,61 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Hunter",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Gym Bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots on a neutral background, standard e-commerce presentation.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "printify-6b09088dc87e8df47b098636",
+ "color": "Hunter",
+ "created": "2026-11-27",
+ "desc_en": "Designed to accompany every training session with flawless functionality. This gym bag combines a restrained hunter green aesthetic with a durable structure for daily use. It features the distinctive brand emblem as a subtle detail. Each piece is made to order to ensure the highest standards of exclusivity and quality. Equipped with practical compartments and reinforced handles, it offers the necessary space to transport your gear with complete comfort and sophistication. Available with worldwide shipping.",
+ "desc_es": "Diseñada para acompañar cada sesión de entrenamiento con una funcionalidad impecable. Esta bolsa de deporte combina una estética sobria en tono verde cazador con una estructura resistente para el uso diario. Incorpora el emblema distintivo de la marca como detalle sutil. Cada pieza se confecciona bajo pedido para garantizar los más altos estándares de exclusividad y calidad. Equipada con compartimentos prácticos y asas reforzadas, ofrece el espacio necesario para transportar su equipamiento con total comodidad y sofisticación. Disponible con envíos a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
+ "display_images": [
+  "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149522/126539/dpf-essential-gym-bag.jpg?camera_label=back",
+  "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149522/126538/dpf-essential-gym-bag.jpg?camera_label=front"
+ ],
+ "draft": false,
+ "fam": "essential-gym-bag",
+ "hidden": false,
+ "id": "printify-6b09088dc87e8df47b098636-hunter",
+ "img_checked": "2026-11-27",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "",
+ "name_en": "DPF Essential Gym Bag · Hunter",
+ "name_es": "Bolsa de deporte esencial DPF · Hunter",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 62.99,
+ "rank": 33,
+ "shipping_usd": 12.19,
+ "shipping_worst_usd": 25.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "One size"
+ ],
+ "skus": [
+  "48437688931494073380"
+ ],
+ "source_title": "DPF Essential Gym Bag",
+ "stripe_payment_link": "https://buy.stripe.com/5kQ3cw87a7qA76ueOW1gZ01",
+ "supplier": "Printify",
+ "supplier_id": "6b09088dc87e8df47b098636-hunter",
+ "visual_verified": false
+}

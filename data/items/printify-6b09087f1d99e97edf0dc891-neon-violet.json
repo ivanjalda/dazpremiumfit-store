@@ -1,0 +1,59 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/pantalones-cortos"
+ ],
+ "cg": "printify-6b09087f1d99e97edf0dc891",
+ "color": "Neon Violet",
+ "created": "2026-11-27",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
+  "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context"
+ ],
+ "draft": false,
+ "fam": "essential-men-s",
+ "hidden": false,
+ "id": "printify-6b09087f1d99e97edf0dc891-neon-violet",
+ "img_checked": "2026-11-27",
+ "look": [
+  "printful-359535579",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "printify-6b09087c1d99e97edf0dc88a"
+ ],
+ "material": "",
+ "name_en": "DPF Essential Sweat Shorts · Neon Violet",
+ "name_es": "Pantalón Corto DPF Essential · Neon Violet",
+ "needs_review": false,
+ "price_usd": 52.99,
+ "rank": 200,
+ "shipping_usd": 4.95,
+ "shipping_worst_usd": 13.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "33842289866938518582",
+  "21351141757214274373",
+  "15972450472914398760",
+  "80301587784150455055",
+  "67042362784766265102"
+ ],
+ "source_title": "DPF Essential Men's Sweat Shorts",
+ "stripe_payment_link": "https://buy.stripe.com/8x2fZievy5is76ufT01gZ0a",
+ "supplier": "Printify",
+ "supplier_id": "6b09087f1d99e97edf0dc891-neon-violet",
+ "visual_verified": false
+}

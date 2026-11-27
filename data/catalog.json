@@ -24,6 +24,16 @@
               "id": "pantalones-cortos",
               "es": "Shorts",
               "en": "Shorts"
+            },
+            {
+              "id": "pantalones",
+              "es": "Joggers",
+              "en": "Joggers"
+            },
+            {
+              "id": "gorro-bufanda",
+              "es": "Gorras y gorros",
+              "en": "Caps & Beanies"
             }
           ]
         }
@@ -41,7 +51,7 @@
           "items": [
             {
               "id": "camisetas-blusas-tops",
-              "es": "Tops y sujetadores",
+              "es": "Tops y sujetadores deportivos",
               "en": "Tops & Sports Bras"
             },
             {
@@ -73,6 +83,16 @@
               "id": "falda",
               "es": "Faldas deportivas",
               "en": "Sport Skirts"
+            },
+            {
+              "id": "pantalones",
+              "es": "Joggers",
+              "en": "Joggers"
+            },
+            {
+              "id": "gorros-bufandas",
+              "es": "Gorras y gorros",
+              "en": "Caps & Beanies"
             }
           ]
         }
@@ -80,8 +100,8 @@
     },
     {
       "id": "decor",
-      "es": "Suplementos y accesorios",
-      "en": "Supplements & Gear",
+      "es": "Accesorios de entreno y suplementos",
+      "en": "Training Gear & Supplements",
       "groups": []
     },
     {

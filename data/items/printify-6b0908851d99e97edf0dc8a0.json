@@ -1,0 +1,59 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b0908851d99e97edf0dc8a0",
+ "color": "Black",
+ "created": "2026-11-27",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "https://images.printify.com/mockup/6b0908851d99e97edf0dc8a0/322431/168084/dpf-essential-womens-sports-bra.jpg?camera_label=front"
+ ],
+ "draft": false,
+ "fam": "essential-women-s",
+ "hidden": false,
+ "id": "printify-6b0908851d99e97edf0dc8a0",
+ "img_checked": "2026-11-27",
+ "look": [
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Sports Bra Sports Bra · Black",
+ "name_es": "Sujetador Deportivo Sports Bra · Negro",
+ "needs_review": false,
+ "price_usd": 63.99,
+ "rank": 265,
+ "shipping_usd": 5.89,
+ "shipping_worst_usd": 13.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "L",
+  "M",
+  "XL",
+  "S",
+  "2XL",
+  "XS"
+ ],
+ "skus": [
+  "26561161210766471782",
+  "21023467178287015104",
+  "29191930239673382043",
+  "68800614963894545698",
+  "15630562296390149819",
+  "13676934488281749542"
+ ],
+ "source_title": "DPF Essential Women's Sports Bra",
+ "stripe_payment_link": "https://buy.stripe.com/3cIfZibjmeT262qfT01gZ0e",
+ "supplier": "Printify",
+ "supplier_id": "6b0908851d99e97edf0dc8a0",
+ "visual_verified": false
+}

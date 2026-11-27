@@ -431,5 +431,297 @@
       ]
     },
     "v": 2
+  },
+  "joggers-hombre": {
+    "blueprint_id": 1398,
+    "blueprint": "Unisex Sweatpants",
+    "provider_id": 39,
+    "provider": "SwiftPOD",
+    "variant_ids": [
+      103932,
+      103933,
+      103934,
+      103935,
+      103936,
+      103937
+    ],
+    "position": "left_leg_front",
+    "positions": [
+      "left_leg_front",
+      "left_leg_back",
+      "right_leg_front",
+      "right_leg_back"
+    ],
+    "areas": {
+      "left_leg_front": [
+        1200,
+        4800
+      ],
+      "left_leg_back": [
+        1200,
+        4800
+      ],
+      "right_leg_front": [
+        1200,
+        4800
+      ],
+      "right_leg_back": [
+        1200,
+        4800
+      ]
+    },
+    "v": 2
+  },
+  "shorts-hombre": {
+    "blueprint_id": 1574,
+    "blueprint": "Unisex Garment-Dyed Lightweight Fleece Sweat Shorts",
+    "provider_id": 39,
+    "provider": "SwiftPOD",
+    "variant_ids": [
+      110276,
+      110277,
+      110278,
+      110279,
+      110280,
+      110281,
+      110282,
+      110283,
+      110284,
+      110285,
+      110286,
+      110287,
+      110288,
+      110290,
+      110291,
+      110292,
+      110293,
+      110294,
+      110295,
+      110296,
+      110297,
+      110298,
+      110299,
+      110300,
+      110301,
+      110302,
+      110303,
+      110304,
+      110305
+    ],
+    "position": "front_right_leg",
+    "positions": [
+      "front_right_leg",
+      "front_left_leg",
+      "back_right_leg",
+      "back_left_leg"
+    ],
+    "areas": {
+      "front_right_leg": [
+        2100,
+        2400
+      ],
+      "front_left_leg": [
+        2100,
+        2400
+      ],
+      "back_right_leg": [
+        2100,
+        2400
+      ],
+      "back_left_leg": [
+        2100,
+        2400
+      ]
+    },
+    "v": 2
+  },
+  "gorra": {
+    "blueprint_id": 10408,
+    "blueprint": "Performance Cap by Yupoong",
+    "provider_id": 99,
+    "provider": "Printify Choice",
+    "variant_ids": [
+      391147
+    ],
+    "position": "front_left_dtf",
+    "positions": [
+      "front_left_dtf",
+      "front_right_dtf"
+    ],
+    "areas": {
+      "front_left_dtf": [
+        750,
+        705
+      ],
+      "front_right_dtf": [
+        750,
+        705
+      ]
+    },
+    "v": 2
+  },
+  "sujetador-deportivo": {
+    "blueprint_id": 7593,
+    "blueprint": "Women's Medium Impact Sports Bra",
+    "provider_id": 217,
+    "provider": "Fulfill Engine",
+    "variant_ids": [
+      322431,
+      322432,
+      322433,
+      322434,
+      322435,
+      322437
+    ],
+    "position": "front_dtf",
+    "positions": [
+      "front_dtf"
+    ],
+    "areas": {
+      "front_dtf": [
+        3000,
+        1200
+      ]
+    },
+    "v": 2
+  },
+  "leggings-mujer": {
+    "blueprint_id": 3934,
+    "blueprint": "Women's Ankle-Crop Leggings",
+    "provider_id": 217,
+    "provider": "Fulfill Engine",
+    "variant_ids": [
+      214131,
+      214134,
+      214137,
+      214140,
+      214143,
+      214144,
+      214147,
+      214149
+    ],
+    "position": "front_left_leg_dtf",
+    "positions": [
+      "front_left_leg_dtf",
+      "front_right_leg_dtf"
+    ],
+    "areas": {
+      "front_left_leg_dtf": [
+        900,
+        4200
+      ],
+      "front_right_leg_dtf": [
+        900,
+        4200
+      ]
+    },
+    "v": 2
+  },
+  "joggers-mujer": {
+    "blueprint_id": 3460,
+    "blueprint": "Women's Perfect Tri Fleece Jogger",
+    "provider_id": 217,
+    "provider": "Fulfill Engine",
+    "variant_ids": [
+      195303,
+      195311,
+      195316,
+      195328,
+      195342,
+      195359,
+      195375,
+      195389
+    ],
+    "position": "front_left_leg_dtf",
+    "positions": [
+      "front_left_leg_dtf",
+      "front_right_leg_dtf"
+    ],
+    "areas": {
+      "front_left_leg_dtf": [
+        1200,
+        1050
+      ],
+      "front_right_leg_dtf": [
+        1200,
+        1050
+      ]
+    },
+    "v": 2
+  },
+  "bolsa-gimnasio": {
+    "blueprint_id": 2765,
+    "blueprint": "Gym Bag",
+    "provider_id": 99,
+    "provider": "Printify Choice",
+    "variant_ids": [
+      149521,
+      149522,
+      149523,
+      149524,
+      149525,
+      149526
+    ],
+    "position": "back_embroidery",
+    "positions": [
+      "back_embroidery"
+    ],
+    "areas": {
+      "back_embroidery": [
+        1500,
+        1500
+      ]
+    },
+    "v": 2
+  },
+  "calcetines": {
+    "blueprint_id": 574,
+    "blueprint": "Cushioned Crew Socks",
+    "provider_id": 64,
+    "provider": "ThreadStudio",
+    "variant_ids": [
+      71924
+    ],
+    "position": "left_leg",
+    "positions": [
+      "left_leg",
+      "right_leg"
+    ],
+    "areas": {
+      "left_leg": [
+        3000,
+        5254
+      ],
+      "right_leg": [
+        3000,
+        5254
+      ]
+    },
+    "v": 2
+  },
+  "toalla-gimnasio": {
+    "blueprint_id": 5589,
+    "blueprint": "Sport Towel",
+    "provider_id": 217,
+    "provider": "Fulfill Engine",
+    "variant_ids": [
+      250949
+    ],
+    "position": "top_center_dtf",
+    "positions": [
+      "top_center_dtf",
+      "bottom_center_dtf"
+    ],
+    "areas": {
+      "top_center_dtf": [
+        4200,
+        1200
+      ],
+      "bottom_center_dtf": [
+        4200,
+        1200
+      ]
+    },
+    "v": 2
   }
 }

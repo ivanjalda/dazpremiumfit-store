@@ -1,0 +1,66 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/pantalones"
+ ],
+ "cg": "printify-6b09088a6d0e8a5424044b32",
+ "color": "Black",
+ "created": "2026-11-27",
+ "desc_en": "DPF design for the gym and the street. Each piece is produced only when you order it.",
+ "desc_es": "Hecha para entrenar duro. Producida bajo demanda, cómoda y resistente para cada sesión.",
+ "display_images": [
+  "https://images.printify.com/mockup/6b09088a6d0e8a5424044b32/195328/148591/dpf-essential-womens-joggers.jpg?camera_label=front-left-leg",
+  "https://images.printify.com/mockup/6b09088a6d0e8a5424044b32/195328/148593/dpf-essential-womens-joggers.jpg?camera_label=front-right-leg",
+  "https://images.printify.com/mockup/6b09088a6d0e8a5424044b32/195328/148595/dpf-essential-womens-joggers.jpg?camera_label=back-left-leg",
+  "https://images.printify.com/mockup/6b09088a6d0e8a5424044b32/195328/148597/dpf-essential-womens-joggers.jpg?camera_label=back-right-leg"
+ ],
+ "draft": false,
+ "fam": "essential-women-s",
+ "hidden": false,
+ "id": "printify-6b09088a6d0e8a5424044b32",
+ "img_checked": "2026-11-27",
+ "look": [
+  "interestprint-design-womens-crop-rugby-jersey",
+  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
+ ],
+ "material": "",
+ "name_en": "Joggers Joggers · Black",
+ "name_es": "Jogger Joggers · Negro",
+ "needs_review": false,
+ "price_usd": 70.99,
+ "rank": 282,
+ "shipping_usd": 10.39,
+ "shipping_worst_usd": 18.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "XXL",
+  "3XL",
+  "4XL"
+ ],
+ "skus": [
+  "84775387167289116949",
+  "28282092355331638630",
+  "41890836847636985546",
+  "22690293800421987383",
+  "20884170787360892440",
+  "10647357673497968462",
+  "17275764767633061019",
+  "11105171477200995818"
+ ],
+ "source_title": "DPF Essential Women's Joggers",
+ "stripe_payment_link": "https://buy.stripe.com/6oUdRaafidOY76u6iq1gZ0f",
+ "supplier": "Printify",
+ "supplier_id": "6b09088a6d0e8a5424044b32",
+ "visual_verified": false
+}

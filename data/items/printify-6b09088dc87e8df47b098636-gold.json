@@ -1,0 +1,61 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "gold",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots on white background, standard e-commerce presentation.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "printify-6b09088dc87e8df47b098636",
+ "color": "Gold",
+ "created": "2026-11-27",
+ "desc_en": "Designed to accompany every training routine with functionality and elegance. This gym bag combines a refined aesthetic with the distinctive emblem of the brand. Made to order to ensure maximum exclusivity in every piece. Available for worldwide shipping.",
+ "desc_es": "Diseñada para acompañar cada rutina de entrenamiento con funcionalidad y elegancia. Esta bolsa de deporte combina una estética depurada con el emblema distintivo de la marca. Confeccionada bajo pedido para garantizar la máxima exclusividad en cada pieza. Disponible para envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Training gear with the DPF emblem",
+ "details_es": "· Hecho a pedido\n· Equipamiento de entrenamiento con el emblema DPF",
+ "display_images": [
+  "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149521/126539/dpf-essential-gym-bag.jpg?camera_label=back",
+  "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149521/126538/dpf-essential-gym-bag.jpg?camera_label=front"
+ ],
+ "draft": false,
+ "fam": "essential-gym-bag",
+ "hidden": false,
+ "id": "printify-6b09088dc87e8df47b098636-gold",
+ "img_checked": "2026-11-27",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "",
+ "name_en": "DPF Essential Gym Bag · Gold",
+ "name_es": "Bolsa de deporte esencial DPF · Oro",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 62.99,
+ "rank": 32,
+ "shipping_usd": 12.19,
+ "shipping_worst_usd": 25.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "One size"
+ ],
+ "skus": [
+  "70344000842316786316"
+ ],
+ "source_title": "DPF Essential Gym Bag",
+ "stripe_payment_link": "https://buy.stripe.com/8x214odruh1aeyW4ai1gZ00",
+ "supplier": "Printify",
+ "supplier_id": "6b09088dc87e8df47b098636-gold",
+ "visual_verified": false
+}

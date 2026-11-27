@@ -1,0 +1,57 @@
+{
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/pantalones-cortos"
+ ],
+ "cg": "printify-6b09087f1d99e97edf0dc891",
+ "color": "Peachy",
+ "created": "2026-11-27",
+ "desc_en": "Built to train hard. Made to order, comfortable and durable for every session.",
+ "desc_es": "Diseño DPF para el gimnasio y para la calle. Cada unidad se fabrica solo cuando la pides.",
+ "display_images": [
+  "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
+  "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context"
+ ],
+ "draft": false,
+ "fam": "essential-men-s",
+ "hidden": false,
+ "id": "printify-6b09087f1d99e97edf0dc891-peachy",
+ "img_checked": "2026-11-27",
+ "look": [
+  "printful-359535579",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "printify-6b09087c1d99e97edf0dc88a"
+ ],
+ "material": "",
+ "name_en": "DPF Essential Sweat Shorts · Peachy",
+ "name_es": "Pantalón Corto DPF Essential · Peachy",
+ "needs_review": false,
+ "price_usd": 52.99,
+ "rank": 201,
+ "shipping_usd": 4.95,
+ "shipping_worst_usd": 13.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "24949158164806038556",
+  "38058045755019641951",
+  "29294663123907050769",
+  "27302785045010497037"
+ ],
+ "source_title": "DPF Essential Men's Sweat Shorts",
+ "stripe_payment_link": "https://buy.stripe.com/4gM5kEdrufX62QefT01gZ0b",
+ "supplier": "Printify",
+ "supplier_id": "6b09087f1d99e97edf0dc891-peachy",
+ "visual_verified": false
+}

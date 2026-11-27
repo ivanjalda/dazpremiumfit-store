@@ -81,6 +81,26 @@
       "img": "https://files.cdn.printful.com/files/8ce/8ced79023d30496c30e2e80d171ba19b_preview.png"
     },
     {
+      "id": "printify-6b090892c87e8df47b098639",
+      "name_es": "Calcetines Esenciales de Rendimiento DPF",
+      "name_en": "DPF Essential Training Socks",
+      "price_usd": 26.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 5,
+      "created": "2026-11-27",
+      "supplier_id": "6b090892c87e8df47b098639",
+      "fam": "essential-training-socks",
+      "cg": "printify-6b090892c87e8df47b098639",
+      "color": "White",
+      "art_score": 3,
+      "img": "https://images.printify.com/mockup/6b090892c87e8df47b098639/71924/12379/dpf-essential-training-socks.jpg?camera_label=all-sides",
+      "page": true
+    },
+    {
       "id": "interestprint-design-womens-crop-rugby-jersey",
       "name_es": "Camiseta Crop de Rugby · Blanco",
       "name_en": "Crop Rugby Jersey · White",
@@ -90,7 +110,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 5,
+      "rank": 6,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-womens-crop-rugby-jersey",
@@ -110,7 +130,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 9,
+      "rank": 10,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "aesthetic-icon-womens-racerback-tank-top-model-t60",
@@ -130,7 +150,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 10,
+      "rank": 11,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-womens-cropped-crew-neck-sun-protection-shirt",
@@ -150,7 +170,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 11,
+      "rank": 12,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-custom-womens-high-waist-legging",
@@ -170,7 +190,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 12,
+      "rank": 13,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-custom-womens-high-waist-legging-1",
@@ -190,7 +210,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 13,
+      "rank": 14,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-washed-drop-shoulder-t-shirt",
@@ -210,7 +230,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 14,
+      "rank": 15,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-yoga-top-a6k",
@@ -230,7 +250,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 15,
+      "rank": 16,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "a-picture-from-kefir_-https___kefirapp_com_w_2201121-racerback-active-tank-tops",
@@ -250,7 +270,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 16,
+      "rank": 17,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-womens-v-neck-long-sleeve-sun-protection-top",
@@ -270,7 +290,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 17,
+      "rank": 18,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-1-mens-all-over-print-tank-top-model-t46",
@@ -290,7 +310,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 18,
+      "rank": 19,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-135-mens-all-over-print-tank-top-model-t46",
@@ -299,6 +319,26 @@
       "color": "Black",
       "art_score": 9,
       "img": "assets/products/shop/b35e72910206eebb65d9.jpg"
+    },
+    {
+      "id": "printify-6b0908971ec00443710ef319",
+      "name_es": "Toalla de Entrenamiento Esencial",
+      "name_en": "Essential Training Towel",
+      "price_usd": 32.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 20,
+      "created": "2026-11-27",
+      "supplier_id": "6b0908971ec00443710ef319",
+      "fam": "essential-gym-towel",
+      "cg": "printify-6b0908971ec00443710ef319",
+      "color": "Black",
+      "art_score": 5,
+      "img": "https://images.printify.com/mockup/6b0908971ec00443710ef319/250949/172568/dpf-essential-gym-towel.jpg?camera_label=top-left",
+      "page": true
     },
     {
       "id": "interestprint-design-womens-high-waist-layered-sport-skirt",
@@ -310,7 +350,7 @@
         "mujer/falda"
       ],
       "available": true,
-      "rank": 19,
+      "rank": 21,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-womens-high-waist-layered-sport-skirt",
@@ -330,7 +370,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 20,
+      "rank": 22,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-mens-tank-tops",
@@ -350,7 +390,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 21,
+      "rank": 23,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-mens-tank-tops-1",
@@ -370,7 +410,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 22,
+      "rank": 24,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-all-over-print-tank-top-bkrev1",
@@ -390,7 +430,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 25,
+      "rank": 27,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-yoga-leggings-yj033",
@@ -410,7 +450,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 27,
+      "rank": 29,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "immortal-warrior4-mens-all-over-print-tank-top-model-t57",
@@ -419,6 +459,126 @@
       "color": "Blanca",
       "art_score": 6,
       "img": "assets/products/shop/a27a7ad2113e90e83b04.jpg"
+    },
+    {
+      "id": "printify-6b09088dc87e8df47b098636-gold",
+      "name_es": "Bolsa de deporte esencial DPF · Oro",
+      "name_en": "DPF Essential Gym Bag · Gold",
+      "price_usd": 62.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 32,
+      "created": "2026-11-27",
+      "supplier_id": "6b09088dc87e8df47b098636-gold",
+      "fam": "essential-gym-bag",
+      "cg": "printify-6b09088dc87e8df47b098636",
+      "color": "Gold",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149521/126539/dpf-essential-gym-bag.jpg?camera_label=back",
+      "page": true
+    },
+    {
+      "id": "printify-6b09088dc87e8df47b098636-hunter",
+      "name_es": "Bolsa de deporte esencial DPF · Hunter",
+      "name_en": "DPF Essential Gym Bag · Hunter",
+      "price_usd": 62.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 33,
+      "created": "2026-11-27",
+      "supplier_id": "6b09088dc87e8df47b098636-hunter",
+      "fam": "essential-gym-bag",
+      "cg": "printify-6b09088dc87e8df47b098636",
+      "color": "Hunter",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149522/126539/dpf-essential-gym-bag.jpg?camera_label=back",
+      "page": true
+    },
+    {
+      "id": "printify-6b09088dc87e8df47b098636-maroon",
+      "name_es": "Bolsa de deporte esencial DPF · Maroon",
+      "name_en": "DPF Essential Gym Bag · Maroon",
+      "price_usd": 62.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 34,
+      "created": "2026-11-27",
+      "supplier_id": "6b09088dc87e8df47b098636-maroon",
+      "fam": "essential-gym-bag",
+      "cg": "printify-6b09088dc87e8df47b098636",
+      "color": "Maroon",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149523/126539/dpf-essential-gym-bag.jpg?camera_label=back",
+      "page": true
+    },
+    {
+      "id": "printify-6b09088dc87e8df47b098636-navy",
+      "name_es": "Bolsa de deporte esencial DPF · Azul Marino",
+      "name_en": "DPF Essential Gym Bag · Navy",
+      "price_usd": 62.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 35,
+      "created": "2026-11-27",
+      "supplier_id": "6b09088dc87e8df47b098636-navy",
+      "fam": "essential-gym-bag",
+      "cg": "printify-6b09088dc87e8df47b098636",
+      "color": "Navy",
+      "art_score": 7,
+      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149524/126539/dpf-essential-gym-bag.jpg?camera_label=back",
+      "page": true
+    },
+    {
+      "id": "printify-6b09088dc87e8df47b098636-red",
+      "name_es": "Bolsa de deporte esencial DPF · Rojo",
+      "name_en": "DPF Essential Gym Bag · Red",
+      "price_usd": 62.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 36,
+      "created": "2026-11-27",
+      "supplier_id": "6b09088dc87e8df47b098636-red",
+      "fam": "essential-gym-bag",
+      "cg": "printify-6b09088dc87e8df47b098636",
+      "color": "Red",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149525/126539/dpf-essential-gym-bag.jpg?camera_label=back",
+      "page": true
+    },
+    {
+      "id": "printify-6b09088dc87e8df47b098636-royal",
+      "name_es": "Bolsa de deporte esencial DPF · Royal",
+      "name_en": "DPF Essential Gym Bag · Royal",
+      "price_usd": 62.99,
+      "badge": "new",
+      "categories": [
+        "decor"
+      ],
+      "available": true,
+      "rank": 37,
+      "created": "2026-11-27",
+      "supplier_id": "6b09088dc87e8df47b098636-royal",
+      "fam": "essential-gym-bag",
+      "cg": "printify-6b09088dc87e8df47b098636",
+      "color": "Royal",
+      "art_score": 9,
+      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149526/126539/dpf-essential-gym-bag.jpg?camera_label=back",
+      "page": true
     },
     {
       "id": "printify-6b08e9f3f7ed4c973b05affe",
@@ -431,15 +591,15 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 31,
+      "rank": 39,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b08e9f3f7ed4c973b05affe",
       "fam": "emblem-beast-mode",
       "cg": "printify-6b08e9f3f7ed4c973b05affe",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b08e9f3f7ed4c973b05affe/24639/101889/dpf-emblem-beast-mode-tank-top.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b08e9f3f7ed4c973b05affe/24639/101889/dpf-emblem-beast-mode-tank-top.jpg?camera_label=front"
     },
     {
       "id": "interestprint-descarga-83-sleeveless-yoga-crop-active-tank-tops",
@@ -451,7 +611,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 35,
+      "rank": 43,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-83-sleeveless-yoga-crop-active-tank-tops",
@@ -471,7 +631,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 44,
+      "rank": 52,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-yoga-top-xg005kn07",
@@ -491,7 +651,7 @@
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 59,
+      "rank": 67,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -511,7 +671,7 @@
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 60,
+      "rank": 68,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "conjunto-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -531,7 +691,7 @@
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 61,
+      "rank": 69,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "conjunto-violeta-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -551,7 +711,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 64,
+      "rank": 72,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "aesthetic-icon-womens-wide-waist-yoga-cropped-leggings",
@@ -571,7 +731,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 65,
+      "rank": 73,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-83-womens-wide-waist-yoga-cropped-leggings",
@@ -591,7 +751,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 66,
+      "rank": 74,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-93-womens-wide-waist-yoga-cropped-leggings",
@@ -611,7 +771,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 78,
+      "rank": 86,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-55-womens-high-waist-pockets-yoga-leggings",
@@ -631,7 +791,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 79,
+      "rank": 87,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "purple-stars-womens-high-waist-pockets-yoga-leggings",
@@ -651,7 +811,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 96,
+      "rank": 104,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "ivan21-backless-split-knotted-yoga-active-tank-tops",
@@ -671,7 +831,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 115,
+      "rank": 123,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "top-dpf",
@@ -691,15 +851,15 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 133,
+      "rank": 141,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b08e9fb185c69c666042851",
       "fam": "emblem-built-different",
       "cg": "printify-6b08e9fb185c69c666042851",
       "color": "Black",
       "art_score": 4,
-      "img": "https://images.printify.com/mockup/6b08e9fb185c69c666042851/251657/126156/dpf-emblem-built-different-racerback-tank.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b08e9fb185c69c666042851/251657/126156/dpf-emblem-built-different-racerback-tank.jpg?camera_label=front"
     },
     {
       "id": "interestprint-descarga-81-deep-v-neck-racerback-cutout-active-crop-tops",
@@ -711,7 +871,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 135,
+      "rank": 143,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-81-deep-v-neck-racerback-cutout-active-crop-tops",
@@ -720,6 +880,26 @@
       "color": "Yellow and Black",
       "art_score": 8,
       "img": "assets/products/shop/02f25f5211caa515b5ea.jpg"
+    },
+    {
+      "id": "printify-6b09087c1d99e97edf0dc88a",
+      "name_es": "Pantalón Jogger Essential Negro",
+      "name_en": "Essential Black Jogger Pants",
+      "price_usd": 58.99,
+      "badge": "new",
+      "categories": [
+        "hombre/pantalones"
+      ],
+      "available": true,
+      "rank": 187,
+      "created": "2026-11-27",
+      "supplier_id": "6b09087c1d99e97edf0dc88a",
+      "fam": "essential-men-s",
+      "cg": "printify-6b09087c1d99e97edf0dc88a",
+      "color": "Black",
+      "art_score": 5,
+      "img": "https://images.printify.com/mockup/6b09087c1d99e97edf0dc88a/103934/195136/dpf-essential-mens-joggers.jpg?camera_label=front",
+      "page": true
     },
     {
       "id": "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
@@ -731,7 +911,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 184,
+      "rank": 193,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
@@ -751,7 +931,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 185,
+      "rank": 194,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "immortal-warrior-short-2-mens-all-over-print-baggy-shorts-model-l37",
@@ -760,6 +940,121 @@
       "color": "blanco",
       "art_score": 6,
       "img": "assets/products/shop/717a4e6959a6ecee9cc5.jpg"
+    },
+    {
+      "id": "printify-6b09087f1d99e97edf0dc891-blue-jean",
+      "name_es": "Pantalón Corto DPF Essential · Blue Jean",
+      "name_en": "DPF Essential Sweat Shorts · Blue Jean",
+      "price_usd": 52.99,
+      "badge": "new",
+      "categories": [
+        "hombre/pantalones-cortos"
+      ],
+      "available": true,
+      "rank": 197,
+      "created": "2026-11-27",
+      "supplier_id": "6b09087f1d99e97edf0dc891-blue-jean",
+      "fam": "essential-men-s",
+      "cg": "printify-6b09087f1d99e97edf0dc891",
+      "color": "Blue Jean",
+      "art_score": 8,
+      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110278/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b09087f1d99e97edf0dc891-hydrangea",
+      "name_es": "Pantalón Corto DPF Essential · Hydrangea",
+      "name_en": "DPF Essential Sweat Shorts · Hydrangea",
+      "price_usd": 52.99,
+      "badge": "new",
+      "categories": [
+        "hombre/pantalones-cortos"
+      ],
+      "available": true,
+      "rank": 198,
+      "created": "2026-11-27",
+      "supplier_id": "6b09087f1d99e97edf0dc891-hydrangea",
+      "fam": "essential-men-s",
+      "cg": "printify-6b09087f1d99e97edf0dc891",
+      "color": "Hydrangea",
+      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110291/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b09087f1d99e97edf0dc891-ivory",
+      "name_es": "Pantalón Corto DPF Essential · Marfil",
+      "name_en": "DPF Essential Sweat Shorts · Ivory",
+      "price_usd": 52.99,
+      "badge": "new",
+      "categories": [
+        "hombre/pantalones-cortos"
+      ],
+      "available": true,
+      "rank": 199,
+      "created": "2026-11-27",
+      "supplier_id": "6b09087f1d99e97edf0dc891-ivory",
+      "fam": "essential-men-s",
+      "cg": "printify-6b09087f1d99e97edf0dc891",
+      "color": "Ivory",
+      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110292/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b09087f1d99e97edf0dc891-neon-violet",
+      "name_es": "Pantalón Corto DPF Essential · Neon Violet",
+      "name_en": "DPF Essential Sweat Shorts · Neon Violet",
+      "price_usd": 52.99,
+      "badge": "new",
+      "categories": [
+        "hombre/pantalones-cortos"
+      ],
+      "available": true,
+      "rank": 200,
+      "created": "2026-11-27",
+      "supplier_id": "6b09087f1d99e97edf0dc891-neon-violet",
+      "fam": "essential-men-s",
+      "cg": "printify-6b09087f1d99e97edf0dc891",
+      "color": "Neon Violet",
+      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110293/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b09087f1d99e97edf0dc891-peachy",
+      "name_es": "Pantalón Corto DPF Essential · Peachy",
+      "name_en": "DPF Essential Sweat Shorts · Peachy",
+      "price_usd": 52.99,
+      "badge": "new",
+      "categories": [
+        "hombre/pantalones-cortos"
+      ],
+      "available": true,
+      "rank": 201,
+      "created": "2026-11-27",
+      "supplier_id": "6b09087f1d99e97edf0dc891-peachy",
+      "fam": "essential-men-s",
+      "cg": "printify-6b09087f1d99e97edf0dc891",
+      "color": "Peachy",
+      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110294/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b09087f1d99e97edf0dc891-pepper",
+      "name_es": "Pantalón Corto DPF Essential · Pepper",
+      "name_en": "DPF Essential Sweat Shorts · Pepper",
+      "price_usd": 52.99,
+      "badge": "new",
+      "categories": [
+        "hombre/pantalones-cortos"
+      ],
+      "available": true,
+      "rank": 202,
+      "created": "2026-11-27",
+      "supplier_id": "6b09087f1d99e97edf0dc891-pepper",
+      "fam": "essential-men-s",
+      "cg": "printify-6b09087f1d99e97edf0dc891",
+      "color": "Pepper",
+      "img": "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110295/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+      "page": true
     },
     {
       "id": "printify-6b08e9f16d0e8a542404257c",
@@ -772,14 +1067,34 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 189,
+      "rank": 204,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b08e9f16d0e8a542404257c",
       "fam": "emblem-beast-mode",
       "cg": "printify-6b08e9f16d0e8a542404257c",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b08e9f16d0e8a542404257c/12124/102005/dpf-emblem-beast-mode-tee.jpg?camera_label=front-2",
+      "img": "https://images.printify.com/mockup/6b08e9f16d0e8a542404257c/12124/102005/dpf-emblem-beast-mode-tee.jpg?camera_label=front-2"
+    },
+    {
+      "id": "printify-6b090882c87e8df47b09862a",
+      "name_es": "Gorro Performance · Negro",
+      "name_en": "Performance Hat · Black",
+      "price_usd": 34.99,
+      "badge": "new",
+      "categories": [
+        "hombre/gorro-bufanda",
+        "mujer/gorros-bufandas"
+      ],
+      "available": true,
+      "rank": 205,
+      "created": "2026-11-27",
+      "supplier_id": "6b090882c87e8df47b09862a",
+      "fam": "essential-performance-cap",
+      "cg": "printify-6b090882c87e8df47b09862a",
+      "color": "Black",
+      "img": "https://images.printify.com/mockup/6b090882c87e8df47b09862a/391147/162391/dpf-essential-performance-cap.jpg?camera_label=front",
       "page": true
     },
     {
@@ -793,7 +1108,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 198,
+      "rank": 214,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484195395-black",
@@ -814,7 +1129,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 199,
+      "rank": 215,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484195395-white",
@@ -834,7 +1149,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 201,
+      "rank": 217,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-63-womens-high-waisted-leggings-model-l36",
@@ -854,7 +1169,7 @@
         "mujer/pantalones-cortos"
       ],
       "available": true,
-      "rank": 210,
+      "rank": 226,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "action-painting-i-mila-blau-elastic-waist-double-layered-active-shorts",
@@ -874,7 +1189,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 211,
+      "rank": 227,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484199287-black",
@@ -894,7 +1209,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 212,
+      "rank": 228,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484199287-military-green",
@@ -914,7 +1229,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 216,
+      "rank": 232,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-all-over-leggings-model-l01",
@@ -934,7 +1249,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 217,
+      "rank": 233,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-all-over-leggings-model-l01-1",
@@ -954,7 +1269,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 218,
+      "rank": 234,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484201718-black",
@@ -974,7 +1289,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 219,
+      "rank": 235,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484201718-white",
@@ -994,7 +1309,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 233,
+      "rank": 249,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480569608-black",
@@ -1014,7 +1329,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 234,
+      "rank": 250,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480569608-heather-grey",
@@ -1034,7 +1349,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 235,
+      "rank": 251,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480569608-white",
@@ -1054,7 +1369,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 238,
+      "rank": 254,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-4-cross-back-pocket-sport-dress",
@@ -1074,7 +1389,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 240,
+      "rank": 256,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-43-all-over-print-high-waist-leggings-with-pockets-modell56",
@@ -1094,7 +1409,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 241,
+      "rank": 257,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-52-womens-high-waist-leggingsmodell44plus-size",
@@ -1114,7 +1429,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 244,
+      "rank": 260,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "sport-1-half-zip-backless-sport-jumpsuit",
@@ -1134,7 +1449,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 245,
+      "rank": 261,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "sport-2-half-zip-backless-sport-jumpsuit",
@@ -1155,7 +1470,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 246,
+      "rank": 262,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480571842",
@@ -1176,7 +1491,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 247,
+      "rank": 263,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484192500",
@@ -1185,6 +1500,25 @@
       "color": "Black",
       "art_score": 6,
       "img": "https://files.cdn.printful.com/files/868/8685a77884f4f5813b4defe8c9652453_preview.png"
+    },
+    {
+      "id": "printify-6b0908851d99e97edf0dc8a0",
+      "name_es": "Sujetador Deportivo Sports Bra · Negro",
+      "name_en": "Sports Bra Sports Bra · Black",
+      "price_usd": 63.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 265,
+      "created": "2026-11-27",
+      "supplier_id": "6b0908851d99e97edf0dc8a0",
+      "fam": "essential-women-s",
+      "cg": "printify-6b0908851d99e97edf0dc8a0",
+      "color": "Black",
+      "img": "https://images.printify.com/mockup/6b0908851d99e97edf0dc8a0/322431/168084/dpf-essential-womens-sports-bra.jpg?camera_label=front",
+      "page": true
     },
     {
       "id": "printify-6b08e9f6db66d9659e06dc37",
@@ -1197,15 +1531,15 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 260,
+      "rank": 277,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b08e9f6db66d9659e06dc37",
       "fam": "emblem-beast-mode",
       "cg": "printify-6b08e9f6db66d9659e06dc37",
       "color": "Black",
       "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b08e9f6db66d9659e06dc37/32920/98424/dpf-emblem-beast-mode-hoodie.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b08e9f6db66d9659e06dc37/32920/98424/dpf-emblem-beast-mode-hoodie.jpg?camera_label=front"
     },
     {
       "id": "interestprint-abstract-organic-pattern-design-background-free-vector-front-zip-racer-back-sports-skirt-shorts-set",
@@ -1217,7 +1551,7 @@
         "mujer/falda"
       ],
       "available": true,
-      "rank": 262,
+      "rank": 279,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "abstract-organic-pattern-design-background-_-free-vector-front-zip-racer-back-sports-skirt-shorts-set",
@@ -1237,7 +1571,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 263,
+      "rank": 280,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-66-all-over-low-rise-leggings-model-l05",
@@ -1246,6 +1580,25 @@
       "color": "Violet Star",
       "art_score": 9,
       "img": "assets/products/shop/d585e5dc0c6f41946b25.jpg"
+    },
+    {
+      "id": "printify-6b09088a6d0e8a5424044b32",
+      "name_es": "Jogger Joggers · Negro",
+      "name_en": "Joggers Joggers · Black",
+      "price_usd": 70.99,
+      "badge": "new",
+      "categories": [
+        "mujer/pantalones"
+      ],
+      "available": true,
+      "rank": 282,
+      "created": "2026-11-27",
+      "supplier_id": "6b09088a6d0e8a5424044b32",
+      "fam": "essential-women-s",
+      "cg": "printify-6b09088a6d0e8a5424044b32",
+      "color": "Black",
+      "img": "https://images.printify.com/mockup/6b09088a6d0e8a5424044b32/195328/148591/dpf-essential-womens-joggers.jpg?camera_label=front-left-leg",
+      "page": true
     },
     {
       "id": "printful-484206291-black",
@@ -1257,7 +1610,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 270,
+      "rank": 288,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484206291-black",
@@ -1277,7 +1630,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 271,
+      "rank": 289,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484206291-grey",
@@ -1297,15 +1650,15 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 272,
+      "rank": 290,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b08ea0108b8102972076713",
       "fam": "emblem-built-different",
       "cg": "printify-6b08ea0108b8102972076713",
       "color": "Black",
       "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b08ea0108b8102972076713/72716/16566/dpf-emblem-built-different-cropped-hoodie.jpg?camera_label=front",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b08ea0108b8102972076713/72716/16566/dpf-emblem-built-different-cropped-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printful-484200714-black",
@@ -1317,7 +1670,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 274,
+      "rank": 292,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484200714-black",
@@ -1337,7 +1690,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 275,
+      "rank": 293,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484200714-stone",
@@ -1346,6 +1699,25 @@
       "color": "Stone",
       "art_score": 6,
       "img": "https://files.cdn.printful.com/files/677/6774ca2b8462578e557461d5cb10bbe0_preview.png"
+    },
+    {
+      "id": "printify-6b090887d60c2fd53c025918",
+      "name_es": "Leggings Immortal Warrior · Negro",
+      "name_en": "Immortal Warrior Leggings · Black",
+      "price_usd": 70.99,
+      "badge": "new",
+      "categories": [
+        "mujer/leggings"
+      ],
+      "available": true,
+      "rank": 294,
+      "created": "2026-11-27",
+      "supplier_id": "6b090887d60c2fd53c025918",
+      "fam": "essential-women-s",
+      "cg": "printify-6b090887d60c2fd53c025918",
+      "color": "Black",
+      "img": "https://images.printify.com/mockup/6b090887d60c2fd53c025918/214131/138921/dpf-essential-womens-leggings.jpg?camera_label=front-right-leg",
+      "page": true
     },
     {
       "id": "printful-484188638-black-camo",
@@ -1358,7 +1730,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 276,
+      "rank": 295,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484188638-black-camo",
@@ -1379,7 +1751,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 277,
+      "rank": 296,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484188638-forest-camo",
@@ -1399,28 +1771,48 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 278,
+      "rank": 297,
       "created": "2026-11-27",
+      "page": true,
       "supplier_id": "6b08e9feedc552ae3508c0cb",
       "fam": "emblem-built-different",
       "cg": "printify-6b08e9feedc552ae3508c0cb",
       "color": "Black",
       "art_score": 3,
-      "img": "https://images.printify.com/mockup/6b08e9feedc552ae3508c0cb/33869/137313/dpf-emblem-built-different-womens-tee.jpg?camera_label=left-sleeve",
-      "page": true
+      "img": "https://images.printify.com/mockup/6b08e9feedc552ae3508c0cb/33869/137313/dpf-emblem-built-different-womens-tee.jpg?camera_label=left-sleeve"
+    },
+    {
+      "id": "printify-6b089b42c9d405a5820236ee",
+      "name_es": "Camiseta de tirantes Queen of Iron",
+      "name_en": "Queen of Iron Tank",
+      "price_usd": 34.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 301,
+      "created": "2026-11-26",
+      "page": true,
+      "supplier_id": "6b089b42c9d405a5820236ee",
+      "fam": "tough-bitch-queen",
+      "cg": "printify-6b089b42c9d405a5820236ee",
+      "color": "Black",
+      "art_score": 2,
+      "img": "https://images.printify.com/mockup/6b089b42c9d405a5820236ee/251657/126156/tough-bitch-queen-of-iron-racerback-tank.jpg?camera_label=front"
     },
     {
       "id": "printify-6b08923128a05af49e00a257",
       "name_es": "Camiseta sin mangas Dpf Emblem",
       "name_en": "Dpf Emblem Tank Top",
-      "price_usd": 33.99,
+      "price_usd": 40.99,
       "badge": "new",
       "categories": [
         "hombre/camiseta",
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 281,
+      "rank": 302,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08923128a05af49e00a257",
@@ -1434,13 +1826,13 @@
       "id": "printify-6b0892436a219864bc0f11dd",
       "name_es": "Camiseta de Tirantes Immortal Warrior",
       "name_en": "Immortal Warrior Tank Top",
-      "price_usd": 33.99,
+      "price_usd": 40.99,
       "badge": "new",
       "categories": [
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 282,
+      "rank": 303,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0892436a219864bc0f11dd",
@@ -1454,14 +1846,14 @@
       "id": "printify-6b0894ffedc552ae350870fd",
       "name_es": "Camiseta sin mangas Immortal Warrior White",
       "name_en": "Immortal Warrior White Tank Top",
-      "price_usd": 37.99,
+      "price_usd": 43.99,
       "badge": "new",
       "categories": [
         "hombre/camiseta",
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 286,
+      "rank": 306,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0894ffedc552ae350870fd",
@@ -1475,13 +1867,13 @@
       "id": "printify-6b089504d4c50971c2032992",
       "name_es": "Camiseta de Tirantes Classic",
       "name_en": "Classic Racerback Tank",
-      "price_usd": 34.99,
+      "price_usd": 43.99,
       "badge": "new",
       "categories": [
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 287,
+      "rank": 307,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089504d4c50971c2032992",
@@ -1495,13 +1887,13 @@
       "id": "printify-6b089514edc552ae3508711c",
       "name_es": "Camiseta de tirantes Tough Elite",
       "name_en": "Tough Elite Racerback Tank",
-      "price_usd": 34.99,
+      "price_usd": 43.99,
       "badge": "new",
       "categories": [
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 288,
+      "rank": 308,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089514edc552ae3508711c",
@@ -1515,13 +1907,13 @@
       "id": "printify-6b08951c155f8bb8d107fbe2",
       "name_es": "Camiseta Deportiva Tough Bitch Gold",
       "name_en": "Tough Bitch Gold Racerback Tank",
-      "price_usd": 34.99,
+      "price_usd": 43.99,
       "badge": "new",
       "categories": [
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 289,
+      "rank": 309,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08951c155f8bb8d107fbe2",
@@ -1535,13 +1927,13 @@
       "id": "printify-6b089a02867aed6ed008c517",
       "name_es": "Camiseta Racerback Queen of Iron",
       "name_en": "Queen of Iron Racerback Tank",
-      "price_usd": 34.99,
+      "price_usd": 43.99,
       "badge": "new",
       "categories": [
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 290,
+      "rank": 310,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089a02867aed6ed008c517",
@@ -1552,36 +1944,16 @@
       "img": "https://images.printify.com/mockup/6b089a02867aed6ed008c517/251657/126156/tough-bitch-queen-of-iron-racerback-tank.jpg?camera_label=front"
     },
     {
-      "id": "printify-6b089b42c9d405a5820236ee",
-      "name_es": "Camiseta de tirantes Queen of Iron",
-      "name_en": "Queen of Iron Tank",
-      "price_usd": 34.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 291,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089b42c9d405a5820236ee",
-      "fam": "tough-bitch-queen",
-      "cg": "printify-6b089b42c9d405a5820236ee",
-      "color": "Black",
-      "art_score": 2,
-      "img": "https://images.printify.com/mockup/6b089b42c9d405a5820236ee/251657/126156/tough-bitch-queen-of-iron-racerback-tank.jpg?camera_label=front"
-    },
-    {
       "id": "printify-6b089524155f8bb8d107fbee",
       "name_es": "Camiseta sin mangas Tough Bitch",
       "name_en": "Tough Bitch Racerback Tank",
-      "price_usd": 38.99,
+      "price_usd": 47.99,
       "badge": "new",
       "categories": [
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 292,
+      "rank": 311,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089524155f8bb8d107fbee",
@@ -1592,223 +1964,17 @@
       "img": "https://images.printify.com/mockup/6b089524155f8bb8d107fbee/251729/126156/tough-bitch-white-edition-white-racerback-tank.jpg?camera_label=front"
     },
     {
-      "id": "printify-6b0892336a219864bc0f11ce",
-      "name_es": "Sudadera Dpf Emblem Black",
-      "name_en": "Dpf Emblem Hoodie Black",
-      "price_usd": 46.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 293,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b0892336a219864bc0f11ce",
-      "fam": "emblem-hoodie",
-      "cg": "printify-6b0892336a219864bc0f11ce",
-      "color": "Black",
-      "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b0892336a219864bc0f11ce/32920/98424/dpf-emblem-hoodie.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b08923b75d150be770301a3",
-      "name_es": "Sudadera Dpf Gold Emblem",
-      "name_en": "Dpf Gold Emblem Hoodie",
-      "price_usd": 46.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 294,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b08923b75d150be770301a3",
-      "fam": "emblem-hoodie",
-      "cg": "printify-6b08923b75d150be770301a3",
-      "color": "Black",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b08923b75d150be770301a3/32920/98424/dpf-gold-emblem-hoodie.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b08924655d595d88e09f9a9",
-      "name_es": "Sudadera Immortal Warrior Classic",
-      "name_en": "Immortal Warrior Classic Hoodie",
-      "price_usd": 46.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 295,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b08924655d595d88e09f9a9",
-      "fam": "immortal-warrior-classic",
-      "cg": "printify-6b08924655d595d88e09f9a9",
-      "color": "Black",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b08924655d595d88e09f9a9/32920/98424/immortal-warrior-classic-hoodie.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b08924a6d0e8a542403d393",
-      "name_es": "Sudadera Immortal Warrior Elite",
-      "name_en": "Immortal Warrior Elite Hoodie",
-      "price_usd": 46.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 296,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b08924a6d0e8a542403d393",
-      "fam": "immortal-warrior-elite",
-      "cg": "printify-6b08924a6d0e8a542403d393",
-      "color": "Black",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b08924a6d0e8a542403d393/32920/98424/immortal-warrior-elite-hoodie.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b0899fc6bfabea2f3021a91",
-      "name_es": "Sudadera Immortal Warrior No Days Off",
-      "name_en": "Immortal Warrior No Days Off Hoodie",
-      "price_usd": 46.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 297,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b0899fc6bfabea2f3021a91",
-      "fam": "immortal-warrior-no",
-      "cg": "printify-6b0899fc6bfabea2f3021a91",
-      "color": "Black",
-      "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b0899fc6bfabea2f3021a91/32920/98424/immortal-warrior-no-days-off-hoodie.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b089526d4c50971c20329b9",
-      "name_es": "Camiseta Blanca Tough Bitch",
-      "name_en": "Tough Bitch White Tee",
-      "price_usd": 45.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 299,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089526d4c50971c20329b9",
-      "fam": "tough-bitch-edition",
-      "cg": "printify-6b089526d4c50971c20329b9",
-      "color": "White",
-      "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b089526d4c50971c20329b9/33867/137313/tough-bitch-white-edition-womens-white-tee.jpg?camera_label=left-sleeve"
-    },
-    {
-      "id": "printify-6b0894f655d595d88e09fb97",
-      "name_es": "Sudadera Immortal Warrior Gold",
-      "name_en": "Immortal Warrior Gold Crewneck",
-      "price_usd": 45.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 300,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b0894f655d595d88e09fb97",
-      "fam": "immortal-warrior-crewneck",
-      "cg": "printify-6b0894f655d595d88e09fb97",
-      "color": "Black",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b0894f655d595d88e09fb97/25459/98502/immortal-warrior-gold-crewneck.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b08950ad4c50971c2032998",
-      "name_es": "Sudadera Cropped Clásica",
-      "name_en": "Classic Cropped Hoodie",
-      "price_usd": 61.99,
-      "badge": "new",
-      "categories": [
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 301,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b08950ad4c50971c2032998",
-      "fam": "tough-bitch-classic",
-      "cg": "printify-6b08950ad4c50971c2032998",
-      "color": "Black",
-      "art_score": 4,
-      "img": "https://images.printify.com/mockup/6b08950ad4c50971c2032998/72716/16566/tough-bitch-classic-cropped-hoodie.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b089511a6afac34150de014",
-      "name_es": "Sudadera con Capucha Elite",
-      "name_en": "Elite Cropped Hoodie",
-      "price_usd": 61.99,
-      "badge": "new",
-      "categories": [
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 302,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089511a6afac34150de014",
-      "fam": "tough-bitch-elite",
-      "cg": "printify-6b089511a6afac34150de014",
-      "color": "Black",
-      "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b089511a6afac34150de014/72716/16566/tough-bitch-elite-cropped-hoodie.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b089a07db66d9659e068f9a",
-      "name_es": "Sudadera Corta Queen Of Iron",
-      "name_en": "Queen Of Iron Cropped Hoodie",
-      "price_usd": 61.99,
-      "badge": "new",
-      "categories": [
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 303,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089a07db66d9659e068f9a",
-      "fam": "tough-bitch-queen",
-      "cg": "printify-6b089a07db66d9659e068f9a",
-      "color": "Black",
-      "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b089a07db66d9659e068f9a/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front"
-    },
-    {
       "id": "printify-6b08922d75d150be77030196",
       "name_es": "Camiseta Dpf Emblem Negra",
       "name_en": "Dpf Emblem Tee Black",
-      "price_usd": 28.99,
+      "price_usd": 37.99,
       "badge": "new",
       "categories": [
         "hombre/camiseta",
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 305,
+      "rank": 312,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08922d75d150be77030196",
@@ -1822,14 +1988,14 @@
       "id": "printify-6b08923855d595d88e09f999",
       "name_es": "Camiseta Gold Emblem Dpf Negra",
       "name_en": "Dpf Gold Emblem Black Tee",
-      "price_usd": 28.99,
+      "price_usd": 37.99,
       "badge": "new",
       "categories": [
         "hombre/camiseta",
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 306,
+      "rank": 313,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08923855d595d88e09f999",
@@ -1843,14 +2009,14 @@
       "id": "printify-6b089240c9d405a582022ee0",
       "name_es": "Camiseta Immortal Warrior Classic",
       "name_en": "Immortal Warrior Classic Tee",
-      "price_usd": 28.99,
+      "price_usd": 37.99,
       "badge": "new",
       "categories": [
         "hombre/camiseta",
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 307,
+      "rank": 314,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089240c9d405a582022ee0",
@@ -1864,14 +2030,14 @@
       "id": "printify-6b08924d75d150be770301be",
       "name_es": "Camiseta Immortal Warrior Elite Black",
       "name_en": "Immortal Warrior Elite Tee Black",
-      "price_usd": 28.99,
+      "price_usd": 37.99,
       "badge": "new",
       "categories": [
         "hombre/camiseta",
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 308,
+      "rank": 315,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08924d75d150be770301be",
@@ -1885,14 +2051,14 @@
       "id": "printify-6b089254ba427acd12096a99",
       "name_es": "Camiseta Immortal Warrior Gold",
       "name_en": "Immortal Warrior Gold Tee",
-      "price_usd": 28.99,
+      "price_usd": 37.99,
       "badge": "new",
       "categories": [
         "hombre/camiseta",
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 309,
+      "rank": 316,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089254ba427acd12096a99",
@@ -1906,14 +2072,14 @@
       "id": "printify-6b0894fcba427acd12096c87",
       "name_es": "Camiseta Immortal Warrior White Edition",
       "name_en": "Immortal Warrior White Edition Tee",
-      "price_usd": 28.99,
+      "price_usd": 37.99,
       "badge": "new",
       "categories": [
         "hombre/camiseta",
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 310,
+      "rank": 317,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0894fcba427acd12096c87",
@@ -1927,14 +2093,14 @@
       "id": "printify-6b0899f655d595d88e0a00d7",
       "name_es": "Camiseta Immortal Warrior No Days Off",
       "name_en": "Immortal Warrior No Days Off Tee",
-      "price_usd": 28.99,
+      "price_usd": 37.99,
       "badge": "new",
       "categories": [
         "hombre/camiseta",
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 311,
+      "rank": 318,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0899f655d595d88e0a00d7",
@@ -1945,16 +2111,222 @@
       "img": "https://images.printify.com/mockup/6b0899f655d595d88e0a00d7/12124/102005/immortal-warrior-no-days-off-tee.jpg?camera_label=front-2"
     },
     {
-      "id": "printify-6b0895076a219864bc0f1429",
-      "name_es": "Camiseta clásica Tough Bitch",
-      "name_en": "Tough Bitch Classic Tee",
-      "price_usd": 46.99,
+      "id": "printify-6b089526d4c50971c20329b9",
+      "name_es": "Camiseta Blanca Tough Bitch",
+      "name_en": "Tough Bitch White Tee",
+      "price_usd": 53.99,
       "badge": "new",
       "categories": [
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 313,
+      "rank": 320,
+      "created": "2026-11-26",
+      "page": true,
+      "supplier_id": "6b089526d4c50971c20329b9",
+      "fam": "tough-bitch-edition",
+      "cg": "printify-6b089526d4c50971c20329b9",
+      "color": "White",
+      "art_score": 5,
+      "img": "https://images.printify.com/mockup/6b089526d4c50971c20329b9/33867/137313/tough-bitch-white-edition-womens-white-tee.jpg?camera_label=left-sleeve"
+    },
+    {
+      "id": "printify-6b0892336a219864bc0f11ce",
+      "name_es": "Sudadera Dpf Emblem Black",
+      "name_en": "Dpf Emblem Hoodie Black",
+      "price_usd": 54.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 322,
+      "created": "2026-11-26",
+      "page": true,
+      "supplier_id": "6b0892336a219864bc0f11ce",
+      "fam": "emblem-hoodie",
+      "cg": "printify-6b0892336a219864bc0f11ce",
+      "color": "Black",
+      "art_score": 5,
+      "img": "https://images.printify.com/mockup/6b0892336a219864bc0f11ce/32920/98424/dpf-emblem-hoodie.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b08923b75d150be770301a3",
+      "name_es": "Sudadera Dpf Gold Emblem",
+      "name_en": "Dpf Gold Emblem Hoodie",
+      "price_usd": 54.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 323,
+      "created": "2026-11-26",
+      "page": true,
+      "supplier_id": "6b08923b75d150be770301a3",
+      "fam": "emblem-hoodie",
+      "cg": "printify-6b08923b75d150be770301a3",
+      "color": "Black",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b08923b75d150be770301a3/32920/98424/dpf-gold-emblem-hoodie.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b08924655d595d88e09f9a9",
+      "name_es": "Sudadera Immortal Warrior Classic",
+      "name_en": "Immortal Warrior Classic Hoodie",
+      "price_usd": 54.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 324,
+      "created": "2026-11-26",
+      "page": true,
+      "supplier_id": "6b08924655d595d88e09f9a9",
+      "fam": "immortal-warrior-classic",
+      "cg": "printify-6b08924655d595d88e09f9a9",
+      "color": "Black",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b08924655d595d88e09f9a9/32920/98424/immortal-warrior-classic-hoodie.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b08924a6d0e8a542403d393",
+      "name_es": "Sudadera Immortal Warrior Elite",
+      "name_en": "Immortal Warrior Elite Hoodie",
+      "price_usd": 54.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 325,
+      "created": "2026-11-26",
+      "page": true,
+      "supplier_id": "6b08924a6d0e8a542403d393",
+      "fam": "immortal-warrior-elite",
+      "cg": "printify-6b08924a6d0e8a542403d393",
+      "color": "Black",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b08924a6d0e8a542403d393/32920/98424/immortal-warrior-elite-hoodie.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b0899fc6bfabea2f3021a91",
+      "name_es": "Sudadera Immortal Warrior No Days Off",
+      "name_en": "Immortal Warrior No Days Off Hoodie",
+      "price_usd": 54.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 326,
+      "created": "2026-11-26",
+      "page": true,
+      "supplier_id": "6b0899fc6bfabea2f3021a91",
+      "fam": "immortal-warrior-no",
+      "cg": "printify-6b0899fc6bfabea2f3021a91",
+      "color": "Black",
+      "art_score": 5,
+      "img": "https://images.printify.com/mockup/6b0899fc6bfabea2f3021a91/32920/98424/immortal-warrior-no-days-off-hoodie.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b0894f655d595d88e09fb97",
+      "name_es": "Sudadera Immortal Warrior Gold",
+      "name_en": "Immortal Warrior Gold Crewneck",
+      "price_usd": 53.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 328,
+      "created": "2026-11-26",
+      "page": true,
+      "supplier_id": "6b0894f655d595d88e09fb97",
+      "fam": "immortal-warrior-crewneck",
+      "cg": "printify-6b0894f655d595d88e09fb97",
+      "color": "Black",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b0894f655d595d88e09fb97/25459/98502/immortal-warrior-gold-crewneck.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b08950ad4c50971c2032998",
+      "name_es": "Sudadera Cropped Clásica",
+      "name_en": "Classic Cropped Hoodie",
+      "price_usd": 71.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 329,
+      "created": "2026-11-26",
+      "page": true,
+      "supplier_id": "6b08950ad4c50971c2032998",
+      "fam": "tough-bitch-classic",
+      "cg": "printify-6b08950ad4c50971c2032998",
+      "color": "Black",
+      "art_score": 4,
+      "img": "https://images.printify.com/mockup/6b08950ad4c50971c2032998/72716/16566/tough-bitch-classic-cropped-hoodie.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b089511a6afac34150de014",
+      "name_es": "Sudadera con Capucha Elite",
+      "name_en": "Elite Cropped Hoodie",
+      "price_usd": 71.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 330,
+      "created": "2026-11-26",
+      "page": true,
+      "supplier_id": "6b089511a6afac34150de014",
+      "fam": "tough-bitch-elite",
+      "cg": "printify-6b089511a6afac34150de014",
+      "color": "Black",
+      "art_score": 5,
+      "img": "https://images.printify.com/mockup/6b089511a6afac34150de014/72716/16566/tough-bitch-elite-cropped-hoodie.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b089a07db66d9659e068f9a",
+      "name_es": "Sudadera Corta Queen Of Iron",
+      "name_en": "Queen Of Iron Cropped Hoodie",
+      "price_usd": 71.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 331,
+      "created": "2026-11-26",
+      "page": true,
+      "supplier_id": "6b089a07db66d9659e068f9a",
+      "fam": "tough-bitch-queen",
+      "cg": "printify-6b089a07db66d9659e068f9a",
+      "color": "Black",
+      "art_score": 5,
+      "img": "https://images.printify.com/mockup/6b089a07db66d9659e068f9a/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front"
+    },
+    {
+      "id": "printify-6b0895076a219864bc0f1429",
+      "name_es": "Camiseta clásica Tough Bitch",
+      "name_en": "Tough Bitch Classic Tee",
+      "price_usd": 54.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 332,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0895076a219864bc0f1429",
@@ -1968,13 +2340,13 @@
       "id": "printify-6b08951fedc552ae35087130",
       "name_es": "Camiseta Tough Bitch Gold",
       "name_en": "Tough Bitch Gold Tee",
-      "price_usd": 46.99,
+      "price_usd": 54.99,
       "badge": "new",
       "categories": [
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 314,
+      "rank": 333,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08951fedc552ae35087130",
@@ -1988,13 +2360,13 @@
       "id": "printify-6b089a056a219864bc0f18e4",
       "name_es": "Camiseta Queen of Iron",
       "name_en": "Queen of Iron Tee",
-      "price_usd": 46.99,
+      "price_usd": 54.99,
       "badge": "new",
       "categories": [
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 315,
+      "rank": 334,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089a056a219864bc0f18e4",
@@ -2014,7 +2386,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 317,
+      "rank": 336,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "advanced-whey-protein-chocolate",

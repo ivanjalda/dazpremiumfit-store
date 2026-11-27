@@ -1,0 +1,63 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "Towel",
+ "ai_ver": 2,
+ "art_note": "Clean studio presentation, but lacks dynamic lifestyle imagery to reach true high-end campaign standards.",
+ "art_score": 5,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "printify-6b0908971ec00443710ef319",
+ "color": "Black",
+ "created": "2026-11-27",
+ "desc_en": "Elevate your daily discipline with this essential performance accessory. Designed to accompany your most demanding sessions, this piece combines understated aesthetics with flawless functionality. Every detail has been conceived to deliver a refined presence in any training environment. An indispensable item for those who seek distinction without compromising absolute performance. Available made to order with worldwide shipping.",
+ "desc_es": "Eleve su disciplina diaria con este accesorio de rendimiento esencial. Diseñado para acompañar sus sesiones más exigentes, este producto combina una estética sobria con una funcionalidad impecable. Cada detalle ha sido concebido para ofrecer una presencia impecable en cualquier entorno de entrenamiento. Una pieza indispensable para quienes buscan distinción sin renunciar al rendimiento absoluto. Disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b0908971ec00443710ef319/250949/172568/dpf-essential-gym-towel.jpg?camera_label=top-left",
+  "https://images.printify.com/mockup/6b0908971ec00443710ef319/250949/172570/dpf-essential-gym-towel.jpg?camera_label=top-center",
+  "https://images.printify.com/mockup/6b0908971ec00443710ef319/250949/172572/dpf-essential-gym-towel.jpg?camera_label=top-right",
+  "https://images.printify.com/mockup/6b0908971ec00443710ef319/250949/172574/dpf-essential-gym-towel.jpg?camera_label=middle-left"
+ ],
+ "draft": false,
+ "fam": "essential-gym-towel",
+ "hidden": false,
+ "id": "printify-6b0908971ec00443710ef319",
+ "img_checked": "2026-11-27",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "",
+ "name_en": "Essential Training Towel",
+ "name_es": "Toalla de Entrenamiento Esencial",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 32.99,
+ "rank": 20,
+ "shipping_usd": 5.89,
+ "shipping_worst_usd": 13.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "One size"
+ ],
+ "skus": [
+  "12200897563898529471"
+ ],
+ "source_title": "DPF Essential Gym Towel",
+ "stripe_payment_link": "https://buy.stripe.com/4gM4gA4UYeT23Ui4ai1gY47",
+ "supplier": "Printify",
+ "supplier_id": "6b0908971ec00443710ef319",
+ "visual_verified": false
+}

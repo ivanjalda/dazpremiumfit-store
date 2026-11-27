@@ -34,6 +34,7 @@
  "look": [
   "printful-359535579",
   "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "printify-6b09087c1d99e97edf0dc88a",
   "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
  ],
  "material": "",
@@ -42,8 +43,8 @@
  "needs_review": false,
  "needs_studio": true,
  "page": true,
- "price_usd": 45.99,
- "rank": 300,
+ "price_usd": 53.99,
+ "rank": 328,
  "shipping_usd": 8.79,
  "shipping_worst_usd": 8.79,
  "shop_category": "",
@@ -139,7 +140,7 @@
   "17230025981357799134"
  ],
  "source_title": "Immortal Warrior Gold Crewneck",
- "stripe_payment_link": "https://buy.stripe.com/6oU28s1IMbGQfD0eOW1gY33",
+ "stripe_payment_link": "https://buy.stripe.com/aFaeVebjm12c3UicGO1gZ0E",
  "supplier": "Printify",
  "supplier_id": "6b0894f655d595d88e09fb97",
  "visual_verified": false

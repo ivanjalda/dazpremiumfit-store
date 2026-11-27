@@ -1,0 +1,74 @@
+{
+ "ai_cats": [
+  "hombre/pantalones"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "joggers",
+ "ai_ver": 2,
+ "art_note": "Clean studio product shots are adequate, but model shots look like digital mockups.",
+ "art_score": 5,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/pantalones"
+ ],
+ "cg": "printify-6b09087c1d99e97edf0dc88a",
+ "color": "Black",
+ "created": "2026-11-27",
+ "desc_en": "Engineered for effortless movement. These joggers combine clean lines with a relaxed silhouette. The DPF emblem adds a subtle signature touch. Made to order for a precise fit with worldwide shipping. An essential piece that redefines modern comfort with a refined and functional aesthetic.",
+ "desc_es": "Diseñado para el movimiento sin esfuerzo. Este pantalón jogger combina líneas limpias con una silueta relajada. El emblema DPF aporta un sutil sello distintivo. Confección bajo pedido para un ajuste preciso y envío a todo el mundo. Una pieza esencial que redefine el confort moderno con una estética depurada y funcional.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío disponible a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b09087c1d99e97edf0dc88a/103934/195136/dpf-essential-mens-joggers.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b09087c1d99e97edf0dc88a/103934/195137/dpf-essential-mens-joggers.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "essential-men-s",
+ "hidden": false,
+ "id": "printify-6b09087c1d99e97edf0dc88a",
+ "img_checked": "2026-11-27",
+ "look": [
+  "printful-359535579",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "",
+ "name_en": "Essential Black Jogger Pants",
+ "name_es": "Pantalón Jogger Essential Negro",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 58.99,
+ "rank": 187,
+ "shipping_usd": 8.79,
+ "shipping_worst_usd": 18.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL"
+ ],
+ "skus": [
+  "73462150623615790921",
+  "32610403179333673582",
+  "21840012608641989510",
+  "15225497797949843256",
+  "26066295168754563462",
+  "11067708426411812168"
+ ],
+ "source_title": "DPF Essential Men's Joggers",
+ "stripe_payment_link": "https://buy.stripe.com/6oU9AU9beaCM4YmayG1gZ06",
+ "supplier": "Printify",
+ "supplier_id": "6b09087c1d99e97edf0dc88a",
+ "visual_verified": false
+}

@@ -1,0 +1,61 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "socks",
+ "ai_ver": 2,
+ "art_note": "Mockup-style presentation lacks high-end campaign aesthetic.",
+ "art_score": 3,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "printify-6b090892c87e8df47b098639",
+ "color": "White",
+ "created": "2026-11-27",
+ "desc_en": "Engineered for uncompromising daily demands. These essential socks combine technical support with refined functionality. The DPF emblem crowns a clean white silhouette. Crafted made-to-order to guarantee absolute exclusivity. Worldwide shipping available.",
+ "desc_es": "Diseñados para la máxima exigencia diaria. Estos calcetines esenciales combinan soporte y funcionalidad técnica. El emblema DPF corona una silueta limpia en blanco. Fabricados bajo demanda para garantizar una exclusividad absoluta. Envío a todo el mundo disponible.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
+ "display_images": [
+  "https://images.printify.com/mockup/6b090892c87e8df47b098639/71924/12379/dpf-essential-training-socks.jpg?camera_label=all-sides",
+  "https://images.printify.com/mockup/6b090892c87e8df47b098639/71924/12376/dpf-essential-training-socks.jpg?camera_label=left-front-and-back"
+ ],
+ "draft": false,
+ "fam": "essential-training-socks",
+ "hidden": false,
+ "id": "printify-6b090892c87e8df47b098639",
+ "img_checked": "2026-11-27",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "",
+ "name_en": "DPF Essential Training Socks",
+ "name_es": "Calcetines Esenciales de Rendimiento DPF",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 26.99,
+ "rank": 5,
+ "shipping_usd": 4.99,
+ "shipping_worst_usd": 11.89,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "One size"
+ ],
+ "skus": [
+  "50073356209078215854"
+ ],
+ "source_title": "DPF Essential Training Socks",
+ "stripe_payment_link": "https://buy.stripe.com/cNi3cwevy6mw1Ma8qy1gY46",
+ "supplier": "Printify",
+ "supplier_id": "6b090892c87e8df47b098639",
+ "visual_verified": false
+}

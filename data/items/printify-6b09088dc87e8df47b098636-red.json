@@ -1,0 +1,61 @@
+{
+ "ai_cats": [
+  "decor"
+ ],
+ "ai_color": "red",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "bag",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography against a plain white background, standard e-commerce presentation without lifestyle context.",
+ "art_score": 6,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "decor"
+ ],
+ "cg": "printify-6b09088dc87e8df47b098636",
+ "color": "Red",
+ "created": "2026-11-27",
+ "desc_en": "Conceived to accompany your training sessions with absolute precision, this essential red gym bag combines a structured silhouette with flawless functionality. Designed to safely house your training gear, it features the distinctive emblem of the house as a subtle signature of identity. Each piece is individually crafted on demand, ensuring exclusivity with every worldwide shipment. An essential accessory that redefines the aesthetic of your daily routine with sobriety and distinction.",
+ "desc_es": "Concebida para acompañar sus jornadas de entrenamiento con absoluta precisión, esta bolsa de deporte esencial en tono rojo combina una silueta estructurada con una funcionalidad impecable. Diseñada para albergar su equipamiento de entrenamiento con total seguridad, incorpora el emblema distintivo de la casa como sutil sello de identidad. Cada pieza se confecciona de manera individual bajo demanda, asegurando exclusividad en cada envío internacional. Un accesorio indispensable que redefine la estética de su rutina diaria con sobriedad y distinción.",
+ "details_en": "· Made to order\n· Worldwide shipping\n· Features the DPF emblem",
+ "details_es": "· Hecho a pedido\n· Envío a todo el mundo\n· Incluye el emblema DPF",
+ "display_images": [
+  "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149525/126539/dpf-essential-gym-bag.jpg?camera_label=back",
+  "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149525/126538/dpf-essential-gym-bag.jpg?camera_label=front"
+ ],
+ "draft": false,
+ "fam": "essential-gym-bag",
+ "hidden": false,
+ "id": "printify-6b09088dc87e8df47b098636-red",
+ "img_checked": "2026-11-27",
+ "look": [
+  "productifi-wish4-2562"
+ ],
+ "material": "",
+ "name_en": "DPF Essential Gym Bag · Red",
+ "name_es": "Bolsa de deporte esencial DPF · Rojo",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 62.99,
+ "rank": 36,
+ "shipping_usd": 12.19,
+ "shipping_worst_usd": 25.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "One size"
+ ],
+ "skus": [
+  "28913260182551518344"
+ ],
+ "source_title": "DPF Essential Gym Bag",
+ "stripe_payment_link": "https://buy.stripe.com/fZu7sMevy3ak3UifT01gZ04",
+ "supplier": "Printify",
+ "supplier_id": "6b09088dc87e8df47b098636-red",
+ "visual_verified": false
+}

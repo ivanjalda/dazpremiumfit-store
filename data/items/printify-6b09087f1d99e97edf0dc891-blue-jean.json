@@ -1,0 +1,73 @@
+{
+ "ai_cats": [
+  "hombre/pantalones-cortos"
+ ],
+ "ai_color": "Blue Jean",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "men",
+ "ai_type": "shorts",
+ "ai_ver": 2,
+ "art_note": "High-end studio photography featuring refined shadow play and authentic editorial lifestyle composition.",
+ "art_score": 8,
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/pantalones-cortos"
+ ],
+ "cg": "printify-6b09087f1d99e97edf0dc891",
+ "color": "Blue Jean",
+ "created": "2026-11-27",
+ "desc_en": "Conceived for dedicated training sessions and refined downtime, the DPF Essential Sweat Shorts bring uncompromising poise to performance apparel. A deep blue jean tone delivers a balanced, understated aesthetic, punctuated cleanly by the signature DPF emblem. The cut ensures unrestrained movement while retaining an intentional, modern drape that transitions seamlessly beyond the gym. Produced exclusively on demand, each piece reflects a conscious approach to contemporary athletic design. Precision craftsmanship, pure functionality, and enduring form. Worldwide shipping available.",
+ "desc_es": "Diseñado para el entrenamiento riguroso y el descanso absoluto, el pantalón corto DPF Essential define una silueta atlética pulida y contemporánea. Su tonalidad blue jean otorga un carácter sobrio y atemporal, acentuado de manera sutil por el emblema distintivo DPF. Creado con un enfoque deliberado en la proporción y la versatilidad, este modelo prescinde de cualquier exceso visual. Cada prenda se confecciona bajo pedido con los más rigurosos estándares de confección. Rendimiento discreto y arquitectura textil pensada para acompañar cada movimiento. Envíos disponibles a todo el mundo.",
+ "details_en": "· Made to order\n· DPF emblem graphic\n· Worldwide shipping",
+ "details_es": "· Confección bajo pedido\n· Emblema DPF estampado\n· Envío a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110278/108470/dpf-essential-mens-sweat-shorts.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110278/108474/dpf-essential-mens-sweat-shorts.jpg?camera_label=back",
+  "https://images.printify.com/mockup/6b09087f1d99e97edf0dc891/110278/126266/dpf-essential-mens-sweat-shorts.jpg?camera_label=context"
+ ],
+ "draft": false,
+ "fam": "essential-men-s",
+ "hidden": false,
+ "id": "printify-6b09087f1d99e97edf0dc891-blue-jean",
+ "img_checked": "2026-11-27",
+ "look": [
+  "printful-359535579",
+  "productifi-gel-refrescante-polar-flex-daz-premium-fit",
+  "productifi-cafe-fruity-bloom-tueste-ligero-daz-premium-fit",
+  "printify-6b09087c1d99e97edf0dc88a"
+ ],
+ "material": "",
+ "name_en": "DPF Essential Sweat Shorts · Blue Jean",
+ "name_es": "Pantalón Corto DPF Essential · Blue Jean",
+ "needs_review": false,
+ "needs_studio": false,
+ "price_usd": 52.99,
+ "rank": 197,
+ "shipping_usd": 4.95,
+ "shipping_worst_usd": 13.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "45378771901988888805",
+  "12609989066482076037",
+  "11736428526045115835",
+  "25411762100518287107",
+  "16103598904549751418"
+ ],
+ "source_title": "DPF Essential Men's Sweat Shorts",
+ "stripe_payment_link": "https://buy.stripe.com/eVq00k3QUfX6cqO7mu1gZ07",
+ "supplier": "Printify",
+ "supplier_id": "6b09087f1d99e97edf0dc891-blue-jean",
+ "visual_verified": false
+}
