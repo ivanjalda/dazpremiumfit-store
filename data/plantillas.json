@@ -82,6 +82,117 @@
       "tipo": "women's cropped hoodie",
       "para": "women",
       "nombre_en": "Cropped Hoodie"
+    },
+    "joggers-hombre": {
+      "buscar": "Unisex Sweatpants",
+      "color": "Black",
+      "tipo": "joggers",
+      "para": "men",
+      "nombre_en": "Men's Joggers",
+      "logo": {
+        "w": 0.32,
+        "top": 0.1
+      }
+    },
+    "shorts-hombre": {
+      "buscar": "Unisex Garment-Dyed Lightweight Fleece Sweat Shorts",
+      "color": "Black",
+      "tipo": "shorts",
+      "para": "men",
+      "nombre_en": "Men's Sweat Shorts",
+      "logo": {
+        "w": 0.32,
+        "top": 0.12
+      }
+    },
+    "gorra": {
+      "buscar": "Performance Cap by Yupoong",
+      "color": "Black",
+      "tipo": "cap",
+      "para": "unisex",
+      "nombre_en": "Performance Cap",
+      "logo": {
+        "w": 0.55,
+        "top": "center"
+      }
+    },
+    "sujetador-deportivo": {
+      "buscar": "Women's Medium Impact Sports Bra",
+      "color": "Black",
+      "tipo": "women's sports bra",
+      "para": "women",
+      "nombre_en": "Women's Sports Bra",
+      "logo": {
+        "w": 0.28,
+        "top": 0.18
+      }
+    },
+    "leggings-mujer": {
+      "buscar": "Women's Ankle-Crop Leggings",
+      "color": "Black",
+      "tipo": "women's leggings",
+      "para": "women",
+      "nombre_en": "Women's Leggings",
+      "logo": {
+        "w": 0.3,
+        "top": 0.1
+      }
+    },
+    "joggers-mujer": {
+      "buscar": "Women's Perfect Tri Fleece Jogger",
+      "color": "Black",
+      "tipo": "women's joggers",
+      "para": "women",
+      "nombre_en": "Women's Joggers",
+      "logo": {
+        "w": 0.32,
+        "top": 0.1
+      }
+    },
+    "bolsa-gimnasio": {
+      "buscar": "Gym Bag",
+      "color": "Black",
+      "tipo": "gym bag",
+      "para": "unisex",
+      "nombre_en": "Gym Bag",
+      "logo": {
+        "w": 0.45,
+        "top": "center"
+      }
+    },
+    "calcetines": {
+      "buscar": "Cushioned Crew Socks",
+      "color": "",
+      "tipo": "socks",
+      "para": "unisex",
+      "nombre_en": "Training Socks",
+      "logo": {
+        "w": 0.45,
+        "top": 0.15
+      }
+    },
+    "toalla-gimnasio": {
+      "buscar": "Sport Towel",
+      "color": "Black",
+      "tipo": "gym towel",
+      "para": "unisex",
+      "nombre_en": "Gym Towel",
+      "logo": {
+        "w": 0.4,
+        "top": "center"
+      }
     }
-  }
+  },
+  "nota_basicos": "'basicos' = línea DPF Essential: cada plantilla se crea UNA sola vez con el emblema DPF pequeño (no por cada diseño).",
+  "basicos": [
+    "joggers-hombre",
+    "shorts-hombre",
+    "gorra",
+    "sujetador-deportivo",
+    "leggings-mujer",
+    "joggers-mujer",
+    "bolsa-gimnasio",
+    "calcetines",
+    "toalla-gimnasio"
+  ]
 }
