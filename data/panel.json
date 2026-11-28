@@ -1,7 +1,7 @@
 {
   "key": "",
   "owner": "",
-  "updated": "2026-11-28 02:57 UTC",
+  "updated": "2026-11-28 12:18 UTC",
   "totals": {
     "catalogo": 369,
     "a_la_vista": 344,
@@ -11,7 +11,7 @@
     "ia_pendientes": 0,
     "con_boton_de_pago": 344,
     "sin_boton_de_pago": 0,
-    "seccion_dudosa": 57,
+    "seccion_dudosa": 56,
     "ventas_30_dias": 0,
     "visitas_30_dias": 0,
     "fotos_de_campana": 0
@@ -512,14 +512,6 @@
       "pr": 34.99
     },
     {
-      "id": "productifi-cafe-con-miel-de-manuka-daz-premium-fit-16oz",
-      "n": "Café Miel de Manuka",
-      "s": "Productifi",
-      "img": "assets/products/shop/c7cf4be404084bc582b5.jpg",
-      "c": "hombre/bolsos-carteras",
-      "pr": 43.99
-    },
-    {
       "id": "productifi-plan-basico-de-20-mes",
       "n": "The Blueprint Series Nutritional Foundation",
       "s": "Productifi",
@@ -769,27 +761,16 @@
     "CSV leído: wish4.csv",
     "Printify: 61 piezas leídas",
     "Printful: 18 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 10 s",
+    "⏱ lectura de proveedores: 8 s",
     "Productos en catálogo: 369 · a la vista: 344 · archivados: 25",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "⏱ ventas, visitas y cupones: 0 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "IA: 6 productos revisados (fotos, guía de tallas y textos) · quedan 0",
-    "⏱ revisión con IA: 69 s",
-    "Vigilante: 2 correcciones en esta hora",
-    "⏱ vigilante: 90 s",
-    "Estudio de fotos: Google no permite crear imágenes con esta clave gratuita hoy. Se reintenta mañana.",
-    "Estudio de fotos: 0 fotos de campaña nuevas (de 1 intentos)",
+    "⏱ revisión con IA: 0 s",
+    "⏱ vigilante: 152 s",
     "⏱ estudio de fotos: 0 s",
-    "Stripe: enlace normal listo para printify-6b0a430731ff33aac6043771",
-    "Stripe: enlace normal listo para printify-6b0a430ecefbb1b2e907a6f6",
-    "Stripe: enlace normal listo para printify-6b0a430451bee69afc0a2c85",
-    "Stripe: enlace normal listo para printify-6b0a430acc80e1f59c06855c",
-    "Stripe: enlace normal listo para printify-6b0a4313cefbb1b2e907a6fb",
-    "Stripe: enlace normal listo para printify-6b0a4311cc80e1f59c068564",
-    "Stripe: 6 productos con enlace de pago nuevo en esta hora",
-    "⏱ enlaces de pago: 3 s",
+    "⏱ enlaces de pago: 0 s",
     "Cambio actualizado: 1 USD = 0.9127 EUR",
     "Listo."
   ]

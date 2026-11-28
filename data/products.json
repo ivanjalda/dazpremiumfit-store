@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T02:57:26Z",
+  "updated": "2026-11-28T12:18:22Z",
   "products": [
     {
       "id": "printify-6b0a430731ff33aac6043771",
@@ -151,7 +151,7 @@
         "notes_en": "Please note that size chart measurements may vary by +/-1.0 in (2.5 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +/-1.0 pulg (2.5 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Immortal Warrior Train Insane Tank Top Black DAZ Premium Fit — Immortal Warrior Train Insane. Made to order.",
+      "source_text": "Immortal Warrior Train Insane Tank Top Tank Top Black DAZ Premium Fit — Immortal Warrior Train Insane. Made to order.",
       "name_es": "Camisa sin mangas Immortal Warrior",
       "name_en": "Immortal Warrior Train Insane Tank",
       "desc_es": "Diseñada para el rendimiento absoluto. Esta prenda combina funcionalidad y estética depurada para el entrenamiento de alta intensidad. Cada pieza se confecciona bajo pedido para garantizar la máxima exclusividad. Envíos a todo el mundo.",
@@ -233,7 +233,8 @@
       "stripe_link_id": "plink_1Ugbs5LJVU4oTPuX3rrDdwmM",
       "stripe_price_cents": 4099,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": false
+      "page": false,
+      "gender": "unisex"
     },
     {
       "id": "productifi-wish4-2562",
@@ -460,7 +461,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Tough Bitch Sweat Slay Repeat Racerback Tank Black DAZ Premium Fit — Tough Bitch Sweat Slay Repeat. Made to order.",
+      "source_text": "Tough Bitch Sweat Slay Repeat Racerback Tank tank Black DAZ Premium Fit — Tough Bitch Sweat Slay Repeat. Made to order.",
       "name_es": "Camiseta de tirantes Sweat Slay",
       "name_en": "Sweat Slay Racerback Tank",
       "desc_es": "Diseñada para el rendimiento absoluto. Esta prenda combina una silueta técnica con una estética depurada. Cada pieza se elabora bajo demanda para garantizar una exclusividad total. Los materiales seleccionados ofrecen transpirabilidad y libertad de movimiento en cada sesión de entrenamiento. Disponible con envío a todo el mundo. La elegancia se une a la funcionalidad en esta pieza esencial para el día a día atlético.",
@@ -539,7 +540,8 @@
       "stripe_link_id": "plink_1Ugbs6LJVU4oTPuX8aRVhpg6",
       "stripe_price_cents": 4399,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "printify-6b0a430451bee69afc0a2c85",
@@ -666,7 +668,7 @@
         "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación."
       },
-      "source_text": "Immortal Warrior Train Insane Tee Black DAZ Premium Fit — Immortal Warrior Train Insane. Made to order.",
+      "source_text": "Immortal Warrior Train Insane Tee T-shirt Black DAZ Premium Fit — Immortal Warrior Train Insane. Made to order.",
       "name_es": "Camiseta Immortal Warrior Train Insane",
       "name_en": "Immortal Warrior Train Insane Tee",
       "desc_es": "Diseñada para la exigencia absoluta. Esta prenda equilibra una presencia imponente con una funcionalidad impecable. Líneas depuradas y un carácter indomable que definen cada movimiento. Pensada para quienes entienden el rendimiento como una disciplina superior. Confección bajo demanda con envíos a todo el mundo. Eleve su estándar de entrenamiento con una estética que trasciende lo convencional.",
@@ -764,7 +766,8 @@
       "stripe_link_id": "plink_1Ugbs6LJVU4oTPuXcQhr2p2Q",
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "unisex"
     },
     {
       "id": "productifi-wish4-2563",
@@ -1092,7 +1095,7 @@
         "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a las tolerancias de fabricación."
       },
-      "source_text": "Immortal Warrior Train Insane Hoodie Black DAZ Premium Fit — Immortal Warrior Train Insane. Made to order.",
+      "source_text": "Immortal Warrior Train Insane Hoodie hoodie Black DAZ Premium Fit — Immortal Warrior Train Insane. Made to order.",
       "name_es": "Sudadera Immortal Warrior Train Insane",
       "name_en": "Immortal Warrior Train Insane Hoodie",
       "desc_es": "Diseñada para la máxima concentración en el entrenamiento. Esta prenda combina líneas depuradas con una presencia imponente. Fabricada bajo demanda para garantizar una exclusividad absoluta. Envío disponible a todo el mundo.",
@@ -1191,7 +1194,8 @@
       "stripe_link_id": "plink_1Ugbs7LJVU4oTPuXxfvqQ253",
       "stripe_price_cents": 5499,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "unisex"
     },
     {
       "id": "printify-6b0a4313cefbb1b2e907a6fb",
@@ -1241,7 +1245,7 @@
       "shop_verified": false,
       "size_guide": [],
       "size_chart": null,
-      "source_text": "Tough Bitch Sweat Slay Repeat Cropped Hoodie Black DAZ Premium Fit — Tough Bitch Sweat Slay Repeat. Made to order.",
+      "source_text": "Tough Bitch Sweat Slay Repeat Cropped Hoodie Hoodie Black DAZ Premium Fit — Tough Bitch Sweat Slay Repeat. Made to order.",
       "name_es": "Sudadera Cropped Tough Bitch",
       "name_en": "Tough Bitch Cropped Hoodie",
       "desc_es": "Una silueta audaz diseñada para el movimiento y la actitud. Esta sudadera cropped redefine los códigos del rendimiento urbano con un corte limpio y una presencia magnética. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo. El equilibrio definitivo entre fuerza y sofisticación contemporánea.",
@@ -1252,7 +1256,8 @@
       "shipping_worst_usd": 8.79,
       "images_original": [
         "https://images.printify.com/mockup/6b0a4313cefbb1b2e907a6fb/72716/16566/tough-bitch-sweat-slay-repeat-cropped-hoodie.jpg?camera_label=front",
-        "https://images.printify.com/mockup/6b0a4313cefbb1b2e907a6fb/72716/16575/tough-bitch-sweat-slay-repeat-cropped-hoodie.jpg?camera_label=back"
+        "https://images.printify.com/mockup/6b0a4313cefbb1b2e907a6fb/72716/16575/tough-bitch-sweat-slay-repeat-cropped-hoodie.jpg?camera_label=back",
+        "https://images.printify.com/mockup/6b0a4313cefbb1b2e907a6fb/72716/16690/tough-bitch-sweat-slay-repeat-cropped-hoodie.jpg?camera_label=on-person"
       ],
       "images_model": [
         "https://images.printify.com/mockup/6b0a4313cefbb1b2e907a6fb/72716/16690/tough-bitch-sweat-slay-repeat-cropped-hoodie.jpg?camera_label=on-person"
@@ -1327,7 +1332,8 @@
       "stripe_link_id": "plink_1Ugbs7LJVU4oTPuXALMOy5pa",
       "stripe_price_cents": 7199,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "printify-6b0a4311cc80e1f59c068564",
@@ -1444,7 +1450,7 @@
         "notes_en": "Please note that size chart measurements may vary by +-1.5 in (3.8 cm) due to manufacturing tolerances",
         "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +-1.5 in (3.8 cm) debido a tolerancias de fabricacion"
       },
-      "source_text": "Tough Bitch Sweat Slay Repeat Women's Tee Black DAZ Premium Fit — Tough Bitch Sweat Slay Repeat. Made to order.",
+      "source_text": "Tough Bitch Sweat Slay Repeat Women's Tee T-shirt Black DAZ Premium Fit — Tough Bitch Sweat Slay Repeat. Made to order.",
       "name_es": "Camiseta Sweat Slay Repeat",
       "name_en": "Sweat Slay Repeat Tee",
       "desc_es": "Diseñada para la disciplina implacable. Esta prenda define una presencia imponente con un enfoque minimalista y sofisticado. El corte preciso se alinea con el cuerpo para ofrecer libertad de movimiento sin comprometer la estructura. Cada pieza se elabora bajo pedido para garantizar un estándar exclusivo. Una declaración de intenciones para quienes dominan cada sesión de entrenamiento con absoluta elegancia y control absoluto sobre su rendimiento diario.",
@@ -1537,7 +1543,8 @@
       "stripe_link_id": "plink_1Ugbs8LJVU4oTPuXS83MxVO0",
       "stripe_price_cents": 5499,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true
+      "page": true,
+      "gender": "women"
     },
     {
       "id": "printify-6b090892c87e8df47b098639",
@@ -41810,7 +41817,7 @@
         "5XL": "D3468076"
       },
       "details_src": ".title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n InterestPrint® Front Zip Racer Back Sports Skirt & Shorts Set \r\n Type: 80% Polyester + 20% Spandex, for Women, All Over Printing \r\n Made from 80% polyester and 20% spandex, durable and comfortable.\r\n This sporty set features a front-zip top with a secure racerback design and a matching skirt with built-in shorts for coverage and freedom of movement, all crafted from breathable, moisture-wicking fabric for ultimate comfort and flexibility during activity.\r\n Perfect For Yoga, tennis, running, gym sessions, hiking, or casual weekend wear.\r\n Size: S, M, L, XL, 2XL, 3XL, 4XL, 5XL. Calculate your size from the measurement chart below please.\r\n The zipper is available in white or black.\r\n Care Instructions: Hand or machine washable. Avoid prolonged soaking. Do not bleach. Wash at temperatures ≤45ºC.\r\n Designer tip: To ensure the highest quality print, please note that this product's recommended uploaded image size in pixels (W x H):\nFront left: 1121 x 2342 or Higher / 150 dpi;\nFront right: 1121 x 2342 or Higher / 150 dpi;\nLeft: 831 x 1169 or Higher / 150 dpi;\nRight: 831 x 1169 or Higher / 150 dpi;\nBack top: 2500 x 2392 or Higher / 150 dpi;\nFront bottom center: 2487 x 2621 or Higher / 150 dpi;\nBack skirt: 6652 x 3617 or Higher / 150 dpi;\nBack waist: 2535 x 615 or Higher / 150 dpi;\nLeft pants: 3304 x 2290 or Higher / 150 dpi;\nRight pants: 3304 x 2290 or Higher / 150 dpi;\nEdge: 8275 x 24",
-      "source_text": "Abstract organic pattern design background _ Free Vector Front Zip Racer Back Sports Skirt & Shorts Set Activedress Sports Skirt & Shorts Set White 80% Polyester, 20% Spandex .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n InterestPrint® Front Zip Racer Back Sports Skirt & Shorts Set \r\n Type: 80% Polyester + 20% Spandex, for Women, All Over Printing \r\n Made from 80% polyester and 20% spandex, durable and comfortable.\r\n This sporty set features a front-zip top with a secure racerback design and a matching skirt with built-in shorts for coverage and freedom of movement, all crafted from breathable, moisture-wicking fabric for ultimate comfort and flexibility during activity.\r\n Perfect For Yoga, tennis, running, gym sessions, hiking, or casual weekend wear.\r\n Size: S, M, L, XL, 2XL, 3XL, 4XL, 5XL. Calculate your size from the measurement chart below please.\r\n The zipper is available in white or black.\r\n Care Instructions: Hand or machine washable. Avoid prolonged soaking. Do not bleach. Wash at temperatures ≤45ºC.\r\n Designer tip: To ensure the highest quality print, please note that this product's recommended uploaded image size in pixels (W x H):\nFront left: 1121 x 2342 or Higher / 150 dpi;\nFront right: 1121 x 2342 or Higher / 150 dpi;\nLeft: 831 x 1169 or Higher / 150 dpi;\nRight: 831 x 1169 or Higher / 150 dpi;\nBack top: 2500 x 2392 or Higher / 150 dpi;\nFront bottom center: 2487 x 2621 or Higher / 150 dpi;\nBack skirt: 6652 x 3617 or Higher / 150 dpi;\nBack waist: 2535 x 615 or Higher / 150 dpi;\nLeft pants: 3304 x 2290 or Higher / 150 dpi;\nRight pants: 3304 x 2290 or Higher / 150 dpi;\nEdge: 8275 x 24",
+      "source_text": "Abstract organic pattern design background _ Free Vector Front Zip Racer Back Sports Skirt & Shorts Set Activedress dress White 80% Polyester, 20% Spandex .title { font-size: 18px; }\n.title1 { font-size: 14px; }\n.list { background-position: left 10px; }\n InterestPrint® Front Zip Racer Back Sports Skirt & Shorts Set \r\n Type: 80% Polyester + 20% Spandex, for Women, All Over Printing \r\n Made from 80% polyester and 20% spandex, durable and comfortable.\r\n This sporty set features a front-zip top with a secure racerback design and a matching skirt with built-in shorts for coverage and freedom of movement, all crafted from breathable, moisture-wicking fabric for ultimate comfort and flexibility during activity.\r\n Perfect For Yoga, tennis, running, gym sessions, hiking, or casual weekend wear.\r\n Size: S, M, L, XL, 2XL, 3XL, 4XL, 5XL. Calculate your size from the measurement chart below please.\r\n The zipper is available in white or black.\r\n Care Instructions: Hand or machine washable. Avoid prolonged soaking. Do not bleach. Wash at temperatures ≤45ºC.\r\n Designer tip: To ensure the highest quality print, please note that this product's recommended uploaded image size in pixels (W x H):\nFront left: 1121 x 2342 or Higher / 150 dpi;\nFront right: 1121 x 2342 or Higher / 150 dpi;\nLeft: 831 x 1169 or Higher / 150 dpi;\nRight: 831 x 1169 or Higher / 150 dpi;\nBack top: 2500 x 2392 or Higher / 150 dpi;\nFront bottom center: 2487 x 2621 or Higher / 150 dpi;\nBack skirt: 6652 x 3617 or Higher / 150 dpi;\nBack waist: 2535 x 615 or Higher / 150 dpi;\nLeft pants: 3304 x 2290 or Higher / 150 dpi;\nRight pants: 3304 x 2290 or Higher / 150 dpi;\nEdge: 8275 x 24",
       "name_es": "Conjunto Deportivo con Vestido",
       "name_en": "Athletic Skirt and Shorts Set",
       "desc_es": "Diseñado para el movimiento continuo. Este conjunto deportivo combina un vestido con cremallera frontal y diseño cruzado en la espalda con unos shorts integrados que aseguran cobertura y libertad. Confeccionado en un tejido transpirable que absorbe la humedad, ofrece comodidad y flexibilidad durante la actividad física. Cada pieza se confecciona bajo pedido con envíos a todo el mundo.",
@@ -42557,7 +42564,7 @@
       ],
       "cost_usd": 24.8,
       "sizes": [],
-      "needs_review": true,
+      "needs_review": false,
       "created": "2026-11-25",
       "material": "USDA Certified Organic Coffee, Raw New Zealand Manuka Honey, Organic Cane Alcohol, Organic Glycerin, Natural Flavors",
       "color": "brown",
@@ -42584,7 +42591,7 @@
         "unica": "ART1MA16"
       },
       "details_src": "Nuestro café con miel de Manuka es algo que no querrás perderte. Con granos de Arábica de tostado medio oscuro glaseados con auténtica miel de Manuka de Nueva Zelanda , este café seguramente será tu opción favorita todas las mañanas.\n Nuestra combinación única de granos de Arábica y miel de Manuka cruda crea un perfil de sabor armonioso, y la miel imparte una nota deliciosamente dulce que complementa maravillosamente la acidez natural del café. \n ¡Destaca del resto con esta deliciosa mezcla! \n Ingredientes: USDA Certified Organic Coffee, Raw New Zealand Manuka Honey, Organic Cane Alcohol, Organic Glycerin, and Natural Flavors.\n Sabor: Miel\n País del fabricante: EE. UU. \n Forma del producto: Frijoles enteros\n Cantidad del producto: 1 libra (454 g)\n Peso bruto: 500 g (1,1 lb)\n Advertencia: No lo use si el sello de seguridad está dañado o falta. Guardar en un lugar fresco y seco.",
-      "source_text": "Café con Miel de Manuka DAZ Premium Fit 16oz Food & Beverages Alimentación, bebida y tabaco > Bebidas > Café Coffee brown USDA Certified Organic Coffee, Raw New Zealand Manuka Honey, Organic Cane Alcohol, Organic Glycerin, Natural Flavors Nuestro café con miel de Manuka es algo que no querrás perderte. Con granos de Arábica de tostado medio oscuro glaseados con auténtica miel de Manuka de Nueva Zelanda , este café seguramente será tu opción favorita todas las mañanas.\n Nuestra combinación única de granos de Arábica y miel de Manuka cruda crea un perfil de sabor armonioso, y la miel imparte una nota deliciosamente dulce que complementa maravillosamente la acidez natural del café. \n ¡Destaca del resto con esta deliciosa mezcla! \n Ingredientes: USDA Certified Organic Coffee, Raw New Zealand Manuka Honey, Organic Cane Alcohol, Organic Glycerin, and Natural Flavors.\n Sabor: Miel\n País del fabricante: EE. UU. \n Forma del producto: Frijoles enteros\n Cantidad del producto: 1 libra (454 g)\n Peso bruto: 500 g (1,1 lb)\n Advertencia: No lo use si el sello de seguridad está dañado o falta. Guardar en un lugar fresco y seco.",
+      "source_text": "Café con Miel de Manuka DAZ Premium Fit 16oz Food & Beverages Alimentación, bebida y tabaco > Bebidas > Café coffee bag brown USDA Certified Organic Coffee, Raw New Zealand Manuka Honey, Organic Cane Alcohol, Organic Glycerin, Natural Flavors Nuestro café con miel de Manuka es algo que no querrás perderte. Con granos de Arábica de tostado medio oscuro glaseados con auténtica miel de Manuka de Nueva Zelanda , este café seguramente será tu opción favorita todas las mañanas.\n Nuestra combinación única de granos de Arábica y miel de Manuka cruda crea un perfil de sabor armonioso, y la miel imparte una nota deliciosamente dulce que complementa maravillosamente la acidez natural del café. \n ¡Destaca del resto con esta deliciosa mezcla! \n Ingredientes: USDA Certified Organic Coffee, Raw New Zealand Manuka Honey, Organic Cane Alcohol, Organic Glycerin, and Natural Flavors.\n Sabor: Miel\n País del fabricante: EE. UU. \n Forma del producto: Frijoles enteros\n Cantidad del producto: 1 libra (454 g)\n Peso bruto: 500 g (1,1 lb)\n Advertencia: No lo use si el sello de seguridad está dañado o falta. Guardar en un lugar fresco y seco.",
       "name_es": "Café Miel de Manuka",
       "name_en": "Manuka Honey Coffee",
       "desc_es": "Disfruta de una experiencia matutina superior con nuestra mezcla exclusiva de granos de Arábica de tostado medio oscuro. Glaseados con auténtica miel de Nueva Zelanda, estos granos enteros ofrecen un perfil de sabor armonioso y equilibrado. Las notas sutiles y dulces de la miel complementan la acidez natural del café para crear una taza refinada. Diseñado para quienes exigen excelencia en cada detalle de su rutina diaria. Disponible bajo pedido con envíos a todo el mundo.",
@@ -43143,7 +43150,8 @@
         "assets/products/shop/53aeceb21a8feda8cd21.jpg",
         "assets/products/shop/a9632aa9bc59448093d3.jpg",
         "assets/products/shop/76807efbf4eb569cc2bf.jpg"
-      ]
+      ],
+      "audited": "2026-11-28"
     },
     {
       "id": "printful-484206291-grey",
@@ -43270,7 +43278,8 @@
         "assets/products/shop/944711869c900f76e090.jpg",
         "assets/products/shop/a9632aa9bc59448093d3.jpg",
         "assets/products/shop/76807efbf4eb569cc2bf.jpg"
-      ]
+      ],
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b08ea0108b8102972076713",
@@ -43408,7 +43417,8 @@
       "stripe_price_cents": 7199,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-28"
     },
     {
       "id": "productifi-trufas-de-birch-chaga-daz-premium-fit",
@@ -43530,7 +43540,8 @@
       "details_en": "· Contents: 30 truffles\n· Flavor: Chocolate\n· Ingredients: Dates, flaxseed flour, pine bark (Pinus sylvestris), birch chaga (Inonotus obliquus) extract, cacao\n· Gross weight: 0.4 lb (181 g)\n· Suggested use: 1 truffle daily\n· Made to order\n· Worldwide shipping",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printful-484200714-black",
@@ -43663,7 +43674,8 @@
         "assets/products/shop/a361720c95edd2375f44.jpg",
         "assets/products/shop/b8dffd911c0cdbb4e54a.jpg",
         "assets/products/shop/6fe2dda22b1165a7c0b5.jpg"
-      ]
+      ],
+      "audited": "2026-11-28"
     },
     {
       "id": "printful-484200714-stone",
@@ -43796,7 +43808,8 @@
         "assets/products/shop/39e3af09e14444c50057.jpg",
         "assets/products/shop/b8dffd911c0cdbb4e54a.jpg",
         "assets/products/shop/6fe2dda22b1165a7c0b5.jpg"
-      ]
+      ],
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b090887d60c2fd53c025918",
@@ -43933,7 +43946,8 @@
       "details_en": "· Made to order\n· Training gear with DPF emblem",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-28"
     },
     {
       "id": "printful-484188638-black-camo",
@@ -44073,7 +44087,8 @@
         "assets/products/shop/7492befd2ad90d11ecb8.jpg",
         "assets/products/shop/a97f65d71bcc19aaa23c.jpg",
         "assets/products/shop/59370f847051f036fc95.jpg"
-      ]
+      ],
+      "audited": "2026-11-28"
     },
     {
       "id": "printful-484188638-forest-camo",
@@ -44213,7 +44228,8 @@
         "assets/products/shop/7492befd2ad90d11ecb8.jpg",
         "assets/products/shop/a97f65d71bcc19aaa23c.jpg",
         "assets/products/shop/d5c966bc37530dd018e5.jpg"
-      ]
+      ],
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b08e9feedc552ae3508c0cb",
@@ -44450,7 +44466,8 @@
       "stripe_price_cents": 5499,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-28"
     },
     {
       "id": "productifi-polvo-de-pan-de-abeja-daz-premium-fit",
@@ -44591,7 +44608,8 @@
       "details_en": "· Contains 30 easy-to-use sachets\n· Ingredients: freeze-dried extract of bee bread, lyophilized royal jelly, propolis extract powder, vitamin C\n· Gross weight: 136 g\n· Made to order pieces\n· Worldwide shipping available",
       "ai_copy": true,
       "ai_done": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "productifi-polvo-de-perla-de-abeja-daz-premium-fit",
@@ -44937,7 +44955,8 @@
       "page": false,
       "gender": "unisex",
       "missing_days": 2,
-      "missing_last": "2026-11-28"
+      "missing_last": "2026-11-28",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b089b42c9d405a5820236ee",
@@ -45069,7 +45088,8 @@
       "page": true,
       "gender": "women",
       "missing_days": 2,
-      "missing_last": "2026-11-28"
+      "missing_last": "2026-11-28",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b08923128a05af49e00a257",
@@ -45305,7 +45325,8 @@
       "stripe_price_cents": 4099,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b0892436a219864bc0f11dd",
@@ -45539,7 +45560,8 @@
       "stripe_price_cents": 4099,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "men"
+      "gender": "men",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b0892576d0e8a542403d39d",
@@ -45775,7 +45797,8 @@
       "stripe_price_cents": 4099,
       "stripe_site": "https://dazpremiumfit.com",
       "page": false,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b0899f96bfabea2f3021a8e",
@@ -45975,7 +45998,8 @@
       "stripe_price_cents": 4099,
       "stripe_site": "https://dazpremiumfit.com",
       "page": false,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b0894ffedc552ae350870fd",
@@ -46167,7 +46191,8 @@
       "stripe_price_cents": 4399,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b089504d4c50971c2032992",
@@ -46297,7 +46322,8 @@
       "stripe_price_cents": 4399,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b089514edc552ae3508711c",
@@ -46427,7 +46453,8 @@
       "stripe_price_cents": 4399,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b08951c155f8bb8d107fbe2",
