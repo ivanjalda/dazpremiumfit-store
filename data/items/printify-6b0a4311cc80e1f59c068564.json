@@ -1,0 +1,141 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "T-shirt",
+ "ai_ver": 2,
+ "art_note": "Flat mockup style lacks real campaign depth and premium lighting.",
+ "art_score": 5,
+ "audited": "2026-11-28",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b0a4311cc80e1f59c068564",
+ "color": "Black",
+ "created": "2026-11-28",
+ "desc_en": "Designed for relentless discipline. This garment defines an imposing presence with a minimalist and sophisticated approach. The precise cut aligns with the body to offer freedom of movement without compromising structure. Each piece is made to order to guarantee an exclusive standard. A statement of intent for those who master every training session with absolute elegance and complete control over their daily performance.",
+ "desc_es": "Diseñada para la disciplina implacable. Esta prenda define una presencia imponente con un enfoque minimalista y sofisticado. El corte preciso se alinea con el cuerpo para ofrecer libertad de movimiento sin comprometer la estructura. Cada pieza se elabora bajo pedido para garantizar un estándar exclusivo. Una declaración de intenciones para quienes dominan cada sesión de entrenamiento con absoluta elegancia y control absoluto sobre su rendimiento diario.",
+ "details_en": "· Made to order\n· Worldwide shipping available",
+ "details_es": "· Hecho a pedido\n· Envío mundial disponible",
+ "display_images": [
+  "https://images.printify.com/mockup/6b0a4311cc80e1f59c068564/33869/101402/tough-bitch-sweat-slay-repeat-womens-tee.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b0a4311cc80e1f59c068564/33869/101403/tough-bitch-sweat-slay-repeat-womens-tee.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "tough-bitch-sweat",
+ "hidden": false,
+ "id": "printify-6b0a4311cc80e1f59c068564",
+ "img_checked": "2026-11-28",
+ "look": [
+  "printify-6b0a4313cefbb1b2e907a6fb",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Sweat Slay Repeat Tee",
+ "name_es": "Camiseta Sweat Slay Repeat",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 54.99,
+ "rank": 10,
+ "shipping_usd": 23.99,
+ "shipping_worst_usd": 23.99,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "headers_es": [
+   "Talla",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by +-1.5 in (3.8 cm) due to manufacturing tolerances",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en +-1.5 in (3.8 cm) debido a tolerancias de fabricacion",
+  "rows": [
+   [
+    "Width",
+    "-",
+    "17.0",
+    "19.0",
+    "21.0",
+    "23.0",
+    "25.0",
+    "27.0",
+    "-",
+    "-"
+   ],
+   [
+    "Length",
+    "-",
+    "25.5",
+    "26.0",
+    "27.0",
+    "28.0",
+    "28.5",
+    "29.0",
+    "-",
+    "-"
+   ],
+   [
+    "Sleeve length",
+    "-",
+    "13.8",
+    "14.5",
+    "15.3",
+    "16.3",
+    "17.0",
+    "18.0",
+    "-",
+    "-"
+   ]
+  ],
+  "unit": "inches / cm"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b0a4311cc80e1f59c068564/33869/118009/tough-bitch-sweat-slay-repeat-womens-tee.jpg?camera_label=size-chart"
+ ],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "33639705752062455454",
+  "14718476444717374487",
+  "10093326987618438658",
+  "83547415346577561047",
+  "10477580925163821400"
+ ],
+ "source_title": "Tough Bitch Sweat Slay Repeat Women's Tee",
+ "stripe_payment_link": "https://buy.stripe.com/28E3cwcnq9yIaiG22a1gZ1X",
+ "supplier": "Printify",
+ "supplier_id": "6b0a4311cc80e1f59c068564",
+ "visual_verified": false
+}

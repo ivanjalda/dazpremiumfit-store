@@ -25,6 +25,13 @@
         "Bolsa de deporte esencial DPF · Royal: inspección IA: era bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
         "Pantalón de Chándal DPF Élan: inspección IA: era sweatpants (unisex) → hombre/pantalones, mujer/pantalones"
       ]
+    },
+    {
+      "date": "2026-11-28",
+      "fixes": [
+        "Conjunto Deportivo con Vestido: inspección IA: era dress (women) → mujer/vestidos-monos-petos",
+        "Café Miel de Manuka: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras"
+      ]
     }
   ]
 }

@@ -35,10 +35,29 @@
    "gender": "women",
    "file": "2026-11-27_dpf-emblem-built-different__tirantes-mujer-camiseta-mujer-sudadera-mujer.png",
    "date": "2026-11-27"
+  },
+  {
+   "name": "Immortal Warrior TRAIN INSANE",
+   "collection": "Immortal Warrior",
+   "slogan": "TRAIN INSANE",
+   "style": "marca",
+   "gender": "men",
+   "file": "2026-11-28_immortal-warrior-train-insane__camiseta-tirantes-hombre-sudadera-capucha.png",
+   "date": "2026-11-28"
+  },
+  {
+   "name": "Tough Bitch SWEAT SLAY REPEAT",
+   "collection": "Tough Bitch",
+   "slogan": "SWEAT SLAY REPEAT",
+   "style": "marca",
+   "gender": "women",
+   "file": "2026-11-28_tough-bitch-sweat-slay-repeat__tirantes-mujer-camiseta-mujer-sudadera-mujer.png",
+   "date": "2026-11-28"
   }
  ],
  "days": {
   "2026-11-26": 2,
-  "2026-11-27": 2
+  "2026-11-27": 2,
+  "2026-11-28": 2
  }
 }

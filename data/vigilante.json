@@ -236,15 +236,16 @@
     "printify-6b089b44c9d405a5820236f1": "repetido de printify-6b089a056a219864bc0f18e4",
     "printify-6b09088dc87e8df47b098636-gold": "sección que no es deportiva (hombre/bolsos-carteras)",
     "printify-6b09088dc87e8df47b098636-maroon": "sección que no es deportiva (hombre/bolsos-carteras)",
-    "printify-6b09088dc87e8df47b098636-royal": "sección que no es deportiva (hombre/bolsos-carteras)"
+    "printify-6b09088dc87e8df47b098636-royal": "sección que no es deportiva (hombre/bolsos-carteras)",
+    "printify-6b0a430731ff33aac6043771": "no es de tienda deportiva"
   },
   "checked": {},
-  "cursor": 89,
+  "cursor": 169,
   "last": {
-    "date": "2026-11-27T20:19+00:00",
-    "fixes": 0,
+    "date": "2026-11-28T03:00+00:00",
+    "fixes": 1,
     "checked_images": 80,
     "broken": 0,
-    "visible": 116
+    "visible": 121
   }
 }

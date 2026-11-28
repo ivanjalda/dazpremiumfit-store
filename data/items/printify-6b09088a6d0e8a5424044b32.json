@@ -10,6 +10,7 @@
  "ai_ver": 2,
  "art_note": "Flat vector-style product illustrations lacking real photographic depth or texture.",
  "art_score": 3,
+ "audited": "2026-11-28",
  "available": true,
  "badge": "new",
  "categories": [
@@ -35,8 +36,8 @@
  "id": "printify-6b09088a6d0e8a5424044b32",
  "img_checked": "2026-11-27",
  "look": [
-  "interestprint-design-womens-crop-rugby-jersey",
-  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "printify-6b0a430ecefbb1b2e907a6f6",
+  "printify-6b0a4313cefbb1b2e907a6fb",
   "interestprint-design-custom-womens-high-waist-legging",
   "interestprint-design-womens-high-waist-layered-sport-skirt"
  ],
@@ -47,7 +48,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 70.99,
- "rank": 282,
+ "rank": 288,
  "shipping_usd": 10.39,
  "shipping_worst_usd": 18.49,
  "shop_category": "",

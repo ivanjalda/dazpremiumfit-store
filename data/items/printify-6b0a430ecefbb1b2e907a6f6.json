@@ -1,0 +1,75 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "tank",
+ "ai_ver": 2,
+ "art_note": "Flat supplier mockup with digital print overlay lacks high-end e-commerce standards.",
+ "art_score": 3,
+ "audited": "2026-11-28",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b0a430ecefbb1b2e907a6f6",
+ "color": "Black",
+ "created": "2026-11-28",
+ "desc_en": "Engineered for absolute performance. This garment combines a technical silhouette with a refined aesthetic. Each piece is crafted on demand to ensure total exclusivity. The selected materials offer breathability and freedom of movement during every training session. Available with worldwide shipping. Elegance meets functionality in this essential piece for the athletic daily routine.",
+ "desc_es": "Diseñada para el rendimiento absoluto. Esta prenda combina una silueta técnica con una estética depurada. Cada pieza se elabora bajo demanda para garantizar una exclusividad total. Los materiales seleccionados ofrecen transpirabilidad y libertad de movimiento en cada sesión de entrenamiento. Disponible con envío a todo el mundo. La elegancia se une a la funcionalidad en esta pieza esencial para el día a día atlético.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a medida",
+ "display_images": [
+  "https://images.printify.com/mockup/6b0a430ecefbb1b2e907a6f6/251657/126156/tough-bitch-sweat-slay-repeat-racerback-tank.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b0a430ecefbb1b2e907a6f6/251657/126157/tough-bitch-sweat-slay-repeat-racerback-tank.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "tough-bitch-sweat",
+ "hidden": false,
+ "id": "printify-6b0a430ecefbb1b2e907a6f6",
+ "img_checked": "2026-11-28",
+ "look": [
+  "printify-6b0a4313cefbb1b2e907a6fb",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Sweat Slay Racerback Tank",
+ "name_es": "Camiseta de tirantes Sweat Slay",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 43.99,
+ "rank": 4,
+ "shipping_usd": 5.39,
+ "shipping_worst_usd": 13.49,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "77431690653875507130",
+  "32321639698687792943",
+  "13761109165292737165",
+  "34003841859020943536",
+  "21522942645143798649",
+  "13859425396304361283"
+ ],
+ "source_title": "Tough Bitch Sweat Slay Repeat Racerback Tank",
+ "stripe_payment_link": "https://buy.stripe.com/4gM14o9be8uEcqO9uC1gZ1T",
+ "supplier": "Printify",
+ "supplier_id": "6b0a430ecefbb1b2e907a6f6",
+ "visual_verified": false
+}

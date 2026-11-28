@@ -1,0 +1,151 @@
+{
+ "ai_cats": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio product photography against a plain background, standard e-commerce presentation.",
+ "art_score": 6,
+ "audited": "2026-11-28",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/chandal-sudaderas",
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printify-6b0a430acc80e1f59c06855c",
+ "color": "Black",
+ "created": "2026-11-28",
+ "desc_en": "Engineered for uncompromising focus during training. This piece merges refined lines with an commanding presence. Made to order to guarantee absolute exclusivity. Worldwide shipping available.",
+ "desc_es": "Diseñada para la máxima concentración en el entrenamiento. Esta prenda combina líneas depuradas con una presencia imponente. Fabricada bajo demanda para garantizar una exclusividad absoluta. Envío disponible a todo el mundo.",
+ "details_en": "· Made to order",
+ "details_es": "· Hecho a pedido",
+ "display_images": [
+  "https://images.printify.com/mockup/6b0a430acc80e1f59c06855c/32920/98424/immortal-warrior-train-insane-hoodie.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b0a430acc80e1f59c06855c/32920/98425/immortal-warrior-train-insane-hoodie.jpg?camera_label=back",
+  "https://images.printify.com/mockup/6b0a430acc80e1f59c06855c/32920/98426/immortal-warrior-train-insane-hoodie.jpg?camera_label=back-2",
+  "https://images.printify.com/mockup/6b0a430acc80e1f59c06855c/32920/98432/immortal-warrior-train-insane-hoodie.jpg?camera_label=folded"
+ ],
+ "draft": false,
+ "fam": "immortal-warrior-train",
+ "hidden": false,
+ "id": "printify-6b0a430acc80e1f59c06855c",
+ "img_checked": "2026-11-28",
+ "look": [
+  "printify-6b0a430731ff33aac6043771",
+  "printify-6b09088dc87e8df47b098636-gold",
+  "printify-6b09087c1d99e97edf0dc88a",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "",
+ "name_en": "Immortal Warrior Train Insane Hoodie",
+ "name_es": "Sudadera Immortal Warrior Train Insane",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 54.99,
+ "rank": 8,
+ "shipping_usd": 8.79,
+ "shipping_worst_usd": 8.79,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "headers_es": [
+   "Talla",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a las tolerancias de fabricación.",
+  "rows": [
+   [
+    "Width",
+    "-",
+    "20.0",
+    "22.0",
+    "24.0",
+    "26.0",
+    "28.0",
+    "30.0",
+    "32.0",
+    "34.0"
+   ],
+   [
+    "Length",
+    "-",
+    "27.1",
+    "28.0",
+    "29.1",
+    "30.0",
+    "31.0",
+    "32.0",
+    "33.0",
+    "34.0"
+   ],
+   [
+    "Sleeve length",
+    "-",
+    "33.5",
+    "34.5",
+    "35.5",
+    "36.5",
+    "37.5",
+    "38.5",
+    "39.5",
+    "40.5"
+   ]
+  ],
+  "unit": "inches / centimeters"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b0a430acc80e1f59c06855c/32920/110151/immortal-warrior-train-insane-hoodie.jpg?camera_label=size-chart"
+ ],
+ "sizes": [
+  "M",
+  "L",
+  "XL",
+  "S",
+  "2XL",
+  "4XL",
+  "5XL",
+  "3XL"
+ ],
+ "skus": [
+  "31932145388897446063",
+  "30084942213695913842",
+  "15792051138493903664",
+  "31745319905799952972",
+  "17875101509883917031",
+  "24945357252996221290",
+  "46715552111964445965",
+  "10772966710681536616"
+ ],
+ "source_title": "Immortal Warrior Train Insane Hoodie",
+ "stripe_payment_link": "https://buy.stripe.com/3cIeVefzCfX6aiG0Y61gZ1V",
+ "supplier": "Printify",
+ "supplier_id": "6b0a430acc80e1f59c06855c",
+ "visual_verified": false
+}

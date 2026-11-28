@@ -1,0 +1,150 @@
+{
+ "ai_cats": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "unisex",
+ "ai_type": "T-shirt",
+ "ai_ver": 2,
+ "art_note": "Clean studio presentation with consistent lighting, though flat-lay style keeps it from top campaign tier.",
+ "art_score": 7,
+ "audited": "2026-11-28",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "hombre/camiseta",
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "printify-6b0a430451bee69afc0a2c85",
+ "color": "Black",
+ "created": "2026-11-28",
+ "desc_en": "Engineered for absolute demand. This piece balances an imposing presence with flawless functionality. Clean lines and an indomitable character define every movement. Crafted for those who view performance as a superior discipline. Made to order with worldwide shipping. Elevate your training standard with an aesthetic that transcends the conventional.",
+ "desc_es": "Diseñada para la exigencia absoluta. Esta prenda equilibra una presencia imponente con una funcionalidad impecable. Líneas depuradas y un carácter indomable que definen cada movimiento. Pensada para quienes entienden el rendimiento como una disciplina superior. Confección bajo demanda con envíos a todo el mundo. Eleve su estándar de entrenamiento con una estética que trasciende lo convencional.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho a pedido\n· Envíos a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b0a430451bee69afc0a2c85/12124/102005/immortal-warrior-train-insane-tee.jpg?camera_label=front-2",
+  "https://images.printify.com/mockup/6b0a430451bee69afc0a2c85/12124/102006/immortal-warrior-train-insane-tee.jpg?camera_label=back-2",
+  "https://images.printify.com/mockup/6b0a430451bee69afc0a2c85/12124/102001/immortal-warrior-train-insane-tee.jpg?camera_label=folded"
+ ],
+ "draft": false,
+ "fam": "immortal-warrior-train",
+ "hidden": false,
+ "id": "printify-6b0a430451bee69afc0a2c85",
+ "img_checked": "2026-11-28",
+ "look": [
+  "printify-6b0a430acc80e1f59c06855c",
+  "printify-6b09088dc87e8df47b098636-gold",
+  "printify-6b09087c1d99e97edf0dc88a",
+  "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
+ ],
+ "material": "",
+ "name_en": "Immortal Warrior Train Insane Tee",
+ "name_es": "Camiseta Immortal Warrior Train Insane",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 37.99,
+ "rank": 5,
+ "shipping_usd": 7.99,
+ "shipping_worst_usd": 7.99,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "headers_es": [
+   "Talla",
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL",
+   "4XL",
+   "5XL"
+  ],
+  "notes_en": "Please note that size chart measurements may vary by ±1.5 in (3.8 cm) due to manufacturing tolerances.",
+  "notes_es": "Tenga en cuenta que las medidas de la tabla de tallas pueden variar en ±1.5 in (3.8 cm) debido a tolerancias de fabricación.",
+  "rows": [
+   [
+    "Width",
+    "-",
+    "18.0",
+    "20.0",
+    "22.0",
+    "24.0",
+    "26.0",
+    "28.0",
+    "30.0",
+    "32.0"
+   ],
+   [
+    "Length",
+    "-",
+    "28.0",
+    "29.0",
+    "30.0",
+    "31.0",
+    "32.0",
+    "33.0",
+    "34.0",
+    "35.0"
+   ],
+   [
+    "Sleeve length",
+    "-",
+    "15.1",
+    "16.5",
+    "18.0",
+    "19.5",
+    "21.0",
+    "22.4",
+    "23.7",
+    "25.0"
+   ]
+  ],
+  "unit": "inches / centimeters"
+ },
+ "size_guide": [
+  "https://images.printify.com/mockup/6b0a430451bee69afc0a2c85/12124/101998/immortal-warrior-train-insane-tee.jpg?camera_label=size-chart"
+ ],
+ "sizes": [
+  "M",
+  "S",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "skus": [
+  "19015014576171544138",
+  "27859279822302549077",
+  "34476223156670124638",
+  "17981046450217706173",
+  "11527092253372024201",
+  "20897250657826555005",
+  "20826076118146897096",
+  "13335487545325388223"
+ ],
+ "source_title": "Immortal Warrior Train Insane Tee",
+ "stripe_payment_link": "https://buy.stripe.com/cNiaEY0EIh1a4Ym6iq1gZ1U",
+ "supplier": "Printify",
+ "supplier_id": "6b0a430451bee69afc0a2c85",
+ "visual_verified": false
+}

@@ -147,6 +147,28 @@
       "image_id": "6b08e9f986cd36deab8b48bd",
       "layout": 2,
       "date": "2026-11-27"
+    },
+    "2026-11-28_immortal-warrior-train-insane__camiseta-tirantes-hombre-sudadera-capucha.png": {
+      "status": "hecho",
+      "products": {
+        "camiseta": "6b0a430451bee69afc0a2c85",
+        "tirantes-hombre": "6b0a430731ff33aac6043771",
+        "sudadera-capucha": "6b0a430acc80e1f59c06855c"
+      },
+      "image_id": "6b0a43035f4f3513d508485b",
+      "layout": 2,
+      "date": "2026-11-28"
+    },
+    "2026-11-28_tough-bitch-sweat-slay-repeat__tirantes-mujer-camiseta-mujer-sudadera-mujer.png": {
+      "status": "hecho",
+      "products": {
+        "tirantes-mujer": "6b0a430ecefbb1b2e907a6f6",
+        "camiseta-mujer": "6b0a4311cc80e1f59c068564",
+        "sudadera-mujer": "6b0a4313cefbb1b2e907a6fb"
+      },
+      "image_id": "6b0a430d8b9183c86a55b116",
+      "layout": 2,
+      "date": "2026-11-28"
     }
   },
   "chest": {

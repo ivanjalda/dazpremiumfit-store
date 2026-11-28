@@ -1,15 +1,15 @@
 {
   "key": "",
   "owner": "",
-  "updated": "2026-11-27 20:17 UTC",
+  "updated": "2026-11-28 02:57 UTC",
   "totals": {
-    "catalogo": 363,
-    "a_la_vista": 338,
-    "disenos_a_la_vista": 308,
+    "catalogo": 369,
+    "a_la_vista": 344,
+    "disenos_a_la_vista": 314,
     "ocultos": 25,
-    "ia_revisados": 363,
+    "ia_revisados": 369,
     "ia_pendientes": 0,
-    "con_boton_de_pago": 338,
+    "con_boton_de_pago": 344,
     "sin_boton_de_pago": 0,
     "seccion_dudosa": 57,
     "ventas_30_dias": 0,
@@ -20,6 +20,10 @@
     "Ya no está en el proveedor": 25
   },
   "suppliers": {
+    "Printify": {
+      "visibles": 67,
+      "ocultos": 25
+    },
     "Productifi": {
       "visibles": 196,
       "ocultos": 0
@@ -27,10 +31,6 @@
     "Printful": {
       "visibles": 18,
       "ocultos": 0
-    },
-    "Printify": {
-      "visibles": 61,
-      "ocultos": 25
     },
     "InterestPrint": {
       "visibles": 63,
@@ -65,6 +65,14 @@
         "Bolsa de deporte esencial DPF · Maroon: inspección IA: era bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
         "Bolsa de deporte esencial DPF · Royal: inspección IA: era bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras",
         "Pantalón de Chándal DPF Élan: inspección IA: era sweatpants (unisex) → hombre/pantalones, mujer/pantalones"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "n": 2,
+      "fixes": [
+        "Conjunto Deportivo con Vestido: inspección IA: era dress (women) → mujer/vestidos-monos-petos",
+        "Café Miel de Manuka: inspección IA: era coffee bag (unisex) → hombre/bolsos-carteras, mujer/bolsos-carteras"
       ]
     }
   ],
@@ -508,7 +516,7 @@
       "n": "Café Miel de Manuka",
       "s": "Productifi",
       "img": "assets/products/shop/c7cf4be404084bc582b5.jpg",
-      "c": "hombre/camiseta",
+      "c": "hombre/bolsos-carteras",
       "pr": 43.99
     },
     {
@@ -759,19 +767,29 @@
     "Dirección de la tienda: https://dazpremiumfit.com",
     "CSV leído: shopify_productos.csv",
     "CSV leído: wish4.csv",
-    "Printify: 55 piezas leídas",
+    "Printify: 61 piezas leídas",
     "Printful: 18 piezas (0 actualizadas ahora)",
-    "⏱ lectura de proveedores: 9 s",
-    "Productos en catálogo: 363 · a la vista: 338 · archivados: 25",
+    "⏱ lectura de proveedores: 10 s",
+    "Productos en catálogo: 369 · a la vista: 344 · archivados: 25",
     "⏱ catálogo, precios y limpieza: 0 s",
     "Stripe: ventas leídas de 0 productos",
     "⏱ ventas, visitas y cupones: 0 s",
     "Campaña activa: black-week · 0 ofertas · 0 regalos",
-    "⏱ revisión con IA: 0 s",
-    "Vigilante: 1 correcciones en esta hora",
-    "⏱ vigilante: 93 s",
+    "IA: 6 productos revisados (fotos, guía de tallas y textos) · quedan 0",
+    "⏱ revisión con IA: 69 s",
+    "Vigilante: 2 correcciones en esta hora",
+    "⏱ vigilante: 90 s",
+    "Estudio de fotos: Google no permite crear imágenes con esta clave gratuita hoy. Se reintenta mañana.",
+    "Estudio de fotos: 0 fotos de campaña nuevas (de 1 intentos)",
     "⏱ estudio de fotos: 0 s",
-    "⏱ enlaces de pago: 0 s",
+    "Stripe: enlace normal listo para printify-6b0a430731ff33aac6043771",
+    "Stripe: enlace normal listo para printify-6b0a430ecefbb1b2e907a6f6",
+    "Stripe: enlace normal listo para printify-6b0a430451bee69afc0a2c85",
+    "Stripe: enlace normal listo para printify-6b0a430acc80e1f59c06855c",
+    "Stripe: enlace normal listo para printify-6b0a4313cefbb1b2e907a6fb",
+    "Stripe: enlace normal listo para printify-6b0a4311cc80e1f59c068564",
+    "Stripe: 6 productos con enlace de pago nuevo en esta hora",
+    "⏱ enlaces de pago: 3 s",
     "Cambio actualizado: 1 USD = 0.9127 EUR",
     "Listo."
   ]

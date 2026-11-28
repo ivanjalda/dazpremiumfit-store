@@ -10,7 +10,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 1,
+      "rank": 2,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "wish4-2562",
@@ -30,7 +30,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 2,
+      "rank": 3,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "wish4-2564",
@@ -39,6 +39,47 @@
       "color": "red",
       "art_score": 3,
       "img": "assets/verified/wish4/electrolyte.jpg"
+    },
+    {
+      "id": "printify-6b0a430ecefbb1b2e907a6f6",
+      "name_es": "Camiseta de tirantes Sweat Slay",
+      "name_en": "Sweat Slay Racerback Tank",
+      "price_usd": 43.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 4,
+      "created": "2026-11-28",
+      "supplier_id": "6b0a430ecefbb1b2e907a6f6",
+      "fam": "tough-bitch-sweat",
+      "cg": "printify-6b0a430ecefbb1b2e907a6f6",
+      "color": "Black",
+      "art_score": 3,
+      "img": "https://images.printify.com/mockup/6b0a430ecefbb1b2e907a6f6/251657/126156/tough-bitch-sweat-slay-repeat-racerback-tank.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b0a430451bee69afc0a2c85",
+      "name_es": "Camiseta Immortal Warrior Train Insane",
+      "name_en": "Immortal Warrior Train Insane Tee",
+      "price_usd": 37.99,
+      "badge": "new",
+      "categories": [
+        "hombre/camiseta",
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 5,
+      "created": "2026-11-28",
+      "supplier_id": "6b0a430451bee69afc0a2c85",
+      "fam": "immortal-warrior-train",
+      "cg": "printify-6b0a430451bee69afc0a2c85",
+      "color": "Black",
+      "art_score": 7,
+      "img": "https://images.printify.com/mockup/6b0a430451bee69afc0a2c85/12124/102005/immortal-warrior-train-insane-tee.jpg?camera_label=front-2",
+      "page": true
     },
     {
       "id": "productifi-wish4-2563",
@@ -50,7 +91,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 3,
+      "rank": 6,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "wish4-2563",
@@ -70,7 +111,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 4,
+      "rank": 7,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "359535579",
@@ -79,6 +120,67 @@
       "color": "White",
       "art_score": 5,
       "img": "https://files.cdn.printful.com/files/8ce/8ced79023d30496c30e2e80d171ba19b_preview.png"
+    },
+    {
+      "id": "printify-6b0a430acc80e1f59c06855c",
+      "name_es": "Sudadera Immortal Warrior Train Insane",
+      "name_en": "Immortal Warrior Train Insane Hoodie",
+      "price_usd": 54.99,
+      "badge": "new",
+      "categories": [
+        "hombre/chandal-sudaderas",
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 8,
+      "created": "2026-11-28",
+      "supplier_id": "6b0a430acc80e1f59c06855c",
+      "fam": "immortal-warrior-train",
+      "cg": "printify-6b0a430acc80e1f59c06855c",
+      "color": "Black",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b0a430acc80e1f59c06855c/32920/98424/immortal-warrior-train-insane-hoodie.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b0a4313cefbb1b2e907a6fb",
+      "name_es": "Sudadera Cropped Tough Bitch",
+      "name_en": "Tough Bitch Cropped Hoodie",
+      "price_usd": 71.99,
+      "badge": "new",
+      "categories": [
+        "mujer/chaqueta-sudadera-sueter"
+      ],
+      "available": true,
+      "rank": 9,
+      "created": "2026-11-28",
+      "supplier_id": "6b0a4313cefbb1b2e907a6fb",
+      "fam": "tough-bitch-sweat",
+      "cg": "printify-6b0a4313cefbb1b2e907a6fb",
+      "color": "Black",
+      "art_score": 6,
+      "img": "https://images.printify.com/mockup/6b0a4313cefbb1b2e907a6fb/72716/16566/tough-bitch-sweat-slay-repeat-cropped-hoodie.jpg?camera_label=front",
+      "page": true
+    },
+    {
+      "id": "printify-6b0a4311cc80e1f59c068564",
+      "name_es": "Camiseta Sweat Slay Repeat",
+      "name_en": "Sweat Slay Repeat Tee",
+      "price_usd": 54.99,
+      "badge": "new",
+      "categories": [
+        "mujer/camisetas-blusas-tops"
+      ],
+      "available": true,
+      "rank": 10,
+      "created": "2026-11-28",
+      "supplier_id": "6b0a4311cc80e1f59c068564",
+      "fam": "tough-bitch-sweat",
+      "cg": "printify-6b0a4311cc80e1f59c068564",
+      "color": "Black",
+      "art_score": 5,
+      "img": "https://images.printify.com/mockup/6b0a4311cc80e1f59c068564/33869/101402/tough-bitch-sweat-slay-repeat-womens-tee.jpg?camera_label=front",
+      "page": true
     },
     {
       "id": "printify-6b090892c87e8df47b098639",
@@ -90,7 +192,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 5,
+      "rank": 11,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b090892c87e8df47b098639",
@@ -110,7 +212,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 6,
+      "rank": 12,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-womens-crop-rugby-jersey",
@@ -130,7 +232,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 10,
+      "rank": 16,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "aesthetic-icon-womens-racerback-tank-top-model-t60",
@@ -150,7 +252,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 11,
+      "rank": 17,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-womens-cropped-crew-neck-sun-protection-shirt",
@@ -170,7 +272,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 12,
+      "rank": 18,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-custom-womens-high-waist-legging",
@@ -190,7 +292,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 13,
+      "rank": 19,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-custom-womens-high-waist-legging-1",
@@ -210,7 +312,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 14,
+      "rank": 20,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-washed-drop-shoulder-t-shirt",
@@ -230,7 +332,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 15,
+      "rank": 21,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-yoga-top-a6k",
@@ -250,7 +352,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 16,
+      "rank": 22,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "a-picture-from-kefir_-https___kefirapp_com_w_2201121-racerback-active-tank-tops",
@@ -270,7 +372,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 17,
+      "rank": 23,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-womens-v-neck-long-sleeve-sun-protection-top",
@@ -290,7 +392,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 18,
+      "rank": 24,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-1-mens-all-over-print-tank-top-model-t46",
@@ -310,7 +412,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 19,
+      "rank": 25,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-135-mens-all-over-print-tank-top-model-t46",
@@ -330,7 +432,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 20,
+      "rank": 26,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b0908971ec00443710ef319",
@@ -350,7 +452,7 @@
         "mujer/falda"
       ],
       "available": true,
-      "rank": 21,
+      "rank": 27,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-womens-high-waist-layered-sport-skirt",
@@ -370,7 +472,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 22,
+      "rank": 28,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-mens-tank-tops",
@@ -390,7 +492,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 23,
+      "rank": 29,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-mens-tank-tops-1",
@@ -410,7 +512,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 24,
+      "rank": 30,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-all-over-print-tank-top-bkrev1",
@@ -430,7 +532,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 27,
+      "rank": 33,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-yoga-leggings-yj033",
@@ -450,7 +552,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 29,
+      "rank": 35,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "immortal-warrior4-mens-all-over-print-tank-top-model-t57",
@@ -470,7 +572,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 33,
+      "rank": 39,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b09088dc87e8df47b098636-hunter",
@@ -490,7 +592,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 35,
+      "rank": 41,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b09088dc87e8df47b098636-navy",
@@ -510,7 +612,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 36,
+      "rank": 42,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b09088dc87e8df47b098636-red",
@@ -531,7 +633,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 39,
+      "rank": 45,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08e9f3f7ed4c973b05affe",
@@ -551,7 +653,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 43,
+      "rank": 49,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-83-sleeveless-yoga-crop-active-tank-tops",
@@ -571,7 +673,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 52,
+      "rank": 58,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "design-yoga-top-xg005kn07",
@@ -591,7 +693,7 @@
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 67,
+      "rank": 73,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -611,7 +713,7 @@
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 68,
+      "rank": 74,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "conjunto-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -631,7 +733,7 @@
         "mujer/conjuntos"
       ],
       "available": true,
-      "rank": 69,
+      "rank": 75,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "conjunto-violeta-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -651,7 +753,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 72,
+      "rank": 78,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "aesthetic-icon-womens-wide-waist-yoga-cropped-leggings",
@@ -671,7 +773,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 73,
+      "rank": 79,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-83-womens-wide-waist-yoga-cropped-leggings",
@@ -691,7 +793,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 74,
+      "rank": 80,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-93-womens-wide-waist-yoga-cropped-leggings",
@@ -711,7 +813,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 86,
+      "rank": 92,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-55-womens-high-waist-pockets-yoga-leggings",
@@ -731,7 +833,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 87,
+      "rank": 93,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "purple-stars-womens-high-waist-pockets-yoga-leggings",
@@ -751,7 +853,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 104,
+      "rank": 110,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "ivan21-backless-split-knotted-yoga-active-tank-tops",
@@ -771,7 +873,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 123,
+      "rank": 129,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "top-dpf",
@@ -791,7 +893,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 141,
+      "rank": 147,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08e9fb185c69c666042851",
@@ -811,7 +913,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 143,
+      "rank": 149,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-81-deep-v-neck-racerback-cutout-active-crop-tops",
@@ -831,7 +933,7 @@
         "hombre/pantalones"
       ],
       "available": true,
-      "rank": 187,
+      "rank": 193,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b09087c1d99e97edf0dc88a",
@@ -851,7 +953,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 193,
+      "rank": 199,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
@@ -871,7 +973,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 194,
+      "rank": 200,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "immortal-warrior-short-2-mens-all-over-print-baggy-shorts-model-l37",
@@ -891,7 +993,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 197,
+      "rank": 203,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b09087f1d99e97edf0dc891-blue-jean",
@@ -911,7 +1013,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 198,
+      "rank": 204,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b09087f1d99e97edf0dc891-hydrangea",
@@ -931,7 +1033,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 199,
+      "rank": 205,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b09087f1d99e97edf0dc891-ivory",
@@ -951,7 +1053,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 200,
+      "rank": 206,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b09087f1d99e97edf0dc891-neon-violet",
@@ -971,7 +1073,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 201,
+      "rank": 207,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b09087f1d99e97edf0dc891-peachy",
@@ -991,7 +1093,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 202,
+      "rank": 208,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b09087f1d99e97edf0dc891-pepper",
@@ -1012,7 +1114,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 204,
+      "rank": 210,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08e9f16d0e8a542404257c",
@@ -1033,7 +1135,7 @@
         "mujer/gorros-bufandas"
       ],
       "available": true,
-      "rank": 205,
+      "rank": 211,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b090882c87e8df47b09862a",
@@ -1054,7 +1156,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 214,
+      "rank": 220,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484195395-black",
@@ -1075,7 +1177,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 215,
+      "rank": 221,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484195395-white",
@@ -1095,7 +1197,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 217,
+      "rank": 223,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-63-womens-high-waisted-leggings-model-l36",
@@ -1115,7 +1217,7 @@
         "mujer/pantalones-cortos"
       ],
       "available": true,
-      "rank": 226,
+      "rank": 232,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "action-painting-i-mila-blau-elastic-waist-double-layered-active-shorts",
@@ -1135,7 +1237,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 227,
+      "rank": 233,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484199287-black",
@@ -1155,7 +1257,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 228,
+      "rank": 234,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484199287-military-green",
@@ -1175,7 +1277,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 232,
+      "rank": 238,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-all-over-leggings-model-l01",
@@ -1195,7 +1297,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 233,
+      "rank": 239,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-all-over-leggings-model-l01-1",
@@ -1215,7 +1317,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 234,
+      "rank": 240,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484201718-black",
@@ -1235,7 +1337,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 235,
+      "rank": 241,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484201718-white",
@@ -1255,7 +1357,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 249,
+      "rank": 255,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480569608-black",
@@ -1275,7 +1377,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 250,
+      "rank": 256,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480569608-heather-grey",
@@ -1295,7 +1397,7 @@
         "hombre/pantalones-cortos"
       ],
       "available": true,
-      "rank": 251,
+      "rank": 257,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480569608-white",
@@ -1315,7 +1417,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 254,
+      "rank": 260,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-4-cross-back-pocket-sport-dress",
@@ -1335,7 +1437,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 256,
+      "rank": 262,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-43-all-over-print-high-waist-leggings-with-pockets-modell56",
@@ -1355,7 +1457,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 257,
+      "rank": 263,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-52-womens-high-waist-leggingsmodell44plus-size",
@@ -1375,7 +1477,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 260,
+      "rank": 266,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "sport-1-half-zip-backless-sport-jumpsuit",
@@ -1395,7 +1497,7 @@
         "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 261,
+      "rank": 267,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "sport-2-half-zip-backless-sport-jumpsuit",
@@ -1416,7 +1518,7 @@
         "mujer/pantalones"
       ],
       "available": true,
-      "rank": 262,
+      "rank": 268,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "480571842",
@@ -1437,7 +1539,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 263,
+      "rank": 269,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484192500",
@@ -1457,7 +1559,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 265,
+      "rank": 271,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b0908851d99e97edf0dc8a0",
@@ -1478,7 +1580,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 277,
+      "rank": 283,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08e9f6db66d9659e06dc37",
@@ -1495,10 +1597,10 @@
       "price_usd": 39.99,
       "badge": "new",
       "categories": [
-        "mujer/falda"
+        "mujer/vestidos-monos-petos"
       ],
       "available": true,
-      "rank": 279,
+      "rank": 285,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "abstract-organic-pattern-design-background-_-free-vector-front-zip-racer-back-sports-skirt-shorts-set",
@@ -1518,7 +1620,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 280,
+      "rank": 286,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "descarga-66-all-over-low-rise-leggings-model-l05",
@@ -1538,7 +1640,7 @@
         "mujer/pantalones"
       ],
       "available": true,
-      "rank": 282,
+      "rank": 288,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b09088a6d0e8a5424044b32",
@@ -1558,7 +1660,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 288,
+      "rank": 294,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484206291-black",
@@ -1578,7 +1680,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 289,
+      "rank": 295,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484206291-grey",
@@ -1598,7 +1700,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 290,
+      "rank": 296,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08ea0108b8102972076713",
@@ -1618,7 +1720,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 292,
+      "rank": 298,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484200714-black",
@@ -1638,7 +1740,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 293,
+      "rank": 299,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484200714-stone",
@@ -1658,7 +1760,7 @@
         "mujer/leggings"
       ],
       "available": true,
-      "rank": 294,
+      "rank": 300,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b090887d60c2fd53c025918",
@@ -1679,7 +1781,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 295,
+      "rank": 301,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484188638-black-camo",
@@ -1700,7 +1802,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 296,
+      "rank": 302,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "484188638-forest-camo",
@@ -1720,7 +1822,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 297,
+      "rank": 303,
       "created": "2026-11-27",
       "page": true,
       "supplier_id": "6b08e9feedc552ae3508c0cb",
@@ -1740,7 +1842,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 301,
+      "rank": 307,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089b42c9d405a5820236ee",
@@ -1761,7 +1863,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 302,
+      "rank": 308,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08923128a05af49e00a257",
@@ -1781,7 +1883,7 @@
         "hombre/camiseta"
       ],
       "available": true,
-      "rank": 303,
+      "rank": 309,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0892436a219864bc0f11dd",
@@ -1802,7 +1904,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 306,
+      "rank": 312,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0894ffedc552ae350870fd",
@@ -1822,7 +1924,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 307,
+      "rank": 313,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089504d4c50971c2032992",
@@ -1842,7 +1944,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 308,
+      "rank": 314,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089514edc552ae3508711c",
@@ -1862,7 +1964,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 309,
+      "rank": 315,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08951c155f8bb8d107fbe2",
@@ -1882,7 +1984,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 310,
+      "rank": 316,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089a02867aed6ed008c517",
@@ -1902,7 +2004,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 311,
+      "rank": 317,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089524155f8bb8d107fbee",
@@ -1923,7 +2025,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 312,
+      "rank": 318,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08922d75d150be77030196",
@@ -1944,7 +2046,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 313,
+      "rank": 319,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08923855d595d88e09f999",
@@ -1965,7 +2067,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 314,
+      "rank": 320,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089240c9d405a582022ee0",
@@ -1986,7 +2088,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 315,
+      "rank": 321,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08924d75d150be770301be",
@@ -2007,7 +2109,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 316,
+      "rank": 322,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089254ba427acd12096a99",
@@ -2028,7 +2130,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 317,
+      "rank": 323,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0894fcba427acd12096c87",
@@ -2049,7 +2151,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 318,
+      "rank": 324,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0899f655d595d88e0a00d7",
@@ -2069,7 +2171,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 320,
+      "rank": 326,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089526d4c50971c20329b9",
@@ -2090,7 +2192,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 322,
+      "rank": 328,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0892336a219864bc0f11ce",
@@ -2111,7 +2213,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 323,
+      "rank": 329,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08923b75d150be770301a3",
@@ -2132,7 +2234,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 324,
+      "rank": 330,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08924655d595d88e09f9a9",
@@ -2153,7 +2255,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 325,
+      "rank": 331,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08924a6d0e8a542403d393",
@@ -2174,7 +2276,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 326,
+      "rank": 332,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0899fc6bfabea2f3021a91",
@@ -2195,7 +2297,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 328,
+      "rank": 334,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0894f655d595d88e09fb97",
@@ -2215,7 +2317,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 329,
+      "rank": 335,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08950ad4c50971c2032998",
@@ -2235,7 +2337,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 330,
+      "rank": 336,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089511a6afac34150de014",
@@ -2255,7 +2357,7 @@
         "mujer/chaqueta-sudadera-sueter"
       ],
       "available": true,
-      "rank": 331,
+      "rank": 337,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089a07db66d9659e068f9a",
@@ -2275,7 +2377,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 332,
+      "rank": 338,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b0895076a219864bc0f1429",
@@ -2295,7 +2397,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 333,
+      "rank": 339,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b08951fedc552ae35087130",
@@ -2315,7 +2417,7 @@
         "mujer/camisetas-blusas-tops"
       ],
       "available": true,
-      "rank": 334,
+      "rank": 340,
       "created": "2026-11-26",
       "page": true,
       "supplier_id": "6b089a056a219864bc0f18e4",
@@ -2335,7 +2437,7 @@
         "decor"
       ],
       "available": true,
-      "rank": 336,
+      "rank": 342,
       "created": "2026-11-25",
       "page": true,
       "supplier_id": "advanced-whey-protein-chocolate",

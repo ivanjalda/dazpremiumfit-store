@@ -1,6 +1,6 @@
 {
   "active": true,
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "id": "black-week",
   "ends": "2026-11-30",
   "discount_pct": 25,
@@ -19,13 +19,13 @@
   "offers": [],
   "gifts": [],
   "selection": [
+    "printify-6b0a430731ff33aac6043771",
     "productifi-wish4-2562",
     "productifi-wish4-2564",
+    "printify-6b0a430ecefbb1b2e907a6f6",
+    "printify-6b0a430451bee69afc0a2c85",
     "productifi-wish4-2563",
     "printful-359535579",
-    "printify-6b090892c87e8df47b098639",
-    "interestprint-design-womens-crop-rugby-jersey",
-    "interestprint-design-womens-crop-rugby-jersey-1",
-    "interestprint-design-womens-crop-rugby-jersey-2"
+    "printify-6b0a430acc80e1f59c06855c"
   ]
 }

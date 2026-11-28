@@ -1,20 +1,21 @@
 {
  "ai_cats": [
-  "mujer/falda"
+  "mujer/vestidos-monos-petos"
  ],
  "ai_color": "White",
  "ai_copy": true,
  "ai_done": true,
  "ai_gender": "women",
  "ai_material": "80% Polyester, 20% Spandex",
- "ai_type": "Sports Skirt & Shorts Set",
+ "ai_type": "dress",
  "ai_ver": 2,
  "art_note": "The photos utilize low-quality digital mockups and composites, undermining the premium brand aesthetic.",
  "art_score": 4,
+ "audited": "2026-11-28",
  "available": true,
  "badge": "new",
  "categories": [
-  "mujer/falda"
+  "mujer/vestidos-monos-petos"
  ],
  "cg": "t-abstract-organic-pattern-design-background-free-vector-front-zip-racer-back-sports",
  "color": "White",
@@ -37,10 +38,10 @@
  "id": "interestprint-abstract-organic-pattern-design-background-free-vector-front-zip-racer-back-sports-skirt-shorts-set",
  "img_checked": "2026-11-25",
  "look": [
-  "interestprint-design-womens-crop-rugby-jersey",
-  "interestprint-design-womens-cropped-crew-neck-sun-protection-shirt",
+  "printify-6b0a430ecefbb1b2e907a6f6",
+  "printify-6b0a4313cefbb1b2e907a6fb",
   "interestprint-design-custom-womens-high-waist-legging",
-  "interestprint-descarga-31-racerback-sports-bra"
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
  ],
  "material": "80% Polyester, 20% Spandex",
  "name_en": "Athletic Skirt and Shorts Set",
@@ -49,7 +50,7 @@
  "needs_studio": true,
  "page": true,
  "price_usd": 39.99,
- "rank": 279,
+ "rank": 285,
  "shipping_usd": 8.0,
  "shipping_worst_usd": 12.8,
  "shop_category": "",

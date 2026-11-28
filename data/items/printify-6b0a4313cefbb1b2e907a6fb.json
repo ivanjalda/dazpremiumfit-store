@@ -1,0 +1,75 @@
+{
+ "ai_cats": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "ai_color": "Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_type": "Hoodie",
+ "ai_ver": 2,
+ "art_note": "Clean studio and model shots, but basic mockups lack high-end campaign atmosphere.",
+ "art_score": 6,
+ "audited": "2026-11-28",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/chaqueta-sudadera-sueter"
+ ],
+ "cg": "printify-6b0a4313cefbb1b2e907a6fb",
+ "color": "Black",
+ "created": "2026-11-28",
+ "desc_en": "A bold silhouette engineered for movement and attitude. This cropped hoodie redefines urban performance codes with a clean cut and magnetic presence. Crafted to order to ensure absolute exclusivity. Available for worldwide shipping. The ultimate balance of strength and contemporary sophistication.",
+ "desc_es": "Una silueta audaz diseñada para el movimiento y la actitud. Esta sudadera cropped redefine los códigos del rendimiento urbano con un corte limpio y una presencia magnética. Confeccionada bajo demanda para garantizar una exclusividad absoluta. Disponible para envío a todo el mundo. El equilibrio definitivo entre fuerza y sofisticación contemporánea.",
+ "details_en": "· Made to order\n· Worldwide shipping",
+ "details_es": "· Hecho bajo pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "https://images.printify.com/mockup/6b0a4313cefbb1b2e907a6fb/72716/16566/tough-bitch-sweat-slay-repeat-cropped-hoodie.jpg?camera_label=front",
+  "https://images.printify.com/mockup/6b0a4313cefbb1b2e907a6fb/72716/16575/tough-bitch-sweat-slay-repeat-cropped-hoodie.jpg?camera_label=back"
+ ],
+ "draft": false,
+ "fam": "tough-bitch-sweat",
+ "hidden": false,
+ "id": "printify-6b0a4313cefbb1b2e907a6fb",
+ "img_checked": "2026-11-28",
+ "look": [
+  "printify-6b0a430ecefbb1b2e907a6f6",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "",
+ "name_en": "Tough Bitch Cropped Hoodie",
+ "name_es": "Sudadera Cropped Tough Bitch",
+ "needs_review": false,
+ "needs_studio": true,
+ "price_usd": 71.99,
+ "rank": 9,
+ "shipping_usd": 8.79,
+ "shipping_worst_usd": 8.79,
+ "shop_category": "",
+ "shop_verified": false,
+ "size_chart": null,
+ "size_guide": [],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL"
+ ],
+ "skus": [
+  "30183881775514529162",
+  "12518196748787430637",
+  "14151822659905838637",
+  "31500306058810633994",
+  "29721214806165781956",
+  "26173671456142473102"
+ ],
+ "source_title": "Tough Bitch Sweat Slay Repeat Cropped Hoodie",
+ "stripe_payment_link": "https://buy.stripe.com/fZu5kE4UY6mw8ay0Y61gZ1W",
+ "supplier": "Printify",
+ "supplier_id": "6b0a4313cefbb1b2e907a6fb",
+ "visual_verified": false
+}
