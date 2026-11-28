@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T14:15:07Z",
+  "updated": "2026-11-28T20:32:23Z",
   "products": [
     {
       "id": "printify-6b0a430731ff33aac6043771",
@@ -171,11 +171,11 @@
         "https://images.printify.com/mockup/6b0a430731ff33aac6043771/24639/101889/immortal-warrior-train-insane-tank-top.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b0a430731ff33aac6043771/24639/101892/immortal-warrior-train-insane-tank-top.jpg?camera_label=back"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-28": 40.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 23.72,
       "rank": 1,
       "badge": "new",
@@ -233,7 +233,7 @@
       "stripe_link_id": "plink_1Ugbs5LJVU4oTPuX3rrDdwmM",
       "stripe_price_cents": 4099,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true,
+      "page": false,
       "gender": "unisex"
     },
     {
@@ -2076,14 +2076,14 @@
       "display_images": [
         "assets/products/shop/c91a2909b641faae915e.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 20.99,
         "2026-11-26": 20.99,
         "2026-11-27": 20.99,
         "2026-11-28": 20.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 22.46,
       "rank": 13,
       "badge": "new",
@@ -2096,7 +2096,7 @@
         "interestprint-design-womens-high-waist-layered-sport-skirt",
         "interestprint-descarga-31-racerback-sports-bra"
       ],
-      "page": true,
+      "page": false,
       "stripe_product_id": "prod_VhASjtctaFunF6",
       "size_values": {
         "XS": "XS",
@@ -2326,14 +2326,14 @@
         "assets/products/shop/a2e012d6b6eb38f71134.jpg",
         "assets/products/shop/cae175594cc4e7e62361.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 20.99,
         "2026-11-26": 20.99,
         "2026-11-27": 20.99,
         "2026-11-28": 20.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 22.46,
       "rank": 14,
       "badge": "new",
@@ -2346,7 +2346,7 @@
         "interestprint-design-womens-high-waist-layered-sport-skirt",
         "interestprint-descarga-31-racerback-sports-bra"
       ],
-      "page": true,
+      "page": false,
       "stripe_product_id": "prod_VhASD4kkWWSeDO",
       "size_values": {
         "XS": "XS",
@@ -2576,14 +2576,14 @@
         "assets/products/shop/a68dbff55472b1921ccf.jpg",
         "assets/products/shop/d917b1023841a60baa1d.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 20.99,
         "2026-11-26": 20.99,
         "2026-11-27": 20.99,
         "2026-11-28": 20.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 22.46,
       "rank": 15,
       "badge": "new",
@@ -2596,7 +2596,7 @@
         "interestprint-design-womens-high-waist-layered-sport-skirt",
         "interestprint-descarga-31-racerback-sports-bra"
       ],
-      "page": true,
+      "page": false,
       "stripe_product_id": "prod_VhASbdP74AEuvp",
       "size_values": {
         "XS": "XS",
@@ -5823,14 +5823,14 @@
         "assets/products/shop/132083e8a34d8c36f0dd.jpg",
         "assets/products/shop/26ff61cd9ce403dde44f.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 22.99,
         "2026-11-26": 22.99,
         "2026-11-27": 22.99,
         "2026-11-28": 22.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 22.27,
       "rank": 32,
       "badge": "new",
@@ -5842,7 +5842,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": true,
+      "page": false,
       "art_score": 8,
       "art_note": "The model lifestyle shots are high-end and fit the brand standard, though the product-only shots look like flat digital mockups.",
       "needs_studio": true,
@@ -6209,14 +6209,14 @@
         "assets/products/shop/57d8f8352a34121dd0bf.jpg",
         "assets/products/shop/6a9e10f9df8273d317e5.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 22.99,
         "2026-11-26": 22.99,
         "2026-11-27": 22.99,
         "2026-11-28": 22.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 22.27,
       "rank": 34,
       "badge": "new",
@@ -6228,7 +6228,7 @@
         "printify-6b09087c1d99e97edf0dc88a",
         "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37"
       ],
-      "page": true,
+      "page": false,
       "art_score": 8,
       "art_note": "High-end campaign photography with strong lighting and professional studio environment.",
       "needs_studio": false,
@@ -6768,12 +6768,12 @@
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149521/126539/dpf-essential-gym-bag.jpg?camera_label=back",
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149521/126538/dpf-essential-gym-bag.jpg?camera_label=front"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-27": 62.99,
         "2026-11-28": 62.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 22.24,
       "rank": 38,
       "badge": "new",
@@ -6824,7 +6824,7 @@
       "stripe_link_id": "plink_1UgH0ZLJVU4oTPuXEhtYeFcz",
       "stripe_price_cents": 6299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true,
+      "page": false,
       "gender": "unisex",
       "audited": "2026-11-27"
     },
@@ -6987,12 +6987,12 @@
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149523/126539/dpf-essential-gym-bag.jpg?camera_label=back",
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149523/126538/dpf-essential-gym-bag.jpg?camera_label=front"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-27": 62.99,
         "2026-11-28": 62.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 22.24,
       "rank": 40,
       "badge": "new",
@@ -7043,7 +7043,7 @@
       "stripe_link_id": "plink_1UgH0aLJVU4oTPuX4NZJQi2F",
       "stripe_price_cents": 6299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true,
+      "page": false,
       "gender": "unisex",
       "audited": "2026-11-27"
     },
@@ -7313,12 +7313,12 @@
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149526/126539/dpf-essential-gym-bag.jpg?camera_label=back",
         "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149526/126538/dpf-essential-gym-bag.jpg?camera_label=front"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-27": 62.99,
         "2026-11-28": 62.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 22.24,
       "rank": 43,
       "badge": "new",
@@ -7369,7 +7369,7 @@
       "stripe_link_id": "plink_1UgH0dLJVU4oTPuXRZsexpaX",
       "stripe_price_cents": 6299,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true,
+      "page": false,
       "gender": "unisex",
       "audited": "2026-11-27"
     },
@@ -8835,14 +8835,14 @@
         "assets/products/shop/8a9a019114d9f84877c8.jpg",
         "assets/products/shop/1160921014b21a6df7a1.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 22.99,
         "2026-11-26": 22.99,
         "2026-11-27": 22.99,
         "2026-11-28": 22.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 22.16,
       "rank": 53,
       "badge": "new",
@@ -8854,7 +8854,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATkvn1Z2Xnm5",
       "size_values": {
@@ -9057,14 +9057,14 @@
         "assets/products/shop/cfdf1ed5c4bec4ce364d.jpg",
         "assets/products/shop/1f4291f2b129563925dd.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 22.99,
         "2026-11-26": 22.99,
         "2026-11-27": 22.99,
         "2026-11-28": 22.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 22.16,
       "rank": 54,
       "badge": "new",
@@ -9077,7 +9077,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "art_score": 5,
       "art_note": "Mockups look composited rather than high-end campaign shots.",
       "needs_studio": true,
@@ -11600,14 +11600,14 @@
         "assets/products/shop/99373317affa7aebc991.jpg",
         "assets/products/shop/d84a2f343225dcd7d96a.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 22.99,
         "2026-11-26": 22.99,
         "2026-11-27": 22.99,
         "2026-11-28": 22.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 22.1,
       "rank": 72,
       "badge": "new",
@@ -11620,7 +11620,7 @@
         "interestprint-design-womens-high-waist-layered-sport-skirt",
         "interestprint-descarga-31-racerback-sports-bra"
       ],
-      "page": true,
+      "page": false,
       "art_score": 6,
       "art_note": "Clean model photography with clear garment details, though standard studio staging keeps it from high editorial tier.",
       "needs_studio": true,
@@ -15803,14 +15803,14 @@
         "assets/products/shop/47e24de8b952095fed59.jpg",
         "assets/products/shop/b463580fce4966889f28.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 23.99,
         "2026-11-26": 23.99,
         "2026-11-27": 23.99,
         "2026-11-28": 23.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 22.01,
       "rank": 100,
       "badge": "new",
@@ -15823,7 +15823,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "art_score": 4,
       "art_note": "Model shot uses a low-quality digital composite of the graphic on a person, but product and detail shots are clean studio flats.",
       "needs_studio": true,
@@ -16506,14 +16506,14 @@
         "assets/products/shop/73cb92c052033529645d.jpg",
         "assets/products/shop/af17794a2ed0b3c69cd8.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99,
         "2026-11-28": 26.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 21.98,
       "rank": 105,
       "badge": "new",
@@ -16525,7 +16525,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATaoYquyuMSM",
       "size_values": {
@@ -18181,14 +18181,14 @@
         "assets/products/shop/e98a00122533dc0b1fa1.jpg",
         "assets/products/shop/199ff324cdafdf8659d6.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99,
         "2026-11-28": 26.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 21.95,
       "rank": 117,
       "badge": "new",
@@ -18201,7 +18201,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "stripe_product_id": "prod_VhARemP59tWsS2",
       "size_values": {
         "S": "S",
@@ -18381,14 +18381,14 @@
         "assets/products/shop/9e577a2edee3298b44a4.jpg",
         "assets/products/shop/a757f081ea5184a8da26.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99,
         "2026-11-28": 26.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 21.95,
       "rank": 118,
       "badge": "new",
@@ -18400,7 +18400,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATPUcEBFlJTW",
       "size_values": {
@@ -18581,14 +18581,14 @@
         "assets/products/shop/b701af24eed80bd398e6.jpg",
         "assets/products/shop/22a84813d7ef429a1403.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99,
         "2026-11-28": 26.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 21.95,
       "rank": 119,
       "badge": "new",
@@ -18601,7 +18601,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "stripe_product_id": "prod_VhARjmg6XkU2if",
       "size_values": {
         "S": "S",
@@ -18782,14 +18782,14 @@
         "assets/products/shop/f41b876c2d553753c374.jpg",
         "assets/products/shop/a0479fdf02239375cbf4.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99,
         "2026-11-28": 26.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 21.95,
       "rank": 120,
       "badge": "new",
@@ -18802,7 +18802,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "stripe_product_id": "prod_VhARQ9c3foIa2U",
       "size_values": {
         "S": "S",
@@ -18985,14 +18985,14 @@
         "assets/products/shop/b4a43e5895e57a52b1ed.jpg",
         "assets/products/shop/065b3ab0603019ae62f4.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99,
         "2026-11-28": 26.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 21.95,
       "rank": 121,
       "badge": "new",
@@ -19004,7 +19004,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhATRyOmIaT26W",
       "size_values": {
@@ -19814,14 +19814,14 @@
         "assets/products/shop/120cff3d8e3435fac450.jpg",
         "assets/products/shop/074fa002120ea9046a60.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99,
         "2026-11-28": 26.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 21.94,
       "rank": 127,
       "badge": "new",
@@ -19834,7 +19834,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "stripe_product_id": "prod_VhARG1TaK5RUK1",
       "size_values": {
         "S": "S",
@@ -20027,14 +20027,14 @@
         "assets/products/shop/7a1305ef25024e83984e.jpg",
         "assets/products/shop/3f84e8fa592d84a6db70.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 26.99,
         "2026-11-26": 26.99,
         "2026-11-27": 26.99,
         "2026-11-28": 26.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 21.94,
       "rank": 128,
       "badge": "new",
@@ -20047,7 +20047,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "stripe_product_id": "prod_VhAR6mjkm01MNf",
       "size_values": {
         "S": "S",
@@ -29109,14 +29109,14 @@
         "assets/products/shop/cdbe3b325a33b42d5256.jpg",
         "assets/products/shop/61ac9f6b85fc3916c85b.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99,
         "2026-11-28": 28.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 21.71,
       "rank": 197,
       "badge": "new",
@@ -29128,7 +29128,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWvj3kiQZ6nJ",
       "size_values": {
@@ -29270,14 +29270,14 @@
         "assets/products/shop/7218c1154c17a1fda892.jpg",
         "assets/products/shop/0ed70c7778034253f5cc.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 28.99,
         "2026-11-26": 28.99,
         "2026-11-27": 28.99,
         "2026-11-28": 28.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 21.71,
       "rank": 198,
       "badge": "new",
@@ -29289,7 +29289,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWhTxqzdyGb1",
       "size_values": {
@@ -38270,14 +38270,14 @@
         "assets/products/shop/ec94c7cf337b9bf64c88.jpg",
         "assets/products/shop/7cd5b7d407e558052613.jpg"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-25": 35.99,
         "2026-11-26": 35.99,
         "2026-11-27": 35.99,
         "2026-11-28": 35.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 21.59,
       "rank": 261,
       "badge": "new",
@@ -38289,7 +38289,7 @@
         "interestprint-design-custom-womens-high-waist-legging",
         "interestprint-design-womens-high-waist-layered-sport-skirt"
       ],
-      "page": true,
+      "page": false,
       "img_checked": "2026-11-25",
       "stripe_product_id": "prod_VhNWmYGKHlDnpu",
       "size_values": {
@@ -44889,13 +44889,13 @@
         "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101892/immortal-warrior-no-days-off-tank-top.jpg?camera_label=back"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-26": 33.99,
         "2026-11-27": 33.99,
         "2026-11-28": 33.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 21.17,
       "rank": 306,
       "badge": "new",
@@ -44952,7 +44952,7 @@
       "stripe_link_id": "plink_1Ug9obLJVU4oTPuX3iKftnio",
       "stripe_price_cents": 3399,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true,
+      "page": false,
       "gender": "unisex",
       "missing_days": 2,
       "missing_last": "2026-11-28",
@@ -45733,13 +45733,13 @@
         "https://images.printify.com/mockup/6b0892576d0e8a542403d39d/24639/101889/immortal-warrior-gold-tank-top.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b0892576d0e8a542403d39d/24639/101892/immortal-warrior-gold-tank-top.jpg?camera_label=back"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-26": 33.99,
         "2026-11-27": 40.99,
         "2026-11-28": 40.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 20.72,
       "rank": 310,
       "badge": "new",
@@ -45796,7 +45796,7 @@
       "stripe_link_id": "plink_1UgH0oLJVU4oTPuX1OfyxrNY",
       "stripe_price_cents": 4099,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true,
+      "page": false,
       "gender": "unisex",
       "audited": "2026-11-28"
     },
@@ -45934,13 +45934,13 @@
         "https://images.printify.com/mockup/6b0899f96bfabea2f3021a8e/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b0899f96bfabea2f3021a8e/24639/101892/immortal-warrior-no-days-off-tank-top.jpg?camera_label=back"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-26": 33.99,
         "2026-11-27": 40.99,
         "2026-11-28": 40.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 20.72,
       "rank": 311,
       "badge": "new",
@@ -45997,7 +45997,7 @@
       "stripe_link_id": "plink_1UgH0pLJVU4oTPuX0GVXuyLU",
       "stripe_price_cents": 4099,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true,
+      "page": false,
       "gender": "unisex",
       "audited": "2026-11-28"
     },
@@ -46584,7 +46584,8 @@
       "stripe_price_cents": 4399,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b089a02867aed6ed008c517",
@@ -46714,7 +46715,8 @@
       "stripe_price_cents": 4399,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b089524155f8bb8d107fbee",
@@ -46848,7 +46850,8 @@
       "stripe_price_cents": 4799,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b08922d75d150be77030196",
@@ -47130,7 +47133,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b08923855d595d88e09f999",
@@ -47352,7 +47356,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b089240c9d405a582022ee0",
@@ -47613,7 +47618,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b08924d75d150be770301be",
@@ -47835,7 +47841,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b089254ba427acd12096a99",
@@ -48062,7 +48069,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b0894fcba427acd12096c87",
@@ -48328,7 +48336,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b0899f655d595d88e0a00d7",
@@ -48600,7 +48609,8 @@
       "stripe_price_cents": 3799,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b089b3e155f8bb8d10801c1",
@@ -48751,13 +48761,13 @@
         "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98426/immortal-warrior-no-days-off-hoodie.jpg?camera_label=back-2",
         "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98432/immortal-warrior-no-days-off-hoodie.jpg?camera_label=folded"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-26": 46.99,
         "2026-11-27": 46.99,
         "2026-11-28": 46.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 20.14,
       "rank": 325,
       "badge": "new",
@@ -48827,10 +48837,11 @@
       "stripe_link_id": "plink_1Ug9ocLJVU4oTPuXJmQ30nJ1",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true,
+      "page": false,
       "gender": "unisex",
       "missing_days": 2,
-      "missing_last": "2026-11-28"
+      "missing_last": "2026-11-28",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b089526d4c50971c20329b9",
@@ -49083,7 +49094,8 @@
       "stripe_price_cents": 5399,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "women"
+      "gender": "women",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b089b47867aed6ed008c5e1",
@@ -49155,13 +49167,13 @@
         "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16575/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=back"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-26": 61.99,
         "2026-11-27": 61.99,
         "2026-11-28": 61.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 20.06,
       "rank": 327,
       "badge": "new",
@@ -49221,10 +49233,11 @@
       "stripe_link_id": "plink_1Ug9odLJVU4oTPuXblEt1znd",
       "stripe_price_cents": 6199,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true,
+      "page": false,
       "gender": "women",
       "missing_days": 2,
-      "missing_last": "2026-11-28"
+      "missing_last": "2026-11-28",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b0892336a219864bc0f11ce",
@@ -49491,7 +49504,8 @@
       "stripe_price_cents": 5499,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b08923b75d150be770301a3",
@@ -49719,7 +49733,8 @@
       "stripe_price_cents": 5499,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b08924655d595d88e09f9a9",
@@ -50007,7 +50022,8 @@
       "stripe_price_cents": 5499,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b08924a6d0e8a542403d393",
@@ -50274,7 +50290,8 @@
       "stripe_price_cents": 5499,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b0899fc6bfabea2f3021a91",
@@ -50502,7 +50519,8 @@
       "stripe_price_cents": 5499,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b089b38c9d405a5820236ea",
@@ -50652,13 +50670,13 @@
         "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102006/immortal-warrior-no-days-off-tee.jpg?camera_label=back-2",
         "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102001/immortal-warrior-no-days-off-tee.jpg?camera_label=folded"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-26": 28.99,
         "2026-11-27": 28.99,
         "2026-11-28": 28.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 20.04,
       "rank": 333,
       "badge": "new",
@@ -50728,10 +50746,11 @@
       "stripe_link_id": "plink_1Ug9oeLJVU4oTPuXx37AwfEn",
       "stripe_price_cents": 2899,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true,
+      "page": false,
       "gender": "unisex",
       "missing_days": 2,
-      "missing_last": "2026-11-28"
+      "missing_last": "2026-11-28",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b0894f655d595d88e09fb97",
@@ -50949,7 +50968,8 @@
       "stripe_price_cents": 5399,
       "stripe_site": "https://dazpremiumfit.com",
       "page": true,
-      "gender": "unisex"
+      "gender": "unisex",
+      "audited": "2026-11-28"
     },
     {
       "id": "printify-6b08950ad4c50971c2032998",
@@ -52183,13 +52203,13 @@
         "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/101402/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=front",
         "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/101403/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=back"
       ],
-      "available": true,
+      "available": false,
       "price_history": {
         "2026-11-26": 46.99,
         "2026-11-27": 46.99,
         "2026-11-28": 46.99
       },
-      "hidden": false,
+      "hidden": true,
       "score": 20.0,
       "rank": 341,
       "badge": "new",
@@ -52255,7 +52275,7 @@
       "stripe_link_id": "plink_1Ug9ofLJVU4oTPuXEgBYW1mS",
       "stripe_price_cents": 4699,
       "stripe_site": "https://dazpremiumfit.com",
-      "page": true,
+      "page": false,
       "gender": "women",
       "missing_days": 2,
       "missing_last": "2026-11-28"

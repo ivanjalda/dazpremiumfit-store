@@ -1,27 +1,6 @@
 {
   "products": [
     {
-      "id": "printify-6b0a430731ff33aac6043771",
-      "name_es": "Camisa sin mangas Immortal Warrior",
-      "name_en": "Immortal Warrior Train Insane Tank",
-      "price_usd": 40.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta",
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 1,
-      "created": "2026-11-28",
-      "page": true,
-      "supplier_id": "6b0a430731ff33aac6043771",
-      "fam": "immortal-warrior-train",
-      "cg": "printify-6b0a430731ff33aac6043771",
-      "color": "Black",
-      "art_score": 4,
-      "img": "https://images.printify.com/mockup/6b0a430731ff33aac6043771/24639/101889/immortal-warrior-train-insane-tank-top.jpg?camera_label=front"
-    },
-    {
       "id": "productifi-wish4-2562",
       "name_es": "Creatina Monohidrato · 50 dosis (281 g)",
       "name_en": "Creatine Monohydrate · 50 servings (281 g)",
@@ -242,66 +221,6 @@
       "color": "white",
       "art_score": 4,
       "img": "assets/products/shop/bba6c167e5e3e40ca920.jpg"
-    },
-    {
-      "id": "interestprint-design-womens-crop-rugby-jersey-1",
-      "name_es": "Camiseta Crop de Rugby · Blanco",
-      "name_en": "Crop Rugby Jersey · White",
-      "price_usd": 20.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 13,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "design-womens-crop-rugby-jersey-1",
-      "fam": "women-s-crop",
-      "cg": "t-design-women-s-crop-rugby-jersey",
-      "color": "white",
-      "art_score": 4,
-      "img": "assets/products/shop/c91a2909b641faae915e.jpg"
-    },
-    {
-      "id": "interestprint-design-womens-crop-rugby-jersey-2",
-      "name_es": "Camiseta Crop de Rugby · Blanco",
-      "name_en": "Crop Rugby Jersey · White",
-      "price_usd": 20.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 14,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "design-womens-crop-rugby-jersey-2",
-      "fam": "women-s-crop",
-      "cg": "t-design-women-s-crop-rugby-jersey",
-      "color": "white",
-      "art_score": 4,
-      "img": "assets/products/shop/0164ed26a5daee87511f.jpg"
-    },
-    {
-      "id": "interestprint-design-womens-crop-rugby-jersey-3",
-      "name_es": "Camiseta Crop de Rugby · Blanco",
-      "name_en": "Crop Rugby Jersey · White",
-      "price_usd": 20.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 15,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "design-womens-crop-rugby-jersey-3",
-      "fam": "women-s-crop",
-      "cg": "t-design-women-s-crop-rugby-jersey",
-      "color": "white",
-      "art_score": 4,
-      "img": "assets/products/shop/c904add6ed519abe3625.jpg"
     },
     {
       "id": "interestprint-aesthetic-icon-womens-racerback-tank-top-model-t60",
@@ -604,26 +523,6 @@
       "img": "assets/products/shop/d35e3667683afe7405a7.jpg"
     },
     {
-      "id": "interestprint-camiseta-immortal-warrior-2-mens-all-over-print-tank-top-model-t57",
-      "name_es": "Camiseta de Tirantes Immortal Warrior · Negro",
-      "name_en": "Immortal Warrior Tank Top · Black",
-      "price_usd": 22.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 32,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "camiseta-immortal-warrior-2-mens-all-over-print-tank-top-model-t57",
-      "fam": "premium-fit-immortal",
-      "cg": "t-daz-premium-fit-immortal-warrior-camiseta-de-tirantes-de-hombre",
-      "color": "black",
-      "art_score": 8,
-      "img": "assets/products/shop/eb148921620f7e3a90d7.jpg"
-    },
-    {
       "id": "interestprint-design-yoga-leggings-yj033",
       "name_es": "Leggings Pinceladas de Fuerza",
       "name_en": "Strength Brushstrokes Leggings",
@@ -642,26 +541,6 @@
       "color": "Negro",
       "art_score": 9,
       "img": "assets/products/shop/3b2daff2e846cf2d7ce8.jpg"
-    },
-    {
-      "id": "interestprint-immortal-warrior-3-mens-all-over-print-tank-top-model-t57",
-      "name_es": "Camiseta sin mangas Immortal Warrior",
-      "name_en": "Immortal Warrior Tank Top",
-      "price_usd": 22.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta"
-      ],
-      "available": true,
-      "rank": 34,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "immortal-warrior-3-mens-all-over-print-tank-top-model-t57",
-      "fam": "premium-fit-immortal",
-      "cg": "t-daz-premium-fit-immortal-warrior-oliva-camiseta-de-tirantes-de-hombre",
-      "color": "Olive",
-      "art_score": 8,
-      "img": "assets/products/shop/f2a19a4795e47ca1246c.jpg"
     },
     {
       "id": "interestprint-immortal-warrior4-mens-all-over-print-tank-top-model-t57",
@@ -684,27 +563,6 @@
       "img": "assets/products/shop/a27a7ad2113e90e83b04.jpg"
     },
     {
-      "id": "printify-6b09088dc87e8df47b098636-gold",
-      "name_es": "Bolsa de deporte esencial DPF · Oro",
-      "name_en": "DPF Essential Gym Bag · Gold",
-      "price_usd": 62.99,
-      "badge": "new",
-      "categories": [
-        "hombre/bolsos-carteras",
-        "mujer/bolsos-carteras"
-      ],
-      "available": true,
-      "rank": 38,
-      "created": "2026-11-27",
-      "page": true,
-      "supplier_id": "6b09088dc87e8df47b098636-gold",
-      "fam": "essential-gym-bag",
-      "cg": "printify-6b09088dc87e8df47b098636",
-      "color": "Gold",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149521/126539/dpf-essential-gym-bag.jpg?camera_label=back"
-    },
-    {
       "id": "printify-6b09088dc87e8df47b098636-hunter",
       "name_es": "Bolsa de deporte esencial DPF · Hunter",
       "name_en": "DPF Essential Gym Bag · Hunter",
@@ -723,27 +581,6 @@
       "color": "Hunter",
       "art_score": 6,
       "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149522/126539/dpf-essential-gym-bag.jpg?camera_label=back"
-    },
-    {
-      "id": "printify-6b09088dc87e8df47b098636-maroon",
-      "name_es": "Bolsa de deporte esencial DPF · Maroon",
-      "name_en": "DPF Essential Gym Bag · Maroon",
-      "price_usd": 62.99,
-      "badge": "new",
-      "categories": [
-        "hombre/bolsos-carteras",
-        "mujer/bolsos-carteras"
-      ],
-      "available": true,
-      "rank": 40,
-      "created": "2026-11-27",
-      "page": true,
-      "supplier_id": "6b09088dc87e8df47b098636-maroon",
-      "fam": "essential-gym-bag",
-      "cg": "printify-6b09088dc87e8df47b098636",
-      "color": "Maroon",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149523/126539/dpf-essential-gym-bag.jpg?camera_label=back"
     },
     {
       "id": "printify-6b09088dc87e8df47b098636-navy",
@@ -784,27 +621,6 @@
       "color": "Red",
       "art_score": 6,
       "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149525/126539/dpf-essential-gym-bag.jpg?camera_label=back"
-    },
-    {
-      "id": "printify-6b09088dc87e8df47b098636-royal",
-      "name_es": "Bolsa de deporte esencial DPF · Royal",
-      "name_en": "DPF Essential Gym Bag · Royal",
-      "price_usd": 62.99,
-      "badge": "new",
-      "categories": [
-        "hombre/bolsos-carteras",
-        "mujer/bolsos-carteras"
-      ],
-      "available": true,
-      "rank": 43,
-      "created": "2026-11-27",
-      "page": true,
-      "supplier_id": "6b09088dc87e8df47b098636-royal",
-      "fam": "essential-gym-bag",
-      "cg": "printify-6b09088dc87e8df47b098636",
-      "color": "Royal",
-      "art_score": 9,
-      "img": "https://images.printify.com/mockup/6b09088dc87e8df47b098636/149526/126539/dpf-essential-gym-bag.jpg?camera_label=back"
     },
     {
       "id": "printify-6b08e9f3f7ed4c973b05affe",
@@ -848,46 +664,6 @@
       "img": "assets/products/shop/2eb70586a09949255e21.jpg"
     },
     {
-      "id": "interestprint-descarga-31-racerback-sports-bra",
-      "name_es": "Top Deportivo Con Estampado Abstracto",
-      "name_en": "Abstract Print Sports Bra",
-      "price_usd": 22.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 53,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "descarga-31-racerback-sports-bra",
-      "fam": "descarga-racerback-sports",
-      "cg": "t-descarga-racerback-sports-bra",
-      "color": "Multicolor",
-      "art_score": 6,
-      "img": "assets/products/shop/1dd26ae95740bac4b206.jpg"
-    },
-    {
-      "id": "interestprint-descarga-81-racerback-sports-bra",
-      "name_es": "Sujetador Deportivo Volt Lima y Negro",
-      "name_en": "Volt Lime and Black Sports Bra",
-      "price_usd": 22.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 54,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "descarga-81-racerback-sports-bra",
-      "fam": "premium-fit-volt",
-      "cg": "t-daz-premium-fit-volt-top-deportivo-de-espalda-cruzada",
-      "color": "Yellow and Black",
-      "art_score": 5,
-      "img": "assets/products/shop/cfdf1ed5c4bec4ce364d.jpg"
-    },
-    {
       "id": "interestprint-design-yoga-top-xg005kn07",
       "name_es": "Top Deportivo X-Back Diamond",
       "name_en": "Diamond X-Back Yoga Top",
@@ -906,26 +682,6 @@
       "color": "white",
       "art_score": 4,
       "img": "assets/products/shop/1e52a4d8b453a71807bc.jpg"
-    },
-    {
-      "id": "interestprint-design-yoga-top-yj053",
-      "name_es": "Top de Yoga Estampado",
-      "name_en": "Printed Yoga Top",
-      "price_usd": 22.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 72,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "design-yoga-top-yj053",
-      "fam": "yoga-top-yj053",
-      "cg": "t-design-yoga-top-yj053",
-      "color": "white",
-      "art_score": 6,
-      "img": "assets/products/shop/c1f359ffcb6d78db19ac.jpg"
     },
     {
       "id": "interestprint-conjunto-blanco-tough-bitch-womens-short-yoga-setmodelsets-03",
@@ -1088,46 +844,6 @@
       "img": "assets/products/shop/5fbc4a2cf4bca0137c53.jpg"
     },
     {
-      "id": "interestprint-design-yoga-zipper-vest",
-      "name_es": "Top Deportivo con Cremallera",
-      "name_en": "Zipper Athletic Vest",
-      "price_usd": 23.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 100,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "design-yoga-zipper-vest",
-      "fam": "yoga-zipper-vest",
-      "cg": "t-design-yoga-zipper-vest",
-      "color": "white",
-      "art_score": 4,
-      "img": "assets/products/shop/3af7eef43b6b98422084.jpg"
-    },
-    {
-      "id": "interestprint-descarga-79-cross-back-sports-bra",
-      "name_es": "Sujetador Deportivo Cruzado Mandala · Teal",
-      "name_en": "Mandala Cross Back Sports Bra · Teal",
-      "price_usd": 26.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 105,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "descarga-79-cross-back-sports-bra",
-      "fam": "descarga-cross-back",
-      "cg": "t-descarga-cross-back-sports-bra",
-      "color": "Teal",
-      "art_score": 8,
-      "img": "assets/products/shop/0ba7127fc7ebf8ffabc9.jpg"
-    },
-    {
       "id": "interestprint-ivan21-backless-split-knotted-yoga-active-tank-tops",
       "name_es": "Top de Yoga Cruzado",
       "name_en": "Knotted Back Yoga Tank",
@@ -1146,146 +862,6 @@
       "color": "Purple",
       "art_score": 6,
       "img": "assets/products/shop/894ee6ec92593dab22ac.jpg"
-    },
-    {
-      "id": "interestprint-derfrf-cross-back-sports-bra",
-      "name_es": "Top Deportivo Violette Strappy",
-      "name_en": "Violette Strappy Sports Bra",
-      "price_usd": 26.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 117,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "derfrf-cross-back-sports-bra",
-      "fam": "violette-top-deportivo",
-      "cg": "t-dpf-violette-top-deportivo-de-cuadros-y-espalda-cruzada",
-      "color": "Purple / Black",
-      "art_score": 6,
-      "img": "assets/products/shop/e98a00122533dc0b1fa1.jpg"
-    },
-    {
-      "id": "interestprint-derfrf-cross-back-sports-bra-1",
-      "name_es": "Top Deportivo Onyx",
-      "name_en": "Onyx Sports Bra",
-      "price_usd": 26.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 118,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "derfrf-cross-back-sports-bra-1",
-      "fam": "onyx-top-deportivo",
-      "cg": "t-dpf-onyx-top-deportivo-de-espalda-cruzada",
-      "color": "Black",
-      "art_score": 8,
-      "img": "assets/products/shop/9e577a2edee3298b44a4.jpg"
-    },
-    {
-      "id": "interestprint-derfrf-cross-back-sports-bra-2",
-      "name_es": "Top Deportivo Sélène",
-      "name_en": "Sélène Sports Top",
-      "price_usd": 26.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 119,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "derfrf-cross-back-sports-bra-2",
-      "fam": "sel-ne-top",
-      "cg": "t-dpf-sel-ne-top-deportivo-de-espalda-cruzada",
-      "color": "Negro",
-      "art_score": 8,
-      "img": "assets/products/shop/b701af24eed80bd398e6.jpg"
-    },
-    {
-      "id": "interestprint-derfrfjj-cross-back-sports-bra",
-      "name_es": "Top Deportivo Améthyste Espalda Cruzada",
-      "name_en": "Améthyste Crossback Sports Bra",
-      "price_usd": 26.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 120,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "derfrfjj-cross-back-sports-bra",
-      "fam": "amethyste-top-deportivo",
-      "cg": "t-dpf-amethyste-top-deportivo-de-espalda-cruzada",
-      "color": "purple",
-      "art_score": 8,
-      "img": "assets/products/shop/950259c02138d3e5d32e.jpg"
-    },
-    {
-      "id": "interestprint-descarga-85-cross-back-sports-bra",
-      "name_es": "Sujetador Deportivo Cruzado Mandala · Teal",
-      "name_en": "Mandala Cross Back Sports Bra · Teal",
-      "price_usd": 26.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 121,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "descarga-85-cross-back-sports-bra",
-      "fam": "descarga-cross-back",
-      "cg": "t-descarga-cross-back-sports-bra",
-      "color": "Teal",
-      "art_score": 6,
-      "img": "assets/products/shop/94ced5d0b894f0b45af2.jpg"
-    },
-    {
-      "id": "interestprint-aesthetic-icon-knotted-back-cutout-sports-bra",
-      "name_es": "Top Deportivo Astrale de Estrellas",
-      "name_en": "Astrale Star Sports Bra",
-      "price_usd": 26.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 127,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "aesthetic-icon-knotted-back-cutout-sports-bra",
-      "fam": "astrale-top-deportivo",
-      "cg": "t-dpf-astrale-top-deportivo-de-estrellas-y-espalda-anudada",
-      "color": "Blanco y negro",
-      "art_score": 9,
-      "img": "assets/products/shop/c2bfa6aa71ba4d0b61c5.jpg"
-    },
-    {
-      "id": "interestprint-geometric-in-blush-and-rose-gold-canvas-print-for-sale-by-urbanepiphany-knotted-back-cutout-sports-bra",
-      "name_es": "Top Deportivo Geométrico Roséa",
-      "name_en": "Roséa Geometric Sports Bra",
-      "price_usd": 26.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 128,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "_geometric-in-blush-and-rose-gold_-canvas-print-for-sale-by-urbanepiphany-knotted-back-cutout-sports-bra",
-      "fam": "rosea-top-deportivo",
-      "cg": "t-dpf-rosea-top-deportivo-geometrico-de-espalda-anudada",
-      "color": "white, soft pink, black, gold tone",
-      "art_score": 8,
-      "img": "assets/products/shop/e6ef2f199a4efa5ee03e.jpg"
     },
     {
       "id": "interestprint-top-dpf",
@@ -1366,46 +942,6 @@
       "color": "Black",
       "art_score": 5,
       "img": "https://images.printify.com/mockup/6b09087c1d99e97edf0dc88a/103934/195136/dpf-essential-mens-joggers.jpg?camera_label=front"
-    },
-    {
-      "id": "interestprint-0-black-and-grey-feathers-pattern-lilipinso-cross-back-string-sports-bra-high-waist-shorts-active-sets",
-      "name_es": "Conjunto Deportivo Plumas",
-      "name_en": "Feather Active Set",
-      "price_usd": 28.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 197,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "0-black-and-grey-feathers-pattern-lilipinso-cross-back-string-sports-bra-high-waist-shorts-active-sets",
-      "fam": "feathers-pattern-lilipinso",
-      "cg": "t-and-feathers-pattern-lilipinso-cross-back-string-sports-bra-high-waist-shorts",
-      "color": "Black and Grey",
-      "art_score": 3,
-      "img": "assets/products/shop/de7ff50fab020c101d90.jpg"
-    },
-    {
-      "id": "interestprint-action-painting-i-mila-blau-womens-all-over-print-sports-bra-model-t52",
-      "name_es": "Sujetador Deportivo Mila Blau",
-      "name_en": "Mila Blau Sports Bra",
-      "price_usd": 28.99,
-      "badge": "new",
-      "categories": [
-        "mujer/ropa-interior"
-      ],
-      "available": true,
-      "rank": 198,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "action-painting-i-mila-blau-womens-all-over-print-sports-bra-model-t52",
-      "fam": "action-painting-i",
-      "cg": "t-action-painting-i-mila-blau-women-s-all-over-print-sports-bra",
-      "color": "Black and White",
-      "art_score": 4,
-      "img": "assets/products/shop/7218c1154c17a1fda892.jpg"
     },
     {
       "id": "interestprint-immortal-warrior-short-1-mens-all-over-print-baggy-shorts-model-l37",
@@ -1892,26 +1428,6 @@
       "img": "assets/products/shop/3bd53c1f016debd5ed7c.jpg"
     },
     {
-      "id": "interestprint-descarga-4-cross-back-pocket-sport-dress-1",
-      "name_es": "Vestido deportivo cruzado con bolsillo · Blanco",
-      "name_en": "Cross back pocket sport dress · White",
-      "price_usd": 35.99,
-      "badge": "new",
-      "categories": [
-        "mujer/vestidos-monos-petos"
-      ],
-      "available": true,
-      "rank": 261,
-      "created": "2026-11-25",
-      "page": true,
-      "supplier_id": "descarga-4-cross-back-pocket-sport-dress-1",
-      "fam": "descarga-cross-back",
-      "cg": "t-descarga-cross-back-pocket-sport-dress",
-      "color": "white",
-      "art_score": 4,
-      "img": "assets/products/shop/bd22b703cc431b9f0cfc.jpg"
-    },
-    {
       "id": "interestprint-descarga-43-all-over-print-high-waist-leggings-with-pockets-modell56",
       "name_es": "Leggings de Competición Tough Gold",
       "name_en": "Tough Gold Performance Leggings",
@@ -2317,27 +1833,6 @@
       "img": "https://images.printify.com/mockup/6b08e9feedc552ae3508c0cb/33869/137313/dpf-emblem-built-different-womens-tee.jpg?camera_label=left-sleeve"
     },
     {
-      "id": "printify-6b089b3b155f8bb8d10801be",
-      "name_es": "Camiseta sin mangas Immortal Warrior",
-      "name_en": "Immortal Warrior Tank Top",
-      "price_usd": 33.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta",
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 306,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089b3b155f8bb8d10801be",
-      "fam": "immortal-warrior-no",
-      "cg": "printify-6b089b3b155f8bb8d10801be",
-      "color": "Black",
-      "art_score": 4,
-      "img": "https://images.printify.com/mockup/6b089b3b155f8bb8d10801be/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front"
-    },
-    {
       "id": "printify-6b089b42c9d405a5820236ee",
       "name_es": "Camiseta de tirantes Queen of Iron",
       "name_en": "Queen of Iron Tank",
@@ -2397,48 +1892,6 @@
       "color": "Black",
       "art_score": 6,
       "img": "https://images.printify.com/mockup/6b0892436a219864bc0f11dd/24639/101889/immortal-warrior-classic-tank-top.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b0892576d0e8a542403d39d",
-      "name_es": "Camiseta sin mangas Immortal Warrior",
-      "name_en": "Immortal Warrior Tank Top",
-      "price_usd": 40.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta",
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 310,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b0892576d0e8a542403d39d",
-      "fam": "immortal-warrior-tank",
-      "cg": "printify-6b0892576d0e8a542403d39d",
-      "color": "Black",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b0892576d0e8a542403d39d/24639/101889/immortal-warrior-gold-tank-top.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b0899f96bfabea2f3021a8e",
-      "name_es": "Camiseta sin mangas Immortal Warrior",
-      "name_en": "Immortal Warrior Tank Top",
-      "price_usd": 40.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta",
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 311,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b0899f96bfabea2f3021a8e",
-      "fam": "immortal-warrior-no",
-      "cg": "printify-6b0899f96bfabea2f3021a8e",
-      "color": "Black",
-      "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b0899f96bfabea2f3021a8e/24639/101889/immortal-warrior-no-days-off-tank-top.jpg?camera_label=front"
     },
     {
       "id": "printify-6b0894ffedc552ae350870fd",
@@ -2709,27 +2162,6 @@
       "img": "https://images.printify.com/mockup/6b0899f655d595d88e0a00d7/12124/102005/immortal-warrior-no-days-off-tee.jpg?camera_label=front-2"
     },
     {
-      "id": "printify-6b089b3e155f8bb8d10801c1",
-      "name_es": "Sudadera Immortal Warrior No Days Off",
-      "name_en": "Immortal Warrior No Days Off Hoodie",
-      "price_usd": 46.99,
-      "badge": "new",
-      "categories": [
-        "hombre/chandal-sudaderas",
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 325,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089b3e155f8bb8d10801c1",
-      "fam": "immortal-warrior-no",
-      "cg": "printify-6b089b3e155f8bb8d10801c1",
-      "color": "Black",
-      "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b089b3e155f8bb8d10801c1/32920/98424/immortal-warrior-no-days-off-hoodie.jpg?camera_label=front"
-    },
-    {
       "id": "printify-6b089526d4c50971c20329b9",
       "name_es": "Camiseta Blanca Tough Bitch",
       "name_en": "Tough Bitch White Tee",
@@ -2748,26 +2180,6 @@
       "color": "White",
       "art_score": 5,
       "img": "https://images.printify.com/mockup/6b089526d4c50971c20329b9/33867/137313/tough-bitch-white-edition-womens-white-tee.jpg?camera_label=left-sleeve"
-    },
-    {
-      "id": "printify-6b089b47867aed6ed008c5e1",
-      "name_es": "Sudadera corta Queen of Iron",
-      "name_en": "Queen of Iron Cropped Hoodie",
-      "price_usd": 61.99,
-      "badge": "new",
-      "categories": [
-        "mujer/chaqueta-sudadera-sueter"
-      ],
-      "available": true,
-      "rank": 327,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089b47867aed6ed008c5e1",
-      "fam": "tough-bitch-queen",
-      "cg": "printify-6b089b47867aed6ed008c5e1",
-      "color": "Black",
-      "art_score": 5,
-      "img": "https://images.printify.com/mockup/6b089b47867aed6ed008c5e1/72716/16566/tough-bitch-queen-of-iron-cropped-hoodie.jpg?camera_label=front"
     },
     {
       "id": "printify-6b0892336a219864bc0f11ce",
@@ -2873,27 +2285,6 @@
       "color": "Black",
       "art_score": 5,
       "img": "https://images.printify.com/mockup/6b0899fc6bfabea2f3021a91/32920/98424/immortal-warrior-no-days-off-hoodie.jpg?camera_label=front"
-    },
-    {
-      "id": "printify-6b089b38c9d405a5820236ea",
-      "name_es": "Camiseta Immortal Warrior No Days Off",
-      "name_en": "Immortal Warrior No Days Off Tee",
-      "price_usd": 28.99,
-      "badge": "new",
-      "categories": [
-        "hombre/camiseta",
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 333,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089b38c9d405a5820236ea",
-      "fam": "immortal-warrior-no",
-      "cg": "printify-6b089b38c9d405a5820236ea",
-      "color": "Black",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b089b38c9d405a5820236ea/12124/102005/immortal-warrior-no-days-off-tee.jpg?camera_label=front-2"
     },
     {
       "id": "printify-6b0894f655d595d88e09fb97",
@@ -3035,26 +2426,6 @@
       "color": "Black",
       "art_score": 6,
       "img": "https://images.printify.com/mockup/6b089a056a219864bc0f18e4/33869/137313/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=left-sleeve"
-    },
-    {
-      "id": "printify-6b089b44c9d405a5820236f1",
-      "name_es": "Camiseta Queen Of Iron",
-      "name_en": "Queen Of Iron Tee",
-      "price_usd": 46.99,
-      "badge": "new",
-      "categories": [
-        "mujer/camisetas-blusas-tops"
-      ],
-      "available": true,
-      "rank": 341,
-      "created": "2026-11-26",
-      "page": true,
-      "supplier_id": "6b089b44c9d405a5820236f1",
-      "fam": "tough-bitch-queen",
-      "cg": "printify-6b089b44c9d405a5820236f1",
-      "color": "Black",
-      "art_score": 6,
-      "img": "https://images.printify.com/mockup/6b089b44c9d405a5820236f1/33869/137313/tough-bitch-queen-of-iron-womens-tee.jpg?camera_label=left-sleeve"
     },
     {
       "id": "productifi-advanced-whey-protein-chocolate",
