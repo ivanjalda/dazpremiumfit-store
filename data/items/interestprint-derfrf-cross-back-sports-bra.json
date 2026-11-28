@@ -1,0 +1,130 @@
+{
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Purple / Black",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "80% polyester, 20% elastane",
+ "ai_type": "sports bra",
+ "ai_ver": 2,
+ "art_note": "Clean urban lifestyle presentation, though the pattern application reveals a digital composite mockup.",
+ "art_score": 6,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/ropa-interior"
+ ],
+ "cg": "t-dpf-violette-top-deportivo-de-cuadros-y-espalda-cruzada",
+ "color": "Purple / Black",
+ "created": "2026-11-25",
+ "desc_en": "Graphic geometry meets technical discipline. The Violette sports bra redefines the athletic silhouette with a bold purple and black check motif. Engineered from a flexible, high-recovery fabric, it contours seamlessly to the torso. An open back detailed with intricate criss-cross straps offers balanced tension and unrestricted movement, anchored by a wide underbust band for absolute stability. Designed for intense training and clean transitions into everyday wear.",
+ "desc_es": "Geometría gráfica y disciplina técnica. El top deportivo Violette redefine la silueta de entrenamiento mediante un contraste rotundo de cuadros morados y negros. Su confección elástica se adapta al contorno con precisión milimétrica, mientras la espalda abierta revela una compleja red de tirantes entrecruzados que garantiza soporte sin comprometer la libertad de movimiento. La banda inferior ancha aporta estructura y estabilidad constante. Una pieza equilibrada para sesiones de alto impacto y transiciones urbanas.",
+ "details_en": "· Composition: 80% polyester, 20% elastane.\n· Scoop neckline with wide supportive underbust band.\n· Open back featuring multi-strap criss-cross construction.\n· Checkered graphic print with front logo and back typography accents.\n· Care: Machine or hand wash at maximum 45°C. Do not bleach. Avoid prolonged soaking.\n· Made in USA to order. Worldwide shipping available.",
+ "details_es": "· Composición: 80% poliéster, 20% elastano.\n· Escote redondo y banda inferior ancha de sujeción.\n· Espalda descubierta con diseño de tirantes múltiples entrecruzados.\n· Estampado gráfico a cuadros con logotipo frontal y detalle tipográfico en banda trasera.\n· Cuidados: Lavar a mano o a máquina a máximo 45 °C. No utilizar lejía ni dejar en remojo prolongado.\n· Fabricado en Estados Unidos bajo pedido. Envío internacional disponible.",
+ "display_images": [
+  "assets/products/shop/e98a00122533dc0b1fa1.jpg",
+  "assets/products/shop/199ff324cdafdf8659d6.jpg"
+ ],
+ "draft": false,
+ "fam": "violette-top-deportivo",
+ "gender": "women",
+ "hidden": false,
+ "id": "interestprint-derfrf-cross-back-sports-bra",
+ "img_checked": "2026-11-25",
+ "look": [
+  "printify-6b0a430ecefbb1b2e907a6f6",
+  "printify-6b0a4313cefbb1b2e907a6fb",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
+ ],
+ "material": "80% polyester, 20% elastane",
+ "name_en": "Violette Strappy Sports Bra",
+ "name_es": "Top Deportivo Violette Strappy",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 117,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "Ropa y accesorios > Prendas de vestir > Ropa deportiva > Sujetadores deportivos",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Length (A)",
+   "Chest (B)"
+  ],
+  "headers_es": [
+   "Talla",
+   "Largo (A)",
+   "Pecho (B)"
+  ],
+  "notes_en": "Measurements may vary by 2–3 cm due to manual measuring and manufacturing tolerances.",
+  "notes_es": "Las medidas pueden presentar variaciones de 2–3 cm por tolerancias de confección.",
+  "rows": [
+   [
+    "S",
+    "15.20",
+    "30.00"
+   ],
+   [
+    "M",
+    "15.50",
+    "31.50"
+   ],
+   [
+    "L",
+    "15.70",
+    "33.50"
+   ],
+   [
+    "XL",
+    "16.00",
+    "35.50"
+   ],
+   [
+    "2XL",
+    "16.20",
+    "37.50"
+   ],
+   [
+    "3XL",
+    "16.60",
+    "39.50"
+   ],
+   [
+    "4XL",
+    "17.00",
+    "41.50"
+   ],
+   [
+    "5XL",
+    "17.40",
+    "43.50"
+   ]
+  ],
+  "unit": "inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/5212/info/image/20260126/D692082BF2B0D0EFE207F9979EFB7289.png"
+ ],
+ "sizes": [
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "DPF Violette | Top deportivo de cuadros y espalda cruzada",
+ "stripe_payment_link": "https://buy.stripe.com/dRmdRaevyfX6bmKdKS1gW2q",
+ "supplier": "InterestPrint",
+ "supplier_id": "derfrf-cross-back-sports-bra",
+ "visual_verified": true
+}

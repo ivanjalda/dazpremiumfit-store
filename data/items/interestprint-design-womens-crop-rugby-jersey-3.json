@@ -1,0 +1,161 @@
+{
+ "ai_cats": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "ai_color": "white",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "High-quality polyester",
+ "ai_type": "Crop Rugby Jersey",
+ "ai_ver": 2,
+ "art_note": "The model photography uses flat digital composites for the apparel print, lowering the brand aesthetic.",
+ "art_score": 4,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/camisetas-blusas-tops"
+ ],
+ "cg": "t-design-women-s-crop-rugby-jersey",
+ "color": "white",
+ "created": "2026-11-25",
+ "desc_en": "This crop rugby jersey combines athletic performance with clean lines. Crafted from a soft and lightweight fabric. Designed with a V-neck and short sleeves. A versatile piece for training or everyday wear. Each piece is made to order with worldwide shipping.",
+ "desc_es": "Esta camiseta crop de rugby combina un diseño deportivo con líneas depuradas. Confeccionada en un tejido ligero y suave al tacto. Presenta un cuello en V y mangas cortas. Una prenda versátil para el entrenamiento o el uso diario. Cada pieza se confecciona bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Crafted from high-quality polyester\n· Crop design with V-neck\n· Short sleeves\n· Hand or machine wash up to 45ºC\n· Made to order with worldwide shipping",
+ "details_es": "· Confeccionado en poliéster de alta calidad\n· Diseño crop con cuello en V\n· Mangas cortas\n· Lavar a mano o a máquina a un máximo de 45ºC\n· Hecho bajo pedido con envíos a todo el mundo",
+ "display_images": [
+  "assets/products/shop/c904add6ed519abe3625.jpg",
+  "assets/products/shop/aa9dc743d96a8af7e9c2.jpg",
+  "assets/products/shop/a68dbff55472b1921ccf.jpg",
+  "assets/products/shop/d917b1023841a60baa1d.jpg"
+ ],
+ "draft": true,
+ "fam": "women-s-crop",
+ "gender": "women",
+ "hidden": false,
+ "id": "interestprint-design-womens-crop-rugby-jersey-3",
+ "img_checked": "2026-11-25",
+ "look": [
+  "printify-6b0a4313cefbb1b2e907a6fb",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt",
+  "interestprint-descarga-31-racerback-sports-bra"
+ ],
+ "material": "High-quality polyester",
+ "name_en": "Crop Rugby Jersey · White",
+ "name_es": "Camiseta Crop de Rugby · Blanco",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 20.99,
+ "rank": 15,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "Size",
+   "Bust",
+   "Length",
+   "Sleeve",
+   "Shoulder"
+  ],
+  "headers_es": [
+   "Talla",
+   "Busto",
+   "Largo",
+   "Manga",
+   "Hombro"
+  ],
+  "notes_en": "Manual measurement may exist 1-2cm difference. Please check and compare the size carefully before buying.",
+  "notes_es": "La medición manual puede presentar una diferencia de 1-2 cm. Por favor revise y compare la talla cuidadosamente antes de comprar.",
+  "rows": [
+   [
+    "XS",
+    "89cm / 35.04in",
+    "45.3cm / 17.83in",
+    "27cm / 10.63in",
+    "38cm / 14.96in"
+   ],
+   [
+    "S",
+    "95cm / 37.4in",
+    "46.6cm / 18.35in",
+    "28cm / 11.02in",
+    "40cm / 15.75in"
+   ],
+   [
+    "M",
+    "101cm / 39.76in",
+    "48cm / 18.9in",
+    "29cm / 11.42in",
+    "42cm / 16.54in"
+   ],
+   [
+    "L",
+    "107cm / 42.13in",
+    "49.3cm / 19.41in",
+    "30cm / 11.81in",
+    "44cm / 17.32in"
+   ],
+   [
+    "XL",
+    "114cm / 44.88in",
+    "50.6cm / 19.92in",
+    "31cm / 12.2in",
+    "46cm / 18.11in"
+   ],
+   [
+    "2XL",
+    "121cm / 47.64in",
+    "51.9cm / 20.43in",
+    "32cm / 12.6in",
+    "48cm / 18.9in"
+   ],
+   [
+    "3XL",
+    "128cm / 50.39in",
+    "53.2cm / 20.97in",
+    "33cm / 12.99in",
+    "50cm / 19.69in"
+   ],
+   [
+    "4XL",
+    "135cm / 53.15in",
+    "54.5cm / 21.46in",
+    "34cm / 13.39in",
+    "52cm / 20.47in"
+   ],
+   [
+    "5XL",
+    "142cm / 55.91in",
+    "55.8cm / 21.97in",
+    "35cm / 13.78in",
+    "54cm / 21.26in"
+   ]
+  ],
+  "unit": "cm / in"
+ },
+ "size_guide": [
+  "assets/products/shop/4266d9cf1e658616238f.jpg",
+  "http://ipimg.interestprint.com/data/product/5326/info/image/20260307/5B63F2CED7F49390778F23F692BEDAC2.jpg"
+ ],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "Design Women's Crop Rugby Jersey",
+ "stripe_payment_link": "https://buy.stripe.com/fZu4gAgDG26g1MafT01gX0E",
+ "supplier": "InterestPrint",
+ "supplier_id": "design-womens-crop-rugby-jersey-3",
+ "visual_verified": true
+}

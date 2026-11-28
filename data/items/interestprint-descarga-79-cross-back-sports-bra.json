@@ -1,0 +1,139 @@
+{
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Teal",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "90% Polyester, 10% Spandex",
+ "ai_type": "Sports Bra",
+ "ai_ver": 2,
+ "art_note": "High quality studio campaign shots with natural lighting and professional styling.",
+ "art_score": 8,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/ropa-interior"
+ ],
+ "cg": "t-descarga-cross-back-sports-bra",
+ "color": "Teal",
+ "created": "2026-11-25",
+ "desc_en": "Designed for movement and elegance. This sports bra combines advanced technical support with a sophisticated aesthetic. The criss-cross back straps ensure absolute freedom of movement during your workout. Crafted from a soft, breathable fabric that conforms seamlessly to the body. Made to order with worldwide shipping.",
+ "desc_es": "Diseñado para el movimiento y la elegancia. Este sujetador deportivo combina un soporte técnico avanzado con una estética sofisticada. Las tiras cruzadas en la espalda aseguran una libertad absoluta de movimiento durante el entrenamiento. Confeccionado en un tejido suave y transpirable que se adapta perfectamente al cuerpo. Disponible bajo pedido con envío a todo el mundo.",
+ "details_en": "· Composition: 90% polyester, 10% spandex\n· Criss-cross back design\n· V-neckline\n· Hand or machine wash at temperatures <=45ºC\n· Do not bleach\n· Avoid prolonged soaking\n· Made to order\n· Worldwide shipping",
+ "details_es": "· Composición: 90% poliéster, 10% elastano\n· Diseño de espalda cruzada\n· Cuello en V\n· Lavado a mano o a máquina a temperatura inferior o igual a 45ºC\n· No usar lejía\n· Evitar remojo prolongado\n· Hecho bajo pedido\n· Envío a todo el mundo",
+ "display_images": [
+  "assets/products/shop/0ba7127fc7ebf8ffabc9.jpg",
+  "assets/products/shop/3f7d61e2a33721642707.jpg",
+  "assets/products/shop/0c96c7fda9f0d74e13a7.jpg",
+  "assets/products/shop/73cb92c052033529645d.jpg",
+  "assets/products/shop/af17794a2ed0b3c69cd8.jpg"
+ ],
+ "draft": true,
+ "fam": "descarga-cross-back",
+ "gender": "women",
+ "hidden": false,
+ "id": "interestprint-descarga-79-cross-back-sports-bra",
+ "img_checked": "2026-11-25",
+ "look": [
+  "printify-6b0a430ecefbb1b2e907a6f6",
+  "printify-6b0a4313cefbb1b2e907a6fb",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
+ ],
+ "material": "90% Polyester, 10% Spandex",
+ "name_en": "Mandala Cross Back Sports Bra · Teal",
+ "name_es": "Sujetador Deportivo Cruzado Mandala · Teal",
+ "needs_review": false,
+ "needs_studio": false,
+ "page": false,
+ "price_usd": 26.99,
+ "rank": 105,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST WIDTH(B)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A)",
+   "ANCHO DE PECHO(B)"
+  ],
+  "notes_en": "Calculate your size from the measurement chart above.",
+  "notes_es": "Calcule su talla a partir de la tabla de medidas anterior.",
+  "rows": [
+   [
+    "XS",
+    "12.50",
+    "28.50"
+   ],
+   [
+    "S",
+    "12.70",
+    "30.00"
+   ],
+   [
+    "M",
+    "13.00",
+    "31.50"
+   ],
+   [
+    "L",
+    "13.20",
+    "33.50"
+   ],
+   [
+    "XL",
+    "13.50",
+    "35.50"
+   ],
+   [
+    "2XL",
+    "13.70",
+    "37.50"
+   ],
+   [
+    "3XL",
+    "14.00",
+    "39.50"
+   ],
+   [
+    "4XL",
+    "14.20",
+    "41.50"
+   ],
+   [
+    "5XL",
+    "14.50",
+    "43.50"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/5167/info/image/20260115/2FBBA7945E7226FEC7F0E61C87AC6632.png"
+ ],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "descarga (79) Cross Back Sports Bra",
+ "stripe_payment_link": "https://buy.stripe.com/6oU9AU736dOYcqOeOW1gX16",
+ "supplier": "InterestPrint",
+ "supplier_id": "descarga-79-cross-back-sports-bra",
+ "visual_verified": true
+}

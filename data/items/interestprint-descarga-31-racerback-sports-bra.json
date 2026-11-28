@@ -1,0 +1,137 @@
+{
+ "ai_cats": [
+  "mujer/ropa-interior"
+ ],
+ "ai_color": "Multicolor",
+ "ai_copy": true,
+ "ai_done": true,
+ "ai_gender": "women",
+ "ai_material": "Polyester",
+ "ai_type": "Sports Bra",
+ "ai_ver": 2,
+ "art_note": "Clean studio presentation with functional model shots, though flat lays show standard digital mockups.",
+ "art_score": 6,
+ "audited": "2026-11-26",
+ "available": true,
+ "badge": "new",
+ "categories": [
+  "mujer/ropa-interior"
+ ],
+ "cg": "t-descarga-racerback-sports-bra",
+ "color": "Multicolor",
+ "created": "2026-11-25",
+ "desc_en": "Designed for fluid movement and moderate support. This sports bra combines structured compression with a seamless construction for absolute comfort during training. High-performance moisture-wicking fabric keeps the skin cool. An essential performance piece available made-to-order with worldwide shipping.",
+ "desc_es": "Diseñado para el movimiento fluido y la sujeción moderada. Este top deportivo combina compresión estructurada con un diseño sin costuras para un confort absoluto durante el entrenamiento. El tejido de alto rendimiento absorbe la humedad para mantener la piel fresca. Una pieza esencial de alto rendimiento disponible bajo pedido con envíos a todo el mundo.",
+ "details_en": "· Composition: Polyester\n· Moderate support\n· Wire-free and seamless construction\n· Breathable moisture-wicking fabric\n· Available made-to-order with worldwide shipping",
+ "details_es": "· Composición: Poliéster\n· Sujeción moderada\n· Diseño sin costuras y sin aros\n· Tejido transpirable de secado rápido\n· Disponible bajo pedido con envío mundial",
+ "display_images": [
+  "assets/products/shop/1dd26ae95740bac4b206.jpg",
+  "assets/products/shop/8a9a019114d9f84877c8.jpg",
+  "assets/products/shop/1160921014b21a6df7a1.jpg"
+ ],
+ "draft": true,
+ "fam": "descarga-racerback-sports",
+ "gender": "women",
+ "hidden": false,
+ "id": "interestprint-descarga-31-racerback-sports-bra",
+ "img_checked": "2026-11-25",
+ "look": [
+  "printify-6b0a430ecefbb1b2e907a6f6",
+  "printify-6b0a4313cefbb1b2e907a6fb",
+  "interestprint-design-custom-womens-high-waist-legging",
+  "interestprint-design-womens-high-waist-layered-sport-skirt"
+ ],
+ "material": "Polyester",
+ "name_en": "Abstract Print Sports Bra",
+ "name_es": "Top Deportivo Con Estampado Abstracto",
+ "needs_review": false,
+ "needs_studio": true,
+ "page": false,
+ "price_usd": 22.99,
+ "rank": 53,
+ "shipping_usd": 8.0,
+ "shipping_worst_usd": 12.8,
+ "shop_category": "",
+ "shop_verified": true,
+ "size_chart": {
+  "headers": [
+   "SIZE",
+   "LENGTH(A)",
+   "CHEST(B)"
+  ],
+  "headers_es": [
+   "TALLA",
+   "LONGITUD(A)",
+   "PECHO(B)"
+  ],
+  "notes_en": "Measurements are provided in inches.",
+  "notes_es": "Las medidas se proporcionan en pulgadas.",
+  "rows": [
+   [
+    "XS",
+    "13.00",
+    "28.50"
+   ],
+   [
+    "S",
+    "13.20",
+    "30.00"
+   ],
+   [
+    "M",
+    "13.50",
+    "31.50"
+   ],
+   [
+    "L",
+    "13.70",
+    "33.50"
+   ],
+   [
+    "XL",
+    "14.00",
+    "35.50"
+   ],
+   [
+    "2XL",
+    "14.20",
+    "37.50"
+   ],
+   [
+    "3XL",
+    "14.50",
+    "39.50"
+   ],
+   [
+    "4XL",
+    "14.70",
+    "41.50"
+   ],
+   [
+    "5XL",
+    "15.00",
+    "43.50"
+   ]
+  ],
+  "unit": "Inches"
+ },
+ "size_guide": [
+  "http://ipimg.interestprint.com/data/product/4424/info/image/20250618/428AF4592A5DCFF6D375465EB3E3816A.png"
+ ],
+ "sizes": [
+  "XS",
+  "S",
+  "M",
+  "L",
+  "XL",
+  "2XL",
+  "3XL",
+  "4XL",
+  "5XL"
+ ],
+ "source_title": "descarga (31) Racerback Sports Bra",
+ "stripe_payment_link": "https://buy.stripe.com/4gM4gA1IM26ggH47mu1gX0N",
+ "supplier": "InterestPrint",
+ "supplier_id": "descarga-31-racerback-sports-bra",
+ "visual_verified": true
+}
